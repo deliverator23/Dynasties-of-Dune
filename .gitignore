@@ -1,3 +1,7 @@
-/Logs/
-/Temp/
 /idea/
+/.idea/.gitignore
+/.idea/Dynasties-of-Dune.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml

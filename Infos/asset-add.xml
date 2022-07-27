@@ -3,4 +3,8 @@
 		<zType>ASSET_SPRITE_SHEET_DUNE_CHARACTER_PORTRAITS</zType>
 		<zAsset>dune-portrait-atlas/Dune/Sprites/dune-portrait-atlas</zAsset>
 	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_DUNE_CHARACTER_SELECT</zType>
+		<zAsset>dune-character-select/Dune/Sprites/dune-character-select</zAsset>
+	</Entry>
 </Root>

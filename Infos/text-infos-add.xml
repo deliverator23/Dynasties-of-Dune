@@ -1,0 +1,18 @@
+<Root>
+    <Entry>
+        <zType>TEXT_NATION_ATREIDES_STORY</zType>
+        <en-US>I am Duke Leto Atreides, head of House Atreides.</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_NATION_HARKONNEN_STORY</zType>
+        <en-US>I am Baron Vladimir Harkonnen, head of House Harkonnen.</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_NATION_CORRINO_STORY</zType>
+        <en-US>I am Duke Shaddam Corrino, head of House Corrino.</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_NATION_FREMEN_STORY</zType>
+        <en-US>I am Kynes - the Fremen know me as Liet.</en-US>
+    </Entry>
+</Root>

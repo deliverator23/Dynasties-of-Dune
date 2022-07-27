@@ -217,7 +217,7 @@
 			<zValue>CHARACTER_PORTRAIT_ROME_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_ROME_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_PERSIA_STORY</Story>
+		<Story>TEXT_NATION_HARKONNEN_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_ATREIDES</zType>
@@ -485,7 +485,7 @@
 			<zValue>CHARACTER_PORTRAIT_ROME_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_ROME_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_GREECE_STORY</Story>
+		<Story>TEXT_NATION_ATREIDES_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_CORRINO</zType>
@@ -733,7 +733,7 @@
 			<zValue>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_ROME_STORY</Story>
+		<Story>TEXT_NATION_CORRINO_STORY</Story>
 	</Entry>
 	<Entry>
 		<zType>NATION_FREMEN</zType>
@@ -927,6 +927,6 @@
 			<zValue>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_14</zValue>
 			<zValue>CHARACTER_PORTRAIT_BABYLONIA_LEADER_FEMALE_15</zValue>
 		</aeCharacterPortraits>
-		<Story>TEXT_NATION_ASSYRIA_STORY</Story>
+		<Story>TEXT_NATION_FREMEN_STORY</Story>
 	</Entry>
 </Root>

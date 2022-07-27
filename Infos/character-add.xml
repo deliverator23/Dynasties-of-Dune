@@ -21,7 +21,7 @@
 		<Title>TITLE_BARON</Title>
 		<PlayerDynasty>DYNASTY_HARKONNEN</PlayerDynasty>
 		<Father>CHARACTER_ABULURD_HARKONNEN</Father>
-		<CharacterSelectPortrait>CHARACTER_SELECT_ROMULUS</CharacterSelectPortrait>
+		<CharacterSelectPortrait>CHARACTER_SELECT_VLADIMIR</CharacterSelectPortrait>
 		<iAge>51</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -114,7 +114,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_JESSICA</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_JESSICA</PreferredPortrait>
-		<Title>TITLE_QUEEN</Title>
+		<Title>TITLE_LEADER</Title>
 		<PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
 		<iAge>37</iAge>
 		<aeTraits>
@@ -300,8 +300,9 @@
 		<PreferredPortrait>CHARACTER_PORTRAIT_KYNES</PreferredPortrait>
 		<Title>TITLE_LIET</Title>
 		<PlayerDynasty>DYNASTY_FREMEN</PlayerDynasty>
-		<Spouse>CHARACTER_FAROULA</Spouse>
 		<Father>CHARACTER_PARDOT</Father>
+		<Spouse>CHARACTER_FAROULA</Spouse>
+		<CharacterSelectPortrait>CHARACTER_SELECT_KYNES</CharacterSelectPortrait>
 		<iAge>35</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>

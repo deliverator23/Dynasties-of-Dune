@@ -145,6 +145,7 @@
 		<Name>TEXT_TERRAIN_SAND</Name>
 		<zIconName>TERRAIN_SAND</zIconName>
 		<iMovementCost>18</iMovementCost>
+		<bWater>1</bWater>
 		<bNoVegetation>1</bNoVegetation>
 		<DefaultHeight>HEIGHT_FLAT</DefaultHeight>
 		<aeHeightAsset>
