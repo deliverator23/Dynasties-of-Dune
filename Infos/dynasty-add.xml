@@ -1,0 +1,26 @@
+<Root>
+	<Entry>
+		<zType>DYNASTY_HARKONNEN</zType>
+		<Nation>NATION_HARKONNEN</Nation>
+		<Founder>CHARACTER_ABULURD_HARKONNEN</Founder>
+		<FirstRuler>CHARACTER_VLADIMIR_HARKONNEN</FirstRuler>
+	</Entry>
+	<Entry>
+		<zType>DYNASTY_ATREIDES</zType>
+		<Nation>NATION_ATREIDES</Nation>
+		<Founder>CHARACTER_OLD_DUKE</Founder>
+		<FirstRuler>CHARACTER_LETO</FirstRuler>
+	</Entry>
+	<Entry>
+		<zType>DYNASTY_CORRINO</zType>
+		<Nation>NATION_CORRINO</Nation>
+		<Founder>CHARACTER_ELROOD</Founder>
+		<FirstRuler>CHARACTER_SHADDAM</FirstRuler>
+	</Entry>
+	<Entry>
+		<zType>DYNASTY_FREMEN</zType>
+		<Nation>NATION_FREMEN</Nation>
+		<Founder>CHARACTER_PARDOT</Founder>
+		<FirstRuler>CHARACTER_KYNES</FirstRuler>
+	</Entry>
+</Root>

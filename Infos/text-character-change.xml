@@ -1,0 +1,34 @@
+<Root>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_KING</zType>
+		<en-US>Duke</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_QUEEN</zType>
+		<en-US>Lady</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_OLIGARCH</zType>
+		<en-US>Count</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_OLIGARCH_F</zType>
+		<en-US>Countess</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_HEIR</zType>
+		<en-US>Lord</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_HEIR_F</zType>
+		<en-US>Lady</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_SUCCESSOR</zType>
+		<en-US>Lord</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_SUCCESSOR_F</zType>
+		<en-US>Lady</en-US>
+	</Entry>	
+</Root>

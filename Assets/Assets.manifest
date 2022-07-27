@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4036122822
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dune-portrait-atlas
+      Dependencies: {}

@@ -1,0 +1,8 @@
+<Root>
+	<Entry>
+			<zType>SPRITE_GROUP_CHARACTER_PORTRAITS</zType>
+			<aeSpriteSheets>                 
+					<zValue>ASSET_SPRITE_SHEET_DUNE_CHARACTER_PORTRAITS</zValue>
+			</aeSpriteSheets>
+	</Entry>
+</Root>

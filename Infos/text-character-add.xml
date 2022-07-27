@@ -1,0 +1,18 @@
+<Root>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_BARON</zType>
+		<en-US>Baron</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_COUNT</zType>
+		<en-US>Count</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_NA_BARON</zType>
+		<en-US>na-Baron</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_LIET</zType>
+		<en-US>Liet</en-US>
+	</Entry>
+</Root>

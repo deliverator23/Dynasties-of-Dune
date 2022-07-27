@@ -1,0 +1,34 @@
+<Root>
+	<Entry>
+		<zType>TEXT_NATION_HARKONNEN</zType>
+		<en-US>House Harkonnen~Harkonnen~a Harkonnen~Harkonnens</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_HARKONNEN_F</zType>
+		<en-US>House Harkonnen~Harkonnen~a Harkonnen~Harkonnens</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ATREIDES</zType>
+		<en-US>House Atreides~Atreides~an Atreides~Atreides</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ATREIDES_F</zType>
+		<en-US>House Atreides~Atreides~an Atreides~Atreides</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CORRINO</zType>
+		<en-US>House Corrino~Corrino~a Corrino~Corrinos</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CORRINO_F</zType>
+		<en-US>House Corrino~Corrino~a Corrino~Corrinos</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_FREMEN</zType>
+		<en-US>Fremen~Fremen~a Fremen~Fremen</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_FREMEN_F</zType>
+		<en-US>Fremen~Fremen~a Fremen~Fremen</en-US>
+	</Entry>
+</Root>
