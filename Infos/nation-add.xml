@@ -11,7 +11,7 @@
 		<TeamColor>TEAMCOLOR_NATION_PERSIA</TeamColor>
 		<Crest>CREST_NATION_PERSIA</Crest>
 		<zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
-		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_CARTHAGE</zCharacterPortraitBackground>
+		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_RED</zCharacterPortraitBackground>
 		<CapitalAsset>ASSET_VARIATION_CITY_PERSIA_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_PERSIA_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_PERSIA_URBAN</UrbanAsset>
@@ -231,7 +231,7 @@
 		<TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
 		<Crest>CREST_NATION_GREECE</Crest>
 		<zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
-		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_GREECE</zCharacterPortraitBackground>
+		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_GREEN</zCharacterPortraitBackground>
 		<CapitalAsset>ASSET_VARIATION_CITY_GREECE_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_GREECE_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_GREECE_URBAN</UrbanAsset>
@@ -499,7 +499,7 @@
 		<TeamColor>TEAMCOLOR_NATION_ROME</TeamColor>
 		<Crest>CREST_NATION_ROME</Crest>
 		<zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
-		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_ROME</zCharacterPortraitBackground>
+		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_PURPLE</zCharacterPortraitBackground>
 		<CapitalAsset>ASSET_VARIATION_CITY_ROME_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_ROME_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_ROME_URBAN</UrbanAsset>
@@ -747,7 +747,7 @@
 		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<Crest>CREST_NATION_ASSYRIA</Crest>
 		<zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
-		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_ASSYRIA</zCharacterPortraitBackground>
+		<zCharacterPortraitBackground>PORTRAIT_BACKGROUND_BROWN</zCharacterPortraitBackground>
 		<CapitalAsset>ASSET_VARIATION_CITY_ASSYRIA_CAPITAL</CapitalAsset>
 		<CityAsset>ASSET_VARIATION_CITY_ASSYRIA_CAPITAL</CityAsset>
 		<UrbanAsset>ASSET_VARIATION_ASSYRIA_URBAN</UrbanAsset>
