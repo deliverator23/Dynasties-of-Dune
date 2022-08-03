@@ -1,0 +1,30 @@
+<Root>
+    <Entry>
+        <zType>VEGETATION_SPICE</zType>
+        <Name>TEXT_VEGETATION_SPICE</Name>
+        <NameRemove>TEXT_VEGETATION_SPICE_REMOVE</NameRemove>
+        <AssetVariation>ASSET_VARIATION_VEGETATION_SPICE</AssetVariation>
+        <zIconName>RESOURCE_INCENSE</zIconName>
+        <zRemoveIcon>REMOVE_TREES</zRemoveIcon>
+        <zRemovalAudio>AUDIO_UNIT_WORKER_REMOVES_VEGETATION_TREES</zRemovalAudio>
+        <iMovementCost>9</iMovementCost>
+        <iRemoveCost>1</iRemoveCost>
+        <iRemoveStat>2</iRemoveStat>
+        <iBuildCost>2</iBuildCost>
+        <iSpreadRoll>5000</iSpreadRoll>
+        <iBorderValue>200</iBorderValue>
+        <iRevealChange>1</iRevealChange>
+        <aiYieldRemove>
+            <Pair>
+                <zIndex>YIELD_WOOD</zIndex>
+                <iValue>20</iValue>
+            </Pair>
+        </aiYieldRemove>
+        <aiYieldBuild>
+            <Pair>
+                <zIndex>YIELD_WOOD</zIndex>
+                <iValue>40</iValue>
+            </Pair>
+        </aiYieldBuild>
+    </Entry>
+</Root>

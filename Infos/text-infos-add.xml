@@ -15,4 +15,34 @@
         <zType>TEXT_NATION_FREMEN_STORY</zType>
         <en-US>I am Kynes - the Fremen know me as Liet.</en-US>
     </Entry>
+    <!-- Vegetation -->
+    <Entry>
+        <zType>TEXT_VEGETATION_SPICE</zType>
+        <en-US>Spice</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_VEGETATION_SPICE_REMOVE</zType>
+        <en-US>Harvest Spice</en-US>
+    </Entry>
+    <!-- Terrain -->
+    <Entry>
+        <zType>TEXT_TERRAIN_LUSH</zType>
+        <en-US>Graben</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_TEMPERATE</zType>
+        <en-US>Rugged</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_ARID</zType>
+        <en-US>Rock</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_SAND</zType>
+        <en-US>Desert</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_TUNDRA</zType>
+        <en-US>Polar</en-US>
+    </Entry>
 </Root>

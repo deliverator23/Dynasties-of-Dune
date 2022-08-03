@@ -1,0 +1,7 @@
+<Root>
+	<Entry>
+		<zType>ASSET_VARIATION_VEGETATION_SPICE</zType>
+		<aiValidRotations>0</aiValidRotations>
+		<SingleAsset>ASSET_VEGETATION_SCRUB_CUT</SingleAsset>
+	</Entry>
+</Root>

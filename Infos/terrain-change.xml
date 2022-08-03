@@ -2,31 +2,6 @@
 <!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
 <Root>
 	<Entry>
-		<zType>TERRAIN_WATER</zType>
-		<Name>TEXT_TERRAIN_WATER</Name>
-		<zIconName>TERRAIN_WATER</zIconName>
-		<iMovementCost>9</iMovementCost>
-		<iBorderValue>-1</iBorderValue>
-		<bWater>1</bWater>
-		<bNoVegetation>1</bNoVegetation>
-		<DefaultHeight>HEIGHT_COAST</DefaultHeight>
-		<aeHeightAsset>
-			<Pair>
-				<zIndex>HEIGHT_COAST</zIndex>
-				<zValue>ASSET_VARIATION_TILE_SAND_FLAT</zValue>
-			</Pair>
-			<Pair>
-				<zIndex>HEIGHT_OCEAN</zIndex>
-				<zValue>ASSET_VARIATION_TILE_SAND_FLAT</zValue>
-			</Pair>
-			<Pair>
-				<zIndex>HEIGHT_LAKE</zIndex>
-				<zValue>ASSET_VARIATION_TILE_SAND_FLAT</zValue>
-			</Pair>
-		</aeHeightAsset>
-        <zAudioAmbienceSwitch>WATER</zAudioAmbienceSwitch>
-	</Entry>
-	<Entry>
 		<zType>TERRAIN_URBAN</zType>
 		<Name>TEXT_TERRAIN_URBAN</Name>
 		<zIconName>TERRAIN_URBAN</zIconName>

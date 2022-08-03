@@ -11,4 +11,10 @@
 					<zValue>ASSET_SPRITE_SHEET_DUNE_CHARACTER_SELECT</zValue>
 			</aeSpriteSheets>
 	</Entry>
+	<Entry>
+			<zType>SPRITE_GROUP_CHARACTER_PORTRAIT_BACKGROUNDS</zType>
+			<aeSpriteSheets>
+					<zValue>ASSET_SPRITE_SHEET_DUNE_CHARACTER_PORTRAIT_BACKGROUNDS</zValue>
+			</aeSpriteSheets>
+	</Entry>
 </Root>

@@ -88,6 +88,7 @@
 		<zType>CHARACTER_OLD_DUKE</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_OLD_DUKE</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_LETO</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
 		<iBirth>-25</iBirth>
 		<iAge>66</iAge>
@@ -103,6 +104,7 @@
 		<PreferredPortrait>CHARACTER_PORTRAIT_LETO</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
 		<Father>CHARACTER_OLD_DUKE</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_LETO</CharacterSelectPortrait>
 		<iAge>51</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -181,6 +183,7 @@
 		<PreferredPortrait>CHARACTER_PORTRAIT_SHADDAM</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<Father>CHARACTER_ELROOD</Father>
+		<CharacterSelectPortrait>CHARACTER_SELECT_SHADDAM</CharacterSelectPortrait>
 		<iAge>51</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>

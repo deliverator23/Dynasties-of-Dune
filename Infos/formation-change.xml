@@ -1,0 +1,20 @@
+<Root>
+    <Entry>
+        <zType>FORMATION_WORKER_WATER</zType>
+        <UnitAsset>ASSET_UNIT_WORKER_FEMALE</UnitAsset>
+        <bLand>0</bLand>
+        <bWater>1</bWater>
+        <lf3FrontRow>
+            <f3Value>0, 0, 0</f3Value>
+        </lf3FrontRow>
+    </Entry>
+    <Entry>
+        <zType>FORMATION_SCOUT_WATER</zType>
+        <UnitAsset>ASSET_UNIT_SCOUT_FEMALE</UnitAsset>
+        <bLand>0</bLand>
+        <bWater>1</bWater>
+        <lf3FrontRow>
+            <f3Value>0, 0, 0</f3Value>
+        </lf3FrontRow>
+    </Entry>
+</Root>

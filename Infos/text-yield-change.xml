@@ -1,0 +1,18 @@
+<Root>
+	<Entry>
+		<zType>TEXT_YIELD_FOOD</zType>
+		<en-US>Water~icon(YIELD_FOOD)Water</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_WOOD</zType>
+		<en-US>Spice~icon(YIELD_WOOD)Spice</en-US>
+	</Entry>
+    <Entry>
+		<zType>TEXT_YIELD_IRON</zType>
+		<en-US>Offworld Supplies~icon(YIELD_IRON)Offworld Supplies</en-US>
+	</Entry>
+    <Entry>
+		<zType>TEXT_YIELD_STONE</zType>
+		<en-US>Local Materials~icon(YIELD_STONE)Local Materials</en-US>
+	</Entry>
+</Root>

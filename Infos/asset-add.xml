@@ -7,4 +7,12 @@
 		<zType>ASSET_SPRITE_SHEET_DUNE_CHARACTER_SELECT</zType>
 		<zAsset>dune-character-select/Dune/Sprites/dune-character-select</zAsset>
 	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_DUNE_CHARACTER_PORTRAIT_BACKGROUNDS</zType>
+		<zAsset>dune-portrait-backgrounds/Dune/Sprites/dune-portrait-backgrounds</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_VEGETATION_SPICE</zType>
+		<zAsset>Prefabs/Resource/Gold_Deposit</zAsset>
+	</Entry>
 </Root>
