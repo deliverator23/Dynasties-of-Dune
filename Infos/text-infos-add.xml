@@ -1,4 +1,5 @@
 <Root>
+    <!-- Leader Stories -->
     <Entry>
         <zType>TEXT_NATION_ATREIDES_STORY</zType>
         <en-US>I am Duke Leto Atreides, head of House Atreides.</en-US>
@@ -23,26 +24,5 @@
     <Entry>
         <zType>TEXT_VEGETATION_SPICE_REMOVE</zType>
         <en-US>Harvest Spice</en-US>
-    </Entry>
-    <!-- Terrain -->
-    <Entry>
-        <zType>TEXT_TERRAIN_LUSH</zType>
-        <en-US>Graben</en-US>
-    </Entry>
-    <Entry>
-        <zType>TEXT_TERRAIN_TEMPERATE</zType>
-        <en-US>Rugged</en-US>
-    </Entry>
-    <Entry>
-        <zType>TEXT_TERRAIN_ARID</zType>
-        <en-US>Rock</en-US>
-    </Entry>
-    <Entry>
-        <zType>TEXT_TERRAIN_SAND</zType>
-        <en-US>Desert</en-US>
-    </Entry>
-    <Entry>
-        <zType>TEXT_TERRAIN_TUNDRA</zType>
-        <en-US>Polar</en-US>
     </Entry>
 </Root>

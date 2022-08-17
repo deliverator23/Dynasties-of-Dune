@@ -115,7 +115,7 @@
 		<zType>FAMILY_CORRINO</zType>
 		<Name>TEXT_FAMILY_CORRINO</Name>
 		<NameFemale>TEXT_FAMILY_CORRINO</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ROME</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
 		<iColorIndex>0</iColorIndex>
 		<FamilyClass>FAMILYCLASS_STATESMEN</FamilyClass>
 		<abNation>
@@ -129,7 +129,7 @@
 		<zType>FAMILY_FENRING</zType>
 		<Name>TEXT_FAMILY_FENRING</Name>
 		<NameFemale>TEXT_FAMILY_FENRING</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ROME</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
 		<iColorIndex>1</iColorIndex>
 		<FamilyClass>FAMILYCLASS_ARTISANS</FamilyClass>
 		<abNation>
@@ -143,7 +143,7 @@
 		<zType>FAMILY_MOHIAM</zType>
 		<Name>TEXT_FAMILY_MOHIAM</Name>
 		<NameFemale>TEXT_FAMILY_MOHIAM</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ROME</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
 		<iColorIndex>2</iColorIndex>
 		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
 		<abNation>
@@ -157,7 +157,7 @@
 		<zType>FAMILY_TYEKANIK</zType>
 		<Name>TEXT_FAMILY_TYEKANIK</Name>
 		<NameFemale>TEXT_FAMILY_TYEKANIK</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ROME</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
 		<iColorIndex>3</iColorIndex>
 		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
 		<abNation>

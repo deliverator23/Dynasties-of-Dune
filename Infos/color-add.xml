@@ -1,0 +1,38 @@
+<Root>
+    <Entry>
+        <zType>COLOR_NATION_CORRINO</zType>
+        <zName>Corrino</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#73007d</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_CORRINO_FAMILY_01</zType>
+        <zName>Corrino Family 1</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#ffd800</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_CORRINO_FAMILY_02</zType>
+        <zName>Corrino Family 2</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#db72e5</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_CORRINO_FAMILY_03</zType>
+        <zName>Corrino Family 3</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#56d8b8</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_CORRINO_FAMILY_04</zType>
+        <zName>Corrino Family 4</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#ff7874</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_CORRINO_FAMILY_NONE</zType>
+        <zName>Corrino Family None</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#aaaaaa</zHexValue>
+    </Entry>
+</Root>

@@ -1,0 +1,10 @@
+<Root>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDTRAP</zType>
+		<en-US>Windtrap~a Windtrap~Windtraps</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDTRAP_HINT</zType>
+		<en-US>Windtrap Hint</en-US>
+	</Entry>
+</Root>

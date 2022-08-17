@@ -2,6 +2,11 @@
 	<Entry>
 		<zType>ASSET_VARIATION_VEGETATION_SPICE</zType>
 		<aiValidRotations>0</aiValidRotations>
-		<SingleAsset>ASSET_VEGETATION_SCRUB_CUT</SingleAsset>
+		<SingleAsset>ASSET_VEGETATION_WINDTRAP</SingleAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</zType>
+		<aiValidRotations>0</aiValidRotations>
+		<SingleAsset>ASSET_IMPROVEMENT_WINDTRAP</SingleAsset>
 	</Entry>
 </Root>

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3765186945
+CRC: 2996316511
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -10,4 +10,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_2:
       Name: dune-portrait-backgrounds
+      Dependencies: {}
+    Info_3:
+      Name: prefabs
       Dependencies: {}

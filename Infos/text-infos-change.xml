@@ -34,5 +34,35 @@
 	<Entry>
 		<zType>TEXT_FAMILYCLASS_SAGES</zType>
 		<en-US>Scientists~Scientist</en-US>
-	</Entry>		
+	</Entry>
+    <!-- Terrain -->
+    <Entry>
+        <zType>TEXT_TERRAIN_LUSH</zType>
+        <en-US>Graben</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_TEMPERATE</zType>
+        <en-US>Rugged</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_ARID</zType>
+        <en-US>Rock</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_SAND</zType>
+        <en-US>Desert</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TERRAIN_TUNDRA</zType>
+        <en-US>Polar</en-US>
+    </Entry>
+    <!-- Height -->
+    <Entry>
+		<zType>TEXT_HEIGHT_HILL</zType>
+		<en-US>Mesa~a Mesa~Mesas</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HEIGHT_MOUNTAIN</zType>
+		<en-US>Shield Wall~a Shield Wall~Shield Wall</en-US>
+	</Entry>
 </Root>
