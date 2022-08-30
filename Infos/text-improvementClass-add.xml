@@ -1,0 +1,14 @@
+<Root>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_WINDTRAP</zType>
+		<en-US>Windtrap~a Windtrap~Windtraps</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_DEW_COLLECTOR</zType>
+		<en-US>Dew Collector~a Dew Collector~Dew Collectors</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_INSECT_FARM</zType>
+		<en-US>Insect Farm~an Insect Farm~Insect Farms</en-US>
+	</Entry>
+</Root>

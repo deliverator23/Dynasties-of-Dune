@@ -7,4 +7,20 @@
 		<zType>TEXT_IMPROVEMENT_WINDTRAP_HINT</zType>
 		<en-US>Windtrap Hint</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_DEW_COLLECTOR</zType>
+		<en-US>Dew Collector~a Dew Collector~Dew Collectors</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_DEW_COLLECTOR_HINT</zType>
+		<en-US>Dew Collector Hint</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_INSECT_FARM</zType>
+		<en-US>Insect Farm~an Insect Farm~Insect Farms</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_INSECT_FARM_HINT</zType>
+		<en-US>Insect Farm Hint</en-US>
+	</Entry>
 </Root>

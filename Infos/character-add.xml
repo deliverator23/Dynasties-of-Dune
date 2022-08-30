@@ -207,7 +207,7 @@
 		<zType>CHARACTER_IRULAN</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_IRULAN</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_IRULAN</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_GREATHOUSES_FEMALE_02</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<Father>CHARACTER_SHADDAM</Father>
 		<Mother>CHARACTER_ANIRUL</Mother>
@@ -221,7 +221,6 @@
 		<zType>CHARACTER_CHALICE</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_CHALICE</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_GIRL_12YO</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<Father>CHARACTER_SHADDAM</Father>
 		<iAge>12</iAge>
@@ -234,7 +233,6 @@
 		<zType>CHARACTER_RUGI</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_RUGI</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_GIRL_9YO</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<Father>CHARACTER_SHADDAM</Father>
 		<iAge>9</iAge>
@@ -247,7 +245,6 @@
 		<zType>CHARACTER_JOSITA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_JOSITA</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_GIRL_6YO</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<Father>CHARACTER_SHADDAM</Father>
 		<iAge>6</iAge>
@@ -260,7 +257,6 @@
 		<zType>CHARACTER_WENSICIA</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_WENSICIA</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_GIRL_3YO</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<Father>CHARACTER_SHADDAM</Father>
 		<iAge>3</iAge>

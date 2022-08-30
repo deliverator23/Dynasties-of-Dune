@@ -25,4 +25,21 @@
         <zType>TEXT_VEGETATION_SPICE_REMOVE</zType>
         <en-US>Harvest Spice</en-US>
     </Entry>
+    <!-- Resource -->
+    <Entry>
+		<zType>TEXT_RESOURCE_SAND_VERBENA</zType>
+		<en-US>Sand Verbena</en-US>
+    </Entry>
+    <Entry>
+		<zType>TEXT_RESOURCE_SPIKED_PAINTBRUSH</zType>
+		<en-US>Spiked Paintbrush</en-US>
+    </Entry>
+    <Entry>
+		<zType>TEXT_RESOURCE_SWORD_GRASS</zType>
+		<en-US>Sword Grass</en-US>
+    </Entry>
+    <Entry>
+		<zType>TEXT_RESOURCE_SPICE_HONEY</zType>
+		<en-US>Spice Honey</en-US>
+    </Entry>
 </Root>

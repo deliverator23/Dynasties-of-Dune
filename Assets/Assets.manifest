@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-CRC: 2996316511
+CRC: 886180371
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: dune-portrait-atlas
+      Name: dune-character-select
       Dependencies: {}
     Info_1:
-      Name: dune-character-select
+      Name: prefabs
       Dependencies: {}
     Info_2:
       Name: dune-portrait-backgrounds
       Dependencies: {}
     Info_3:
-      Name: prefabs
+      Name: dune-portrait-atlas
       Dependencies: {}
