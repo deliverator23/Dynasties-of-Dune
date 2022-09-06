@@ -14,7 +14,6 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<bShowAlways>1</bShowAlways>
-		<bNoAnalytics>1</bNoAnalytics>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_WOOD</zIndex>
@@ -69,7 +68,6 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<bShowAlways>1</bShowAlways>
-		<bNoAnalytics>1</bNoAnalytics>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_WOOD</zIndex>
@@ -124,7 +122,6 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<bShowAlways>1</bShowAlways>
-		<bNoAnalytics>1</bNoAnalytics>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_WOOD</zIndex>

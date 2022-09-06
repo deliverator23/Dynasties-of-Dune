@@ -19,4 +19,8 @@
         <zType>ASSET_VEGETATION_WINDTRAP</zType>
         <zAsset>prefabs/Dune/Prefabs/windtrap</zAsset>
     </Entry>
+    <Entry>
+        <zType>ASSET_SPRITE_SHEET_HARKONNEN_CREST</zType>
+        <zAsset>sprites/Dune/Sprites/CREST_NATION_HARKONNEN</zAsset>
+    </Entry>
 </Root>

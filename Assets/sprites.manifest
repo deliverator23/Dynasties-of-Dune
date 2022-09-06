@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1080032610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0078efe925efa2e44fe589fa9990f8c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c041649d0bdc0c5453b665be83ccd1a9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/Dune/Sprites/CREST_NATION_HARKONNEN.png
+- Assets/Dune/Sprites/CREST_NATION_HARKONNEN.asset
+Dependencies: []

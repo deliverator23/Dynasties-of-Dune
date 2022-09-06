@@ -194,7 +194,6 @@
 		<zType>CHARACTER_ANIRUL</zType>
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ANIRUL</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_IRULAN</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<iBirth>-15</iBirth>
 		<iAge>21</iAge>
@@ -269,7 +268,6 @@
 		<zType>CHARACTER_HASIMIR</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_HASIMIR</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_FENRING</PreferredPortrait>
 		<Title>TITLE_COUNT</Title>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
 		<Courtier>COURTIER_MINISTER</Courtier>

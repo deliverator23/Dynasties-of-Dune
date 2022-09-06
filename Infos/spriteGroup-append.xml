@@ -17,4 +17,10 @@
             <zValue>ASSET_SPRITE_SHEET_DUNE_CHARACTER_PORTRAIT_BACKGROUNDS</zValue>
         </aeSpriteSheets>
     </Entry>
+    <Entry>
+        <zType>SPRITE_GROUP_CRESTS</zType>
+        <aeSpriteSheets>
+            <zValue>ASSET_SPRITE_SHEET_HARKONNEN_CREST</zValue>
+        </aeSpriteSheets>
+    </Entry>
 </Root>

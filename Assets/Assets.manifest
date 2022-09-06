@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 886180371
+CRC: 4223079958
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -13,4 +13,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_3:
       Name: dune-portrait-atlas
+      Dependencies: {}
+    Info_4:
+      Name: sprites
       Dependencies: {}

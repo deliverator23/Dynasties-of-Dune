@@ -5,23 +5,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_VLADIMIR</zValue>
+                <zValue>DUNE_PORTRAIT_VLAD_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_VLADIMIR</zValue>
+                <zValue>DUNE_PORTRAIT_VLAD_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_VLADIMIR</zValue>
+                <zValue>DUNE_PORTRAIT_VLAD_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_VLADIMIR</zValue>
+                <zValue>DUNE_PORTRAIT_VLAD_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_VLADIMIR</zValue>
+                <zValue>DUNE_PORTRAIT_VLAD_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -104,32 +104,6 @@
         </azAgeGroupSpriteNames>
     </Entry>
     <Entry>
-        <zType>CHARACTER_PORTRAIT_IRULAN</zType>
-        <Gender>GENDER_MALE</Gender>
-        <azAgeGroupSpriteNames>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_IRULAN</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_IRULAN</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_IRULAN</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_IRULAN</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_IRULAN</zValue>
-            </Pair>
-        </azAgeGroupSpriteNames>
-    </Entry>
-    <Entry>
         <zType>CHARACTER_PORTRAIT_ALIA</zType>
         <Gender>GENDER_MALE</Gender>
         <azAgeGroupSpriteNames>
@@ -161,23 +135,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_SHADDAM_ADULT</zValue>
+                <zValue>DUNE_PORTRAIT_SHADDAM_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_SHADDAM_ADULT</zValue>
+                <zValue>DUNE_PORTRAIT_SHADDAM_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_SHADDAM_ADULT</zValue>
+                <zValue>DUNE_PORTRAIT_SHADDAM_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_SHADDAM_ADULT</zValue>
+                <zValue>DUNE_PORTRAIT_SHADDAM_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_SHADDAM_ADULT</zValue>
+                <zValue>DUNE_PORTRAIT_SHADDAM_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -187,23 +161,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_LETO</zValue>
+                <zValue>DUNE_PORTRAIT_LETO_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_LETO</zValue>
+                <zValue>DUNE_PORTRAIT_LETO_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_LETO</zValue>
+                <zValue>DUNE_PORTRAIT_LETO_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_LETO</zValue>
+                <zValue>DUNE_PORTRAIT_LETO_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_LETO</zValue>
+                <zValue>DUNE_PORTRAIT_LETO_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -217,19 +191,19 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>PORTRAIT_PAUL_YOUTH</zValue>
+                <zValue>PORTRAIT_PAUL_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>PORTRAIT_PAUL_TEEN</zValue>
+                <zValue>PORTRAIT_PAUL_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>PORTRAIT_PAUL_ADULT</zValue>
+                <zValue>PORTRAIT_PAUL_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>PORTRAIT_PAUL_SENIOR</zValue>
+                <zValue>PORTRAIT_PAUL_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -239,23 +213,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_CHANI</zValue>
+                <zValue>DUNE_PORTRAIT_CHANI_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_CHANI</zValue>
+                <zValue>DUNE_PORTRAIT_CHANI_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>PORTRAIT_CHANI_TEEN</zValue>
+                <zValue>DUNE_PORTRAIT_CHANI_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>PORTRAIT_CHANI_ADULT</zValue>
+                <zValue>DUNE_PORTRAIT_CHANI_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>PORTRAIT_CHANI_SENIOR</zValue>
+                <zValue>DUNE_PORTRAIT_CHANI_3</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -265,23 +239,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_KYNES</zValue>
+                <zValue>DUNE_PORTRAIT_KYNES_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_KYNES</zValue>
+                <zValue>DUNE_PORTRAIT_KYNES_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_KYNES</zValue>
+                <zValue>DUNE_PORTRAIT_KYNES_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_KYNES</zValue>
+                <zValue>DUNE_PORTRAIT_KYNES_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_KYNES</zValue>
+                <zValue>DUNE_PORTRAIT_KYNES_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -291,23 +265,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_JESSICA</zValue>
+                <zValue>DUNE_PORTRAIT_JESSICA_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_JESSICA</zValue>
+                <zValue>DUNE_PORTRAIT_JESSICA_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_JESSICA</zValue>
+                <zValue>DUNE_PORTRAIT_JESSICA_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_JESSICA</zValue>
+                <zValue>DUNE_PORTRAIT_JESSICA_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_JESSICA</zValue>
+                <zValue>DUNE_PORTRAIT_JESSICA_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -386,110 +360,6 @@
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
                 <zValue>DUNE_PORTRAIT_GURNEY</zValue>
-            </Pair>
-        </azAgeGroupSpriteNames>
-    </Entry>
-    <Entry>
-        <zType>CHARACTER_PORTRAIT_GIRL_3YO</zType>
-        <Gender>GENDER_MALE</Gender>
-        <azAgeGroupSpriteNames>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_3YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_3YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_3YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_3YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_3YO</zValue>
-            </Pair>
-        </azAgeGroupSpriteNames>
-    </Entry>
-    <Entry>
-        <zType>CHARACTER_PORTRAIT_GIRL_6YO</zType>
-        <Gender>GENDER_MALE</Gender>
-        <azAgeGroupSpriteNames>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_6YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_6YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_6YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_6YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_6YO</zValue>
-            </Pair>
-        </azAgeGroupSpriteNames>
-    </Entry>
-    <Entry>
-        <zType>CHARACTER_PORTRAIT_GIRL_9YO</zType>
-        <Gender>GENDER_MALE</Gender>
-        <azAgeGroupSpriteNames>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_9YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_9YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_9YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_9YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_9YO</zValue>
-            </Pair>
-        </azAgeGroupSpriteNames>
-    </Entry>
-    <Entry>
-        <zType>CHARACTER_PORTRAIT_GIRL_12YO</zType>
-        <Gender>GENDER_MALE</Gender>
-        <azAgeGroupSpriteNames>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_12YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_12YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_12YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_12YO</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_GIRL_12YO</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -649,6 +519,32 @@
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
+        <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_FEMALE_05</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_FEMALE_05_YOUTH</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_FEMALE_05_TEEN</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_FEMALE_05_ADULT</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_FEMALE_05_SENIOR</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
     <Entry>
         <zType>CHARACTER_PORTRAIT_GREATHOUSES_FEMALE_06</zType>
         <Gender>GENDER_FEMALE</Gender>
@@ -802,6 +698,318 @@
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
                 <zValue>GREATHOUSES_FEMALE_11_SENIOR</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_01</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_1_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_1_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_1_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_1_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_02</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_2_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_2_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_2_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_2_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_03</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_3_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_3_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_3_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_3_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_04</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_4_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_4_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_4_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_4_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_05</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_5_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_5_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_5_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_5_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_06</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_6_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_6_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_6_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_6_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_07</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_7_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_7_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_7_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_7_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_08</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_8_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_8_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_8_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_8_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_09</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_9_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_9_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_9_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_9_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_10</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_10_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_10_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_10_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_10_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_11</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_11_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_11_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_11_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_11_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GREATHOUSES_MALE_12</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>GREATHOUSES_MALE_12_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>GREATHOUSES_MALE_12_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>GREATHOUSES_MALE_12_3</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>GREATHOUSES_MALE_12_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
