@@ -191,19 +191,19 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>PORTRAIT_PAUL_1</zValue>
+                <zValue>DUNE_PORTRAIT_PAUL_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>PORTRAIT_PAUL_2</zValue>
+                <zValue>DUNE_PORTRAIT_PAUL_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>PORTRAIT_PAUL_3</zValue>
+                <zValue>DUNE_PORTRAIT_PAUL_3</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>PORTRAIT_PAUL_4</zValue>
+                <zValue>DUNE_PORTRAIT_PAUL_4</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
