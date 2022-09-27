@@ -105,7 +105,7 @@
     </Entry>
     <Entry>
         <zType>CHARACTER_PORTRAIT_ALIA</zType>
-        <Gender>GENDER_MALE</Gender>
+        <Gender>GENDER_FEMALE</Gender>
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
         <zType>CHARACTER_PORTRAIT_JESSICA</zType>
-        <Gender>GENDER_MALE</Gender>
+        <Gender>GENDER_FEMALE</Gender>
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
@@ -365,27 +365,27 @@
     </Entry>
     <Entry>
         <zType>CHARACTER_PORTRAIT_FAROULA</zType>
-        <Gender>GENDER_MALE</Gender>
+        <Gender>GENDER_FEMALE</Gender>
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_FREMEN_WOMAN_1</zValue>
+                <zValue>DUNE_PORTRAIT_FAROULA_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_FREMEN_WOMAN_1</zValue>
+                <zValue>DUNE_PORTRAIT_FAROULA_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_FREMEN_WOMAN_1</zValue>
+                <zValue>DUNE_PORTRAIT_FAROULA_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_FREMEN_WOMAN_1</zValue>
+                <zValue>DUNE_PORTRAIT_FAROULA_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_FREMEN_WOMAN_1</zValue>
+                <zValue>DUNE_PORTRAIT_FAROULA_3</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
