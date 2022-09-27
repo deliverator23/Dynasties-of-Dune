@@ -607,7 +607,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>GREATHOUSES_FEMALE_08_TEEN</zValue>
+                <zValue>GREATHOUSES_FEMALE_08_YOUTH</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -633,7 +633,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>GREATHOUSES_FEMALE_09_TEEN</zValue>
+                <zValue>GREATHOUSES_FEMALE_09_YOUTH</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -659,7 +659,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>GREATHOUSES_FEMALE_10_TEEN</zValue>
+                <zValue>GREATHOUSES_FEMALE_10_YOUTH</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -685,7 +685,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>GREATHOUSES_FEMALE_11_TEEN</zValue>
+                <zValue>GREATHOUSES_FEMALE_11_YOUTH</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
