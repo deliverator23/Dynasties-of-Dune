@@ -6,7 +6,7 @@
 		<PreferredPortrait>CHARACTER_PORTRAIT_VLADIMIR</PreferredPortrait>
 		<Title>TITLE_BARON</Title>
 		<PlayerDynasty>DYNASTY_HARKONNEN</PlayerDynasty>
-		<iBirth>-40</iBirth>
+		<iYearsDead>40</iYearsDead>
 		<iAge>51</iAge>
 		<aeTraits>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
@@ -36,7 +36,7 @@
 		<Title>TITLE_COUNT</Title>
 		<PlayerDynasty>DYNASTY_HARKONNEN</PlayerDynasty>
 		<Father>CHARACTER_ABULURD_HARKONNEN</Father>
-		<iBirth>-5</iBirth>
+		<iYearsDead>5</iYearsDead>
 		<iAge>39</iAge>
 		<aeTraits>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
@@ -88,9 +88,9 @@
 		<zType>CHARACTER_OLD_DUKE</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_OLD_DUKE</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_LETO</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_GREATHOUSES_MALE_03</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
-		<iBirth>-25</iBirth>
+		<iYearsDead>25</iYearsDead>
 		<iAge>66</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -168,8 +168,9 @@
 		<zType>CHARACTER_ELROOD</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_ELROOD</FirstName>
+		<PreferredPortrait>CHARACTER_PORTRAIT_GREATHOUSES_MALE_09</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
-		<iBirth>-35</iBirth>
+		<iYearsDead>35</iYearsDead>
 		<iAge>70</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -195,7 +196,7 @@
 		<Gender>GENDER_FEMALE</Gender>
 		<FirstName>NAME_ANIRUL</FirstName>
 		<PlayerDynasty>DYNASTY_CORRINO</PlayerDynasty>
-		<iBirth>-15</iBirth>
+		<iYearsDead>15</iYearsDead>
 		<iAge>21</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -283,7 +284,7 @@
 		<FirstName>NAME_PARDOT</FirstName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_KYNES</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_FREMEN</PlayerDynasty>
-		<iBirth>-16</iBirth>
+		<iYearsDead>16</iYearsDead>
 		<iAge>55</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
