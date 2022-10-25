@@ -164,6 +164,14 @@
         <Name>TEXT_NAME_DUNCAN</Name>
     </Entry>
     <Entry>
+        <zType>NAME_GURNEY</zType>
+        <Name>TEXT_NAME_GURNEY</Name>
+    </Entry>
+    <Entry>
+        <zType>NAME_THUFIR</zType>
+        <Name>TEXT_NAME_THUFIR</Name>
+    </Entry>
+    <Entry>
         <zType>NAME_EVANDER</zType>
         <Name>TEXT_NAME_EVANDER</Name>
     </Entry>
