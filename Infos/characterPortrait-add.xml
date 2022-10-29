@@ -31,23 +31,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_GLOSSU</zValue>
+                <zValue>DUNE_PORTRAIT_GLOSSU_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_GLOSSU</zValue>
+                <zValue>DUNE_PORTRAIT_GLOSSU_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_GLOSSU</zValue>
+                <zValue>DUNE_PORTRAIT_GLOSSU_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_GLOSSU</zValue>
+                <zValue>DUNE_PORTRAIT_GLOSSU_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_GLOSSU</zValue>
+                <zValue>DUNE_PORTRAIT_GLOSSU_2</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -57,23 +57,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_FEYD</zValue>
+                <zValue>DUNE_PORTRAIT_FEYD_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_FEYD</zValue>
+                <zValue>DUNE_PORTRAIT_FEYD_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_FEYD</zValue>
+                <zValue>DUNE_PORTRAIT_FEYD_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_FEYD</zValue>
+                <zValue>DUNE_PORTRAIT_FEYD_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_FEYD</zValue>
+                <zValue>DUNE_PORTRAIT_FEYD_3</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -83,23 +83,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_PITER</zValue>
+                <zValue>DUNE_PORTRAIT_PITER_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_PITER</zValue>
+                <zValue>DUNE_PORTRAIT_PITER_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_PITER</zValue>
+                <zValue>DUNE_PORTRAIT_PITER_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_PITER</zValue>
+                <zValue>DUNE_PORTRAIT_PITER_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_PITER</zValue>
+                <zValue>DUNE_PORTRAIT_PITER_2</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -109,23 +109,23 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_ALIA_BABY</zValue>
+                <zValue>DUNE_PORTRAIT_ALIA_B</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_ALIA_YOUTH</zValue>
+                <zValue>DUNE_PORTRAIT_ALIA_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_ALIA_YOUTH</zValue>
+                <zValue>DUNE_PORTRAIT_ALIA_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_ALIA_YOUTH</zValue>
+                <zValue>DUNE_PORTRAIT_ALIA_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_ALIA_YOUTH</zValue>
+                <zValue>DUNE_PORTRAIT_ALIA_0</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -291,23 +291,49 @@
         <azAgeGroupSpriteNames>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_DUNCAN</zValue>
+                <zValue>DUNE_PORTRAIT_DUNCAN_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_DUNCAN</zValue>
+                <zValue>DUNE_PORTRAIT_DUNCAN_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_DUNCAN</zValue>
+                <zValue>DUNE_PORTRAIT_DUNCAN_1</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_DUNCAN</zValue>
+                <zValue>DUNE_PORTRAIT_DUNCAN_2</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_DUNCAN</zValue>
+                <zValue>DUNE_PORTRAIT_DUNCAN_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_GURNEY</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>DUNE_PORTRAIT_GURNEY_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>DUNE_PORTRAIT_GURNEY_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>DUNE_PORTRAIT_GURNEY_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>DUNE_PORTRAIT_GURNEY_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>DUNE_PORTRAIT_GURNEY_2</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -334,32 +360,6 @@
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
                 <zValue>DUNE_PORTRAIT_STILGAR</zValue>
-            </Pair>
-        </azAgeGroupSpriteNames>
-    </Entry>
-    <Entry>
-        <zType>CHARACTER_PORTRAIT_GURNEY</zType>
-        <Gender>GENDER_MALE</Gender>
-        <azAgeGroupSpriteNames>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_GURNEY</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_GURNEY</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_GURNEY</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_GURNEY</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_GURNEY</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
@@ -519,7 +519,7 @@
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
-        <Entry>
+    <Entry>
         <zType>CHARACTER_PORTRAIT_GREATHOUSES_FEMALE_05</zType>
         <Gender>GENDER_FEMALE</Gender>
         <azAgeGroupSpriteNames>
@@ -1010,6 +1010,578 @@
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
                 <zValue>GREATHOUSES_MALE_12_4</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_01</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_1_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_1_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_1_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_1_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_02</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_2_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_2_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_2_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_2_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_03</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_3_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_3_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_3_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_3_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_04</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_4_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_4_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_4_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_4_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_05</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_5_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_5_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_5_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_5_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_06</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_6_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_6_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_6_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_6_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_07</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_7_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_7_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_7_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_7_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_08</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_8_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_8_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_8_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_8_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_09</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_9_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_9_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_9_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_9_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_10</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_10_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_10_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_10_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_10_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_11</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_11_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_11_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_11_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_11_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_11</zType>
+        <Gender>GENDER_MALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_MALE_12_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_MALE_12_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_MALE_12_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_MALE_12_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_01</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_1_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_1_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_1_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_1_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_02</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_2_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_2_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_2_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_2_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_03</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_3_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_3_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_3_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_3_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_04</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_4_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_4_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_4_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_4_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_05</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_5_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_5_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_5_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_5_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_06</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_6_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_6_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_6_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_6_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_07</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_7_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_7_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_7_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_7_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_08</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_8_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_8_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_8_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_8_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_09</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_9_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_9_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_9_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_9_3</zValue>
+            </Pair>
+        </azAgeGroupSpriteNames>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_PORTRAIT_FREMEN_FEMALE_10</zType>
+        <Gender>GENDER_FEMALE</Gender>
+        <azAgeGroupSpriteNames>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
+                <zValue>GENERIC_BABY_01</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
+                <zValue>FREMEN_FEMALE_10_0</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
+                <zValue>FREMEN_FEMALE_10_1</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
+                <zValue>FREMEN_FEMALE_10_2</zValue>
+            </Pair>
+            <Pair>
+                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
+                <zValue>FREMEN_FEMALE_10_3</zValue>
             </Pair>
         </azAgeGroupSpriteNames>
     </Entry>
