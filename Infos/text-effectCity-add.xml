@@ -1,0 +1,22 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_FREMEN</zType>
+		<en-US>Fremen</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_ATREIDES</zType>
+		<en-US>House Atreides</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_INTRIGUER</zType>
+		<en-US>Intriguer</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILYCLASS_INTRIGUER_SEAT_EARLY_ESPIONAGE</zType>
+		<en-US>Early Espionage</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_COURT</zType>
+		<en-US>Court</en-US>
+	</Entry>
+</Root>

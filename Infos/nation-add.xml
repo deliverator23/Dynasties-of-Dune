@@ -34,22 +34,7 @@
                 <zIndex>UNIT_WORKER</zIndex>
                 <iValue>1</iValue>
             </Pair>
-            <Pair>
-                <zIndex>UNIT_SLINGER</zIndex>
-                <iValue>1</iValue>
-            </Pair>
         </aiCityUnit>
-        <aiNationOpinion>
-            <Pair>
-                <zIndex>NATION_GREECE</zIndex>
-                <iValue>-40</iValue>
-            </Pair>
-        </aiNationOpinion>
-        <aeStartingTech>
-            <zValue>TECH_IRONWORKING</zValue>
-            <zValue>TECH_TRAPPING</zValue>
-            <zValue>TECH_HUSBANDRY</zValue>
-        </aeStartingTech>
         <aeFirstNamesMale>
             <zValue>NAME_ABRATTAN</zValue>
             <zValue>NAME_ABULURD</zValue>
@@ -202,22 +187,7 @@
                 <zIndex>UNIT_WORKER</zIndex>
                 <iValue>1</iValue>
             </Pair>
-            <Pair>
-                <zIndex>UNIT_WARRIOR</zIndex>
-                <iValue>1</iValue>
-            </Pair>
         </aiCityUnit>
-        <aiNationOpinion>
-            <Pair>
-                <zIndex>NATION_PERSIA</zIndex>
-                <iValue>-40</iValue>
-            </Pair>
-        </aiNationOpinion>
-        <aeStartingTech>
-            <zValue>TECH_IRONWORKING</zValue>
-            <zValue>TECH_STONECUTTING</zValue>
-            <zValue>TECH_DRAMA</zValue>
-        </aeStartingTech>
         <aeFirstNamesMale>
             <zValue>NAME_ADAM</zValue>
             <zValue>NAME_AGAMEMNON</zValue>
@@ -387,22 +357,7 @@
                 <zIndex>UNIT_WORKER</zIndex>
                 <iValue>1</iValue>
             </Pair>
-            <Pair>
-                <zIndex>UNIT_WARRIOR</zIndex>
-                <iValue>1</iValue>
-            </Pair>
         </aiCityUnit>
-        <aiNationOpinion>
-            <Pair>
-                <zIndex>NATION_CARTHAGE</zIndex>
-                <iValue>-40</iValue>
-            </Pair>
-        </aiNationOpinion>
-        <aeStartingTech>
-            <zValue>TECH_IRONWORKING</zValue>
-            <zValue>TECH_STONECUTTING</zValue>
-            <zValue>TECH_POLIS</zValue>
-        </aeStartingTech>
         <aeFirstNamesMale>
             <zValue>NAME_AMISHAR</zValue>
             <zValue>NAME_AMSHOD</zValue>
@@ -586,22 +541,7 @@
                 <zIndex>UNIT_WORKER</zIndex>
                 <iValue>1</iValue>
             </Pair>
-            <Pair>
-                <zIndex>UNIT_SLINGER</zIndex>
-                <iValue>1</iValue>
-            </Pair>
         </aiCityUnit>
-        <aiNationOpinion>
-            <Pair>
-                <zIndex>NATION_BABYLONIA</zIndex>
-                <iValue>-40</iValue>
-            </Pair>
-        </aiNationOpinion>
-        <aeStartingTech>
-            <zValue>TECH_TRAPPING</zValue>
-            <zValue>TECH_ADMINISTRATION</zValue>
-            <zValue>TECH_MILITARY_DRILL</zValue>
-        </aeStartingTech>
         <aeFirstNamesMale>
             <zValue>NAME_ABUMOJANDIS</zValue>
             <zValue>NAME_ASSAN</zValue>

@@ -1,18 +1,14 @@
 <Root>
 	<Entry>
-		<zType>TEXT_YIELD_FOOD</zType>
-		<en-US>Water~icon(YIELD_FOOD)Water</en-US>
+		<zType>TEXT_YIELD_GROWTH</zType>
+		<en-US>Water~icon(YIELD_GROWTH)Water</en-US>
 	</Entry>
 	<Entry>
-		<zType>TEXT_YIELD_WOOD</zType>
-		<en-US>Spice~icon(YIELD_WOOD)Spice</en-US>
+		<zType>TEXT_YIELD_GROWTH_HELP</zType>
+		<en-US>When a City's {YIELD_GROWTH}Growth bar fills up, a new link(CONCEPT_CITIZEN) becomes available. {YIELD_GROWTH}Growth also determines how fast a City can produce Civilian Units, such as link(UNIT_SETTLER,2) and link(UNIT_WORKER,2). While a City produces a Civilian Unit, its {YIELD_GROWTH}Growth bar no longer fills. Ways to improve a City's {YIELD_GROWTH}Growth rate include building link(IMPROVEMENT_FARM,2) on crop resources, link(IMPROVEMENT_NETS,2) on link(RESOURCE_FISH,1) or link(RESOURCE_CRAB,1), and link(IMPROVEMENT_GRANARY,2), as well as training link(SPECIALIST_FARMER,2) and link(SPECIALIST_FISHER,2).</en-US>
 	</Entry>
-    <Entry>
-		<zType>TEXT_YIELD_IRON</zType>
-		<en-US>Offworld Supplies~icon(YIELD_IRON)Offworld Supplies</en-US>
-	</Entry>
-    <Entry>
-		<zType>TEXT_YIELD_STONE</zType>
-		<en-US>Local Materials~icon(YIELD_STONE)Local Materials</en-US>
+	<Entry>
+		<zType>TEXT_YIELD_MONEY</zType>
+		<en-US>Solaris~icon(YIELD_MONEY)Solaris</en-US>
 	</Entry>
 </Root>

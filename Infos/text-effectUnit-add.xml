@@ -1,0 +1,14 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FREMEN</zType>
+		<en-US>link(NATION_FREMEN)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_DESERT_SURVIVAL1</zType>
+		<en-US>Desert Survival I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HOMELAND_GUARDIAN1</zType>
+		<en-US>Homeland Guardian I</en-US>
+	</Entry>
+</Root>

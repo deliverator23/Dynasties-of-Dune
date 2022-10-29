@@ -1,0 +1,32 @@
+<Root>
+	<Entry>
+		<zType>PROJECT_COURT_1</zType>
+		<Name>TEXT_PROJECT_COURT_1</Name>
+		<zIcon>PROJECT_COURT</zIcon>
+		<iCivics>5</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_COURT_1</Bonus>
+		<EffectCityPrereq>EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_COURT</EffectCityPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_EARLY_ESPIONAGE_1</zType>
+		<Name>TEXT_PROJECT_EARLY_ESPIONAGE_1</Name>
+		<zIcon>PROJECT_EARLY_ESPIONAGE</zIcon>
+		<iCivics>5</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_EARLY_ESPIONAGE_1</Bonus>
+		<EffectCityPrereq>EFFECTCITY_FAMILYCLASS_INTRIGUER_SEAT_EARLY_ESPIONAGE</EffectCityPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+</Root>

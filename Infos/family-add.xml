@@ -5,7 +5,7 @@
 		<NameFemale>TEXT_FAMILY_HARKONNEN</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_PERSIA</TeamColor>
 		<iColorIndex>0</iColorIndex>
-		<FamilyClass>FAMILYCLASS_ARTISANS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_INTRIGUER</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_HARKONNEN</zIndex>
@@ -19,7 +19,7 @@
 		<NameFemale>TEXT_FAMILY_RABBAN</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_PERSIA</TeamColor>
 		<iColorIndex>1</iColorIndex>
-		<FamilyClass>FAMILYCLASS_LANDOWNERS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_OPPRESSOR</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_HARKONNEN</zIndex>
@@ -33,7 +33,7 @@
 		<NameFemale>TEXT_FAMILY_NEFUD</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_PERSIA</TeamColor>
 		<iColorIndex>2</iColorIndex>
-		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_WARMASTER</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_HARKONNEN</zIndex>
@@ -47,7 +47,7 @@
 		<NameFemale>TEXT_FAMILY_KUDU</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_PERSIA</TeamColor>
 		<iColorIndex>3</iColorIndex>
-		<FamilyClass>FAMILYCLASS_TRADERS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_MAGNATE</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_HARKONNEN</zIndex>
@@ -61,7 +61,7 @@
 		<NameFemale>TEXT_FAMILY_ATREIDES</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
 		<iColorIndex>0</iColorIndex>
-		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_BENEFACTOR</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_ATREIDES</zIndex>
@@ -75,7 +75,7 @@
 		<NameFemale>TEXT_FAMILY_IDAHO</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
 		<iColorIndex>1</iColorIndex>
-		<FamilyClass>FAMILYCLASS_HUNTERS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_ADVENTURER</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_ATREIDES</zIndex>
@@ -89,7 +89,7 @@
 		<NameFemale>TEXT_FAMILY_HALLECK</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
 		<iColorIndex>2</iColorIndex>
-		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_WARMASTER</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_ATREIDES</zIndex>
@@ -103,7 +103,7 @@
 		<NameFemale>TEXT_FAMILY_YUEH</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
 		<iColorIndex>3</iColorIndex>
-		<FamilyClass>FAMILYCLASS_SAGES</FamilyClass>
+		<FamilyClass>FAMILYCLASS_SCIENTIST</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_ATREIDES</zIndex>
@@ -131,7 +131,7 @@
 		<NameFemale>TEXT_FAMILY_FENRING</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
 		<iColorIndex>1</iColorIndex>
-		<FamilyClass>FAMILYCLASS_ARTISANS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_INTRIGUER</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_CORRINO</zIndex>
@@ -145,7 +145,7 @@
 		<NameFemale>TEXT_FAMILY_MOHIAM</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
 		<iColorIndex>2</iColorIndex>
-		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_MYSTIC</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_CORRINO</zIndex>
@@ -159,7 +159,7 @@
 		<NameFemale>TEXT_FAMILY_TYEKANIK</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
 		<iColorIndex>3</iColorIndex>
-		<FamilyClass>FAMILYCLASS_CHAMPIONS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_WARMASTER</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_CORRINO</zIndex>
@@ -173,7 +173,7 @@
 		<NameFemale>TEXT_FAMILY_BEN_FIFRAWI</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>0</iColorIndex>
-		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_BENEFACTOR</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_FREMEN</zIndex>
@@ -187,7 +187,7 @@
 		<NameFemale>TEXT_FAMILY_KYNES</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>1</iColorIndex>
-		<FamilyClass>FAMILYCLASS_SAGES</FamilyClass>
+		<FamilyClass>FAMILYCLASS_SCIENTIST</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_FREMEN</zIndex>
@@ -201,7 +201,7 @@
 		<NameFemale>TEXT_FAMILY_OTHEYM</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>2</iColorIndex>
-		<FamilyClass>FAMILYCLASS_RIDERS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_RAIDER</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_FREMEN</zIndex>
@@ -215,7 +215,7 @@
 		<NameFemale>TEXT_FAMILY_JAVID</NameFemale>
 		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
 		<iColorIndex>3</iColorIndex>
-		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
+		<FamilyClass>FAMILYCLASS_MYSTIC</FamilyClass>
 		<abNation>
 			<Pair>
 				<zIndex>NATION_FREMEN</zIndex>

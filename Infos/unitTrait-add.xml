@@ -1,0 +1,8 @@
+<Root>
+	<Entry>
+		<zType>UNITTRAIT_EXPLORATION</zType>
+		<Name>TEXT_UNITTRAIT_EXPLORATION</Name>
+		<zIconName>UNITTRAIT_EXPLORATION</zIconName>
+		<EffectUnit>EFFECTUNIT_EXPLORATION</EffectUnit>
+	</Entry>
+</Root>

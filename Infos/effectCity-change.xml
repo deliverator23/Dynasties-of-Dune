@@ -1,0 +1,21 @@
+<Root>
+	<Entry>
+		<zType>EFFECTCITY_FAMILYCLASS_STATESMEN</zType>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldRateOpinion>
+		</aiYieldRateOpinion>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT</zType>
+		<Name>TEXT_FAMILYCLASS_STATESMEN</Name>
+		<Source>TEXT_EFFECTCITY_SEAT_SOURCE</Source>
+		<EffectCityUnlock>EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_COURT</EffectCityUnlock>
+		<SourceFamilyClass>FAMILYCLASS_STATESMEN</SourceFamilyClass>
+		<bSingle>1</bSingle>
+	</Entry>
+</Root>

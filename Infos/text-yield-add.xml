@@ -1,0 +1,62 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_YIELD_INTEL</zType>
+		<en-US>Intel~icon(YIELD_INTEL)Intel</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_INTEL_HELP</zType>
+		<en-US>Intel is vital to your agents as all their actions need Intel.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_MANPOWER</zType>
+		<en-US>Manpower~icon(YIELD_MANPOWER)Manpower</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_MANPOWER_HELP</zType>
+		<en-US>Manpower is vital to improving Cities and building up military.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_DEVOTION</zType>
+		<en-US>Devotion~icon(YIELD_DEVOTION)Devotion</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_DEVOTION_HELP</zType>
+		<en-US>Devotion is vital to the religion game.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_DEVOTION_ENCYCLOPEDIA</zType>
+		<en-US>TBD</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_LOCAL_MATERIAL</zType>
+		<en-US>Local Material~icon(YIELD_LOCAL_MATERIAL)Local Material</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_LOCAL_MATERIAL_HELP</zType>
+		<en-US>Local Material is most common material on Arrakis and has many uses.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_FUEL</zType>
+		<en-US>Fuel~icon(YIELD_FUEL)Fuel</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_FUEL_HELP</zType>
+		<en-US>Fuel is vital to vehicles.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_OFFWORLD_SUPPLIES</zType>
+		<en-US>Offworld Supplies~icon(YIELD_OFFWORLD_SUPPLIES)Offworld Supplies</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_OFFWORLD_SUPPLIES_HELP</zType>
+		<en-US>Offworld Supplies aren't available readily on Arrakis but they can needed for powerful projects and units.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_SPICE</zType>
+		<en-US>Spice~icon(YIELD_SPICE)Spice</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_SPICE_HELP</zType>
+		<en-US>He who controls the spice, controls the universe.</en-US>
+	</Entry>
+</Root>

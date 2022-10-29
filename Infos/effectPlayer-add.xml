@@ -3,44 +3,32 @@
         <zType>EFFECTPLAYER_NATION_ATREIDES</zType>
         <Name>TEXT_NATION_ATREIDES</Name>
         <SourceNation>NATION_ATREIDES</SourceNation>
-        <EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
-        <EffectUnit>EFFECTUNIT_ASSYRIA</EffectUnit>
-        <aeWaterUnit>
-            <zValue>UNIT_SCOUT</zValue>
-            <zValue>UNIT_WORKER</zValue>
-        </aeWaterUnit>
+        <EffectCity>EFFECTCITY_NATION_ATREIDES</EffectCity>
+		<aiYieldRateLaws>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>250</iValue>
+			</Pair>
+		</aiYieldRateLaws>
     </Entry>
     <Entry>
         <zType>EFFECTPLAYER_NATION_CORRINO</zType>
         <Name>TEXT_NATION_CORRINO</Name>
         <SourceNation>NATION_CORRINO</SourceNation>
-        <EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
-        <EffectUnit>EFFECTUNIT_ASSYRIA</EffectUnit>
-        <aeWaterUnit>
-            <zValue>UNIT_SCOUT</zValue>
-            <zValue>UNIT_WORKER</zValue>
-        </aeWaterUnit>
+        <EffectCity>EFFECTCITY_NATION_CORRINO</EffectCity>
     </Entry>
     <Entry>
         <zType>EFFECTPLAYER_NATION_FREMEN</zType>
         <Name>TEXT_NATION_FREMEN</Name>
         <SourceNation>NATION_FREMEN</SourceNation>
-        <EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
-        <EffectUnit>EFFECTUNIT_ASSYRIA</EffectUnit>
-        <aeWaterUnit>
-            <zValue>UNIT_SCOUT</zValue>
-            <zValue>UNIT_WORKER</zValue>
-        </aeWaterUnit>
+        <EffectCity>EFFECTCITY_NATION_FREMEN</EffectCity>
+		<EffectUnit>EFFECTUNIT_FREMEN</EffectUnit>
     </Entry>
     <Entry>
         <zType>EFFECTPLAYER_NATION_HARKONNEN</zType>
         <Name>TEXT_NATION_HARKONNEN</Name>
         <SourceNation>NATION_HARKONNEN</SourceNation>
-        <EffectCity>EFFECTCITY_NATION_ASSYRIA</EffectCity>
-        <EffectUnit>EFFECTUNIT_ASSYRIA</EffectUnit>
-        <aeWaterUnit>
-            <zValue>UNIT_SCOUT</zValue>
-            <zValue>UNIT_WORKER</zValue>
-        </aeWaterUnit>
+        <EffectCity>EFFECTCITY_NATION_HARKONNEN</EffectCity>
+		<iConsumptionModifier>-25</iConsumptionModifier>
     </Entry>
 </Root>

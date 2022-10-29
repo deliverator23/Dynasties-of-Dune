@@ -1,0 +1,11 @@
+<Root>
+	<Entry>
+		<zType>BONUS_FAMILYCLASS_STATESMEN_SEAT</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>300</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+</Root>

@@ -1,0 +1,26 @@
+<Root>
+	<Entry>
+		<zType>PROMOTION_DESERT_SURVIVAL1</zType>
+		<Name>TEXT_PROMOTION_DESERT_SURVIVAL1</Name>
+		<EffectUnit>EFFECTUNIT_DESERT_SURVIVAL1</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_HOMELAND_GUARDIAN1</zType>
+		<Name>TEXT_PROMOTION_HOMELAND_GUARDIAN1</Name>
+		<EffectUnit>EFFECTUNIT_HOMELAND_GUARDIAN1</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_RAIDER1</zType>
+		<Name>TEXT_PROMOTION_RAIDER1</Name>
+		<EffectUnit>EFFECTUNIT_RAIDER1</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_EXPLORATION1</zType>
+		<Name>TEXT_PROMOTION_EXPLORATION1</Name>
+		<EffectUnit>EFFECTUNIT_EXPLORATION1</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+</Root>

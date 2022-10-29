@@ -1,0 +1,18 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_PROMOTION_DESERT_SURVIVAL1</zType>
+		<en-US>Desert Survival I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROMOTION_HOMELAND_GUARDIAN1</zType>
+		<en-US>Homeland Guardian I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROMOTION_RAIDER1</zType>
+		<en-US>Raider I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROMOTION_EXPLORATION1</zType>
+		<en-US>Exploration I</en-US>
+	</Entry>
+</Root>
