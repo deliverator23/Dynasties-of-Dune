@@ -35,4 +35,22 @@
         <ColorClass>COLORCLASS_NATIONS</ColorClass>
         <zHexValue>#aaaaaa</zHexValue>
     </Entry>
+    <Entry>
+        <zType>COLOR_NATION_ATREIDES</zType>
+        <zName>Atreides</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#005900</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_FREMEN</zType>
+        <zName>Fremen</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#2147cc</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_HARKONNEN</zType>
+        <zName>Harkonnen</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#d20000</zHexValue>
+    </Entry>
 </Root>

@@ -8,7 +8,7 @@
                 <Second>TEXT_NATION_PERSIA_F</Second>
             </Pair>
         </GenderedNames>
-        <TeamColor>TEAMCOLOR_NATION_PERSIA</TeamColor>
+        <TeamColor>TEAMCOLOR_NATION_HARKONNEN</TeamColor>
         <Crest>CREST_NATION_HARKONNEN</Crest>
         <zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
         <zCharacterPortraitBackground>PORTRAIT_BACKGROUND_RED</zCharacterPortraitBackground>
@@ -90,7 +90,7 @@
             <zValue>NAME_ZORAYA</zValue>
         </aeFirstNamesFemale>
         <aeCityNames>
-            <zValue>CITYNAME_PERSEPOLIS</zValue>
+            <zValue>CITYNAME_HARKONNEN_01</zValue>
             <zValue>CITYNAME_SUSA</zValue>
             <zValue>CITYNAME_PASARGADAE</zValue>
             <zValue>CITYNAME_ECBATANA</zValue>
@@ -161,7 +161,7 @@
                 <Second>TEXT_NATION_GREECE_F</Second>
             </Pair>
         </GenderedNames>
-        <TeamColor>TEAMCOLOR_NATION_GREECE</TeamColor>
+        <TeamColor>TEAMCOLOR_NATION_ATREIDES</TeamColor>
         <Crest>CREST_NATION_GREECE</Crest>
         <zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
         <zCharacterPortraitBackground>PORTRAIT_BACKGROUND_GREEN</zCharacterPortraitBackground>
@@ -246,7 +246,7 @@
             <zValue>NAME_XENIA</zValue>
         </aeFirstNamesFemale>
         <aeCityNames>
-            <zValue>CITYNAME_PELLA</zValue>
+            <zValue>CITYNAME_ATREIDES_01</zValue>
             <zValue>CITYNAME_ATHENS</zValue>
             <zValue>CITYNAME_SPARTA</zValue>
             <zValue>CITYNAME_CORINTH</zValue>
@@ -413,7 +413,7 @@
             <zValue>NAME_WENSICIA</zValue>
         </aeFirstNamesFemale>
         <aeCityNames>
-            <zValue>CITYNAME_ROMA</zValue>
+            <zValue>CITYNAME_CORRINO_01</zValue>
             <zValue>CITYNAME_ARIMINUM</zValue>
             <zValue>CITYNAME_BONONIA</zValue>
             <zValue>CITYNAME_AQUILEIA</zValue>
@@ -515,7 +515,7 @@
                 <Second>TEXT_NATION_ASSYRIA_F</Second>
             </Pair>
         </GenderedNames>
-        <TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
+        <TeamColor>TEAMCOLOR_NATION_FREMEN</TeamColor>
         <Crest>CREST_NATION_ASSYRIA</Crest>
         <zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
         <zCharacterPortraitBackground>PORTRAIT_BACKGROUND_BROWN</zCharacterPortraitBackground>
@@ -638,7 +638,6 @@
             <zValue>CHARACTER_PORTRAIT_FREMEN_MALE_09</zValue>
             <zValue>CHARACTER_PORTRAIT_FREMEN_MALE_10</zValue>
             <zValue>CHARACTER_PORTRAIT_FREMEN_MALE_11</zValue>
-            <zValue>CHARACTER_PORTRAIT_FREMEN_MALE_12</zValue>
             <zValue>CHARACTER_PORTRAIT_FREMEN_FEMALE_01</zValue>
             <zValue>CHARACTER_PORTRAIT_FREMEN_FEMALE_02</zValue>
             <zValue>CHARACTER_PORTRAIT_FREMEN_FEMALE_03</zValue>
@@ -649,7 +648,6 @@
             <zValue>CHARACTER_PORTRAIT_FREMEN_FEMALE_08</zValue>
             <zValue>CHARACTER_PORTRAIT_FREMEN_FEMALE_09</zValue>
             <zValue>CHARACTER_PORTRAIT_FREMEN_FEMALE_10</zValue>
-            <zValue>CHARACTER_PORTRAIT_FREMEN_FEMALE_11</zValue>
         </aeCharacterPortraits>
         <Story>TEXT_NATION_FREMEN_STORY</Story>
     </Entry>

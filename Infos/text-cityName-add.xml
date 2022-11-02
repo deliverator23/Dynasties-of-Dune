@@ -95,4 +95,16 @@
         <zType>TEXT_CITYNAME_FREMEN_24</zType>
         <en-US>Bannerjee's Post</en-US>
     </Entry>
+    <Entry>
+        <zType>TEXT_CITYNAME_ATREIDES_01</zType>
+        <en-US>Arrakeen</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CITYNAME_HARKONNEN_01</zType>
+        <en-US>Carthag</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CITYNAME_CORRINO_01</zType>
+        <en-US>New Kaitain City</en-US>
+    </Entry>
 </Root>

@@ -41,4 +41,25 @@
         <BorderColor>COLOR_NATION_CORRINO_FAMILY_NONE</BorderColor>
         <CrestColor>COLOR_NATION_CORRINO_FAMILY_NONE</CrestColor>
     </Entry>
+    <Entry>
+        <zType>PLAYERCOLOR_NATION_ATREIDES</zType>
+        <AssetColor>COLOR_NATION_ATREIDES</AssetColor>
+        <TextColor>COLOR_NATION_ATREIDES</TextColor>
+        <BorderColor>COLOR_NATION_ATREIDES</BorderColor>
+        <CrestColor>COLOR_NATION_ATREIDES</CrestColor>
+    </Entry>
+    <Entry>
+        <zType>PLAYERCOLOR_NATION_FREMEN</zType>
+        <AssetColor>COLOR_NATION_FREMEN</AssetColor>
+        <TextColor>COLOR_NATION_FREMEN</TextColor>
+        <BorderColor>COLOR_NATION_FREMEN</BorderColor>
+        <CrestColor>COLOR_NATION_FREMEN</CrestColor>
+    </Entry>
+    <Entry>
+        <zType>PLAYERCOLOR_NATION_HARKONNEN</zType>
+        <AssetColor>COLOR_NATION_HARKONNEN</AssetColor>
+        <TextColor>COLOR_NATION_HARKONNEN</TextColor>
+        <BorderColor>COLOR_NATION_HARKONNEN</BorderColor>
+        <CrestColor>COLOR_NATION_HARKONNEN</CrestColor>
+    </Entry>
 </Root>

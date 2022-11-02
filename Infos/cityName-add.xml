@@ -95,4 +95,16 @@
         <zType>CITYNAME_FREMEN_24</zType>
         <Name>TEXT_CITYNAME_FREMEN_24</Name>
     </Entry>
+    <Entry>
+        <zType>CITYNAME_ATREIDES_01</zType>
+        <Name>TEXT_CITYNAME_ATREIDES_01</Name>
+    </Entry>
+    <Entry>
+        <zType>CITYNAME_HARKONNEN_01</zType>
+        <Name>TEXT_CITYNAME_HARKONNEN_01</Name>
+    </Entry>
+    <Entry>
+        <zType>CITYNAME_CORRINO_01</zType>
+        <Name>TEXT_CITYNAME_CORRINO_01</Name>
+    </Entry>
 </Root>

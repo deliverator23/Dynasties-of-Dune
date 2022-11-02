@@ -10,12 +10,22 @@
 				<iValue>250</iValue>
 			</Pair>
 		</aiYieldRateLaws>
+        <aeWaterUnit>
+            <zValue>UNIT_SCOUT</zValue>
+            <zValue>UNIT_WORKER</zValue>
+            <zValue>UNIT_SETTLER</zValue>
+        </aeWaterUnit>
     </Entry>
     <Entry>
         <zType>EFFECTPLAYER_NATION_CORRINO</zType>
         <Name>TEXT_NATION_CORRINO</Name>
         <SourceNation>NATION_CORRINO</SourceNation>
         <EffectCity>EFFECTCITY_NATION_CORRINO</EffectCity>
+        <aeWaterUnit>
+            <zValue>UNIT_SCOUT</zValue>
+            <zValue>UNIT_WORKER</zValue>
+            <zValue>UNIT_SETTLER</zValue>
+        </aeWaterUnit>
     </Entry>
     <Entry>
         <zType>EFFECTPLAYER_NATION_FREMEN</zType>
@@ -23,6 +33,11 @@
         <SourceNation>NATION_FREMEN</SourceNation>
         <EffectCity>EFFECTCITY_NATION_FREMEN</EffectCity>
 		<EffectUnit>EFFECTUNIT_FREMEN</EffectUnit>
+        <aeWaterUnit>
+            <zValue>UNIT_SCOUT</zValue>
+            <zValue>UNIT_WORKER</zValue>
+            <zValue>UNIT_SETTLER</zValue>
+        </aeWaterUnit>
     </Entry>
     <Entry>
         <zType>EFFECTPLAYER_NATION_HARKONNEN</zType>
@@ -30,5 +45,10 @@
         <SourceNation>NATION_HARKONNEN</SourceNation>
         <EffectCity>EFFECTCITY_NATION_HARKONNEN</EffectCity>
 		<iConsumptionModifier>-25</iConsumptionModifier>
+        <aeWaterUnit>
+            <zValue>UNIT_SCOUT</zValue>
+            <zValue>UNIT_WORKER</zValue>
+            <zValue>UNIT_SETTLER</zValue>
+        </aeWaterUnit>
     </Entry>
 </Root>
