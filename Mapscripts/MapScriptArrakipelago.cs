@@ -99,7 +99,6 @@ public class MapScriptArrakipelago : DefaultMapScript
         heightGen.AddNoise(16, ElevationNoiseAmplitude);
         heightGen.Normalize();
 
-        // Set the lowest tiles to be water
         List<NoiseGenerator.TileValue> tiles = heightGen.GetPercentileRange(0, OceanPercent);
         foreach (NoiseGenerator.TileValue tile in tiles)
         {
@@ -108,7 +107,6 @@ public class MapScriptArrakipelago : DefaultMapScript
             loopTile.meHeight = infos.Globals.HILL_HEIGHT;
         }
 
-        // Set the next lowest tiles to be coast
         tiles = heightGen.GetPercentileRange(OceanPercent, OceanPercent + CoastPercent);
         foreach (NoiseGenerator.TileValue tile in tiles)
         {
@@ -132,6 +130,16 @@ public class MapScriptArrakipelago : DefaultMapScript
 			if (random.Next(2) == 1) {
 				tile.meHeight = infos.Globals.MOUNTAIN_HEIGHT;
 			} else {
+				tile.meHeight = infos.Globals.HILL_HEIGHT;
+			}
+        }
+
+        foreach (TileData tile in Tiles.Where(x => !IsDesert(x) && !IsMountainOrHillsAny(x) && CountAdjacent(x, IsMountainOrHillsAny) == 0))
+        {
+            int roll = random.Next(8);
+			if (roll == 1) {
+				tile.meHeight = infos.Globals.MOUNTAIN_HEIGHT;
+			} else if (roll >= 2 && roll <=4) {
 				tile.meHeight = infos.Globals.HILL_HEIGHT;
 			}
         }
