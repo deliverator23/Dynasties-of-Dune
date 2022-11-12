@@ -11,4 +11,8 @@
 		<zType>TEXT_IMPROVEMENTCLASS_INSECT_FARM</zType>
 		<en-US>Insect Farm~an Insect Farm~Insect Farms</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_PROCESSING_PLANT</zType>
+		<en-US>Processing Plant~a Processing Plant~Processing Plants</en-US>
+	</Entry>
 </Root>

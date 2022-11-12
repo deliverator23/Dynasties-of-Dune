@@ -3,6 +3,225 @@
 		<zType>BONUS_FAMILYCLASS_STATESMEN</zType>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_RESOURCE_SALT_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_GEM_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_FUR_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_HONEY_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_INCENSE_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_LAVENDER_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_OLIVE_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_WINE_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_DYE_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_RESOURCE_PEARL_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_LANDOWNERS</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_CHAMPIONS</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_STATESMEN</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_PATRONS</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_CLERICS</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_SAGES</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_TRADERS</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_ARTISANS</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_RIDERS</zType>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_HUNTERS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_FARM</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_MINE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_QUARRY</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_LUMBERMILL</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_PASTURE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GROVE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_NETS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_HARBOR</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GRANARY</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_WATERMILL</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_WINDMILL</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_HAMLET</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_VILLAGE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_TOWN</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_BARRACKS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_RANGE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_THEATER_1</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_THEATER_2</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_THEATER_3</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_BATHS_1</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_BATHS_2</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_BATHS_3</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_MARKET_1</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_MARKET_2</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_MARKET_3</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_LIBRARY_1</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_LIBRARY_2</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_LIBRARY_3</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_COURTHOUSE_1</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_COURTHOUSE_2</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_COURTHOUSE_3</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GARRISON_1</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GARRISON_2</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GARRISON_3</zType>
+	</Entry>	
+	<Entry>
+		<zType>IMPROVEMENTCLASS_FARM</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_MINE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_QUARRY</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_LUMBERMILL</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_PASTURE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_GROVE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_NETS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_HARBOR</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_GRANARY</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_MILL</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_HAMLET</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_BARRACKS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_RANGE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_ODEON</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_BATHS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_MARKET</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_LIBRARY</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_COURTHOUSE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_GARRISON</zType>
+	</Entry>
+	<Entry>
 		<zType>LAW_EPICS</zType>
 	</Entry>
 	<Entry>
@@ -432,6 +651,30 @@
 		<zType>TECH_IRONWORKING</zType>
 	</Entry>
 	<Entry>
+		<zType>TECH_STONECUTTING</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_TRAPPING</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_ADMINISTRATION_BONUS_WORKER</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_HUSBANDRY_BONUS_FOOD</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_STONECUTTING_BONUS_STONE</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_HUSBANDRY</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_POLIS</zType>
+	</Entry>
+	<Entry>
+		<zType>TERRAIN_MARSH</zType>
+	</Entry>
+	<Entry>
 		<zType>UNIT_BATTERING_RAM</zType>
 	</Entry>
 	<Entry>
@@ -594,6 +837,15 @@
 		<zType>UNIT_MANGONEL</zType>
 	</Entry>
 	<Entry>
+		<zType>UNIT_AXEMAN</zType>
+	</Entry>
+	<Entry>
+		<zType>UNIT_ARCHER</zType>
+	</Entry>
+	<Entry>
+		<zType>UNIT_WARRIOR</zType>
+	</Entry>
+	<Entry>
 		<zType>UNIT_LONGBOWMAN</zType>
 	</Entry>
 	<Entry>
@@ -616,6 +868,9 @@
 	</Entry>
 	<Entry>
 		<zType>UNIT_CONSCRIPT</zType>
+	</Entry>
+	<Entry>
+		<zType>UNIT_SLINGER</zType>
 	</Entry>
 	<Entry>
 		<zType>UNIT_ZOROASTRIANISM_DISCIPLE</zType>

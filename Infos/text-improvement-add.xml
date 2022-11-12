@@ -23,4 +23,12 @@
 		<zType>TEXT_IMPROVEMENT_INSECT_FARM_HINT</zType>
 		<en-US>Insect Farm Hint</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PROCESSING_PLANT</zType>
+		<en-US>Processing Plant~a Processing Plant~Processing Plants</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PROCESSING_PLANT_HINT</zType>
+		<en-US>Processing Plant Hint</en-US>
+	</Entry>
 </Root>

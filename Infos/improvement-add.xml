@@ -7,7 +7,7 @@
 		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
 		<AssetConstruction>NONE</AssetConstruction>
 		<zIconName>IMPROVEMENT_MINE</zIconName>
-		<iBuildTurns>3</iBuildTurns>
+		<iBuildTurns>5</iBuildTurns>
 		<iBuildCost>1</iBuildCost>
 		<iPillageTurns>10</iPillageTurns>
 		<bBuild>1</bBuild>
@@ -16,31 +16,23 @@
 		<bShowAlways>1</bShowAlways>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_WOOD</zIndex>
-				<iValue>20</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiYieldOutput>
 			<Pair>
-				<zIndex>YIELD_IRON</zIndex>
-				<iValue>50</iValue>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldOutput>
 		<aiYieldPillage>
 			<Pair>
-				<zIndex>YIELD_IRON</zIndex>
-				<iValue>20</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldPillage>
 		<abTerrainValid>
-			<Pair>
-				<zIndex>TERRAIN_LUSH</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TERRAIN_TEMPERATE</zIndex>
-				<bValue>1</bValue>
-			</Pair>
 			<Pair>
 				<zIndex>TERRAIN_ARID</zIndex>
 				<bValue>1</bValue>
@@ -53,6 +45,7 @@
 			</Pair>
 		</abHeightValid>
 	</Entry>
+	<!--
 	<Entry>
 		<zType>IMPROVEMENT_INSECT_FARM</zType>
 		<Name>TEXT_IMPROVEMENT_INSECT_FARM</Name>
@@ -70,43 +63,29 @@
 		<bShowAlways>1</bShowAlways>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_WOOD</zIndex>
-				<iValue>20</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>60</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiYieldOutput>
 			<Pair>
-				<zIndex>YIELD_IRON</zIndex>
-				<iValue>50</iValue>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldOutput>
 		<aiYieldPillage>
 			<Pair>
-				<zIndex>YIELD_IRON</zIndex>
-				<iValue>20</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>60</iValue>
 			</Pair>
 		</aiYieldPillage>
 		<abTerrainValid>
 			<Pair>
-				<zIndex>TERRAIN_LUSH</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
 				<zIndex>TERRAIN_TEMPERATE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
-			<Pair>
-				<zIndex>TERRAIN_ARID</zIndex>
-				<bValue>1</bValue>
-			</Pair>
 		</abTerrainValid>
-		<abHeightValid>
-			<Pair>
-				<zIndex>HEIGHT_FLAT</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abHeightValid>
-	</Entry>
+	</Entry> -->
 	<Entry>
 		<zType>IMPROVEMENT_DEW_COLLECTOR</zType>
 		<Name>TEXT_IMPROVEMENT_DEW_COLLECTOR</Name>
@@ -124,41 +103,67 @@
 		<bShowAlways>1</bShowAlways>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_WOOD</zIndex>
-				<iValue>20</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiYieldOutput>
 			<Pair>
-				<zIndex>YIELD_IRON</zIndex>
-				<iValue>50</iValue>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldOutput>
 		<aiYieldPillage>
 			<Pair>
-				<zIndex>YIELD_IRON</zIndex>
-				<iValue>20</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldPillage>
 		<abTerrainValid>
 			<Pair>
-				<zIndex>TERRAIN_LUSH</zIndex>
+				<zIndex>TERRAIN_TEMPERATE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
+		</abTerrainValid>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_PROCESSING_PLANT</zType>
+		<Name>TEXT_IMPROVEMENT_PROCESSING_PLANT</Name>
+		<Hint>TEXT_IMPROVEMENT_PROCESSING_PLANT_HINT</Hint>
+		<Class>IMPROVEMENTCLASS_PROCESSING_PLANT</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
+		<AssetConstruction>NONE</AssetConstruction>
+		<zIconName>IMPROVEMENT_GROVE</zIconName>
+		<iBuildTurns>3</iBuildTurns>
+		<iBuildCost>1</iBuildCost>
+		<iPillageTurns>10</iPillageTurns>
+		<bBuild>1</bBuild>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bNoVegetation>1</bNoVegetation>
+		<bShowAlways>1</bShowAlways>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
 			<Pair>
 				<zIndex>TERRAIN_TEMPERATE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
-			<Pair>
-				<zIndex>TERRAIN_ARID</zIndex>
-				<bValue>1</bValue>
-			</Pair>
 		</abTerrainValid>
-		<abHeightValid>
-			<Pair>
-				<zIndex>HEIGHT_FLAT</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abHeightValid>
 	</Entry>
 </Root>

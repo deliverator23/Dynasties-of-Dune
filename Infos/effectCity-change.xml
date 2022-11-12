@@ -1,4 +1,67 @@
 <Root>
+	<!-- City Yields --> 
+	<Entry>
+		<zType>EFFECTCITY_BASE</zType>
+		<Name>TEXT_EFFECTCITY_BASE</Name>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>0</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_CAPITAL</zType>
+		<Name>TEXT_EFFECTCITY_CAPITAL</Name>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<!-- Family Class --> 
 	<Entry>
 		<zType>EFFECTCITY_FAMILYCLASS_STATESMEN</zType>
 		<aiYieldRate>

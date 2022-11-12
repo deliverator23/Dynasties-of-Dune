@@ -1,0 +1,17 @@
+<Root>
+	<Entry>
+		<zType>GAME_OPTION_PRESET_NONE</zType>
+		<zName>TEXT_GAME_OPTION_PRESET_NONE</zName>
+		<TurnScale>TURNSCALE_YEAR</TurnScale>
+		<ForceMarch>FORCEMARCH_DISABLE</ForceMarch>
+		<EventLevel>EVENTLEVEL_MODERATE</EventLevel>
+		<Mortality>MORTALITY_STANDARD</Mortality>
+		<Archetype>TRAIT_PRESET_ARCHETYPE</Archetype>
+		<Dynasty>DYNASTY_DEFAULT</Dynasty>
+		<SuccessionGender>SUCCESSIONGENDER_ABSOLUTE_COGNATIC</SuccessionGender>
+		<SuccessionOrder>SUCCESSIONORDER_PRIMOGENITURE</SuccessionOrder>
+		<VictoriesDisabled>
+			<zValue>VICTORY_TIME</zValue>
+		</VictoriesDisabled>
+	</Entry>
+</Root>

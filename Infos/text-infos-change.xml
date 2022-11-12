@@ -1,40 +1,4 @@
 <Root>
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_LANDOWNERS</zType>
-		<en-US>Oppressors~Oppressor</en-US>
-	</Entry>
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_PATRONS</zType>
-		<en-US>Benefactors~Benefactor</en-US>
-	</Entry>
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_TRADERS</zType>
-		<en-US>Magnates~Magnate</en-US>
-	</Entry>	
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_HUNTERS</zType>
-		<en-US>Adventurers~Adventurer</en-US>
-	</Entry>
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_ARTISANS</zType>
-		<en-US>Intriguers~Intriguer</en-US>
-	</Entry>
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_CHAMPIONS</zType>
-		<en-US>Warmasters~Warmaster</en-US>
-	</Entry>	
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_CLERICS</zType>
-		<en-US>Mystics~Mystic</en-US>
-	</Entry>	
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_RIDERS</zType>
-		<en-US>Raiders~Raider</en-US>
-	</Entry>
-	<Entry>
-		<zType>TEXT_FAMILYCLASS_SAGES</zType>
-		<en-US>Scientists~Scientist</en-US>
-	</Entry>
     <!-- Terrain -->
     <Entry>
         <zType>TEXT_TERRAIN_LUSH</zType>
@@ -64,5 +28,118 @@
 	<Entry>
 		<zType>TEXT_HEIGHT_MOUNTAIN</zType>
 		<en-US>Shield Wall~a Shield Wall~Shield Wall</en-US>
+	</Entry>
+	<!-- Resources -->
+	<Entry>
+		<zType>TEXT_RESOURCE_BARLEY</zType>
+		<en-US>Apricots</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_CAMEL</zType>
+		<en-US>Burrow Bush</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_CATTLE</zType>
+		<en-US>Camel Sage</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_CITRUS</zType>
+		<en-US>Chukka</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_CRAB</zType>
+		<en-US>Creosote Bush</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_DYE</zType>
+		<en-US>Desert Hare</en-US>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_RESOURCE_ELEPHANT</zType>
+		<en-US>Donkey</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_FISH</zType>
+		<en-US>Figs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_FUR</zType>
+		<en-US>Melon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_GAME</zType>
+		<en-US>Onion Grass</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_GEM</zType>
+		<en-US>Pigweed</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_GOAT</zType>
+		<en-US>Sand Verbena</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_GOLD</zType>
+		<en-US>Spiked Paintbrush</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_HONEY</zType>
+		<en-US>Sword Grass</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_HORSE</zType>
+		<en-US>Wild Alfalfa</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_INCENSE</zType>
+		<en-US>Etching Resin</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_LAVENDER</zType>
+		<en-US>Metals</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_MARBLE</zType>
+		<en-US>Minerals</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_OLIVE</zType>
+		<en-US>Plascrete</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_ORE</zType>
+		<en-US>Sandworm Graveyard</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_PEARL</zType>
+		<en-US>Smoke Tree</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_PIG</zType>
+		<en-US>Spice Field</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_SALT</zType>
+		<en-US>Coffee</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_SHEEP</zType>
+		<en-US>Cotton</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_SILVER</zType>
+		<en-US>Date</en-US>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_RESOURCE_SORGHUM</zType>
+		<en-US>Incense Bush</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_WHEAT</zType>
+		<en-US>Rare Elements</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RESOURCE_WINE</zType>
+		<en-US>Spice Honey</en-US>
 	</Entry>
 </Root>

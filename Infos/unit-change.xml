@@ -1,0 +1,14 @@
+<Root>
+	<Entry>
+		<zType>UNIT_SETTLER</zType>
+		<TechPrereq>TECH_SIETCH</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>UNIT_WORKER</zType>
+		<TechPrereq>TECH_SIETCH</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>UNIT_SCOUT</zType>
+		<TechPrereq>TECH_EXPLORATION</TechPrereq>
+	</Entry>
+</Root>

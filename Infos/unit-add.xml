@@ -25,7 +25,8 @@
 			<zValue>FORMATION_SCOUT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_SCOUT</UnitCycle>
-		<ProductionType>YIELD_GROWTH</ProductionType>
+		<TechPrereq>TECH_COMBAT_ORNITHOPTER</TechPrereq>
+		<ProductionType>YIELD_MANPOWER</ProductionType>
 		<iMovement>2</iMovement>
 		<iVision>3</iVision>
 		<iReveal>1</iReveal>
@@ -46,6 +47,18 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiStartDifficulty>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldConsumption>
 		<aeUnitTrait>
 			<zValue>UNITTRAIT_EXPLORATION</zValue>
 		</aeUnitTrait>

@@ -2,7 +2,7 @@
     <Entry>
 		<zType>IMPROVEMENTCLASS_WINDTRAP</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_WINDTRAP</Name>
-		<SpecialistClass>SPECIALISTCLASS_FARMER</SpecialistClass>
+		<SpecialistClass/>
 		<abResourceValid/>
 		<aeResourceCityEffect/>
 		<aaiResourceYieldOutput/>
@@ -10,20 +10,157 @@
     <Entry>
 		<zType>IMPROVEMENTCLASS_DEW_COLLECTOR</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_DEW_COLLECTOR</Name>
-		<SpecialistClass>SPECIALISTCLASS_FARMER</SpecialistClass>
+		<SpecialistClass/>
 		<abResourceValid>
 			<Pair>
-				<zIndex>RESOURCE_SAND_VERBENA</zIndex>
+				<zIndex>RESOURCE_BARLEY</zIndex>
 				<bValue>1</bValue>
 			</Pair>
             <Pair>
-				<zIndex>RESOURCE_SPIKED_PAINTBRUSH</zIndex>
+				<zIndex>RESOURCE_CAMEL</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_CATTLE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_CITRUS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_CRAB</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_FISH</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_FUR</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_GAME</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_GEM</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_GOAT</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_GOLD</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_HONEY</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_HORSE</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abResourceValid>
 		<aeResourceCityEffect/>
-		<aaiResourceYieldOutput/>
+		<aaiResourceYieldOutput>
+			<Pair>
+				<zIndex>RESOURCE_BARLEY</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_CAMEL</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_CATTLE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_CITRUS</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_CRAB</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_FISH</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_FUR</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_GAME</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_GEM</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_GOAT</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_GOLD</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+            <Pair>
+				<zIndex>RESOURCE_HONEY</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_HORSE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+		</aaiResourceYieldOutput>
 	</Entry>
+	<!--
     <Entry>
 		<zType>IMPROVEMENTCLASS_INSECT_FARM</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_INSECT_FARM</Name>
@@ -36,5 +173,81 @@
 		</abResourceValid>
 		<aeResourceCityEffect/>
 		<aaiResourceYieldOutput/>
+	</Entry> -->
+	<Entry>
+		<zType>IMPROVEMENTCLASS_PROCESSING_PLANT</zType>
+		<Name>TEXT_IMPROVEMENTCLASS_PROCESSING_PLANT</Name>
+		<SpecialistClass/>
+		<abResourceValid>
+			<Pair>
+				<zIndex>RESOURCE_SALT</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_SHEEP</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_SILVER</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_SORGHUM</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_WHEAT</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_WINE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abResourceValid>
+		<aeResourceCityEffect/>
+		<aaiResourceYieldOutput>
+			<Pair>
+				<zIndex>RESOURCE_SALT</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>100</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_SHEEP</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>100</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_SILVER</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>100</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_SORGHUM</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>100</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_WHEAT</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>100</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>RESOURCE_WINE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>100</iValue>
+				</SubPair>
+			</Pair>
+		</aaiResourceYieldOutput>
 	</Entry>
 </Root>

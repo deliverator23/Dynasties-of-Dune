@@ -79,4 +79,165 @@
 		<zType>TEXT_FAMILYCLASS_SCIENTIST</zType>
 		<en-US>Scientists~Scientist</en-US>
 	</Entry>
+	<!-- Technology Texts -->
+	<Entry>
+		<zType>TEXT_TECH_DESERT_SURVIVAL</zType>
+		<en-US>Desert Survival</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_DESERT_SURVIVAL</zType>
+		<en-US>This essential tech unlocks the projects that are important to the early game.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_EXPLORATION</zType>
+		<en-US>Exploration</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_EXPLORATION</zType>
+		<en-US>This essential tech unlocks the scout ornithopter to aid with your exploration.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SYMBOLS</zType>
+		<en-US>Symbols</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SYMBOLS</zType>
+		<en-US>This essential tech gives a big boost to your city's Culture in the early game, ideal for those wanting tall Cities.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MYSTICISM</zType>
+		<en-US>Mysticism</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_MYSTICISM</zType>
+		<en-US>This tech is the first step towards a religion.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BASIC_MINING</zType>
+		<en-US>Basic Mining</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BASIC_MINING</zType>
+		<en-US>This tech provides much needed local materials.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_WATER_TRANSPORT</zType>
+		<en-US>Water Transportation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_WATER_TRANSPORT</zType>
+		<en-US>This tech makes city connections more worthwhile.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_WATER_STORAGE</zType>
+		<en-US>Water Storage</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_WATER_STORAGE</zType>
+		<en-US>This tech unlocks projects necessary in growing your Cities.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_RITUAL</zType>
+		<en-US>Ritual</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_RITUAL</zType>
+		<en-US>This tech unlocks projects that provides more Devotion.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_WORSHIP</zType>
+		<en-US>Worship</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_WORSHIP</zType>
+		<en-US>This tech unlocks projects that provides more Devotion.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BASIC_DEFENSE</zType>
+		<en-US>Basic Defense</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BASIC_DEFENSE</zType>
+		<en-US>This tech unlocks projects that aids City defenses.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SIETCH</zType>
+		<en-US>Sietch</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SIETCH</zType>
+		<en-US>This tech unlocks projects that aids City development.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_WATER_CONSERVATION</zType>
+		<en-US>Water Conservation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_WATER_CONSERVATION</zType>
+		<en-US>This tech unlocks projects that aids City development.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MINING</zType>
+		<en-US>Mining</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_MINING</zType>
+		<en-US>This tech unlocks projects that acquires more Local Resources.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MEDITATION</zType>
+		<en-US>Meditation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_MEDITATION</zType>
+		<en-US>This tech unlocks projects that acquires more Devotion.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DEVOTION</zType>
+		<en-US>Devotion</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_DEVOTION</zType>
+		<en-US>This tech unlocks projects that acquires more Devotion.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COMBAT_ORNITHOPTER</zType>
+		<en-US>Combat Ornithopter</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_COMBAT_ORNITHOPTER</zType>
+		<en-US>This tech unlocks combat ornithopter.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BLADE_MAKING</zType>
+		<en-US>Blade Making</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BLADE_MAKING</zType>
+		<en-US>This tech unlocks new melee units.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BASIC_EDUCATION</zType>
+		<en-US>Basic Education</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BASIC_EDUCATION</zType>
+		<en-US>This tech unlocks more sources of science.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SPICE_EXTRACTION</zType>
+		<en-US>Spice Extraction</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SPICE_EXTRACTION</zType>
+		<en-US>This tech unlocks the ability to gain spices.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LIGHT_MANUFACTURING</zType>
+		<en-US>Light Manufacturing</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING</zType>
+		<en-US>This tech unlocks more resources needed for war.</en-US>
+	</Entry>
 </Root>
