@@ -240,12 +240,12 @@
 		<zType>EFFECTCITY_FAMILYCLASS_SCIENTIST</zType>
 		<Name>TEXT_FAMILYCLASS_SCIENTIST</Name>
 		<SourceFamilyClass>FAMILYCLASS_SCIENTIST</SourceFamilyClass>
-		<aiImprovementClassModifier>
+		<aiYieldRateSpecialistUrban>
 			<Pair>
-				<zIndex>IMPROVEMENTCLASS_LIBRARY</zIndex>
-				<iValue>100</iValue>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>20</iValue>
 			</Pair>
-		</aiImprovementClassModifier>
+		</aiYieldRateSpecialistUrban>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_FAMILYCLASS_SCIENTIST_SEAT</zType>

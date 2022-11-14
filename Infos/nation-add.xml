@@ -19,7 +19,7 @@
             <zValue>DYNASTY_HARKONNEN</zValue>
         </aeDynasties>
         <DefaultDynasty>DYNASTY_HARKONNEN</DefaultDynasty>
-        <FirstBuild>UNIT_SETTLER</FirstBuild>
+        <FirstBuild>UNIT_MILITIA</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_HARKONNEN</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_PERSIA</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
@@ -29,12 +29,6 @@
                 <iValue>1</iValue>
             </Pair>
         </aiStartUnit>
-        <aiCityUnit>
-            <Pair>
-                <zIndex>UNIT_WORKER</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiCityUnit>
         <aeFirstNamesMale>
             <zValue>NAME_ABRATTAN</zValue>
             <zValue>NAME_ABULURD</zValue>
@@ -172,7 +166,7 @@
             <zValue>DYNASTY_ATREIDES</zValue>
         </aeDynasties>
         <DefaultDynasty>DYNASTY_ATREIDES</DefaultDynasty>
-        <FirstBuild>UNIT_SETTLER</FirstBuild>
+        <FirstBuild>UNIT_MILITIA</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_ATREIDES</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_GREECE</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
@@ -182,12 +176,6 @@
                 <iValue>1</iValue>
             </Pair>
         </aiStartUnit>
-        <aiCityUnit>
-            <Pair>
-                <zIndex>UNIT_WORKER</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiCityUnit>
         <aeFirstNamesMale>
             <zValue>NAME_ADAM</zValue>
             <zValue>NAME_AGAMEMNON</zValue>
@@ -342,7 +330,7 @@
             <zValue>DYNASTY_CORRINO</zValue>
         </aeDynasties>
         <DefaultDynasty>DYNASTY_CORRINO</DefaultDynasty>
-        <FirstBuild>UNIT_SETTLER</FirstBuild>
+        <FirstBuild>UNIT_MILITIA</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_CORRINO</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_ROME</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
@@ -352,12 +340,6 @@
                 <iValue>1</iValue>
             </Pair>
         </aiStartUnit>
-        <aiCityUnit>
-            <Pair>
-                <zIndex>UNIT_WORKER</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiCityUnit>
         <aeFirstNamesMale>
             <zValue>NAME_AMISHAR</zValue>
             <zValue>NAME_AMSHOD</zValue>
@@ -526,7 +508,7 @@
             <zValue>DYNASTY_FREMEN</zValue>
         </aeDynasties>
         <DefaultDynasty>DYNASTY_FREMEN</DefaultDynasty>
-        <FirstBuild>UNIT_SETTLER</FirstBuild>
+        <FirstBuild>UNIT_MILITIA</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_FREMEN</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_ASSYRIA</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
@@ -536,12 +518,6 @@
                 <iValue>1</iValue>
             </Pair>
         </aiStartUnit>
-        <aiCityUnit>
-            <Pair>
-                <zIndex>UNIT_WORKER</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiCityUnit>
         <aeFirstNamesMale>
             <zValue>NAME_ABUMOJANDIS</zValue>
             <zValue>NAME_ASSAN</zValue>

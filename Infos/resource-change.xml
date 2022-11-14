@@ -14,13 +14,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -54,13 +54,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -95,13 +95,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -132,13 +132,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -169,13 +169,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -206,13 +206,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -245,13 +245,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -281,13 +281,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -319,13 +319,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -356,13 +356,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -393,13 +393,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -433,13 +433,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -470,13 +470,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -506,13 +506,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>
@@ -548,13 +548,13 @@
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
+				<iValue>2</iValue>
 			</Pair>
 		</aiYieldHarvest>
 		<aiYieldNoImprovement>

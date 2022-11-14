@@ -1,0 +1,17 @@
+<Root>
+	<Entry>
+		<zType>FORCEMARCH_UNLIMITED</zType>
+		<Name>TEXT_FORCEMARCH_DISABLED</Name>
+		<bDisabled>1</bDisabled>
+	</Entry>
+	<Entry>
+		<zType>FORCEMARCH_DOUBLE_FATIGUE</zType>
+		<Name>TEXT_FORCEMARCH_DISABLED</Name>
+		<bDisabled>1</bDisabled>
+	</Entry>
+	<Entry>
+		<zType>FORCEMARCH_DISABLE</zType>
+		<Name>TEXT_FORCEMARCH_DISABLED</Name>
+		<bDisabled>1</bDisabled>
+	</Entry>
+</Root>

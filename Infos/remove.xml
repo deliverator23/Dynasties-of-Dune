@@ -381,6 +381,9 @@
 		<zType>NATION_ROME</zType>
 	</Entry>
 	<Entry>
+		<zType>PROJECT_MOAT</zType>
+	</Entry>
+	<Entry>
 		<zType>TECH_ECONOMIC_REFORM</zType>
 	</Entry>
 	<Entry>
@@ -412,6 +415,9 @@
 	</Entry>
 	<Entry>
 		<zType>TECH_BODKIN_ARROW</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_BODKIN_ARROW_BONUS_LONGBOWMAN</zType>
 	</Entry>
 	<Entry>
 		<zType>TECH_VAULTING</zType>

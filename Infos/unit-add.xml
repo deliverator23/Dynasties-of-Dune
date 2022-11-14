@@ -37,16 +37,6 @@
 		<bIgnoreZOC>1</bIgnoreZOC>
 		<bHarvest>1</bHarvest>
 		<bAgent>1</bAgent>
-		<aiStartDifficulty>
-			<Pair>
-				<zIndex>DIFFICULTY_ABLE</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>DIFFICULTY_JUST</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiStartDifficulty>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>

@@ -89,4 +89,39 @@
 			</Pair>
 		</aiUnits>
 	</Entry>
+	<!-- Project Bonuses --> 
+	<Entry>
+		<zType>BONUS_PROJECT_COUNCIL_1</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_COUNCIL_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-15</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry><Entry>
+		<zType>BONUS_PROJECT_COUNCIL_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry><Entry>
+		<zType>BONUS_PROJECT_COUNCIL_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
 </Root>

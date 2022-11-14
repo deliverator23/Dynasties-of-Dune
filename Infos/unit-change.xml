@@ -2,13 +2,38 @@
 	<Entry>
 		<zType>UNIT_SETTLER</zType>
 		<TechPrereq>TECH_SIETCH</TechPrereq>
+		<iProduction>15</iProduction>
 	</Entry>
 	<Entry>
 		<zType>UNIT_WORKER</zType>
 		<TechPrereq>TECH_SIETCH</TechPrereq>
+		<iProduction>15</iProduction>
+		<aiStartDifficulty></aiStartDifficulty>
 	</Entry>
+	<Entry>
+		<zType>UNIT_MILITIA</zType>
+		<iProduction>8</iProduction>
+	</Entry>	
 	<Entry>
 		<zType>UNIT_SCOUT</zType>
 		<TechPrereq>TECH_EXPLORATION</TechPrereq>
+		<iMovement>2</iMovement>
+		<iFatigue>3</iFatigue>
+		<iStrength>20</iStrength>
+		<iProduction>8</iProduction>
+		<aiStartDifficulty>
+			<Pair>
+				<zIndex>DIFFICULTY_ABLE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>DIFFICULTY_JUST</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiStartDifficulty>
+		<aeUnitTrait>
+			<zValue>UNITTRAIT_EXPLORATION</zValue>
+		</aeUnitTrait>
+		<aeEffectUnit></aeEffectUnit>
 	</Entry>
 </Root>

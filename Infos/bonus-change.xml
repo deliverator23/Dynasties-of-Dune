@@ -8,4 +8,41 @@
 			</Pair>
 		</aiGlobalYields>
 	</Entry>
+	<!-- Projects --> 
+	<Entry>
+		<zType>BONUS_PROJECT_ARCHIVE_1</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_ARCHIVE_2</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_ARCHIVE_3</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>35</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_ARCHIVE_4</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>45</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
 </Root>
