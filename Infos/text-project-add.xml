@@ -7,4 +7,48 @@
 		<zType>TEXT_PROJECT_EARLY_ESPIONAGE_1</zType>
 		<en-US>Early Espionage I~Early Espionage I~Early Espionage I</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WINDTRAP_1</zType>
+		<en-US>Primitive Windtrap~a Primitive Windtrap~Primitive Windtraps</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WORKSHOP_1</zType>
+		<en-US>Primitive Workshop~a Primitive Workshop~Primitive Workshops</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FUEL_FACTORY_1</zType>
+		<en-US>Primitive Fuel Factory~a Primitive Fuel Factory~Primitive Fuel Factories</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONUMENT_1</zType>
+		<en-US>Early Monument~an Early Monument~Early Monuments</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINE_1</zType>
+		<en-US>Primitive Mine~a Primitive Mine~Primitive Mines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINERAL_TRADE_POST</zType>
+		<en-US>Mineral Trade Post~a Mineral Trade Post~Mineral Trade Posts</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOCAL_MATERIAL_TRADE</zType>
+		<en-US>Local Material Trade~Local Material Trade~Local Material Trades</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WATER_SELLING_BASE</zType>
+		<en-US>Water Selling Base~a Water Selling Base~Water Selling Bases</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WATER_SILO_1</zType>
+		<en-US>Small Water Silo~a Small Water Silo~Small Water Silos</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WATER_PLANT_1</zType>
+		<en-US>Water Container Plant I~Water Container Plant I~Water Container Plant I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BASIC_FORAGING</zType>
+		<en-US>Basic Foraging~Basic Foraging~Basic Foraging</en-US>
+	</Entry>
 </Root>

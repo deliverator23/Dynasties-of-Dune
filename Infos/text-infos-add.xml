@@ -48,36 +48,72 @@
 		<en-US>Oppressors~Oppressor</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_FAMILYCLASS_OPPRESSOR_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_FAMILYCLASS_BENEFACTOR</zType>
 		<en-US>Benefactors~Benefactor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_BENEFACTOR_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILYCLASS_MAGNATE</zType>
 		<en-US>Magnates~Magnate</en-US>
 	</Entry>	
 	<Entry>
+		<zType>TEXT_FAMILYCLASS_MAGNATE_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_FAMILYCLASS_ADVENTURER</zType>
 		<en-US>Adventurers~Adventurer</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_ADVENTURER_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILYCLASS_INTRIGUER</zType>
 		<en-US>Intriguers~Intriguer</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_FAMILYCLASS_INTRIGUER_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_FAMILYCLASS_WARMASTER</zType>
 		<en-US>Warmasters~Warmaster</en-US>
 	</Entry>	
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_WARMASTER_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
+	</Entry>
 	<Entry>
 		<zType>TEXT_FAMILYCLASS_MYSTIC</zType>
 		<en-US>Mystics~Mystic</en-US>
 	</Entry>	
 	<Entry>
+		<zType>TEXT_FAMILYCLASS_MYSTIC_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_FAMILYCLASS_RAIDER</zType>
 		<en-US>Raiders~Raider</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_FAMILYCLASS_RAIDER_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_FAMILYCLASS_SCIENTIST</zType>
 		<en-US>Scientists~Scientist</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_SCIENTIST_ADVICE_FOUND</zType>
+		<en-US>TBD</en-US>
 	</Entry>
 	<!-- Technology Texts -->
 	<Entry>

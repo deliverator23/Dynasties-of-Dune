@@ -10,7 +10,7 @@
 				<iValue>200</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>200</iValue>
 			</Pair>
 			<Pair>
@@ -34,7 +34,7 @@
 				<iValue>150</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>150</iValue>
 			</Pair>
 			<Pair>
@@ -58,7 +58,7 @@
 				<iValue>50</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>50</iValue>
 			</Pair>
 			<Pair>
@@ -82,7 +82,7 @@
 				<iValue>40</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>40</iValue>
 			</Pair>
 			<Pair>
@@ -106,7 +106,7 @@
 				<iValue>30</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>30</iValue>
 			</Pair>
 			<Pair>
@@ -130,7 +130,7 @@
 				<iValue>20</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>20</iValue>
 			</Pair>
 			<Pair>
@@ -154,7 +154,7 @@
 				<iValue>20</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>20</iValue>
 			</Pair>
 			<Pair>
@@ -178,7 +178,7 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_MANPOWERG</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>

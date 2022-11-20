@@ -17,7 +17,7 @@
 		<Name>TEXT_YIELD_MANPOWER</Name>
 		<Color>COLOR_YIELD_MANPOWER</Color>
 		<Help>TEXT_YIELD_MANPOWER_HELP</Help>
-		<zIconName>YIELD_MANPOWER</zIconName>
+		<zIconName>YIELD_TRAINING</zIconName>
 		<iMinimum>10</iMinimum>
 		<iDiscontentModifier>-5</iDiscontentModifier>
 		<iUIPosition>9</iUIPosition>
@@ -61,7 +61,7 @@
 		<Name>TEXT_YIELD_FUEL</Name>
 		<Color>COLOR_YIELD_FUEL</Color>
 		<Help>TEXT_YIELD_FUEL_HELP</Help>
-		<zIconName>YIELD_FUEL</zIconName>
+		<zIconName>YIELD_WOOD</zIconName>
 		<iDiscontentModifier>-5</iDiscontentModifier>
 		<iPrice>40</iPrice>
 		<iMinPrice>30</iMinPrice>
@@ -80,7 +80,7 @@
 		<Name>TEXT_YIELD_LOCAL_MATERIAL</Name>
 		<Color>COLOR_YIELD_LOCAL_MATERIAL</Color>
 		<Help>TEXT_YIELD_LOCAL_MATERIAL_HELP</Help>
-		<zIconName>YIELD_LOCAL_MATERIAL</zIconName>
+		<zIconName>YIELD_STONE</zIconName>
 		<iDiscontentModifier>-5</iDiscontentModifier>
 		<iPrice>4</iPrice>
 		<iMinPrice>1</iMinPrice>
@@ -99,7 +99,7 @@
 		<Name>TEXT_YIELD_OFFWORLD_SUPPLIES</Name>
 		<Color>COLOR_YIELD_OFFWORLD_SUPPLIES</Color>
 		<Help>TEXT_YIELD_OFFWORLD_SUPPLIES_HELP</Help>
-		<zIconName>YIELD_OFFWORLD_SUPPLIES</zIconName>
+		<zIconName>YIELD_IRON</zIconName>
 		<iDiscontentModifier>-5</iDiscontentModifier>
 		<iPrice>60</iPrice>
 		<iMinPrice>50</iMinPrice>

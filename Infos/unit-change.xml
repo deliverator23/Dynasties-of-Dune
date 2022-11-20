@@ -13,6 +13,12 @@
 	<Entry>
 		<zType>UNIT_MILITIA</zType>
 		<iProduction>8</iProduction>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiYieldConsumption>
 	</Entry>	
 	<Entry>
 		<zType>UNIT_SCOUT</zType>

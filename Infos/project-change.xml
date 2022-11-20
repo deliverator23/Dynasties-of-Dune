@@ -4,7 +4,7 @@
 		<Name>TEXT_PROJECT_WALLS</Name>
 		<zIcon>PROJECT_WALLS</zIcon>
 		<ProjectAsset>ASSET_VARIATION_PROJECT_WALLS</ProjectAsset>
-		<iCivics>60</iCivics>
+		<iCivics>30</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bCaptureDestroy>1</bCaptureDestroy>
 		<CityProject>PROJECT_WALLS</CityProject>
@@ -12,8 +12,8 @@
 		<TechPrereq>TECH_BASIC_DEFENSE</TechPrereq>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_STONE</zIndex>
-				<iValue>40</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -22,17 +22,17 @@
 		<Name>TEXT_PROJECT_TOWERS</Name>
 		<zIcon>PROJECT_TOWERS</zIcon>
 		<ProjectAsset>ASSET_VARIATION_PROJECT_TOWERS</ProjectAsset>
-		<iCivics>100</iCivics>
+		<iCivics>50</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<bCaptureDestroy>1</bCaptureDestroy>
 		<CityProject>PROJECT_TOWERS</CityProject>
 		<EffectCity>EFFECTCITY_PROJECT_TOWERS</EffectCity>
-		<TechPrereq>TECH_MARTIAL_CODE</TechPrereq>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
 		<ProjectPrereq>PROJECT_WALLS</ProjectPrereq>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_STONE</zIndex>
-				<iValue>80</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>200</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -50,30 +50,17 @@
 		<TechPrereq>TECH_ADMINISTRATION</TechPrereq>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_STONE</zIndex>
-				<iValue>20</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCost>
-		<abInvalidBy>
-			<Pair>
-				<zIndex>PROJECT_FORUM_2</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>PROJECT_FORUM_3</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>PROJECT_FORUM_4</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abInvalidBy>
+		<abInvalidBy></abInvalidBy>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FORUM_2</zType>
 		<Name>TEXT_PROJECT_FORUM_2</Name>
 		<zIcon>PROJECT_FORUM_2</zIcon>
-		<iCivics>60</iCivics>
+		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<Bonus>BONUS_PROJECT_FORUM_2</Bonus>
 		<CityProject>PROJECT_FORUM_2</CityProject>
@@ -83,26 +70,17 @@
 		<ProjectPrereq>PROJECT_FORUM_1</ProjectPrereq>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_STONE</zIndex>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
 				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCost>
-		<abInvalidBy>
-			<Pair>
-				<zIndex>PROJECT_FORUM_3</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>PROJECT_FORUM_4</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abInvalidBy>
+		<abInvalidBy></abInvalidBy>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FORUM_3</zType>
 		<Name>TEXT_PROJECT_FORUM_3</Name>
 		<zIcon>PROJECT_FORUM_3</zIcon>
-		<iCivics>80</iCivics>
+		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<Bonus>BONUS_PROJECT_FORUM_3</Bonus>
 		<CityProject>PROJECT_FORUM_3</CityProject>
@@ -112,22 +90,17 @@
 		<ProjectPrereq>PROJECT_FORUM_2</ProjectPrereq>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_STONE</zIndex>
-				<iValue>60</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCost>
-		<abInvalidBy>
-			<Pair>
-				<zIndex>PROJECT_FORUM_4</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abInvalidBy>
+		<abInvalidBy></abInvalidBy>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FORUM_4</zType>
 		<Name>TEXT_PROJECT_FORUM_4</Name>
 		<zIcon>PROJECT_FORUM_4</zIcon>
-		<iCivics>100</iCivics>
+		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<Bonus>BONUS_PROJECT_FORUM_4</Bonus>
 		<CityProject>PROJECT_FORUM_4</CityProject>
@@ -137,8 +110,8 @@
 		<ProjectPrereq>PROJECT_FORUM_3</ProjectPrereq>
 		<aiYieldCost>
 			<Pair>
-				<zIndex>YIELD_STONE</zIndex>
-				<iValue>80</iValue>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -160,6 +133,7 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
+		<abInvalidBy></abInvalidBy>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_ARCHIVE_2</zType>
@@ -179,6 +153,7 @@
 				<iValue>100</iValue>
 			</Pair>
 		</aiYieldCost>
+		<abInvalidBy></abInvalidBy>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_ARCHIVE_3</zType>
@@ -198,6 +173,7 @@
 				<iValue>150</iValue>
 			</Pair>
 		</aiYieldCost>
+		<abInvalidBy></abInvalidBy>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_ARCHIVE_4</zType>
@@ -217,54 +193,6 @@
 				<iValue>200</iValue>
 			</Pair>
 		</aiYieldCost>
-	</Entry>
-	<Entry>
-		<zType>PROJECT_FESTIVAL</zType>
-		<Name>TEXT_PROJECT_FESTIVAL</Name>
-		<zIcon>PROJECT_FESTIVAL_1</zIcon>
-		<bHidden>1</bHidden>
-		<EffectCity>EFFECTCITY_PROJECT_FESTIVAL</EffectCity>
-	</Entry>
-	<Entry>
-		<zType>PROJECT_FESTIVAL_1</zType>
-		<Name>TEXT_PROJECT_FESTIVAL_1</Name>
-		<zIcon>PROJECT_FESTIVAL_1</zIcon>
-		<iCivics>40</iCivics>
-		<bRepeat>1</bRepeat>
-		<Bonus>BONUS_PROJECT_FESTIVAL_1</Bonus>
-		<CityProject>PROJECT_FESTIVAL</CityProject>
-		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
-	</Entry>
-	<Entry>
-		<zType>PROJECT_FESTIVAL_2</zType>
-		<Name>TEXT_PROJECT_FESTIVAL_2</Name>
-		<zIcon>PROJECT_FESTIVAL_2</zIcon>
-		<iCivics>60</iCivics>
-		<bRepeat>1</bRepeat>
-		<Bonus>BONUS_PROJECT_FESTIVAL_2</Bonus>
-		<CityProject>PROJECT_FESTIVAL</CityProject>
-		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
-	</Entry>
-	<Entry>
-		<zType>PROJECT_FESTIVAL_3</zType>
-		<Name>TEXT_PROJECT_FESTIVAL_3</Name>
-		<zIcon>PROJECT_FESTIVAL_3</zIcon>
-		<iCivics>80</iCivics>
-		<bRepeat>1</bRepeat>
-		<Bonus>BONUS_PROJECT_FESTIVAL_3</Bonus>
-		<CityProject>PROJECT_FESTIVAL</CityProject>
-		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
-	</Entry>
-	<Entry>
-		<zType>PROJECT_FESTIVAL_4</zType>
-		<Name>TEXT_PROJECT_FESTIVAL_4</Name>
-		<zIcon>PROJECT_FESTIVAL_4</zIcon>
-		<iCivics>100</iCivics>
-		<bRepeat>1</bRepeat>
-		<Bonus>BONUS_PROJECT_FESTIVAL_4</Bonus>
-		<CityProject>PROJECT_FESTIVAL</CityProject>
-		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_COUNCIL_1</zType>
@@ -330,5 +258,46 @@
 				<iValue>100</iValue>
 			</Pair>
 		</aiYieldModifier>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_FESTIVAL_1</zType>
+		<Name>TEXT_PROJECT_FESTIVAL_1</Name>
+		<zIcon>PROJECT_FESTIVAL_1</zIcon>
+		<iCivics>1</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_FESTIVAL_1</Bonus>
+		<CityProject></CityProject>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
+		<TechPrereq>TECH_SYMBOLS</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_FESTIVAL_2</zType>
+		<Name>TEXT_PROJECT_FESTIVAL_2</Name>
+		<zIcon>PROJECT_FESTIVAL_2</zIcon>
+		<iCivics>1</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_FESTIVAL_2</Bonus>
+		<CityProject></CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_FESTIVAL_3</zType>
+		<Name>TEXT_PROJECT_FESTIVAL_3</Name>
+		<zIcon>PROJECT_FESTIVAL_3</zIcon>
+		<iCivics>1</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_FESTIVAL_3</Bonus>
+		<CityProject>PROJECT_FESTIVAL</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_FESTIVAL_4</zType>
+		<Name>TEXT_PROJECT_FESTIVAL_4</Name>
+		<zIcon>PROJECT_FESTIVAL_4</zIcon>
+		<iCivics>1</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_FESTIVAL_4</Bonus>
+		<CityProject>PROJECT_FESTIVAL</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 	</Entry>
 </Root>

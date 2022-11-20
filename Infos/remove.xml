@@ -222,6 +222,54 @@
 		<zType>IMPROVEMENTCLASS_GARRISON</zType>
 	</Entry>
 	<Entry>
+		<zType>IMPROVEMENT_PYRAMIDS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GREAT_ZIGGURAT</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_ORACLE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_HANGING_GARDENS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_NECROPOLIS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_ISHTAR_GATE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_LIGHTHOUSE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_APADANA</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_MAUSOLEUM</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_ACROPOLIS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_COLOSSUS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_MUSAEUM</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_PANTHEON</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_HAGIA_SOPHIA</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_VIA_RECTA_SOUK</zType>
+	</Entry>
+	<Entry>
 		<zType>LAW_EPICS</zType>
 	</Entry>
 	<Entry>

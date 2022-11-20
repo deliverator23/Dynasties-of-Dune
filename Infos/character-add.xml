@@ -107,8 +107,8 @@
 		<CharacterSelectPortrait>CHARACTER_SELECT_LETO</CharacterSelectPortrait>
 		<iAge>51</iAge>
 		<aeTraits>
-			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
+			<zValue>TRAIT_LOYAL</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -188,7 +188,7 @@
 		<iAge>51</iAge>
 		<aeTraits>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_PROUD</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>
@@ -303,8 +303,8 @@
 		<CharacterSelectPortrait>CHARACTER_SELECT_KYNES</CharacterSelectPortrait>
 		<iAge>35</iAge>
 		<aeTraits>
-			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
+			<zValue>TRAIT_LOYAL</zValue>
 		</aeTraits>
 	</Entry>
 	<Entry>

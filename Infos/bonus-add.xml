@@ -107,7 +107,8 @@
 				<iValue>-15</iValue>
 			</Pair>
 		</aiCityYields>
-	</Entry><Entry>
+	</Entry>
+	<Entry>
 		<zType>BONUS_PROJECT_COUNCIL_3</zType>
 		<aiCityYields>
 			<Pair>
@@ -115,12 +116,31 @@
 				<iValue>-20</iValue>
 			</Pair>
 		</aiCityYields>
-	</Entry><Entry>
+	</Entry>
+	<Entry>
 		<zType>BONUS_PROJECT_COUNCIL_4</zType>
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
 				<iValue>-25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_WATER_SELLING_BASE</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_BASIC_FORAGING</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>2</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>

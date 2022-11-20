@@ -2,7 +2,6 @@
     <Entry>
 		<zType>IMPROVEMENTCLASS_WINDTRAP</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_WINDTRAP</Name>
-		<SpecialistClass/>
 		<abResourceValid/>
 		<aeResourceCityEffect/>
 		<aaiResourceYieldOutput/>
@@ -10,7 +9,6 @@
     <Entry>
 		<zType>IMPROVEMENTCLASS_DEW_COLLECTOR</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_DEW_COLLECTOR</Name>
-		<SpecialistClass/>
 		<abResourceValid>
 			<Pair>
 				<zIndex>RESOURCE_BARLEY</zIndex>
@@ -177,7 +175,6 @@
 	<Entry>
 		<zType>IMPROVEMENTCLASS_PROCESSING_PLANT</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_PROCESSING_PLANT</Name>
-		<SpecialistClass/>
 		<abResourceValid>
 			<Pair>
 				<zIndex>RESOURCE_SALT</zIndex>

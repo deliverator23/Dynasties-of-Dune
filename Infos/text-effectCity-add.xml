@@ -8,6 +8,14 @@
 		<en-US>House Atreides</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_HARKONNEN</zType>
+		<en-US>House Harkonnen</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_CORRINO</zType>
+		<en-US>House Corrino</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_FAMILYCLASS_INTRIGUER</zType>
 		<en-US>Intriguer</en-US>
 	</Entry>
