@@ -51,4 +51,16 @@
 		<zType>TEXT_PROJECT_BASIC_FORAGING</zType>
 		<en-US>Basic Foraging~Basic Foraging~Basic Foraging</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ALTAR</zType>
+		<en-US>Altar~an Altar~Altars</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SHRINE_1</zType>
+		<en-US>Basic Shrine~a Basic Shrine~Basic Shrines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_RITUAL</zType>
+		<en-US>Ritual~a Ritual~Rituals</en-US>
+	</Entry>
 </Root>

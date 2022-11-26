@@ -224,7 +224,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>20</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateOpinion>
@@ -369,6 +369,16 @@
 		<Name>TEXT_THEOLOGY_GNOSTICISM</Name>
 		<SourceTheology>THEOLOGY_GNOSTICISM</SourceTheology>
 		<aaiEffectCityYieldRate></aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zType>
+		<Name>TEXT_IMPROVEMENTCLASS_HOLY_SITE</Name>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldModifier>
 	</Entry>
 	<!-- Difficulty --> 
 	<Entry>

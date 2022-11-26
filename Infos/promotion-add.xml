@@ -23,4 +23,9 @@
 		<EffectUnit>EFFECTUNIT_EXPLORATION1</EffectUnit>
 		<bUpgrade>1</bUpgrade>
 	</Entry>
+	<Entry>
+		<zType>PROMOTION_RITUAL_SACRIFICE</zType>
+		<Name>TEXT_PROMOTION_RITUAL_SACRIFICE</Name>
+		<EffectUnit>EFFECTUNIT_RITUAL_SACRIFICE</EffectUnit>
+	</Entry>
 </Root>

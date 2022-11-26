@@ -19,4 +19,8 @@
 		<zType>TEXT_EFFECTUNIT_EXPLORATION1</zType>
 		<en-US>Exploration I</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RITUAL_SACRIFICE</zType>
+		<en-US>Ritual Sacrifice</en-US>
+	</Entry>
 </Root>

@@ -31,4 +31,20 @@
 		<zType>TEXT_IMPROVEMENT_PROCESSING_PLANT_HINT</zType>
 		<en-US>Processing Plant Hint</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_NAVACHRISTIANITY</zType>
+		<en-US>Navachristian Holy Site</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_BUDDISLAM</zType>
+		<en-US>Buddislamist Holy Site</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MAOMETH_SAARI</zType>
+		<en-US>Maometh Saari Holy Site</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_ZENSUNNI_CATHOLICISM</zType>
+		<en-US>Zensunni Catholic Holy Site</en-US>
+	</Entry>
 </Root>

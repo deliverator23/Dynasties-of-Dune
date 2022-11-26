@@ -36,4 +36,19 @@
 		<zIconName>UNITTRAIT_EXPLORATION</zIconName>
 		<SourceUnitTrait>UNITTRAIT_EXPLORATION</SourceUnitTrait>
 	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_RITUAL_SACRIFICE</zType>
+		<Name>TEXT_EFFECTUNIT_RITUAL_SACRIFICE</Name>
+		<zIconName>EFFECTUNIT_RITUAL_SACRIFICE</zIconName>
+		<aiMilitaryKillYield>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiMilitaryKillYield>
+	</Entry>
 </Root>

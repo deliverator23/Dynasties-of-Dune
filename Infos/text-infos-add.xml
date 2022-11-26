@@ -276,4 +276,57 @@
 		<zType>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING</zType>
 		<en-US>This tech unlocks more resources needed for war.</en-US>
 	</Entry>
+	<!-- Theologies --> 
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_ARTISTRY</zType>
+		<en-US>Blessing of Artistry</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_COMMERCE</zType>
+		<en-US>Blessing of Commerce</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_KNOWLEDGE</zType>
+		<en-US>Blessing of Knowledge</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_FERTILITY</zType>
+		<en-US>Blessing of Fertility</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_PRODUCTIVITY</zType>
+		<en-US>Blessing of Productivity</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_GODS</zType>
+		<en-US>Blessing of the Gods</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_SHADOWS</zType>
+		<en-US>Blessing of the Shadows</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_WAR</zType>
+		<en-US>Blessing of War</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_BLESSING_WEALTH</zType>
+		<en-US>Blessing of Wealth</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_DIVINE_INHERITANCE</zType>
+		<en-US>Divine Inheritance</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_RITUAL_SACRIFICE</zType>
+		<en-US>Ritual Sacrifice</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_TRANSCENDENT_THOUGHTS</zType>
+		<en-US>Transcendent Thoughts</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_THEOLOGY_WAY_NOBLE_TRUTHS</zType>
+		<en-US>Way of Noble Truths</en-US>
+	</Entry>
 </Root>

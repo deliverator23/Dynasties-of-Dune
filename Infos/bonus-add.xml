@@ -54,7 +54,7 @@
 		<aiGlobalYields>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>150</iValue>
+				<iValue>200</iValue>
 			</Pair>
 		</aiGlobalYields>
 	</Entry>
@@ -141,6 +141,15 @@
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
 				<iValue>2</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_RITUAL</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>

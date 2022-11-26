@@ -1,4 +1,5 @@
 <Root>
+	<!-- Nations --> 
     <Entry>
         <zType>EFFECTPLAYER_NATION_ATREIDES</zType>
         <Name>TEXT_NATION_ATREIDES</Name>
@@ -55,4 +56,29 @@
             <zValue>UNIT_SETTLER</zValue>
         </aeWaterUnit> --> 
     </Entry>
+	<!-- Religion --> 
+	<Entry>
+		<zType>EFFECTPLAYER_RELIGION_NAVACHRISTIANITY</zType>
+		<Name>TEXT_RELIGION_NAVACHRISTIANITY</Name>
+		<SourceReligionState>RELIGION_NAVACHRISTIANITY</SourceReligionState>
+		<StateReligionEffectCity>EFFECTCITY_RELIGION_NAVACHRISTIANITY_STATE</StateReligionEffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_RELIGION_BUDDISLAM</zType>
+		<Name>TEXT_RELIGION_BUDDISLAM</Name>
+		<SourceReligionState>RELIGION_BUDDISLAM</SourceReligionState>
+		<StateReligionEffectCity>EFFECTCITY_RELIGION_BUDDISLAM_STATE</StateReligionEffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_RELIGION_MAOMETH_SAARI</zType>
+		<Name>TEXT_RELIGION_MAOMETH_SAARI</Name>
+		<SourceReligionState>RELIGION_MAOMETH_SAARI</SourceReligionState>
+		<StateReligionEffectCity>EFFECTCITY_RELIGION_MAOMETH_SAARI_STATE</StateReligionEffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_RELIGION_ZENSUNNI_CATHOLICISM</zType>
+		<Name>TEXT_RELIGION_ZENSUNNI_CATHOLICISM</Name>
+		<SourceReligionState>RELIGION_ZENSUNNI_CATHOLICISM</SourceReligionState>
+		<StateReligionEffectCity>EFFECTCITY_RELIGION_ZENSUNNI_CATHOLICISM_STATE</StateReligionEffectCity>
+	</Entry>
 </Root>

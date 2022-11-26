@@ -1,0 +1,18 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_RELIGION_NAVACHRISTIANITY</zType>
+		<en-US>Navachristianity~Navachristian~a Navachristian~Navachristians~Navachristian</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_BUDDISLAM</zType>
+		<en-US>Buddislam~Buddislamic~a Buddislamist~Buddislamists~Buddislamist</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_MAOMETH_SAARI</zType>
+		<en-US>Maometh Saari~Maometh Saari~a Maometh Saari~Maometh Saari~Maometh Saari</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_ZENSUNNI_CATHOLICISM</zType>
+		<en-US>Zensunni Catholicism~Zensunni Catholic~a Zensunni Catholic~Zensunni Catholics</en-US>
+	</Entry>
+</Root>
