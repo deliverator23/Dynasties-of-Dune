@@ -2,7 +2,7 @@
 	<Entry>
 		<zType>PROJECT_COURT_1</zType>
 		<Name>TEXT_PROJECT_COURT_1</Name>
-		<zIcon>PROJECT_COURT</zIcon>
+		<zIcon>PROJECT_CIVICS_1</zIcon>
 		<iCivics>5</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_COURT_1</Bonus>
@@ -17,7 +17,7 @@
 	<Entry>
 		<zType>PROJECT_EARLY_ESPIONAGE_1</zType>
 		<Name>TEXT_PROJECT_EARLY_ESPIONAGE_1</Name>
-		<zIcon>PROJECT_EARLY_ESPIONAGE</zIcon>
+		<zIcon>PROJECT_INTEL_1</zIcon>
 		<iCivics>5</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_EARLY_ESPIONAGE_1</Bonus>
@@ -32,14 +32,14 @@
 	<Entry>
 		<zType>PROJECT_WINDTRAP_I</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_1</Name>
-		<zIcon>PROJECT_WINDTRAP_1</zIcon>
+		<zIcon>PROJECT_GROWTH_2</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WINDTRAP_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WINDTRAP_1</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_1</Name>
-		<zIcon>PROJECT_WINDTRAP_1</zIcon>
+		<zIcon>PROJECT_GROWTH_2</zIcon>
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WINDTRAP_I</CityProject>
@@ -55,14 +55,14 @@
 	<Entry>
 		<zType>PROJECT_WORKSHOP_I</zType>
 		<Name>TEXT_PROJECT_WORKSHOP_1</Name>
-		<zIcon>PROJECT_WORKSHOP_1</zIcon>
+		<zIcon>PROJECT_CIVICS_2</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WORKSHOP_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WORKSHOP_1</zType>
 		<Name>TEXT_PROJECT_WORKSHOP_1</Name>
-		<zIcon>PROJECT_WORKSHOP_1</zIcon>
+		<zIcon>PROJECT_CIVICS_2</zIcon>
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WORKSHOP_I</CityProject>
@@ -78,14 +78,14 @@
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_I</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_1</Name>
-		<zIcon>PROJECT_FUEL_FACTORY_1</zIcon>
+		<zIcon>PROJECT_FUEL_1</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_FUEL_FACTORY_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_1</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_1</Name>
-		<zIcon>PROJECT_FUEL_FACTORY_1</zIcon>
+		<zIcon>PROJECT_FUEL_1</zIcon>
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_FUEL_FACTORY_I</CityProject>
@@ -101,14 +101,14 @@
 	<Entry>
 		<zType>PROJECT_MONUMENT_I</zType>
 		<Name>TEXT_PROJECT_MONUMENT_1</Name>
-		<zIcon>PROJECT_MONUMENT_1</zIcon>
+		<zIcon>PROJECT_CULTURE_1</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MONUMENT_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MONUMENT_1</zType>
 		<Name>TEXT_PROJECT_MONUMENT_1</Name>
-		<zIcon>PROJECT_MONUMENT_1</zIcon>
+		<zIcon>PROJECT_CULTURE_1</zIcon>
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_MONUMENT_I</CityProject>
@@ -128,14 +128,14 @@
 	<Entry>
 		<zType>PROJECT_MINE_I</zType>
 		<Name>TEXT_PROJECT_MINE_1</Name>
-		<zIcon>PROJECT_MINE_1</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_2</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MINE_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MINE_1</zType>
 		<Name>TEXT_PROJECT_MINE_1</Name>
-		<zIcon>PROJECT_MINE_1</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_1</zIcon>
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_MINE_I</CityProject>
@@ -151,7 +151,7 @@
 	<Entry>
 		<zType>PROJECT_MINERAL_TRADE_POST</zType>
 		<Name>TEXT_PROJECT_MINERAL_TRADE_POST</Name>
-		<zIcon>PROJECT_MINERAL_TRADE_POST</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_2</zIcon>
 		<iCivics>30</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_MINERAL_TRADE_POST</CityProject>
@@ -167,7 +167,7 @@
 	<Entry>
 		<zType>PROJECT_LOCAL_MATERIAL_TRADE</zType>
 		<Name>TEXT_PROJECT_LOCAL_MATERIAL_TRADE</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_TRADE</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_3</zIcon>
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<EffectCity>EFFECTCITY_PROJECT_LOCAL_MATERIAL_TRADE</EffectCity>
@@ -182,7 +182,7 @@
 	<Entry>
 		<zType>PROJECT_WATER_SELLING_BASE</zType>
 		<Name>TEXT_PROJECT_WATER_SELLING_BASE</Name>
-		<zIcon>PROJECT_WATER_SELLING_BASE</zIcon>
+		<zIcon>PROJECT_GROWTH_3</zIcon>
 		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<Bonus>BONUS_PROJECT_WATER_SELLING_BASE</Bonus>
@@ -207,14 +207,14 @@
 	<Entry>
 		<zType>PROJECT_WATER_SILO_I</zType>
 		<Name>TEXT_PROJECT_WATER_SILO_1</Name>
-		<zIcon>PROJECT_WATER_SILO_1</zIcon>
+		<zIcon>PROJECT_GROWTH_4</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WATER_SILO_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WATER_SILO_1</zType>
 		<Name>TEXT_PROJECT_WATER_SILO_1</Name>
-		<zIcon>PROJECT_WATER_SILO_1</zIcon>
+		<zIcon>PROJECT_GROWTH_4</zIcon>
 		<iCivics>15</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WATER_SILO_I</CityProject>
@@ -234,14 +234,14 @@
 	<Entry>
 		<zType>PROJECT_WATER_PLANT_I</zType>
 		<Name>TEXT_PROJECT_WATER_PLANT_1</Name>
-		<zIcon>PROJECT_WATER_PLANT_1</zIcon>
+		<zIcon>PROJECT_GROWTH_5</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WATER_PLANT_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WATER_PLANT_1</zType>
 		<Name>TEXT_PROJECT_WATER_PLANT_1</Name>
-		<zIcon>PROJECT_WATER_PLANT_1</zIcon>
+		<zIcon>PROJECT_GROWTH_5</zIcon>
 		<iCivics>15</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WATER_PLANT_I</CityProject>
@@ -261,7 +261,7 @@
 	<Entry>
 		<zType>PROJECT_BASIC_FORAGING</zType>
 		<Name>TEXT_PROJECT_BASIC_FORAGING</Name>
-		<zIcon>PROJECT_BASIC_FORAGING</zIcon>
+		<zIcon>PROJECT_GROWTH_1</zIcon>
 		<iCivics>1</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_BASIC_FORAGING</Bonus>
@@ -276,7 +276,7 @@
 	<Entry>
 		<zType>PROJECT_ALTAR</zType>
 		<Name>TEXT_PROJECT_ALTAR</Name>
-		<zIcon>PROJECT_ALTAR</zIcon>
+		<zIcon>PROJECT_DEVOTION_1</zIcon>
 		<iCivics>20</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_ALTAR</CityProject>
@@ -296,14 +296,14 @@
 	<Entry>
 		<zType>PROJECT_SHRINE_I</zType>
 		<Name>TEXT_PROJECT_SHRINE_1</Name>
-		<zIcon>PROJECT_SHRINE_1</zIcon>
+		<zIcon>PROJECT_DEVOTION_2</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_SHRINE_1</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_SHRINE_1</zType>
 		<Name>TEXT_PROJECT_SHRINE_1</Name>
-		<zIcon>PROJECT_SHRINE_1</zIcon>
+		<zIcon>PROJECT_DEVOTION_2</zIcon>
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_SHRINE_I</CityProject>
@@ -323,7 +323,7 @@
 	<Entry>
 		<zType>PROJECT_RITUAL</zType>
 		<Name>TEXT_PROJECT_RITUAL</Name>
-		<zIcon>PROJECT_RITUAL</zIcon>
+		<zIcon>PROJECT_DEVOTION_3</zIcon>
 		<iCivics>10</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_RITUAL</Bonus>

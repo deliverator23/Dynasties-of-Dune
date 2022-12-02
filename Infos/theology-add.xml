@@ -77,8 +77,8 @@
 		<zIconName>THEOLOGY_DIVINE_INHERITANCE</zIconName>
 		<iTier>1</iTier>
 		<iCost>200</iCost>
-		<EffectCity>EFFECTCITY_THEOLOGY_DIVINE_INHERITANCE</EffectCity>
 		<TechPrereq>TECH_DEVOTION</TechPrereq>
+		<EffectCity>EFFECTCITY_THEOLOGY_DIVINE_INHERITANCE</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_RITUAL_SACRIFICE</zType>
@@ -86,8 +86,8 @@
 		<zIconName>THEOLOGY_RITUAL_SACRIFICE</zIconName>
 		<iTier>1</iTier>
 		<iCost>200</iCost>
-		<EffectCity>EFFECTCITY_THEOLOGY_RITUAL_SACRIFICE</EffectCity>
 		<TechPrereq>TECH_DEVOTION</TechPrereq>
+		<EffectCity>EFFECTCITY_THEOLOGY_RITUAL_SACRIFICE</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_TRANSCENDENT_THOUGHTS</zType>
@@ -95,8 +95,8 @@
 		<zIconName>THEOLOGY_TRANSCENDENT_THOUGHTS</zIconName>
 		<iTier>1</iTier>
 		<iCost>200</iCost>
-		<EffectCity>EFFECTCITY_THEOLOGY_TRANSCENDENT_THOUGHTS</EffectCity>
 		<TechPrereq>TECH_DEVOTION</TechPrereq>
+		<EffectCity>EFFECTCITY_THEOLOGY_TRANSCENDENT_THOUGHTS</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_WAY_NOBLE_TRUTHS</zType>
@@ -104,7 +104,7 @@
 		<zIconName>THEOLOGY_WAY_NOBLE_TRUTHS</zIconName>
 		<iTier>1</iTier>
 		<iCost>200</iCost>
-		<EffectCity>EFFECTCITY_THEOLOGY_WAY_NOBLE_TRUTHS</EffectCity>
 		<TechPrereq>TECH_DEVOTION</TechPrereq>
+		<EffectCity>EFFECTCITY_THEOLOGY_WAY_NOBLE_TRUTHS</EffectCity>
 	</Entry>
 </Root>
