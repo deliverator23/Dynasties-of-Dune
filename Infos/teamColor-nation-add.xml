@@ -1,5 +1,25 @@
 <Root>
     <Entry>
+        <zType>TEAMCOLOR_NATION_FREMEN</zType>
+        <TeamPlayerColor>PLAYERCOLOR_NATION_FREMEN</TeamPlayerColor>
+        <bNation>1</bNation>
+        <aePlayerColors>
+            <zValue>PLAYERCOLOR_NATION_FREMEN_FAMILY_01</zValue>
+            <zValue>PLAYERCOLOR_NATION_FREMEN_FAMILY_02</zValue>
+            <zValue>PLAYERCOLOR_NATION_FREMEN_FAMILY_03</zValue>
+            <zValue>PLAYERCOLOR_NATION_FREMEN_FAMILY_04</zValue>
+            <zValue>PLAYERCOLOR_NATION_FREMEN_FAMILY_NONE</zValue>
+        </aePlayerColors>
+        <aeBorderPatterns>
+            <zValue>BORDER_PATTERN_TRIANGLE</zValue>
+            <zValue>BORDER_PATTERN_DASH</zValue>
+            <zValue>BORDER_PATTERN_PLUS</zValue>
+            <zValue>BORDER_PATTERN_CIRCLE</zValue>
+            <zValue>BORDER_PATTERN_DIAMOND</zValue>
+            <zValue>BORDER_PATTERN_X</zValue>
+        </aeBorderPatterns>
+    </Entry>
+    <Entry>
         <zType>TEAMCOLOR_NATION_CORRINO</zType>
         <TeamPlayerColor>PLAYERCOLOR_NATION_CORRINO</TeamPlayerColor>
         <bNation>1</bNation>
@@ -9,6 +29,46 @@
             <zValue>PLAYERCOLOR_NATION_CORRINO_FAMILY_03</zValue>
             <zValue>PLAYERCOLOR_NATION_CORRINO_FAMILY_04</zValue>
             <zValue>PLAYERCOLOR_NATION_CORRINO_FAMILY_NONE</zValue>
+        </aePlayerColors>
+        <aeBorderPatterns>
+            <zValue>BORDER_PATTERN_TRIANGLE</zValue>
+            <zValue>BORDER_PATTERN_DASH</zValue>
+            <zValue>BORDER_PATTERN_PLUS</zValue>
+            <zValue>BORDER_PATTERN_CIRCLE</zValue>
+            <zValue>BORDER_PATTERN_DIAMOND</zValue>
+            <zValue>BORDER_PATTERN_X</zValue>
+        </aeBorderPatterns>
+    </Entry>
+    <Entry>
+        <zType>TEAMCOLOR_NATION_ATREIDES</zType>
+        <TeamPlayerColor>PLAYERCOLOR_NATION_ATREIDES</TeamPlayerColor>
+        <bNation>1</bNation>
+        <aePlayerColors>
+            <zValue>PLAYERCOLOR_NATION_ATREIDES_FAMILY_01</zValue>
+            <zValue>PLAYERCOLOR_NATION_ATREIDES_FAMILY_02</zValue>
+            <zValue>PLAYERCOLOR_NATION_ATREIDES_FAMILY_03</zValue>
+            <zValue>PLAYERCOLOR_NATION_ATREIDES_FAMILY_04</zValue>
+            <zValue>PLAYERCOLOR_NATION_ATREIDES_FAMILY_NONE</zValue>
+        </aePlayerColors>
+        <aeBorderPatterns>
+            <zValue>BORDER_PATTERN_TRIANGLE</zValue>
+            <zValue>BORDER_PATTERN_DASH</zValue>
+            <zValue>BORDER_PATTERN_PLUS</zValue>
+            <zValue>BORDER_PATTERN_CIRCLE</zValue>
+            <zValue>BORDER_PATTERN_DIAMOND</zValue>
+            <zValue>BORDER_PATTERN_X</zValue>
+        </aeBorderPatterns>
+    </Entry>
+    <Entry>
+        <zType>TEAMCOLOR_NATION_HARKONNEN</zType>
+        <TeamPlayerColor>PLAYERCOLOR_NATION_HARKONNEN</TeamPlayerColor>
+        <bNation>1</bNation>
+        <aePlayerColors>
+            <zValue>PLAYERCOLOR_NATION_HARKONNEN_FAMILY_01</zValue>
+            <zValue>PLAYERCOLOR_NATION_HARKONNEN_FAMILY_02</zValue>
+            <zValue>PLAYERCOLOR_NATION_HARKONNEN_FAMILY_03</zValue>
+            <zValue>PLAYERCOLOR_NATION_HARKONNEN_FAMILY_04</zValue>
+            <zValue>PLAYERCOLOR_NATION_HARKONNEN_FAMILY_NONE</zValue>
         </aePlayerColors>
         <aeBorderPatterns>
             <zValue>BORDER_PATTERN_TRIANGLE</zValue>

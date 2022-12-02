@@ -171,7 +171,7 @@
 		<zType>FAMILY_BEN_FIFRAWI</zType>
 		<Name>TEXT_FAMILY_BEN_FIFRAWI</Name>
 		<NameFemale>TEXT_FAMILY_BEN_FIFRAWI</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_FREMEN</TeamColor>
 		<iColorIndex>0</iColorIndex>
 		<FamilyClass>FAMILYCLASS_PATRONS</FamilyClass>
 		<abNation>
@@ -185,7 +185,7 @@
 		<zType>FAMILY_KYNES</zType>
 		<Name>TEXT_FAMILY_KYNES</Name>
 		<NameFemale>TEXT_FAMILY_KYNES</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_FREMEN</TeamColor>
 		<iColorIndex>1</iColorIndex>
 		<FamilyClass>FAMILYCLASS_SAGES</FamilyClass>
 		<abNation>
@@ -199,7 +199,7 @@
 		<zType>FAMILY_OTHEYM</zType>
 		<Name>TEXT_FAMILY_OTHEYM</Name>
 		<NameFemale>TEXT_FAMILY_OTHEYM</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_FREMEN</TeamColor>
 		<iColorIndex>2</iColorIndex>
 		<FamilyClass>FAMILYCLASS_RIDERS</FamilyClass>
 		<abNation>
@@ -213,7 +213,7 @@
 		<zType>FAMILY_JAVID</zType>
 		<Name>TEXT_FAMILY_JAVID</Name>
 		<NameFemale>TEXT_FAMILY_JAVID</NameFemale>
-		<TeamColor>TEAMCOLOR_NATION_ASSYRIA</TeamColor>
+		<TeamColor>TEAMCOLOR_NATION_FREMEN</TeamColor>
 		<iColorIndex>3</iColorIndex>
 		<FamilyClass>FAMILYCLASS_CLERICS</FamilyClass>
 		<abNation>

@@ -21,7 +21,7 @@
         <DefaultDynasty>DYNASTY_HARKONNEN</DefaultDynasty>
         <FirstBuild>UNIT_SETTLER</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_HARKONNEN</EffectPlayer>
-        <MapElementNames>MAP_ELEMENT_NAMES_FOR_PERSIA</MapElementNames>
+        <MapElementNames>MAP_ELEMENT_NAMES_GENERIC</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
         <aiStartUnit>
             <Pair>
@@ -189,7 +189,7 @@
         <DefaultDynasty>DYNASTY_ATREIDES</DefaultDynasty>
         <FirstBuild>UNIT_SETTLER</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_ATREIDES</EffectPlayer>
-        <MapElementNames>MAP_ELEMENT_NAMES_FOR_GREECE</MapElementNames>
+        <MapElementNames>MAP_ELEMENT_NAMES_GENERIC</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
         <aiStartUnit>
             <Pair>
@@ -374,7 +374,7 @@
         <DefaultDynasty>DYNASTY_CORRINO</DefaultDynasty>
         <FirstBuild>UNIT_SETTLER</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_CORRINO</EffectPlayer>
-        <MapElementNames>MAP_ELEMENT_NAMES_FOR_ROME</MapElementNames>
+        <MapElementNames>MAP_ELEMENT_NAMES_GENERIC</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
         <aiStartUnit>
             <Pair>
@@ -573,7 +573,7 @@
         <DefaultDynasty>DYNASTY_FREMEN</DefaultDynasty>
         <FirstBuild>UNIT_SETTLER</FirstBuild>
         <EffectPlayer>EFFECTPLAYER_NATION_FREMEN</EffectPlayer>
-        <MapElementNames>MAP_ELEMENT_NAMES_FOR_ASSYRIA</MapElementNames>
+        <MapElementNames>MAP_ELEMENT_NAMES_GENERIC</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
         <aiStartUnit>
             <Pair>

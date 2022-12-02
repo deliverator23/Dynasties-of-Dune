@@ -35,4 +35,52 @@
         <ColorClass>COLORCLASS_NATIONS</ColorClass>
         <zHexValue>#aaaaaa</zHexValue>
     </Entry>
+    <Entry>
+        <zType>COLOR_NATION_ATREIDES</zType>
+        <zName>Atreides</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#004F34</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_FREMEN</zType>
+        <zName>Fremen</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#265ebf</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_FREMEN_FAMILY_01</zType>
+        <zName>Fremen Family 1</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#bf6d30</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_FREMEN_FAMILY_02</zType>
+        <zName>Fremen Family 2</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#6e90c9</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_FREMEN_FAMILY_03</zType>
+        <zName>Fremen Family 3</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#8fbf13</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_FREMEN_FAMILY_04</zType>
+        <zName>Fremen Family 4</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#bfac1d</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_FREMEN_FAMILY_NONE</zType>
+        <zName>Fremen Family None</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#aaaaaa</zHexValue>
+    </Entry>
+    <Entry>
+        <zType>COLOR_NATION_HARKONNEN</zType>
+        <zName>Harkonnen</zName>
+        <ColorClass>COLORCLASS_NATIONS</ColorClass>
+        <zHexValue>#d20000</zHexValue>
+    </Entry>
 </Root>

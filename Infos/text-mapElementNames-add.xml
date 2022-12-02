@@ -1,0 +1,58 @@
+<Root>
+    <Entry>
+        <zType>TEXT_THE_MINOR_ERG</zType>
+        <en-US>The Minor Erg</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_THE_FUNERAL_PLAIN</zType>
+        <en-US>The Funeral Plain</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_THE_GREAT_FLAT</zType>
+        <en-US>The Great Flat</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_TARTARUS_DEPRESSION</zType>
+        <en-US>Tartarus Depression</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_CIELAGO_DEPRESSION</zType>
+        <en-US>Cielago Depression</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_MIRAGE_SINK</zType>
+        <en-US>Mirage Sink</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_HABBANYA_ERG</zType>
+        <en-US>Habbanya Erg</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SHIELD_WALL</zType>
+        <en-US>Shield Wall</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_FALSE_WALL</zType>
+        <en-US>False Wall</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_PASTY_MESA</zType>
+        <en-US>Pasty Mesa</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_HABBANYA_RIDGE</zType>
+        <en-US>Habbanya Ridge</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SIHAYA_RIDGE</zType>
+        <en-US>Sihaya Ridge</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_SPLINTERED_ROCK</zType>
+        <en-US>Splintered Rock</en-US>
+    </Entry>
+    <Entry>
+        <zType>TEXT_RED_CHASM</zType>
+        <en-US>Red Chasm</en-US>
+    </Entry>
+</Root>

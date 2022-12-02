@@ -256,6 +256,10 @@
         <en-US>Gurney</en-US>
     </Entry>
     <Entry>
+        <zType>TEXT_NAME_THUFIR</zType>
+        <en-US>Thufir</en-US>
+    </Entry>
+    <Entry>
         <zType>TEXT_NAME_JAMES</zType>
         <en-US>James</en-US>
     </Entry>

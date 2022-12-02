@@ -371,4 +371,28 @@
 
         </aeTraits>
     </Entry>
+    <Entry>
+        <zType>CHARACTER_GURNEY</zType>
+        <Gender>GENDER_MALE</Gender>
+        <FirstName>NAME_GURNEY</FirstName>
+        <PreferredPortrait>CHARACTER_PORTRAIT_GURNEY</PreferredPortrait>
+        <PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
+        <iAge>44</iAge>
+        <aeTraits>
+            <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+
+        </aeTraits>
+    </Entry>
+    <Entry>
+        <zType>CHARACTER_THUFIR</zType>
+        <Gender>GENDER_MALE</Gender>
+        <FirstName>NAME_THUFIR</FirstName>
+        <PreferredPortrait>CHARACTER_PORTRAIT_GREATHOUSES_MALE_02</PreferredPortrait>
+        <PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
+        <iAge>61</iAge>
+        <aeTraits>
+            <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+
+        </aeTraits>
+    </Entry>
 </Root>
