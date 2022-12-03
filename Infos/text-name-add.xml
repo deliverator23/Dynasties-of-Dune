@@ -931,12 +931,4 @@
         <zType>TEXT_NAME_YUZU</zType>
         <en-US>Yuzu</en-US>
     </Entry>
-    <Entry>
-        <zType>TEXT_NAME_THUFIR</zType>
-        <en-US>Thufir</en-US>
-    </Entry>
-    <Entry>
-        <zType>TEXT_NAME_GURNEY</zType>
-        <en-US>Gurney</en-US>
-    </Entry>
 </Root>

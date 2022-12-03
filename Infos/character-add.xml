@@ -161,7 +161,7 @@
         <iAge>32</iAge>
         <aeTraits>
             <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
-
+            <zValue>TRAIT_BOLD</zValue>
         </aeTraits>
     </Entry>
     <Entry>
@@ -170,10 +170,10 @@
         <FirstName>NAME_GURNEY</FirstName>
         <PreferredPortrait>CHARACTER_PORTRAIT_GURNEY</PreferredPortrait>
         <PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
-        <iAge>44</iAge>
+        <iAge>47</iAge>
         <aeTraits>
-            <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
-
+            <zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
+            <zValue>TRAIT_STEADFAST</zValue>
         </aeTraits>
     </Entry>
     <Entry>
@@ -182,10 +182,10 @@
         <FirstName>NAME_THUFIR</FirstName>
         <PreferredPortrait>CHARACTER_PORTRAIT_GREATHOUSES_MALE_02</PreferredPortrait>
         <PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
-        <iAge>61</iAge>
+        <iAge>63</iAge>
         <aeTraits>
-            <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
-
+            <zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
+            <zValue>TRAIT_INTELLIGENT</zValue>
         </aeTraits>
     </Entry>
     <Entry>
@@ -366,30 +366,6 @@
         <PlayerDynasty>DYNASTY_FREMEN</PlayerDynasty>
         <Courtier>COURTIER_SOLDIER</Courtier>
         <iAge>38</iAge>
-        <aeTraits>
-            <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
-
-        </aeTraits>
-    </Entry>
-    <Entry>
-        <zType>CHARACTER_GURNEY</zType>
-        <Gender>GENDER_MALE</Gender>
-        <FirstName>NAME_GURNEY</FirstName>
-        <PreferredPortrait>CHARACTER_PORTRAIT_GURNEY</PreferredPortrait>
-        <PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
-        <iAge>44</iAge>
-        <aeTraits>
-            <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
-
-        </aeTraits>
-    </Entry>
-    <Entry>
-        <zType>CHARACTER_THUFIR</zType>
-        <Gender>GENDER_MALE</Gender>
-        <FirstName>NAME_THUFIR</FirstName>
-        <PreferredPortrait>CHARACTER_PORTRAIT_GREATHOUSES_MALE_02</PreferredPortrait>
-        <PlayerDynasty>DYNASTY_ATREIDES</PlayerDynasty>
-        <iAge>61</iAge>
         <aeTraits>
             <zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
 
