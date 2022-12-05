@@ -9,10 +9,24 @@
 		<TechPrereq>TECH_SIETCH</TechPrereq>
 		<iProduction>15</iProduction>
 		<aiStartDifficulty></aiStartDifficulty>
+		<aeUpgradeUnit></aeUpgradeUnit>
 	</Entry>
 	<Entry>
 		<zType>UNIT_MILITIA</zType>
+		<iMovement>1</iMovement>
+		<iFatigue>2</iFatigue>
+		<iStrength>20</iStrength>
 		<iProduction>8</iProduction>
+		<bFortify>1</bFortify>
+		<bPromote>1</bPromote>
+		<bGeneral>1</bGeneral>
+		<bBarbCity>1</bBarbCity>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+		</aiYieldCost>
 		<aiYieldConsumption>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>

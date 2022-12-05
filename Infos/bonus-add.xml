@@ -22,7 +22,7 @@
 		<zType>BONUS_FAMILYCLASS_ADVENTURER_SEAT</zType>
 		<aiUnits>
 			<Pair>
-				<zIndex>UNIT_SCOUT_ORNITHOPTER</zIndex>
+				<zIndex>UNIT_SCOUT</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiUnits>

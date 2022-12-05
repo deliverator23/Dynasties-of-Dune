@@ -1,0 +1,98 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_TRIBE_GAULS</zType>
+		<en-US>Desert Nomad~Desert Nomadic~a Desert Nomad~Desert Nomad~Desert Nomad</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_GAULS_F</zType>
+		<en-US>Desert Nomad~Desert Nomadic~a Desert Nomad~Desert Nomad~Desert Nomad</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_GAULS_NICK</zType>
+		<en-US>the Desert Nomad</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_GAULS_NICK_F</zType>
+		<en-US>the Desert Nomad</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_VANDALS</zType>
+		<en-US>Rogue Smuggler~Rogue Smuggler~a Rogue Smuggler~Rogue Smugglers~Rogue Smuggler</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_VANDALS_F</zType>
+		<en-US>Rogue Smuggler~Rogue Smuggler~a Rogue Smuggler~Rogue Smugglers~Rogue Smuggler</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_VANDALS_NICK</zType>
+		<en-US>the Rogue Smuggler</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_VANDALS_NICK_F</zType>
+		<en-US>the Rogue Smuggler</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_DANES</zType>
+		<en-US>Iduali~Iduali~an Iduali~Iduali~Iduali</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_DANES_F</zType>
+		<en-US>Iduali~Iduali~an Iduali~Iduali~Iduali</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_DANES_NICK</zType>
+		<en-US>the Iduali</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_DANES_NICK_F</zType>
+		<en-US>the Iduali</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_THRACIANS</zType>
+		<en-US>Mercenary~Mercenary~a Mercenary~Mercenaries~Mercenary</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_THRACIANS_F</zType>
+		<en-US>Mercenary~Mercenary~a Mercenary~Mercenaries~Mercenary</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_THRACIANS_NICK</zType>
+		<en-US>the Mercenary</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_THRACIANS_NICK_F</zType>
+		<en-US>the Mercenary</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SCYTHIANS</zType>
+		<en-US>Local~Local~a Local~Locals~Local</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SCYTHIANS_F</zType>
+		<en-US>Local~Local~a Local~Locals~Local</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SCYTHIANS_NICK</zType>
+		<en-US>the Local</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_SCYTHIANS_NICK_F</zType>
+		<en-US>the Local</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_NUMIDIANS</zType>
+		<en-US>Forgotten Cult~Forgotten Cult~a Forgotten Cult~Forgotten Cults~Forgotten Cult</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_NUMIDIANS_F</zType>
+		<en-US>Forgotten Cult~Forgotten Cult~a Forgotten Cult~Forgotten Cults~Forgotten Cult</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_NUMIDIANS_NICK</zType>
+		<en-US>the Forgotten Cult</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRIBE_NUMIDIANS_NICK_F</zType>
+		<en-US>the Forgotten Cult</en-US>
+	</Entry>
+</Root>

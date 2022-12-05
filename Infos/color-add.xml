@@ -53,4 +53,46 @@
         <ColorClass>COLORCLASS_NATIONS</ColorClass>
         <zHexValue>#d20000</zHexValue>
     </Entry>
+	<Entry>
+		<zType>COLOR_YIELD_MANPOWER</zType>
+		<zName>Manpower</zName>
+		<ColorClass>COLORCLASS_YIELDS</ColorClass>
+		<zHexValue>#a93b3b</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_SPICE</zType>
+		<zName>Spice</zName>
+		<ColorClass>COLORCLASS_YIELDS</ColorClass>
+		<zHexValue>#739600</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_OFFWORLD_SUPPLIES</zType>
+		<zName>Offworld Supplies</zName>
+		<ColorClass>COLORCLASS_YIELDS</ColorClass>
+		<zHexValue>#DBDCDB</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_FUEL</zType>
+		<zName>Fuel</zName>
+		<ColorClass>COLORCLASS_YIELDS</ColorClass>
+		<zHexValue>#80634A</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_LOCAL_MATERIAL</zType>
+		<zName>Local Material</zName>
+		<ColorClass>COLORCLASS_YIELDS</ColorClass>
+		<zHexValue>#6B758C</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_DEVOTION</zType>
+		<zName>Devotion</zName>
+		<ColorClass>COLORCLASS_YIELDS</ColorClass>
+		<zHexValue>#ffffff</zHexValue>
+	</Entry>
+	<Entry>
+		<zType>COLOR_YIELD_INTEL</zType>
+		<zName>Intel</zName>
+		<ColorClass>COLORCLASS_YIELDS</ColorClass>
+		<zHexValue>#ffffff</zHexValue>
+	</Entry>
 </Root>

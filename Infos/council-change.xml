@@ -1,0 +1,14 @@
+<Root>
+	<Entry>
+		<zType>COUNCIL_AMBASSADOR</zType>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_CHANCELLOR</zType>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>COUNCIL_SPYMASTER</zType>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+	</Entry>
+</Root>
