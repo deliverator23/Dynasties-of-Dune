@@ -31,7 +31,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>20</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateMilitary>
@@ -399,6 +399,42 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_WINDTRAP_2</zType>
+		<Name>TEXT_PROJECT_WINDTRAP_2</Name>
+		<SourceProject>PROJECT_WINDTRAP_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_WINDTRAP_3</zType>
+		<Name>TEXT_PROJECT_WINDTRAP_3</Name>
+		<SourceProject>PROJECT_WINDTRAP_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_WINDTRAP_4</zType>
+		<Name>TEXT_PROJECT_WINDTRAP_4</Name>
+		<SourceProject>PROJECT_WINDTRAP_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_WORKSHOP_1</zType>
 		<Name>TEXT_PROJECT_WORKSHOP_1</Name>
 		<SourceProject>PROJECT_WORKSHOP_1</SourceProject>
@@ -423,6 +459,46 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_FUEL_FACTORY_2</zType>
+		<Name>TEXT_PROJECT_FUEL_FACTORY_2</Name>
+		<SourceProject>PROJECT_FUEL_FACTORY_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_FUEL_FACTORY_3</zType>
+		<Name>TEXT_PROJECT_FUEL_FACTORY_3</Name>
+		<SourceProject>PROJECT_FUEL_FACTORY_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_FUEL_FACTORY_4</zType>
+		<Name>TEXT_PROJECT_FUEL_FACTORY_4</Name>
+		<SourceProject>PROJECT_FUEL_FACTORY_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_MONUMENT_1</zType>
 		<Name>TEXT_PROJECT_MONUMENT_1</Name>
 		<SourceProject>PROJECT_MONUMENT_1</SourceProject>
@@ -435,6 +511,46 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_MONUMENT_2</zType>
+		<Name>TEXT_PROJECT_MONUMENT_2</Name>
+		<SourceProject>PROJECT_MONUMENT_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_MONUMENT_3</zType>
+		<Name>TEXT_PROJECT_MONUMENT_3</Name>
+		<SourceProject>PROJECT_MONUMENT_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_MONUMENT_4</zType>
+		<Name>TEXT_PROJECT_MONUMENT_4</Name>
+		<SourceProject>PROJECT_MONUMENT_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_MINE_1</zType>
 		<Name>TEXT_PROJECT_MINE_1</Name>
 		<SourceProject>PROJECT_MINE_1</SourceProject>
@@ -443,6 +559,46 @@
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
 				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_MINE_2</zType>
+		<Name>TEXT_PROJECT_MINE_2</Name>
+		<SourceProject>PROJECT_MINE_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_MINE_3</zType>
+		<Name>TEXT_PROJECT_MINE_3</Name>
+		<SourceProject>PROJECT_MINE_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_MINE_4</zType>
+		<Name>TEXT_PROJECT_MINE_4</Name>
+		<SourceProject>PROJECT_MINE_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>30</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -473,6 +629,10 @@
 				<SubPair>
 					<zSubIndex>YIELD_LOCAL_MATERIAL</zSubIndex>
 					<iValue>30</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>20</iValue>
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
@@ -505,7 +665,7 @@
 				<zIndex>EFFECTCITY_PROJECT_WATER_SELLING_BASE</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_MONEY</zSubIndex>
-					<iValue>10</iValue>
+					<iValue>30</iValue>
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
@@ -530,7 +690,82 @@
 				</SubPair>
 				<SubPair>
 					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_WATER_PLANT_2</zType>
+		<Name>TEXT_PROJECT_WATER_PLANT_2</Name>
+		<SourceProject>PROJECT_WATER_PLANT_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_WATER_SELLING_BASE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
 					<iValue>20</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_WATER_PLANT_3</zType>
+		<Name>TEXT_PROJECT_WATER_PLANT_3</Name>
+		<SourceProject>PROJECT_WATER_PLANT_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_WATER_SELLING_BASE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>40</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_WATER_PLANT_4</zType>
+		<Name>TEXT_PROJECT_WATER_PLANT_4</Name>
+		<SourceProject>PROJECT_WATER_PLANT_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>-30</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_WATER_SELLING_BASE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>40</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>50</iValue>
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
@@ -567,6 +802,161 @@
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SHRINE_2</zType>
+		<Name>TEXT_PROJECT_SHRINE_2</Name>
+		<SourceProject>PROJECT_SHRINE_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_ALTAR</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_DEVOTION</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SHRINE_3</zType>
+		<Name>TEXT_PROJECT_SHRINE_3</Name>
+		<SourceProject>PROJECT_SHRINE_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_ALTAR</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_DEVOTION</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SHRINE_4</zType>
+		<Name>TEXT_PROJECT_SHRINE_4</Name>
+		<SourceProject>PROJECT_SHRINE_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>90</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_ALTAR</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_DEVOTION</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SPY_NETWORK_1</zType>
+		<Name>TEXT_PROJECT_SPY_NETWORK_1</Name>
+		<SourceProject>PROJECT_SPY_NETWORK_1</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_AGENT_TRAINING_1</zType>
+		<Name>TEXT_PROJECT_AGENT_TRAINING_1</Name>
+		<SourceProject>PROJECT_AGENT_TRAINING_1</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_SPY_NETWORK_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_INTEL</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_AGENT_TRAINING_2</zType>
+		<Name>TEXT_PROJECT_AGENT_TRAINING_2</Name>
+		<SourceProject>PROJECT_AGENT_TRAINING_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_SPY_NETWORK_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_INTEL</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_AGENT_TRAINING_3</zType>
+		<Name>TEXT_PROJECT_AGENT_TRAINING_3</Name>
+		<SourceProject>PROJECT_AGENT_TRAINING_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_SPY_NETWORK_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_INTEL</zSubIndex>
+					<iValue>40</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_AGENT_TRAINING_4</zType>
+		<Name>TEXT_PROJECT_AGENT_TRAINING_4</Name>
+		<SourceProject>PROJECT_AGENT_TRAINING_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_SPY_NETWORK_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_INTEL</zSubIndex>
+					<iValue>80</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>50</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SLAVE_MINE_1</zType>
+		<Name>TEXT_PROJECT_SLAVE_MINE_1</Name>
+		<SourceProject>PROJECT_SLAVE_MINE_1</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 	<!-- Theologies --> 
 	<Entry>

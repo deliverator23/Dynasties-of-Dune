@@ -276,6 +276,70 @@
 		<zType>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING</zType>
 		<en-US>This tech unlocks more resources needed for war.</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SPY_NETWORK_I</zType>
+		<en-US>Basic Spy Network</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SPY_NETWORK_I</zType>
+		<en-US>This tech unlocks more sources of Intel.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BASIC_MINING_II</zType>
+		<en-US>Basic Mining II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BASIC_MINING_II</zType>
+		<en-US>This tech unlocks more sources of Local Materials.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DESERT_SURVIVAL_II</zType>
+		<en-US>Desert Survival II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_DESERT_SURVIVAL_II</zType>
+		<en-US>This tech unlocks more sources of early game yields.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_WATER_STORAGE_II</zType>
+		<en-US>Water Storage II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_WATER_STORAGE_II</zType>
+		<en-US>This tech unlocks more sources of Water.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_EARLY_TAXATION</zType>
+		<en-US>Early Taxation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_EARLY_TAXATION</zType>
+		<en-US>This tech unlocks more sources of Solaris.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BASIC_DEFENSE_II</zType>
+		<en-US>Basic Defense II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BASIC_DEFENSE_II</zType>
+		<en-US>This tech unlocks more sources of City fortifications.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SYMBOL_II</zType>
+		<en-US>Symbol II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SYMBOL_II</zType>
+		<en-US>This tech unlocks more sources of Culture.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MINING_II</zType>
+		<en-US>Mining II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_MINING_II</zType>
+		<en-US>This tech unlocks more sources of Local Materials.</en-US>
+	</Entry>
 	<!-- Theologies --> 
 	<Entry>
 		<zType>TEXT_THEOLOGY_BLESSING_ARTISTRY</zType>

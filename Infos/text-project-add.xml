@@ -12,6 +12,18 @@
 		<en-US>Primitive Windtrap~a Primitive Windtrap~Primitive Windtraps</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_WINDTRAP_2</zType>
+		<en-US>Basic Windtrap~a Basic Windtrap~Basic Windtraps</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WINDTRAP_3</zType>
+		<en-US>Advanced Windtrap~an Advanced Windtrap~Advanced Windtraps</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WINDTRAP_4</zType>
+		<en-US>Superior Windtrap~a Superior Windtrap~Superior Windtraps</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_WORKSHOP_1</zType>
 		<en-US>Primitive Workshop~a Primitive Workshop~Primitive Workshops</en-US>
 	</Entry>
@@ -20,12 +32,48 @@
 		<en-US>Primitive Fuel Factory~a Primitive Fuel Factory~Primitive Fuel Factories</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_FUEL_FACTORY_2</zType>
+		<en-US>Basic Fuel Factory~a Basic Fuel Factory~Basic Fuel Factories</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FUEL_FACTORY_3</zType>
+		<en-US>Advanced Fuel Factory~an Advanced Fuel Factory~Advanced Fuel Factories</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FUEL_FACTORY_4</zType>
+		<en-US>Superior Fuel Factory~a Superior Fuel Factory~Superior Fuel Factories</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_MONUMENT_1</zType>
 		<en-US>Early Monument~an Early Monument~Early Monuments</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_MONUMENT_2</zType>
+		<en-US>Better Monument~a Better Monument~Better Monuments</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONUMENT_3</zType>
+		<en-US>Glorious Monument~a Glorious Monument~Glorious Monuments</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONUMENT_4</zType>
+		<en-US>Sacred Monument~a Sacred Monument~Sacred Monuments</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_MINE_1</zType>
 		<en-US>Primitive Mine~a Primitive Mine~Primitive Mines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINE_2</zType>
+		<en-US>Basic Mine~a Basic Mine~Basic Mines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINE_3</zType>
+		<en-US>Advanced Mine~an Advanced Mine~Advanced Mines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MINE_4</zType>
+		<en-US>Superior Mine~a Superior Mine~Superior Mines</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINERAL_TRADE_POST</zType>
@@ -48,6 +96,18 @@
 		<en-US>Water Container Plant I~Water Container Plant I~Water Container Plant I</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_WATER_PLANT_2</zType>
+		<en-US>Water Container Plant II~Water Container Plant II~Water Container Plant II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WATER_PLANT_3</zType>
+		<en-US>Water Container Plant III~Water Container Plant III~Water Container Plant III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WATER_PLANT_4</zType>
+		<en-US>Water Container Plant IV~Water Container Plant IV~Water Container Plant IV</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_BASIC_FORAGING</zType>
 		<en-US>Basic Foraging~Basic Foraging~Basic Foraging</en-US>
 	</Entry>
@@ -60,7 +120,55 @@
 		<en-US>Basic Shrine~a Basic Shrine~Basic Shrines</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_SHRINE_2</zType>
+		<en-US>Improved Shrine~an Improved Shrine~Improved Shrines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SHRINE_3</zType>
+		<en-US>Superior Shrine~a Superior Shrine~Superior Shrines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SHRINE_4</zType>
+		<en-US>Sacred Shrine~a Sacred Shrine~Sacred Shrines</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_RITUAL</zType>
-		<en-US>Ritual~a Ritual~Rituals</en-US>
+		<en-US>Ritual I~Ritual I~Ritual I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_RITUAL_2</zType>
+		<en-US>Ritual II~Ritual II~Ritual II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_RITUAL_3</zType>
+		<en-US>Ritual III~Ritual III~Ritual III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_RITUAL_4</zType>
+		<en-US>Ritual IV~Ritual IV~Ritual IV</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SPY_NETWORK_1</zType>
+		<en-US>Basic Spy Network~a Basic Spy Network~Basic Spy Networks</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AGENT_TRAINING_1</zType>
+		<en-US>Basic Agent Training~a Basic Agent Training~Basic Agent Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AGENT_TRAINING_2</zType>
+		<en-US>Advanced Agent Training~an Advanced Agent Training~Advanced Agent Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AGENT_TRAINING_3</zType>
+		<en-US>Superior Agent Training~a Superior Agent Training~Superior Agent Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AGENT_TRAINING_4</zType>
+		<en-US>Master Agent Training~a Master Agent Training~Master Agent Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SLAVE_MINE_1</zType>
+		<en-US>Slave Mine I~Slave Mine I~Slave Mine I</en-US>
 	</Entry>
 </Root>

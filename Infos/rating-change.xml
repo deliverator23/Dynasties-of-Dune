@@ -84,19 +84,19 @@
 		<iAttackModifier>2</iAttackModifier>
 		<aiYieldCourtRate>
 			<Pair>
-				<zIndex>YIELD_TRAINING</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCourtRate>
 		<aiYieldGovernorModifier>
 			<Pair>
-				<zIndex>YIELD_TRAINING</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>2</iValue>
 			</Pair>
 		</aiYieldGovernorModifier>
 		<aiYieldAgentPercent>
 			<Pair>
-				<zIndex>YIELD_TRAINING</zIndex>
+				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>5</iValue>
 			</Pair>
 		</aiYieldAgentPercent>

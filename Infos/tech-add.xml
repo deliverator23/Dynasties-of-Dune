@@ -4,7 +4,7 @@
 		<Name>TEXT_TECH_DESERT_SURVIVAL</Name>
 		<Advice>TEXT_GUIDE_TECH_DESERT_SURVIVAL</Advice>
 		<zIconName>TECH_DESERT_SURVIVAL</zIconName>
-		<iCost>15</iCost>
+		<iCost>20</iCost>
 		<iColumn>0</iColumn>
 		<iRow>1</iRow>
 		<bValidAll>1</bValidAll>
@@ -14,7 +14,7 @@
 		<Name>TEXT_TECH_EXPLORATION</Name>
 		<Advice>TEXT_GUIDE_TECH_EXPLORATION</Advice>
 		<zIconName>TECH_EXPLORATION</zIconName>
-		<iCost>15</iCost>
+		<iCost>20</iCost>
 		<iColumn>0</iColumn>
 		<iRow>0</iRow>
 		<bValidAll>1</bValidAll>
@@ -24,7 +24,7 @@
 		<Name>TEXT_TECH_SYMBOLS</Name>
 		<Advice>TEXT_GUIDE_TECH_SYMBOLS</Advice>
 		<zIconName>TECH_SYMBOLS</zIconName>
-		<iCost>15</iCost>
+		<iCost>20</iCost>
 		<iColumn>0</iColumn>
 		<iRow>2</iRow>
 		<bValidAll>1</bValidAll>
@@ -34,7 +34,7 @@
 		<Name>TEXT_TECH_MYSTICISM</Name>
 		<Advice>TEXT_GUIDE_TECH_MYSTICISM</Advice>
 		<zIconName>TECH_MYSTICISM</zIconName>
-		<iCost>15</iCost>
+		<iCost>20</iCost>
 		<iColumn>0</iColumn>
 		<iRow>6</iRow>
 		<bValidAll>1</bValidAll>
@@ -307,6 +307,158 @@
 			</Pair>
 			<Pair>
 				<zIndex>TECH_WATER_CONSERVATION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_SPY_NETWORK_I</zType>
+		<Name>TEXT_TECH_SPY_NETWORK_I</Name>
+		<Advice>TEXT_GUIDE_TECH_SPY_NETWORK_I</Advice>
+		<zIconName>TECH_SPY_NETWORK_I</zIconName>
+		<iCost>20</iCost>
+		<iColumn>0</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_HARKONNEN</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+	</Entry>
+	<Entry>
+		<zType>TECH_BASIC_MINING_II</zType>
+		<Name>TEXT_TECH_BASIC_MINING_II</Name>
+		<Advice>TEXT_GUIDE_TECH_BASIC_MINING_II</Advice>
+		<zIconName>TECH_BASIC_MINING_II</zIconName>
+		<iCost>30</iCost>
+		<iColumn>1</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_HARKONNEN</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_SPY_NETWORK_I</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_DESERT_SURVIVAL_II</zType>
+		<Name>TEXT_TECH_DESERT_SURVIVAL_II</Name>
+		<Advice>TEXT_GUIDE_TECH_DESERT_SURVIVAL_II</Advice>
+		<zIconName>TECH_DESERT_SURVIVAL_II</zIconName>
+		<iCost>20</iCost>
+		<iColumn>0</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_FREMEN</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+	</Entry>
+	<Entry>
+		<zType>TECH_WATER_STORAGE_II</zType>
+		<Name>TEXT_TECH_WATER_STORAGE_II</Name>
+		<Advice>TEXT_GUIDE_TECH_WATER_STORAGE_II</Advice>
+		<zIconName>TECH_WATER_STORAGE_II</zIconName>
+		<iCost>30</iCost>
+		<iColumn>1</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_FREMEN</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_DESERT_SURVIVAL_II</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_EARLY_TAXATION</zType>
+		<Name>TEXT_TECH_EARLY_TAXATION</Name>
+		<Advice>TEXT_GUIDE_TECH_EARLY_TAXATION</Advice>
+		<zIconName>TECH_EARLY_TAXATION</zIconName>
+		<iCost>20</iCost>
+		<iColumn>0</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_CORRINO</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+	</Entry>
+	<Entry>
+		<zType>TECH_BASIC_DEFENSE_II</zType>
+		<Name>TEXT_TECH_BASIC_DEFENSE_II</Name>
+		<Advice>TEXT_GUIDE_TECH_BASIC_DEFENSE_II</Advice>
+		<zIconName>TECH_BASIC_DEFENSE_II</zIconName>
+		<iCost>30</iCost>
+		<iColumn>1</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_CORRINO</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_EARLY_TAXATION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_SYMBOL_II</zType>
+		<Name>TEXT_TECH_SYMBOL_II</Name>
+		<Advice>TEXT_GUIDE_TECH_SYMBOL_II</Advice>
+		<zIconName>TECH_SYMBOL_II</zIconName>
+		<iCost>20</iCost>
+		<iColumn>0</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_ATREIDES</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+	</Entry>
+	<Entry>
+		<zType>TECH_MINING_II</zType>
+		<Name>TEXT_TECH_MINING_II</Name>
+		<Advice>TEXT_GUIDE_TECH_MINING_II</Advice>
+		<zIconName>TECH_MINING_II</zIconName>
+		<iCost>30</iCost>
+		<iColumn>1</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_ATREIDES</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_SYMBOL_II</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>

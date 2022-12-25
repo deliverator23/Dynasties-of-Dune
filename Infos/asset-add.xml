@@ -48,6 +48,34 @@
         <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_3</zAsset>
     </Entry>
 	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_LOCAL_MATERIAL_4</zType>
+        <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_4</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_LOCAL_MATERIAL_5</zType>
+        <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_5</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_LOCAL_MATERIAL_6</zType>
+        <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_6</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_LOCAL_MATERIAL_7</zType>
+        <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_7</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_LOCAL_MATERIAL_8</zType>
+        <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_8</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_LOCAL_MATERIAL_9</zType>
+        <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_9</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_LOCAL_MATERIAL_10</zType>
+        <zAsset>dune-project-atlas/PROJECT_LOCAL_MATERIAL_10</zAsset>
+    </Entry>
+	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_1</zType>
         <zAsset>dune-project-atlas/PROJECT_GROWTH_1</zAsset>
     </Entry>
@@ -62,6 +90,34 @@
 	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_4</zType>
         <zAsset>dune-project-atlas/PROJECT_GROWTH_4</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_5</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_5</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_6</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_6</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_7</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_7</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_8</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_8</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_9</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_9</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_10</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_10</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_11</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_11</zAsset>
     </Entry>
 	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_1</zType>
@@ -92,6 +148,18 @@
         <zAsset>dune-project-atlas/PROJECT_DEVOTION_7</zAsset>
     </Entry>
 	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_8</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_8</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_9</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_9</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_10</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_10</zAsset>
+    </Entry>
+	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_1</zType>
         <zAsset>dune-project-atlas/PROJECT_CIVICS_1</zAsset>
     </Entry>
@@ -100,15 +168,155 @@
         <zAsset>dune-project-atlas/PROJECT_CIVICS_2</zAsset>
     </Entry>
 	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_3</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_3</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_4</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_4</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_5</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_5</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_6</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_6</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_7</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_7</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_8</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_8</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_9</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_9</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_10</zType>
+        <zAsset>dune-project-atlas/PROJECT_CIVICS_10</zAsset>
+    </Entry>
+	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_1</zType>
         <zAsset>dune-project-atlas/PROJECT_FUEL_1</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_2</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_2</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_3</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_3</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_4</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_4</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_5</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_5</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_6</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_6</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_7</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_7</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_8</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_8</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_9</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_9</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_FUEL_10</zType>
+        <zAsset>dune-project-atlas/PROJECT_FUEL_10</zAsset>
     </Entry>
 	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_1</zType>
         <zAsset>dune-project-atlas/PROJECT_CULTURE_1</zAsset>
     </Entry>
 	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_2</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_2</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_3</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_3</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_4</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_4</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_5</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_5</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_6</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_6</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_7</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_7</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_8</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_8</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_9</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_9</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_CULTURE_10</zType>
+        <zAsset>dune-project-atlas/PROJECT_CULTURE_10</zAsset>
+    </Entry>
+	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_1</zType>
         <zAsset>dune-project-atlas/PROJECT_INTEL_1</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_2</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_2</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_3</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_3</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_4</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_4</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_5</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_5</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_6</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_6</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_7</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_7</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_8</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_8</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_9</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_9</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_INTEL_10</zType>
+        <zAsset>dune-project-atlas/PROJECT_INTEL_10</zAsset>
     </Entry>
 </Root>

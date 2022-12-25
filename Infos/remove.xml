@@ -444,6 +444,21 @@
 		<zType>IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
 	</Entry>
 	<Entry>
+		<zType>IMPROVEMENT_ANCIENT_RUINS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_RUINS_1</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_RUINS_2</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_RUINS_3</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_RUINS_4</zType>
+	</Entry>
+	<Entry>
 		<zType>LAW_EPICS</zType>
 	</Entry>
 	<Entry>

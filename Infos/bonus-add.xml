@@ -153,4 +153,31 @@
 			</Pair>
 		</aiCityYields>
 	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_RITUAL_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_RITUAL_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>35</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_RITUAL_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
 </Root>
