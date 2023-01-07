@@ -300,4 +300,24 @@
 		<CityProject>PROJECT_FESTIVAL</CityProject>
 		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 	</Entry>
+	<Entry>
+		<zType>PROJECT_INQUIRY_1</zType>
+		<iCivics>20</iCivics>
+		<CityProject></CityProject>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_INQUIRY_2</zType>
+		<iCivics>30</iCivics>
+		<CityProject></CityProject>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_INQUIRY_3</zType>
+		<iCivics>40</iCivics>
+		<CityProject></CityProject>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_INQUIRY_4</zType>
+		<iCivics>50</iCivics>
+		<CityProject></CityProject>
+	</Entry>
 </Root>

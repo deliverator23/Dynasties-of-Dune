@@ -171,4 +171,36 @@
 		<zType>TEXT_PROJECT_SLAVE_MINE_1</zType>
 		<en-US>Slave Mine I~Slave Mine I~Slave Mine I</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BETTER_MINING_TOOL_1</zType>
+		<en-US>Better Mining Tool I~Better Mining Tool I~Better Mining Tool I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BETTER_MINING_TOOL_2</zType>
+		<en-US>Better Mining Tool II~Better Mining Tool II~Better Mining Tool II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WATER_SILO_2</zType>
+		<en-US>Medium Water Silo~a Medium Water Silo~Medium Water Silos</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_REINFORCED_WALLS_1</zType>
+		<en-US>Reinforced Wall I~Reinforced Wall I~Reinforced Wall I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SKULL_TOMB</zType>
+		<en-US>Skull Tomb~a Skull Tomb~Skull Tombs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TAX_OFFICE_1</zType>
+		<en-US>Tax Office I~Tax Office I~Tax Office I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_STILLSUIT_1</zType>
+		<en-US>Stillsuit Prototype~a Stillsuit Prototype~Stillsuit Prototypes</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CATCHBASIN_1</zType>
+		<en-US>Primitive Catchbasin~a Primitive Catchbasin~Primitive Catchbasins</en-US>
+	</Entry>
 </Root>

@@ -393,4 +393,29 @@
 		<zType>TEXT_THEOLOGY_WAY_NOBLE_TRUTHS</zType>
 		<en-US>Way of Noble Truths</en-US>
 	</Entry>
+	<!-- Council --> 
+	<Entry>
+		<zType>TEXT_COUNCIL_AGENT</zType>
+		<en-US>Agent~an Agent</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COUNCIL_COURT_CHAPLAIN</zType>
+		<en-US>Court Chaplain~a Court Chaplain</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COUNCIL_ENVOY</zType>
+		<en-US>Envoy~an Envoy</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COUNCIL_MARSHAL</zType>
+		<en-US>Marshal~a Marshal</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COUNCIL_PRIEST</zType>
+		<en-US>Priest~a Priest</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COUNCIL_STEWARD</zType>
+		<en-US>Steward~a Steward</en-US>
+	</Entry>
 </Root>

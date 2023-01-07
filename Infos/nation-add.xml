@@ -23,12 +23,7 @@
         <EffectPlayer>EFFECTPLAYER_NATION_HARKONNEN</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_PERSIA</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
-        <aiStartUnit>
-            <Pair>
-                <zIndex>UNIT_SCOUT</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiStartUnit>
+        <aiStartUnit></aiStartUnit>
         <aeFirstNamesMale>
             <zValue>NAME_ABRATTAN</zValue>
             <zValue>NAME_ABULURD</zValue>
@@ -170,12 +165,7 @@
         <EffectPlayer>EFFECTPLAYER_NATION_ATREIDES</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_GREECE</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
-        <aiStartUnit>
-            <Pair>
-                <zIndex>UNIT_SCOUT</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiStartUnit>
+        <aiStartUnit></aiStartUnit>
         <aeFirstNamesMale>
             <zValue>NAME_ADAM</zValue>
             <zValue>NAME_AGAMEMNON</zValue>
@@ -334,12 +324,7 @@
         <EffectPlayer>EFFECTPLAYER_NATION_CORRINO</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_ROME</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
-        <aiStartUnit>
-            <Pair>
-                <zIndex>UNIT_SCOUT</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiStartUnit>
+        <aiStartUnit></aiStartUnit>
         <aeFirstNamesMale>
             <zValue>NAME_AMISHAR</zValue>
             <zValue>NAME_AMSHOD</zValue>
@@ -512,12 +497,7 @@
         <EffectPlayer>EFFECTPLAYER_NATION_FREMEN</EffectPlayer>
         <MapElementNames>MAP_ELEMENT_NAMES_FOR_ASSYRIA</MapElementNames>
         <iFirstBuildPercent>40</iFirstBuildPercent>
-        <aiStartUnit>
-            <Pair>
-                <zIndex>UNIT_SCOUT</zIndex>
-                <iValue>1</iValue>
-            </Pair>
-        </aiStartUnit>
+        <aiStartUnit></aiStartUnit>
         <aeFirstNamesMale>
             <zValue>NAME_ABUMOJANDIS</zValue>
             <zValue>NAME_ASSAN</zValue>

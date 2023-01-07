@@ -142,4 +142,12 @@
 		<zType>TEXT_RESOURCE_WINE</zType>
 		<en-US>Spice Honey</en-US>
 	</Entry>
+	<!-- Agent renamed Minor Agent --> 
+	<Entry>
+		<zType>TEXT_CONCEPT_AGENT</zType>
+		<en-US>Minor Agent~a Minor Agent~Minor Agents</en-US>
+	</Entry><Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_AGENT</zType>
+		<en-US>Minor Agents can be sent to Cities with an link(CONCEPT_AGENT_NETWORK) to gain visiblity of the City's territory and to conduct link(MISSION_TREACHERY) and link(MISSION_INSURRECTION) Missions. They also siphon off a percentage of its Yields, depending on the Ratings of the Character. (For example, a Character's link(RATING_WISDOM) will determine how much {YIELD_SCIENCE}link(YIELD_SCIENCE) they will gather.)</en-US>
+	</Entry>
 </Root>

@@ -1,0 +1,25 @@
+<Root>
+	<!-- Traits --> 
+	<Entry>
+		<zType>EFFECTUNIT_HERO_ALL</zType>
+		<aiMilitaryKillYield>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiMilitaryKillYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ZEALOT_ALL</zType>
+		<Name>TEXT_EFFECTUNIT_ZEALOT_ALL</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_EFFECTUNIT_ZEALOT_ALL_F</Second>
+			</Pair>
+		</GenderedNames>
+		<zIconName>EFFECTUNIT_ZEALOT_ALL</zIconName>
+		<iFatigueExtra>0</iFatigueExtra>
+		<bSkipIcon>1</bSkipIcon>
+	</Entry>
+</Root>

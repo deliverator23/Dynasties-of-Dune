@@ -1,0 +1,32 @@
+<Root>
+	<Entry>
+		<zType>MISSIONRESULT_MAKE_AGENT</zType>
+		<Name>TEXT_MISSIONRESULT_MAKE_AGENT</Name>
+		<TargetBonus>BONUS_MAKE_AGENT</TargetBonus>
+	</Entry>
+	<Entry>
+		<zType>MISSIONRESULT_MAKE_COURT_CHAPLAIN</zType>
+		<Name>TEXT_MISSIONRESULT_MAKE_COURT_CHAPLAIN</Name>
+		<TargetBonus>BONUS_MAKE_COURT_CHAPLAIN</TargetBonus>
+	</Entry>
+	<Entry>
+		<zType>MISSIONRESULT_MAKE_ENVOY</zType>
+		<Name>TEXT_MISSIONRESULT_MAKE_ENVOY</Name>
+		<TargetBonus>BONUS_MAKE_ENVOY</TargetBonus>
+	</Entry>
+	<Entry>
+		<zType>MISSIONRESULT_MAKE_MARSHAL</zType>
+		<Name>TEXT_MISSIONRESULT_MAKE_MARSHAL</Name>
+		<TargetBonus>BONUS_MAKE_MARSHAL</TargetBonus>
+	</Entry>
+	<Entry>
+		<zType>MISSIONRESULT_MAKE_PRIEST</zType>
+		<Name>TEXT_MISSIONRESULT_MAKE_PRIEST</Name>
+		<TargetBonus>BONUS_MAKE_PRIEST</TargetBonus>
+	</Entry>
+	<Entry>
+		<zType>MISSIONRESULT_MAKE_STEWARD</zType>
+		<Name>TEXT_MISSIONRESULT_MAKE_STEWARD</Name>
+		<TargetBonus>BONUS_MAKE_STEWARD</TargetBonus>
+	</Entry>
+</Root>

@@ -1,0 +1,26 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_MISSION_AGENT</zType>
+		<en-US>Make link(COUNCIL_AGENT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_COURT_CHAPLAIN</zType>
+		<en-US>Make link(COUNCIL_COURT_CHAPLAIN)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ENVOY</zType>
+		<en-US>Make link(COUNCIL_ENVOY)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARSHAL</zType>
+		<en-US>Make link(COUNCIL_MARSHAL)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PRIEST</zType>
+		<en-US>Make link(COUNCIL_PRIEST)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_STEWARD</zType>
+		<en-US>Make link(COUNCIL_STEWARD)</en-US>
+	</Entry>
+</Root>

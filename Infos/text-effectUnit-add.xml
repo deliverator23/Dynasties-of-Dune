@@ -23,4 +23,20 @@
 		<zType>TEXT_EFFECTUNIT_RITUAL_SACRIFICE</zType>
 		<en-US>Ritual Sacrifice</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_EXPLORER</zType>
+		<en-US>link(TRAIT_EXPLORER_ARCHETYPE) General</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_EXPLORER_LEADER</zType>
+		<en-US>link(TRAIT_EXPLORER_ARCHETYPE) Leader General</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OUTLAW</zType>
+		<en-US>link(TRAIT_OUTLAW_ARCHETYPE) General</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OUTLAW_LEADER</zType>
+		<en-US>link(TRAIT_OUTLAW_ARCHETYPE) Leader General</en-US>
+	</Entry>
 </Root>

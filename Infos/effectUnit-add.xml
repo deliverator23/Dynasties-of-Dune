@@ -51,4 +51,38 @@
 			</Pair>
 		</aiMilitaryKillYield>
 	</Entry>
+	<!-- Traits --> 
+	<Entry>
+		<zType>EFFECTUNIT_EXPLORER</zType>
+		<Name>TEXT_EFFECTUNIT_EXPLORER</Name>
+		<zIconName>EFFECTUNIT_EXPLORER</zIconName>
+		<iFatigueExtra>1</iFatigueExtra>
+		<bSkipIcon>1</bSkipIcon>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_EXPLORER_LEADER</zType>
+		<Name>TEXT_EFFECTUNIT_EXPLORER_LEADER</Name>
+		<zIconName>EFFECTUNIT_EXPLORER_LEADER</zIconName>
+		<iMovementExtra>1</iMovementExtra>
+		<bSkipIcon>1</bSkipIcon>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_OUTLAW</zType>
+		<Name>TEXT_EFFECTUNIT_OUTLAW</Name>
+		<zIconName>EFFECTUNIT_OUTLAW</zIconName>
+		<bSkipIcon>1</bSkipIcon>
+		<aiUnitTraitModifier>
+			<Pair>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiUnitTraitModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_OUTLAW_LEADER</zType>
+		<Name>TEXT_EFFECTUNIT_OUTLAW_LEADER</Name>
+		<zIconName>EFFECTUNIT_OUTLAW_LEADER</zIconName>
+		<iHealAlways>5</iHealAlways>
+		<bSkipIcon>1</bSkipIcon>
+	</Entry>
 </Root>

@@ -69,7 +69,6 @@
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_NAVACHRISTIANITY</RequiresReligion>
-		<SpreadReligion>RELIGION_NAVACHRISTIANITY</SpreadReligion>
 		<BuildReligion>RELIGION_NAVACHRISTIANITY</BuildReligion>
 		<ProductionType>YIELD_DEVOTION</ProductionType>
 		<iMovement>2</iMovement>
@@ -100,7 +99,6 @@
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_BUDDISLAM</RequiresReligion>
-		<SpreadReligion>RELIGION_BUDDISLAM</SpreadReligion>
 		<BuildReligion>RELIGION_BUDDISLAM</BuildReligion>
 		<ProductionType>YIELD_DEVOTION</ProductionType>
 		<iMovement>2</iMovement>
@@ -131,7 +129,6 @@
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_MAOMETH_SAARI</RequiresReligion>
-		<SpreadReligion>RELIGION_MAOMETH_SAARI</SpreadReligion>
 		<BuildReligion>RELIGION_MAOMETH_SAARI</BuildReligion>
 		<ProductionType>YIELD_DEVOTION</ProductionType>
 		<iMovement>2</iMovement>
@@ -162,7 +159,6 @@
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_ZENSUNNI_CATHOLICISM</RequiresReligion>
-		<SpreadReligion>RELIGION_ZENSUNNI_CATHOLICISM</SpreadReligion>
 		<BuildReligion>RELIGION_ZENSUNNI_CATHOLICISM</BuildReligion>
 		<ProductionType>YIELD_DEVOTION</ProductionType>
 		<iMovement>2</iMovement>

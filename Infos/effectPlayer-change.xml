@@ -1,4 +1,5 @@
 <Root>
+	<!-- Difficulty --> 
 	<Entry>
 		<zType>EFFECTPLAYER_DIFFICULTY_ABLE</zType>
 		<Name>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</Name>
@@ -190,5 +191,22 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldRate>
+	</Entry>
+	<!-- Trait --> 
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_BUILDER_ARCHETYPE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</EffectCity>
+		<bAddUrban>1</bAddUrban>
+		<bMultipleWorkers>0</bMultipleWorkers>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
+		<Name>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_ORATOR_ARCHETYPE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</EffectCity>
+		<iReligionOpinionChange>0</iReligionOpinionChange>
+		<bRecruitMercenaries>1</bRecruitMercenaries>
 	</Entry>
 </Root>

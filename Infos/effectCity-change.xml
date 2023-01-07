@@ -380,6 +380,19 @@
 			</Pair>
 		</aiYieldModifier>
 	</Entry>
+	<!-- Trait --> 
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_SCHOLAR_ARCHETYPE_ALL</zType>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_ARCHIVE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_SCIENCE</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
 	<!-- Difficulty --> 
 	<Entry>
 		<zType>EFFECTCITY_DIFFICULTY_ABLE</zType>
@@ -508,5 +521,31 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
+	</Entry>
+	<!-- Traits --> 
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_BUILDER</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE</Name>
+		<SourceTrait>TRAIT_BUILDER_ARCHETYPE</SourceTrait>
+		<iBuildTurnChange>0</iBuildTurnChange>
+		<bSingle>1</bSingle>
+		<aiYieldRateCulture>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRateCulture>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</SourceEffectPlayer>
+		<bSingle>1</bSingle>
+		<aiUnitTrainModifier>
+			<Pair>
+				<zIndex>UNIT_WORKER</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiUnitTrainModifier>
 	</Entry>
 </Root>

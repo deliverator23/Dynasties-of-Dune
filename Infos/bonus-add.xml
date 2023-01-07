@@ -180,4 +180,29 @@
 			</Pair>
 		</aiCityYields>
 	</Entry>
+	<!-- Council --> 
+	<Entry>
+		<zType>BONUS_MAKE_AGENT</zType>
+		<Council>COUNCIL_AGENT</Council>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MAKE_COURT_CHAPLAIN</zType>
+		<Council>COUNCIL_COURT_CHAPLAIN</Council>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MAKE_ENVOY</zType>
+		<Council>COUNCIL_ENVOY</Council>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MAKE_MARSHAL</zType>
+		<Council>COUNCIL_MARSHAL</Council>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MAKE_PRIEST</zType>
+		<Council>COUNCIL_PRIEST</Council>
+	</Entry>
+	<Entry>
+		<zType>BONUS_MAKE_STEWARD</zType>
+		<Council>COUNCIL_STEWARD</Council>
+	</Entry>
 </Root>

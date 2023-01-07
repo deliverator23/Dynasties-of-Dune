@@ -1,0 +1,42 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_EXPLORER_ARCHETYPE</zType>
+		<en-US>Explorer~a Explorer~Explorers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_EXPLORER_ARCHETYPE_NICKNAME</zType>
+		<en-US>the Explorer</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MENTOR_ARCHETYPE</zType>
+		<en-US>Mentor~a Mentor~Mentors</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MENTOR_ARCHETYPE_NICKNAME</zType>
+		<en-US>the Mentor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MYSTIC_ARCHETYPE</zType>
+		<en-US>Mystic~a Mystic~Mystics</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MYSTIC_ARCHETYPE_NICKNAME</zType>
+		<en-US>the Mystic</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTLAW_ARCHETYPE</zType>
+		<en-US>Outlaw~an Outlaw~Outlaws</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTLAW_ARCHETYPE_NICKNAME</zType>
+		<en-US>the Outlaw</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEDUCER_ARCHETYPE</zType>
+		<en-US>Seducer~a Seducer~Seducers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SEDUCER_ARCHETYPE_NICKNAME</zType>
+		<en-US>the Seducer</en-US>
+	</Entry>
+</Root>

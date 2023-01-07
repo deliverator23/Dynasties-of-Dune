@@ -2,13 +2,55 @@
 	<Entry>
 		<zType>COUNCIL_AMBASSADOR</zType>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<abTraitPrereq>
+			<Pair>
+				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_JUDGE_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_ORATOR_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTraitPrereq>
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_CHANCELLOR</zType>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<abTraitPrereq>
+			<Pair>
+				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_MENTOR_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_SCHEMER_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTraitPrereq>
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_SPYMASTER</zType>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<abTraitPrereq>
+			<Pair>
+				<zIndex>TRAIT_MENTOR_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_SCHEMER_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_SEDUCER_ARCHETYPE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTraitPrereq>
 	</Entry>
 </Root>

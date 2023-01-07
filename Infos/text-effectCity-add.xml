@@ -27,4 +27,32 @@
 		<zType>TEXT_EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_COURT</zType>
 		<en-US>Court</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MENTOR_ARCHETYPE</zType>
+		<en-US>link(TRAIT_MENTOR_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MENTOR_ARCHETYPE_ALL</zType>
+		<en-US>link(TRAIT_MENTOR_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MYSTIC_ARCHETYPE</zType>
+		<en-US>link(TRAIT_MYSTIC_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MYSTIC_ARCHETYPE_ALL</zType>
+		<en-US>link(TRAIT_MYSTIC_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_OUTLAW_ARCHETYPE_ALL</zType>
+		<en-US>link(TRAIT_OUTLAW_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SEDUCER_ARCHETYPE</zType>
+		<en-US>link(TRAIT_SEDUCER_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SEDUCER_ARCHETYPE_ALL</zType>
+		<en-US>link(TRAIT_SEDUCER_ARCHETYPE) Leader</en-US>
+	</Entry>
 </Root>

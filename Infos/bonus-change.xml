@@ -133,4 +133,40 @@
 			</Pair>
 		</aiGlobalYields>
 	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_INQUIRY_1</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_INQUIRY_2</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_INQUIRY_3</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_INQUIRY_4</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
 </Root>
