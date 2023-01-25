@@ -1,5 +1,17 @@
 <Root>	
 	<Entry>
+		<zType>COURTIER_SOLDIER</zType>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_MINISTER</zType>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_MERCHANT</zType>
+	</Entry>
+	<Entry>
+		<zType>COURTIER_SCIENTIST</zType>
+	</Entry>	
+	<Entry>
 		<zType>BONUS_FAMILYCLASS_STATESMEN</zType>
 	</Entry>
 	<Entry>
@@ -248,6 +260,9 @@
 	<Entry>
 		<zType>IMPROVEMENTCLASS_GARRISON</zType>
 	</Entry>
+	<Entry beginGroup="EP Sacred and Profane">
+		<zType>IMPROVEMENTCLASS_CULT</zType>
+	</Entry>
 	<Entry>
 		<zType>IMPROVEMENT_PYRAMIDS</zType>
 	</Entry>
@@ -457,6 +472,48 @@
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENT_RUINS_4</zType>
+	</Entry>
+	<Entry beginGroup="EP Sacred and Profane">
+		<zType>IMPROVEMENT_PAGAN_STATUE_TEMPLE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_SHRINE_OF_VICTORY</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_SHRINE_OF_THE_HERO</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_SHRINE_OF_THE_FALLEN_GODDESS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_CAVALRY_CULT</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_AMAZON_CULT</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_MARTYR_CULT</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_DUAL_CULT</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_CULT_OF_THE_ANGELIC_DIVINE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_ECSTATIC_CULT</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_CULT_OF_THE_MOTHER</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_CULT_OF_ISIS_AND_SERAPIS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_CULT_OF_MITHRAS</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_CULT_OF_THE_HEALER</zType>
 	</Entry>
 	<Entry>
 		<zType>LAW_EPICS</zType>
@@ -952,6 +1009,12 @@
 	</Entry>
 	<Entry>
 		<zType>TERRAIN_MARSH</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_EQUESTRIAN</zType>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HORSEBANE</zType>
 	</Entry>
 	<Entry>
 		<zType>UNIT_BATTERING_RAM</zType>

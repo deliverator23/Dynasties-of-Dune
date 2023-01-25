@@ -28,6 +28,10 @@
 		<en-US>Court</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_EXPLORER_ARCHETYPE_CAPITAL</zType>
+		<en-US>link(TRAIT_EXPLORER_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MENTOR_ARCHETYPE</zType>
 		<en-US>link(TRAIT_MENTOR_ARCHETYPE) link(CONCEPT_GOVERNOR)</en-US>
 	</Entry>
@@ -54,5 +58,13 @@
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SEDUCER_ARCHETYPE_ALL</zType>
 		<en-US>link(TRAIT_SEDUCER_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SLY_ALL</zType>
+		<en-US>link(TRAIT_SLY) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SPIRITUAL_ALL</zType>
+		<en-US>link(TRAIT_SPIRITUAL) Leader</en-US>
 	</Entry>
 </Root>

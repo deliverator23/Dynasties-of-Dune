@@ -203,4 +203,56 @@
 		<zType>TEXT_PROJECT_CATCHBASIN_1</zType>
 		<en-US>Primitive Catchbasin~a Primitive Catchbasin~Primitive Catchbasins</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MEDITATION</zType>
+		<en-US>Meditation I~Meditation I~Meditation I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MEDITATION_2</zType>
+		<en-US>Meditation II~Meditation II~Meditation II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MEDITATION_3</zType>
+		<en-US>Meditation III~Meditation III~Meditation III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MEDITATION_4</zType>
+		<en-US>Meditation IV~Meditation IV~Meditation IV</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MATERIAL_FACTORY_1</zType>
+		<en-US>Basic Material Factory~a Basic Material Factory~Basic Material Factories</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_POWER_GENERATOR_1</zType>
+		<en-US>Basic Power Generator~a Basic Power Generator~Basic Power Generators</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_ASSASSIN</zType>
+		<en-US>Hire Assassin~Hire Assassin~Hire Assassin</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_BENE_GESSERIT</zType>
+		<en-US>Hire Bene Gesserit Sister~Hire Bene Gesserit Sister~Hire Bene Gesserit Sister</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_FACE_DANCER</zType>
+		<en-US>Hire Face Dancer~Hire Face Dancer~Hire Face Dancer</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_MENTAT</zType>
+		<en-US>Hire Mentat~Hire Mentat~Hire Mentat</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_SWORDMASTER</zType>
+		<en-US>Hire Swordmaster~Hire Swordmaster~Hire Swordmaster</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_SUK_DOCTOR</zType>
+		<en-US>Hire Suk Doctor~Hire Suk Doctor~Hire Suk Doctor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HIRE_WEAPON_MASTER</zType>
+		<en-US>Hire Weapon Master~Hire Weapon Master~Hire Weapon Master</en-US>
+	</Entry>
 </Root>

@@ -812,14 +812,11 @@
 		<AssetVariation>ASSET_VARIATION_RESOURCE_PIG</AssetVariation>
 		<zIconName>RESOURCE_PIG</zIconName>
 		<zAudioSwitchName>Pig</zAudioSwitchName>
-		<iProbThousand>15</iProbThousand>
-		<iMinDist>3</iMinDist>
-		<iMaxLatitude>50</iMaxLatitude>
+		<iProbThousand>1000</iProbThousand>
 		<iBorderValue>1600</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
 		<iHarvestRoll>8</iHarvestRoll>
-		<bUseAnimLOD>1</bUseAnimLOD>
-		<bFadeWithUnits>1</bFadeWithUnits>
+		<bNoVegetation>1</bNoVegetation>
 		<aiYieldReveal>
 			<Pair>
 				<zIndex>YIELD_SPICE</zIndex>
@@ -844,6 +841,12 @@
 				<bValue>1</bValue>
 			</Pair>
 		</abTerrainValid>
+		<abHeightValid>
+			<Pair>
+				<zIndex>HEIGHT_COAST</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abHeightValid>
 	</Entry>
 	<!-- Coffee -->
 	<Entry>

@@ -137,6 +137,7 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_PROJECT_BASIC_FORAGING</zType>
+		<AddResource>RESOURCE_PIG</AddResource>
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
@@ -180,6 +181,105 @@
 			</Pair>
 		</aiCityYields>
 	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MEDITATION</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MEDITATION_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MEDITATION_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>35</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MEDITATION_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_HIRE_ASSASSIN</zType>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_ASSASSIN</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_HIRE_BENE_GESSERIT</zType>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_BENE_GESSERIT_SISTER</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_HIRE_FACE_DANCER</zType>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_FACE_DANCER</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_HIRE_MENTAT</zType>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_MENTAT</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_HIRE_SUK_DOCTOR</zType>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_SUK_DOCTOR</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_HIRE_SWORDMASTER</zType>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_SWORDMASTER</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_HIRE_WEAPON_MASTER</zType>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_WEAPON_MASTER</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
 	<!-- Council --> 
 	<Entry>
 		<zType>BONUS_MAKE_AGENT</zType>
@@ -205,4 +305,17 @@
 		<zType>BONUS_MAKE_STEWARD</zType>
 		<Council>COUNCIL_STEWARD</Council>
 	</Entry>
+	<!-- Tech --> 
+	<!--
+	<Entry>
+		<zType>BONUS_TECH_EXPLORATION_BONUS_BORDERS_AND_SPICE</zType>
+		<aeAllCityBonuses>
+			<zValue>BONUS_TECH_EXPLORATION_BONUS_BORDERS_AND_SPICE_ALL</zValue>
+		</aeAllCityBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_EXPLORATION_BONUS_BORDERS_AND_SPICE_ALL</zType>
+		<AddResource>RESOURCE_PIG</AddResource>
+		<iBorderGrowth>3</iBorderGrowth>
+	</Entry> --> 
 </Root>

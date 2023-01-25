@@ -5,7 +5,7 @@
 	</Entry>
 	<Entry>
 		<zType>YIELD_SCIENCE</zType>
-		<iDiscontentModifier>0</iDiscontentModifier>
+		<iPositiveDiscontentModifier>0</iPositiveDiscontentModifier>
 		<iUIPosition>6</iUIPosition>
 	</Entry>
 	<Entry>

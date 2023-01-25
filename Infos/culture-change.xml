@@ -22,8 +22,8 @@
 		<iExtraAssimilateTurns>10</iExtraAssimilateTurns>
 		<iAssimilationRate>-2</iAssimilationRate>
 		<EffectCity>EFFECTCITY_CULTURE_DEVELOPING</EffectCity>
-		<DefaultProject>PROJECT_COUNCIL_2</DefaultProject>
-		<ShortfallProject>PROJECT_COUNCIL_2</ShortfallProject>
+		<DefaultProject>PROJECT_BASIC_FORAGING</DefaultProject>
+		<ShortfallProject>PROJECT_BASIC_FORAGING</ShortfallProject>
 	</Entry>
 	<Entry>
 		<zType>CULTURE_STRONG</zType>
@@ -36,8 +36,8 @@
 		<iExtraAssimilateTurns>20</iExtraAssimilateTurns>
 		<iAssimilationRate>-3</iAssimilationRate>
 		<EffectCity>EFFECTCITY_CULTURE_STRONG</EffectCity>
-		<DefaultProject>PROJECT_COUNCIL_3</DefaultProject>
-		<ShortfallProject>PROJECT_COUNCIL_3</ShortfallProject>
+		<DefaultProject>PROJECT_BASIC_FORAGING</DefaultProject>
+		<ShortfallProject>PROJECT_BASIC_FORAGING</ShortfallProject>
 	</Entry>
 	<Entry>
 		<zType>CULTURE_LEGENDARY</zType>
@@ -50,7 +50,7 @@
 		<iExtraAssimilateTurns>30</iExtraAssimilateTurns>
 		<iAssimilationRate>-4</iAssimilationRate>
 		<EffectCity>EFFECTCITY_CULTURE_LEGENDARY</EffectCity>
-		<DefaultProject>PROJECT_COUNCIL_4</DefaultProject>
-		<ShortfallProject>PROJECT_COUNCIL_4</ShortfallProject>
+		<DefaultProject>PROJECT_BASIC_FORAGING</DefaultProject>
+		<ShortfallProject>PROJECT_BASIC_FORAGING</ShortfallProject>
 	</Entry>
 </Root>

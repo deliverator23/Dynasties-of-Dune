@@ -39,4 +39,32 @@
 		<zType>TEXT_TRAIT_SEDUCER_ARCHETYPE_NICKNAME</zType>
 		<en-US>the Seducer</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SLY</zType>
+		<en-US>Sly</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SLY_GAIN_1</zType>
+		<en-US>With a gift for finding weaknesses, {0_character} is known as {1_trait}!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SLY_GAIN_2</zType>
+		<en-US>{0_character} can get anything {masculine_0:he:she} wants by outsmarting others. {masculine_0:He:She} is quite {1_trait}!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SLY_NICKNAME</zType>
+		<en-US>the Sly</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SPIRITUAL</zType>
+		<en-US>Spiritual</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SPIRITUAL_GAIN_1</zType>
+		<en-US>With {masculine_0:his:her} unwavering devotion, {0_character} is {1_trait}.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SPIRITUAL_NICKNAME</zType>
+		<en-US>the Spiritual</en-US>
+	</Entry>
 </Root>

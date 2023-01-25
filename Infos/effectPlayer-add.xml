@@ -113,4 +113,16 @@
 		<SourceTrait>TRAIT_SEDUCER_ARCHETYPE</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_SEDUCER_ARCHETYPE_ALL</EffectCity>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_SLY</zType>
+		<Name>TEXT_TRAIT_SLY</Name>
+		<SourceTrait>TRAIT_SLY</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_SLY_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_SPIRITUAL</zType>
+		<Name>TEXT_TRAIT_SPIRITUAL</Name>
+		<SourceTrait>TRAIT_SPIRITUAL</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_SPIRITUAL_ALL</EffectCity>
+	</Entry>
 </Root>

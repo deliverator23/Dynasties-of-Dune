@@ -1,6 +1,22 @@
 ﻿<Root>
 	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_EXPLORER_ARCHETYPE</zType>
+		<en-US>link(TRAIT_EXPLORER_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_MENTOR_ARCHETYPE</zType>
+		<en-US>link(TRAIT_MENTOR_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_OUTLAW_ARCHETYPE</zType>
+		<en-US>link(TRAIT_OUTLAW_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTPLAYER_TRAIT_MYSTIC_ARCHETYPE</zType>
 		<en-US>link(TRAIT_MYSTIC_ARCHETYPE) Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SEDUCER_ARCHETYPE</zType>
+		<en-US>link(TRAIT_SEDUCER_ARCHETYPE) Leader</en-US>
 	</Entry>
 </Root>

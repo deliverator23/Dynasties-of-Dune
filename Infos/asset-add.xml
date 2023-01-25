@@ -120,6 +120,22 @@
         <zAsset>dune-project-atlas/PROJECT_GROWTH_11</zAsset>
     </Entry>
 	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_12</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_12</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_13</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_13</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_14</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_14</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_GROWTH_15</zType>
+        <zAsset>dune-project-atlas/PROJECT_GROWTH_15</zAsset>
+    </Entry>
+	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_1</zType>
         <zAsset>dune-project-atlas/PROJECT_DEVOTION_1</zAsset>
     </Entry>
@@ -158,6 +174,26 @@
 	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_10</zType>
         <zAsset>dune-project-atlas/PROJECT_DEVOTION_10</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_11</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_11</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_12</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_12</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_13</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_13</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_14</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_14</zAsset>
+    </Entry>
+	<Entry>
+        <zType>ASSET_SPRITE_SHEET_PROJECT_DEVOTION_15</zType>
+        <zAsset>dune-project-atlas/PROJECT_DEVOTION_15</zAsset>
     </Entry>
 	<Entry>
         <zType>ASSET_SPRITE_SHEET_PROJECT_CIVICS_1</zType>

@@ -418,4 +418,61 @@
 		<zType>TEXT_COUNCIL_STEWARD</zType>
 		<en-US>Steward~a Steward</en-US>
 	</Entry>
+	<!-- Courtier --> 
+	<Entry>
+		<zType>TEXT_COURTIER_ASSASSIN</zType>
+		<en-US>Assassin</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_BENE_GESSERIT_SISTER</zType>
+		<en-US>Bene Gesserit Sister</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_FACE_DANCER</zType>
+		<en-US>Face Dancer</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_MENTAT</zType>
+		<en-US>Mentat</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SWORDMASTER</zType>
+		<en-US>Swordmaster</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SUK_DOCTOR</zType>
+		<en-US>Suk Doctor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_WEAPON_MASTER</zType>
+		<en-US>Weapon Master</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_ASSASSIN_NICKNAME</zType>
+		<en-US>the Assassin</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_BENE_GESSERIT_SISTER_NICKNAME</zType>
+		<en-US>the Sister</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_FACE_DANCER_NICKNAME</zType>
+		<en-US>the Face Dancer</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_MENTAT_NICKNAME</zType>
+		<en-US>the Mentat</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SWORDMASTER_NICKNAME</zType>
+		<en-US>the Swordmaster</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SUK_DOCTOR_NICKNAME</zType>
+		<en-US>the Suk Doctor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_WEAPON_MASTER_NICKNAME</zType>
+		<en-US>the Weapon Master</en-US>
+	</Entry>
 </Root>

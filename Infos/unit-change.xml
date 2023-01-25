@@ -2,13 +2,37 @@
 	<Entry>
 		<zType>UNIT_SETTLER</zType>
 		<TechPrereq>TECH_SIETCH</TechPrereq>
-		<iProduction>15</iProduction>
+		<iProduction>25</iProduction>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldConsumption>
 	</Entry>
 	<Entry>
 		<zType>UNIT_WORKER</zType>
 		<TechPrereq>TECH_SIETCH</TechPrereq>
-		<iProduction>15</iProduction>
+		<iProduction>25</iProduction>
 		<aiStartDifficulty></aiStartDifficulty>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldConsumption>
 		<aeUpgradeUnit></aeUpgradeUnit>
 	</Entry>
 	<Entry>
