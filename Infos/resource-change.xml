@@ -3,7 +3,7 @@
 	<Entry>
 		<zType>RESOURCE_BARLEY</zType>
 		<Name>TEXT_RESOURCE_BARLEY</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_BARLEY</AssetVariation>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_CITRUS</AssetVariation>
 		<zIconName>RESOURCE_BARLEY</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMinLatitude>20</iMinLatitude>
@@ -40,8 +40,8 @@
 	<Entry>
 		<zType>RESOURCE_CAMEL</zType>
 		<Name>TEXT_RESOURCE_CAMEL</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_CAMEL</AssetVariation>
-		<zIconName>RESOURCE_CAMEL</zIconName>
+		<AssetVariation>ASSET_VARIATION_VEGETATION_SCRUB</AssetVariation>
+		<zIconName>RESOURCE_BARLEY</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMinDist>5</iMinDist>
 		<iMaxLatitude>50</iMaxLatitude>
@@ -80,8 +80,8 @@
 	<Entry>
 		<zType>RESOURCE_CATTLE</zType>
 		<Name>TEXT_RESOURCE_CATTLE</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_CATTLE</AssetVariation>
-		<zIconName>RESOURCE_CATTLE</zIconName>
+		<AssetVariation>ASSET_VARIATION_VEGETATION_SCRUB</AssetVariation>
+		<zIconName>RESOURCE_BARLEY</zIconName>
 		<zAudioSwitchName>Cattle</zAudioSwitchName>
 		<iProbThousand>8</iProbThousand>
 		<iMinDist>2</iMinDist>
@@ -158,7 +158,7 @@
 	<Entry>
 		<zType>RESOURCE_CRAB</zType>
 		<Name>TEXT_RESOURCE_CRAB</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_CRAB</AssetVariation>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_CITRUS</AssetVariation>
 		<zIconName>RESOURCE_CRAB</zIconName>
 		<iProbThousand>15</iProbThousand>
 		<iBorderValue>2000</iBorderValue>
@@ -195,7 +195,7 @@
 	<Entry>
 		<zType>RESOURCE_DYE</zType>
 		<Name>TEXT_RESOURCE_DYE</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_DYE</AssetVariation>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_GAME</AssetVariation>
 		<zIconName>RESOURCE_DYE</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMaxLatitude>60</iMaxLatitude>
@@ -232,7 +232,7 @@
 	<Entry>
 		<zType>RESOURCE_ELEPHANT</zType>
 		<Name>TEXT_RESOURCE_ELEPHANT</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_ELEPHANT</AssetVariation>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_HORSE</AssetVariation>
 		<zIconName>RESOURCE_ELEPHANT</zIconName>
 		<iProbThousand>15</iProbThousand>
 		<iMinDist>5</iMinDist>
@@ -271,8 +271,8 @@
 	<Entry>
 		<zType>RESOURCE_FISH</zType>
 		<Name>TEXT_RESOURCE_FISH</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_FISH</AssetVariation>
-		<zIconName>RESOURCE_FISH</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_OLIVE</AssetVariation>
+		<zIconName>RESOURCE_OLIVE</zIconName>
 		<iProbThousand>15</iProbThousand>
 		<iBorderValue>2000</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
@@ -307,8 +307,8 @@
 	<Entry>
 		<zType>RESOURCE_FUR</zType>
 		<Name>TEXT_RESOURCE_FUR</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_FUR</AssetVariation>
-		<zIconName>RESOURCE_FUR</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_CITRUS</AssetVariation>
+		<zIconName>RESOURCE_CITRUS</zIconName>
 		<iProbThousand>25</iProbThousand>
 		<iMinLatitude>40</iMinLatitude>
 		<iBorderValue>1600</iBorderValue>
@@ -345,8 +345,8 @@
 	<Entry>
 		<zType>RESOURCE_GAME</zType>
 		<Name>TEXT_RESOURCE_GAME</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_GAME</AssetVariation>
-		<zIconName>RESOURCE_GAME</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_BARLEY</AssetVariation>
+		<zIconName>RESOURCE_BARLEY</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iBorderValue>1600</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
@@ -382,8 +382,8 @@
 	<Entry>
 		<zType>RESOURCE_GEM</zType>
 		<Name>TEXT_RESOURCE_GEM</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_GEM</AssetVariation>
-		<zIconName>RESOURCE_GEM</zIconName>
+		<AssetVariation>ASSET_VARIATION_VEGETATION_SCRUB</AssetVariation>
+		<zIconName>RESOURCE_BARLEY</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMinDist>3</iMinDist>
 		<iBorderValue>1600</iBorderValue>
@@ -419,8 +419,8 @@
 	<Entry>
 		<zType>RESOURCE_GOAT</zType>
 		<Name>TEXT_RESOURCE_GOAT</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_GOAT</AssetVariation>
-		<zIconName>RESOURCE_GOAT</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_INCENSE</AssetVariation>
+		<zIconName>RESOURCE_INCENSE</zIconName>
 		<zAudioSwitchName>Goat</zAudioSwitchName>
 		<iProbThousand>25</iProbThousand>
 		<iMinDist>2</iMinDist>
@@ -459,8 +459,8 @@
 	<Entry>
 		<zType>RESOURCE_GOLD</zType>
 		<Name>TEXT_RESOURCE_GOLD</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_GOLD</AssetVariation>
-		<zIconName>RESOURCE_GOLD</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_SORGHUM</AssetVariation>
+		<zIconName>RESOURCE_SORGHUM</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMinDist>4</iMinDist>
 		<iBorderValue>1200</iBorderValue>
@@ -496,8 +496,8 @@
 	<Entry>
 		<zType>RESOURCE_HONEY</zType>
 		<Name>TEXT_RESOURCE_HONEY</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_HONEY</AssetVariation>
-		<zIconName>RESOURCE_HONEY</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_BARLEY</AssetVariation>
+		<zIconName>RESOURCE_BARLEY</zIconName>
 		<iProbThousand>15</iProbThousand>
 		<iBorderValue>1200</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
@@ -532,8 +532,8 @@
 	<Entry>
 		<zType>RESOURCE_HORSE</zType>
 		<Name>TEXT_RESOURCE_HORSE</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_HORSE</AssetVariation>
-		<zIconName>RESOURCE_HORSE</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_INCENSE</AssetVariation>
+		<zIconName>RESOURCE_INCENSE</zIconName>
 		<zAudioSwitchName>Horse</zAudioSwitchName>
 		<iProbThousand>30</iProbThousand>
 		<iMinDist>5</iMinDist>
@@ -574,8 +574,8 @@
 	<Entry>
 		<zType>RESOURCE_INCENSE</zType>
 		<Name>TEXT_RESOURCE_INCENSE</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_INCENSE</AssetVariation>
-		<zIconName>RESOURCE_INCENSE</zIconName>
+		<AssetVariation>ASSET_VARIATION_VEGETATION_SCRUB</AssetVariation>
+		<zIconName>RESOURCE_BARLEY</zIconName>
 		<iProbThousand>10</iProbThousand>
 		<iBorderValue>1200</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
@@ -620,8 +620,8 @@
 	<Entry>
 		<zType>RESOURCE_LAVENDER</zType>
 		<Name>TEXT_RESOURCE_LAVENDER</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_LAVENDER</AssetVariation>
-		<zIconName>RESOURCE_LAVENDER</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_ORE</AssetVariation>
+		<zIconName>RESOURCE_IRON</zIconName>
 		<iProbThousand>10</iProbThousand>
 		<iBorderValue>1200</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
@@ -696,8 +696,8 @@
 	<Entry>
 		<zType>RESOURCE_OLIVE</zType>
 		<Name>TEXT_RESOURCE_OLIVE</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_OLIVE</AssetVariation>
-		<zIconName>RESOURCE_OLIVE</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_ORE</AssetVariation>
+		<zIconName>RESOURCE_IRON</zIconName>
 		<iProbThousand>15</iProbThousand>
 		<iMaxLatitude>40</iMaxLatitude>
 		<iBorderValue>1200</iBorderValue>
@@ -772,8 +772,8 @@
 	<Entry>
 		<zType>RESOURCE_PEARL</zType>
 		<Name>TEXT_RESOURCE_PEARL</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_PEARL</AssetVariation>
-		<zIconName>RESOURCE_PEARL</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_INCENSE</AssetVariation>
+		<zIconName>RESOURCE_INCENSE</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMinLatitude>30</iMinLatitude>
 		<iBorderValue>2000</iBorderValue>
@@ -809,8 +809,8 @@
 	<Entry>
 		<zType>RESOURCE_PIG</zType>
 		<Name>TEXT_RESOURCE_PIG</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_PIG</AssetVariation>
-		<zIconName>RESOURCE_PIG</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_INCENSE</AssetVariation>
+		<zIconName>RESOURCE_INCENSE</zIconName>
 		<zAudioSwitchName>Pig</zAudioSwitchName>
 		<iProbThousand>1000</iProbThousand>
 		<iBorderValue>1600</iBorderValue>
@@ -852,8 +852,8 @@
 	<Entry>
 		<zType>RESOURCE_SALT</zType>
 		<Name>TEXT_RESOURCE_SALT</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_SALT</AssetVariation>
-		<zIconName>RESOURCE_SALT</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_OLIVE</AssetVariation>
+		<zIconName>RESOURCE_OLIVE</zIconName>
 		<iProbThousand>12</iProbThousand>
 		<iBorderValue>1600</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
@@ -889,8 +889,8 @@
 	<Entry>
 		<zType>RESOURCE_SHEEP</zType>
 		<Name>TEXT_RESOURCE_SHEEP</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_SHEEP</AssetVariation>
-		<zIconName>RESOURCE_SHEEP</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_BARLEY</AssetVariation>
+		<zIconName>RESOURCE_BARLEY</zIconName>
 		<zAudioSwitchName>Sheep</zAudioSwitchName>
 		<iProbThousand>20</iProbThousand>
 		<iMinDist>2</iMinDist>
@@ -930,8 +930,8 @@
 	<Entry>
 		<zType>RESOURCE_SILVER</zType>
 		<Name>TEXT_RESOURCE_SILVER</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_SILVER</AssetVariation>
-		<zIconName>RESOURCE_SILVER</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_CITRUS</AssetVariation>
+		<zIconName>RESOURCE_CITRUS</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMinDist>5</iMinDist>
 		<iBorderValue>1200</iBorderValue>
@@ -967,8 +967,8 @@
 	<Entry>
 		<zType>RESOURCE_SORGHUM</zType>
 		<Name>TEXT_RESOURCE_SORGHUM</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_SORGHUM</AssetVariation>
-		<zIconName>RESOURCE_SORGHUM</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_LAVENDER</AssetVariation>
+		<zIconName>RESOURCE_LAVENDER</zIconName>
 		<iProbThousand>25</iProbThousand>
 		<iBorderValue>1200</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
@@ -1004,8 +1004,8 @@
 	<Entry>
 		<zType>RESOURCE_WHEAT</zType>
 		<Name>TEXT_RESOURCE_WHEAT</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_WHEAT</AssetVariation>
-		<zIconName>RESOURCE_WHEAT</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_ORE</AssetVariation>
+		<zIconName>RESOURCE_IRON</zIconName>
 		<iProbThousand>20</iProbThousand>
 		<iMinLatitude>30</iMinLatitude>
 		<iBorderValue>1600</iBorderValue>
@@ -1041,8 +1041,8 @@
 	<Entry>
 		<zType>RESOURCE_WINE</zType>
 		<Name>TEXT_RESOURCE_WINE</Name>
-		<AssetVariation>ASSET_VARIATION_RESOURCE_WINE</AssetVariation>
-		<zIconName>RESOURCE_WINE</zIconName>
+		<AssetVariation>ASSET_VARIATION_RESOURCE_HONEY</AssetVariation>
+		<zIconName>RESOURCE_HONEY</zIconName>
 		<iProbThousand>15</iProbThousand>
 		<iMinLatitude>30</iMinLatitude>
 		<iMaxLatitude>60</iMaxLatitude>
