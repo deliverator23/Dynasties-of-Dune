@@ -338,7 +338,7 @@
 		<zType>CHARACTER_STILGAR</zType>
 		<Gender>GENDER_MALE</Gender>
 		<FirstName>NAME_STILGAR</FirstName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_STILGAR</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_FREMEN_MALE_03</PreferredPortrait>
 		<PlayerDynasty>DYNASTY_FREMEN</PlayerDynasty>
 		<Courtier>COURTIER_SOLDIER</Courtier>
 		<iAge>38</iAge>

@@ -338,32 +338,6 @@
         </azAgeGroupSpriteNames>
     </Entry>
     <Entry>
-        <zType>CHARACTER_PORTRAIT_STILGAR</zType>
-        <Gender>GENDER_MALE</Gender>
-        <azAgeGroupSpriteNames>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_BABY</zIndex>
-                <zValue>DUNE_PORTRAIT_STILGAR</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>DUNE_PORTRAIT_STILGAR</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
-                <zValue>DUNE_PORTRAIT_STILGAR</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
-                <zValue>DUNE_PORTRAIT_STILGAR</zValue>
-            </Pair>
-            <Pair>
-                <zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-                <zValue>DUNE_PORTRAIT_STILGAR</zValue>
-            </Pair>
-        </azAgeGroupSpriteNames>
-    </Entry>
-    <Entry>
         <zType>CHARACTER_PORTRAIT_FAROULA</zType>
         <Gender>GENDER_FEMALE</Gender>
         <azAgeGroupSpriteNames>
@@ -1153,7 +1127,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>FREMEN_MALE_6_0</zValue>
+                <zValue>FREMEN_MALE_2_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -1205,7 +1179,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>FREMEN_MALE_8_0</zValue>
+                <zValue>FREMEN_MALE_7_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -1231,7 +1205,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>FREMEN_MALE_9_0</zValue>
+                <zValue>FREMEN_MALE_3_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -1257,7 +1231,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>FREMEN_MALE_10_0</zValue>
+                <zValue>FREMEN_MALE_4_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -1283,7 +1257,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>FREMEN_MALE_11_0</zValue>
+                <zValue>FREMEN_MALE_7_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
@@ -1300,7 +1274,7 @@
         </azAgeGroupSpriteNames>
     </Entry>
     <Entry>
-        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_11</zType>
+        <zType>CHARACTER_PORTRAIT_FREMEN_MALE_12</zType>
         <Gender>GENDER_MALE</Gender>
         <azAgeGroupSpriteNames>
             <Pair>
@@ -1309,7 +1283,7 @@
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-                <zValue>FREMEN_MALE_12_0</zValue>
+                <zValue>FREMEN_MALE_1_0</zValue>
             </Pair>
             <Pair>
                 <zIndex>CHARACTER_AGE_GROUP_TEEN</zIndex>
