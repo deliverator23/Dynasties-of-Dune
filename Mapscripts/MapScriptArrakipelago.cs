@@ -96,8 +96,10 @@ public class MapScriptArrakipelago : DefaultMapScript
         }
 
         heightGen.Normalize();
-        heightGen.AddNoise(16, ElevationNoiseAmplitude);
-        heightGen.Normalize();
+        heightGen.AddNoise(16, ElevationNoiseAmplitude * 3 / 7);
+        heightGen.AddNoise(8, ElevationNoiseAmplitude * 2 / 7);
+		heightGen.AddNoise(4, ElevationNoiseAmplitude * 2 / 7);
+		heightGen.Normalize();
 
         List<NoiseGenerator.TileValue> tiles = heightGen.GetPercentileRange(0, OceanPercent);
         foreach (NoiseGenerator.TileValue tile in tiles)
@@ -117,7 +119,7 @@ public class MapScriptArrakipelago : DefaultMapScript
 
         ResetDistances();
     }
-	
+
 	protected override void GenerateDeserts()
 	{
 		// do nothing
@@ -126,11 +128,11 @@ public class MapScriptArrakipelago : DefaultMapScript
 	protected override void GenerateMountains()
 	{
         foreach (TileData tile in Tiles.Where(x => !IsDesert(x) && CountAdjacent(x, IsDesert) > 0))
-        {	
-			if (random.Next(2) == 1) {
-				tile.meHeight = infos.Globals.MOUNTAIN_HEIGHT;
-			} else {
+        {
+			if (random.Next(3) == 1) {
 				tile.meHeight = infos.Globals.HILL_HEIGHT;
+			} else {
+				tile.meHeight = infos.Globals.MOUNTAIN_HEIGHT;
 			}
         }
 
@@ -144,7 +146,7 @@ public class MapScriptArrakipelago : DefaultMapScript
 			}
         }
 	}
-	
+
 	protected virtual bool IsNotDesert(TileData tile)
 	{
 		if (tile == null)
@@ -157,12 +159,12 @@ public class MapScriptArrakipelago : DefaultMapScript
 		}
 		return true;
 	}
-	
+
 	protected override void EliminateSingletonMountains()
 	{
 		// do nothing
 	}
-	
+
 	protected override void GenerateElevations()
 	{
 		// do nothing
@@ -177,7 +179,7 @@ public class MapScriptArrakipelago : DefaultMapScript
 	{
 		// do nothing
 	}
-	
+
 	protected override void ConvertOverloadedRiverTilesToLakes()
 	{
 		// do nothing
@@ -187,56 +189,41 @@ public class MapScriptArrakipelago : DefaultMapScript
 	{
 		// do nothing
 	}
-                
+
  	protected override void BuildWaterAreas()
 	{
 		// do nothing
-	}    
+	}
 
  	protected override void ModifyTerrain()
 	{
 		// do nothing
-	}	
-    
+	}
+
  	protected override void SmoothTerrain()
 	{
 		// do nothing
-	}		
-	
+	}
+
 	protected override void HandleRainEffects()
 	{
 		using (new UnityProfileScope("DefaultMapScript.HandleRainEffects"))
 		{
 
-			MeasureMountainStrength();
-
 			ApplyOceanicRains();
 
-			SoftenDesertsAlongRivers();
-
-			//ApplySeaBreezeRainsToIrregularCoastline();
-
-			//ApplyLakeEffectRains();
-
-			SmoothDeserts();
-			
 			foreach (TileData tile in Tiles.Where(x => IsDesert(x) && CountAdjacent(x, IsNotDesert) > 0))
-			{	
+			{
 				tile.meHeight = infos.Globals.DEFAULT_HEIGHT;
 			}
 		}
 	}
-	
+
 	protected override void MakePlayerStart(PlayerType player, TileData tile, bool freshWaterCheck = true)
 	{
 		tile.meCitySite = CitySiteType.ACTIVE_START;
 		playerStarts.Add(player, tile.ID);
 		mValidCitySite.Clear();
-
-		//if (!MirrorMap && freshWaterCheck && !IsFreshWaterAccess(tile)) // Best available legal site lacks fresh water. Fudge in a lake.
-		//{
-		//	AddSmallLakeToStartLocation(tile);
-		//}
 	}
 	
  	protected override void BuildVegetation()
