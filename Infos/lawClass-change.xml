@@ -1,0 +1,14 @@
+<Root>
+	<Entry>
+		<zType>LAWCLASS_PILGRIMAGE_HOLY_WAR</zType>
+		<TechPrereq>TECH_STRUGGLE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_GUILDS_ELITES</zType>
+		<TechPrereq>TECH_DEVELOPMENT_I</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_MONOTHEISM_POLYTHEISM</zType>
+		<TechPrereq>TECH_SUPERSTITIOUS_I</TechPrereq>
+	</Entry>
+</Root>

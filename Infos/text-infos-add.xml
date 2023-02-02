@@ -293,6 +293,14 @@
 		<en-US>This tech unlocks more sources of Local Materials.</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TECH_BRUTALITY_I</zType>
+		<en-US>Brutality I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BRUTALITY_I</zType>
+		<en-US>This tech unlocks two laws unique to House Harkonnen.</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TECH_DESERT_SURVIVAL_II</zType>
 		<en-US>Desert Survival II</en-US>
 	</Entry>
@@ -307,6 +315,14 @@
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_WATER_STORAGE_II</zType>
 		<en-US>This tech unlocks more sources of Water.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SUPERSTITIOUS_I</zType>
+		<en-US>Superstitious I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SUPERSTITIOUS_I</zType>
+		<en-US>This tech unlocks two laws unique to the Fremen.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_EARLY_TAXATION</zType>
@@ -325,6 +341,14 @@
 		<en-US>This tech unlocks more sources of City fortifications.</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TECH_DEVELOPMENT_I</zType>
+		<en-US>Development I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_DEVELOPMENT_I</zType>
+		<en-US>This tech unlocks two laws unique to House Corrino.</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TECH_SYMBOL_II</zType>
 		<en-US>Symbol II</en-US>
 	</Entry>
@@ -339,6 +363,14 @@
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_MINING_II</zType>
 		<en-US>This tech unlocks more sources of Local Materials.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STRUGGLE</zType>
+		<en-US>Struggle</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_STRUGGLE</zType>
+		<en-US>This tech unlocks two laws unique to House Atreides.</en-US>
 	</Entry>
 	<!-- Theologies --> 
 	<Entry>

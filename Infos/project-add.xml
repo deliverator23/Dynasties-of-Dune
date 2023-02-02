@@ -630,8 +630,9 @@
 		<zIcon>PROJECT_GROWTH_1</zIcon>
 		<iCivics>1</iCivics>
 		<bRepeat>1</bRepeat>
+		<bNoHurry>1</bNoHurry>
 		<Bonus>BONUS_PROJECT_BASIC_FORAGING</Bonus>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>

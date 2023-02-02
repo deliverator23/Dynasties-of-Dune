@@ -67,6 +67,7 @@
 				<iValue>-60</iValue>
 			</Pair>
 		</aiTraitOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_SCHEMER_ARCHETYPE</zType>
@@ -80,6 +81,7 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_ORATOR_ARCHETYPE</zType>
@@ -89,6 +91,7 @@
 				<iValue>4</iValue>
 			</Pair>
 		</aiRating>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_DIPLOMAT_ARCHETYPE</zType>
@@ -140,6 +143,7 @@
 				<iValue>-60</iValue>
 			</Pair>
 		</aiTraitOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_SCHOLAR_ARCHETYPE</zType>

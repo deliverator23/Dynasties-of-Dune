@@ -19,4 +19,24 @@
 		<zType>TEXT_EFFECTPLAYER_TRAIT_SEDUCER_ARCHETYPE</zType>
 		<en-US>link(TRAIT_SEDUCER_ARCHETYPE) Leader</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SPICE</zType>
+		<en-US>Very High Spice</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_OFFWORLD</zType>
+		<en-US>Medium Offworld Supplies</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_INTEL_MANPOWER</zType>
+		<en-US>Medium Intel and Manpower</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_SOLARIS</zType>
+		<en-US>High Solaris</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SOLARIS</zType>
+		<en-US>Very High Solaris</en-US>
+	</Entry>
 </Root>

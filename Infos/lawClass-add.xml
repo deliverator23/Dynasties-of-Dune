@@ -1,0 +1,30 @@
+<Root>
+	<Entry>
+		<zType>LAWCLASS_SLAVERY_TYRANNY</zType>
+		<TechPrereq>TECH_BRUTALITY_I</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_WATER_REG_MONEY_TAX</zType>
+		<TechPrereq>TECH_WATER_STORAGE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_CHOAM_CONTRACTS_IMPORT_REG</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_DEESCALATION_DIPLOMATIC_COMMITTEE</zType>
+		<TechPrereq>TECH_BASIC_EDUCATION</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_IMP_INTELLIGENCE_RESEARCH_INVEST</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_INFRASTRUCTURE_CONTROL_LABOR_RIGHTS</zType>
+		<TechPrereq>TECH_MINING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_MILITARY_SERVICE_EQUIP_MAINTENANCE</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+</Root>

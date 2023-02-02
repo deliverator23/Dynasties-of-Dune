@@ -137,7 +137,6 @@
 	</Entry>
 	<Entry>
 		<zType>BONUS_PROJECT_BASIC_FORAGING</zType>
-		<AddResource>RESOURCE_PIG</AddResource>
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
@@ -318,4 +317,9 @@
 		<AddResource>RESOURCE_PIG</AddResource>
 		<iBorderGrowth>3</iBorderGrowth>
 	</Entry> --> 
+	<!-- Events --> 
+	<Entry>
+		<zType>BONUS_SPAWN_SPICE_FIELDS</zType>
+		<SetResource>RESOURCE_PIG</SetResource>
+	</Entry> 
 </Root>

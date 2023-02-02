@@ -812,7 +812,7 @@
 		<AssetVariation>ASSET_VARIATION_RESOURCE_INCENSE</AssetVariation>
 		<zIconName>RESOURCE_INCENSE</zIconName>
 		<zAudioSwitchName>Pig</zAudioSwitchName>
-		<iProbThousand>1000</iProbThousand>
+		<iProbThousand>40</iProbThousand>
 		<iBorderValue>1600</iBorderValue>
 		<iHarvestCost>1</iHarvestCost>
 		<iHarvestRoll>8</iHarvestRoll>

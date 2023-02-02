@@ -350,6 +350,28 @@
 		</abTechPrereq>
 	</Entry>
 	<Entry>
+		<zType>TECH_BRUTALITY_I</zType>
+		<Name>TEXT_TECH_BRUTALITY_I</Name>
+		<Advice>TEXT_GUIDE_TECH_BRUTALITY_I</Advice>
+		<zIconName>TECH_BRUTALITY_I</zIconName>
+		<iCost>30</iCost>
+		<iColumn>1</iColumn>
+		<iRow>9</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_HARKONNEN</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_SPY_NETWORK_I</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
 		<zType>TECH_DESERT_SURVIVAL_II</zType>
 		<Name>TEXT_TECH_DESERT_SURVIVAL_II</Name>
 		<Advice>TEXT_GUIDE_TECH_DESERT_SURVIVAL_II</Advice>
@@ -383,6 +405,28 @@
 		<abTechPrereq>
 			<Pair>
 				<zIndex>TECH_DESERT_SURVIVAL_II</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_SUPERSTITIOUS_I</zType>
+		<Name>TEXT_TECH_SUPERSTITIOUS_I</Name>
+		<Advice>TEXT_GUIDE_TECH_SUPERSTITIOUS_I</Advice>
+		<zIconName>TECH_SUPERSTITIOUS_I</zIconName>
+		<iCost>45</iCost>
+		<iColumn>2</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_FREMEN</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_WATER_STORAGE_II</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>
@@ -426,6 +470,28 @@
 		</abTechPrereq>
 	</Entry>
 	<Entry>
+		<zType>TECH_DEVELOPMENT_I</zType>
+		<Name>TEXT_TECH_DEVELOPMENT_I</Name>
+		<Advice>TEXT_GUIDE_TECH_DEVELOPMENT_I</Advice>
+		<zIconName>TECH_DEVELOPMENT_I</zIconName>
+		<iCost>45</iCost>
+		<iColumn>2</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_CORRINO</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_BASIC_DEFENSE_II</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
 		<zType>TECH_SYMBOL_II</zType>
 		<Name>TEXT_TECH_SYMBOL_II</Name>
 		<Advice>TEXT_GUIDE_TECH_SYMBOL_II</Advice>
@@ -459,6 +525,28 @@
 		<abTechPrereq>
 			<Pair>
 				<zIndex>TECH_SYMBOL_II</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_STRUGGLE</zType>
+		<Name>TEXT_TECH_STRUGGLE</Name>
+		<Advice>TEXT_GUIDE_TECH_STRUGGLE</Advice>
+		<zIconName>TECH_STRUGGLE</zIconName>
+		<iCost>45</iCost>
+		<iColumn>2</iColumn>
+		<iRow>8</iRow>
+		<bValidAll>0</bValidAll>
+		<abNationValid>
+			<Pair>
+				<zIndex>NATION_ATREIDES</zIndex>
+				<bValue>1</bValue>
+			</Pair>	
+		</abNationValid>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_MINING_II</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>

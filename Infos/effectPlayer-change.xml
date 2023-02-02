@@ -209,4 +209,60 @@
 		<iReligionOpinionChange>0</iReligionOpinionChange>
 		<bRecruitMercenaries>1</bRecruitMercenaries>
 	</Entry>
+	<!-- Laws --> 
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_SLAVERY</zType>
+		<Name>TEXT_LAW_SLAVERY</Name>
+		<SourceLaw>LAW_SLAVERY</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_SLAVERY</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_TYRANNY</zType>
+		<Name>TEXT_LAW_TYRANNY</Name>
+		<SourceLaw>LAW_TYRANNY</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_TYRANNY</EffectCity>
+		<aiYieldRate></aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_PILGRIMAGE</zType>
+		<Name>TEXT_LAW_PILGRIMAGE</Name>
+		<SourceLaw>LAW_PILGRIMAGE</SourceLaw>
+		<EffectCity></EffectCity>
+		<EffectCityExtra></EffectCityExtra>
+		<StateReligionEffectCity>EFFECTCITY_LAW_PILGRIMAGE_STATE</StateReligionEffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_HOLY_WAR</zType>
+		<Name>TEXT_LAW_HOLY_WAR</Name>
+		<SourceLaw>LAW_HOLY_WAR</SourceLaw>
+		<EffectCity></EffectCity>
+		<StateReligionEffectCity>EFFECTCITY_LAW_HOLY_WAR_STATE</StateReligionEffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_GUILDS</zType>
+		<Name>TEXT_LAW_GUILDS</Name>
+		<SourceLaw>LAW_GUILDS</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_GUILDS</EffectCity>
+		<EffectCityExtra></EffectCityExtra>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_ELITES</zType>
+		<Name>TEXT_LAW_ELITES</Name>
+		<SourceLaw>LAW_ELITES</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_ELITES</EffectCity>
+		<iMaxActions>0</iMaxActions>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_MONOTHEISM</zType>
+		<Name>TEXT_LAW_MONOTHEISM</Name>
+		<SourceLaw>LAW_MONOTHEISM</SourceLaw>
+		<StateReligionEffectCity>EFFECTCITY_LAW_MONOTHEISM_STATE</StateReligionEffectCity>
+		<bPurgeReligions>1</bPurgeReligions>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_POLYTHEISM</zType>
+		<Name>TEXT_LAW_POLYTHEISM</Name>
+		<SourceLaw>LAW_POLYTHEISM</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_POLYTHEISM</EffectCity>
+	</Entry>
 </Root>

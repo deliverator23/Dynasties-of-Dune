@@ -1,0 +1,50 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_LAW_WATER_REGULATION</zType>
+		<en-US>Water Regulation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_MONETARY_TAX</zType>
+		<en-US>Monetary Tax</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_CHOAM_CONTRACTS</zType>
+		<en-US>CHOAM Contracts</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_IMPORT_REGULATION</zType>
+		<en-US>Import Regulation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_DEESCALATION</zType>
+		<en-US>De-escalation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_DIPLOMATIC_COMMITTEE</zType>
+		<en-US>Diplomatic Committee</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_IMPERIAL_INTELLIGENCE</zType>
+		<en-US>Imperial Intelligence</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_RESEARCH_INVESTMENT</zType>
+		<en-US>Research Investment</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_INFRASTRUCTURE_CONTROL</zType>
+		<en-US>Infrastructure Control</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_LABOR_RIGHTS</zType>
+		<en-US>Labor Rights</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_MILITARY_SERVICE</zType>
+		<en-US>Military Service</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LAW_EQUIPMENT_MAINTENANCE</zType>
+		<en-US>Equipment Maintenance</en-US>
+	</Entry>
+</Root>

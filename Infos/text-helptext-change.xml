@@ -1,0 +1,36 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_ANCHOR</zType>
+		<en-US>Anchor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_ANCHOR_HELP</zType>
+		<en-US>Certain Units can Anchor to allow Land Units to move through Desert Tiles within the Unit's Anchor range. Anchoring takes a full Turn to complete, so Land Units cannot move through the Tiles until the Turn after Anchoring.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_BUY_TILE</zType>
+		<en-US>Units can Buy Tiles adjacent to City territory if (an undetermined condition is met).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_CITIZEN</zType>
+		<en-US>Citizens are produced automatically by Cities from link(YIELD_GROWTH). Each link(EFFECTCITY_CITIZEN) provides a small amount of {YIELD_ORDERS}link(YIELD_ORDERS), can be converted into link(CONCEPT_SPECIALIST,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_COUNCILOR</zType>
+		<en-US>The Council includes the link(COUNCIL_CHANCELLOR), the link(COUNCIL_AMBASSADOR), the link(COUNCIL_SPYMASTER), the link(COUNCIL_AGENT), the link(COUNCIL_COURT_CHAPLAIN), the link(COUNCIL_ENVOY), the link(COUNCIL_MARSHAL), the link(COUNCIL_PRIEST), and the link(COUNCIL_STEWARD). Some of these council members are available to certain factions.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_COUNCIL</zType>
+		<en-US>The Council includes the link(COUNCIL_CHANCELLOR), the link(COUNCIL_AMBASSADOR), the link(COUNCIL_SPYMASTER), the link(COUNCIL_AGENT), the link(COUNCIL_COURT_CHAPLAIN), the link(COUNCIL_ENVOY), the link(COUNCIL_MARSHAL), the link(COUNCIL_PRIEST), and the link(COUNCIL_STEWARD). Some of these council members are available to certain factions.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_COURT</zType>
+		<en-US>A Nation's Court consists of you, your link(CONCEPT_SPOUSE), the first four Heirs in your link(CONCEPT_SUCCESSION), and your link(CONCEPT_COURTIER,2). The Ratings of Characters in your Court affect your Global Yields (at a non-linear rate). For example, their link(RATING_COURAGE) will increase your {YIELD_MANPOWER}link(YIELD_MANPOWER).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_DISCIPLE</zType>
+		<en-US>A Disciple can spread its link(CONCEPT_RELIGION), build link(CONCEPT_IMPROVEMENT,2) of its link(CONCEPT_RELIGION), and perform other functions unlocked through Laws. Disciples can only be built in Cities with its link(CONCEPT_RELIGION) if the City is its link(CONCEPT_HOLY_CITY), if it is the link(CONCEPT_STATE_RELIGION), or through conditions unlocked by certain Laws.
+		
+link(CONCEPT_IDLE) Disciples produce a small Yield amount if positioned on an link(CONCEPT_IMPROVEMENT) of their link(CONCEPT_RELIGION).</en-US>
+	</Entry>
+</Root>

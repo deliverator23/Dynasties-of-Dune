@@ -476,4 +476,54 @@
 		</aaiTribeUnitDie>
 		<zAudioSwitchName>default_audible</zAudioSwitchName>
 	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GARRISON_1</zType>
+		<Name>TEXT_IMPROVEMENT_GARRISON_1</Name>
+		<Class>IMPROVEMENTCLASS_GARRISON</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_GARRISON</AssetVariation>
+		<zIconName>IMPROVEMENT_GARRISON_1</zIconName>
+		<iBuildTurns>4</iBuildTurns>
+		<iBuildCost>1</iBuildCost>
+		<iPillageTurns>10</iPillageTurns>
+		<iDefenseModifierFriendly>20</iDefenseModifierFriendly>
+		<iMaxCityCount>1</iMaxCityCount>
+		<iPrereqLaws>1</iPrereqLaws>
+		<bBuild>1</bBuild>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bUrban>1</bUrban>
+		<bRequiresUrban>1</bRequiresUrban>
+		<bNoVegetation>1</bNoVegetation>
+		<UpgradeImprovement></UpgradeImprovement>
+		<EffectCity>EFFECTCITY_IMPROVEMENT_GARRISON_1</EffectCity>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldConsumption>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
+			<Pair>
+				<zIndex>TERRAIN_URBAN</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTerrainValid>
+	</Entry>
 </Root>

@@ -8,12 +8,7 @@
 		<iSpreadChange>5</iSpreadChange>
 		<Achievement>ACHIEVEMENT_THEOLOGY_MYTHOLOGY</Achievement>
 		<EffectCity>EFFECTCITY_THEOLOGY_MYTHOLOGY</EffectCity>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_POLYTHEISM</zIndex>
-				<iValue>20</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_VENERATION</zType>
@@ -90,12 +85,7 @@
 		<Achievement>ACHIEVEMENT_THEOLOGY_GNOSTICISM</Achievement>
 		<TechPrereq>TECH_DRAMA</TechPrereq>
 		<EffectCity>EFFECTCITY_THEOLOGY_GNOSTICISM</EffectCity>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_MONOTHEISM</zIndex>
-				<iValue>20</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_REDEMPTION</zType>
@@ -107,12 +97,7 @@
 		<Achievement>ACHIEVEMENT_THEOLOGY_REDEMPTION</Achievement>
 		<TechPrereq>TECH_METAPHYSICS</TechPrereq>
 		<EffectCity>EFFECTCITY_THEOLOGY_REDEMPTION</EffectCity>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_PILGRIMAGE</zIndex>
-				<iValue>40</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_ENLIGHTENMENT</zType>
