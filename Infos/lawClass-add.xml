@@ -27,4 +27,20 @@
 		<zType>LAWCLASS_MILITARY_SERVICE_EQUIP_MAINTENANCE</zType>
 		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
 	</Entry>
+	<Entry>
+		<zType>LAWCLASS_CENTRALIZATION_DECENTRALIZATION</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_FREEDOM_VASSALAGE</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_CONSTITUTION_SERFDOM</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_SIETCH_BLACK_MARKET</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
 </Root>

@@ -2,6 +2,7 @@
 	<Entry>
 		<zType>IMPROVEMENTCLASS_FORT</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_FORT</Name>
+		<bNoAdjacent>1</bNoAdjacent>
 		<TechPrereq>TECH_STONECUTTING</TechPrereq>
 	</Entry>	
 	<Entry>
@@ -102,5 +103,17 @@
 				</SubPair>
 			</Pair>
 		</aaiResourceYieldOutput>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_LIBRARY</zType>
+		<Name>TEXT_IMPROVEMENTCLASS_LIBRARY</Name>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<EffectCity>EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</EffectCity>
+		<aiAdjacentResourceYieldOutput>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiAdjacentResourceYieldOutput>
 	</Entry>
 </Root>

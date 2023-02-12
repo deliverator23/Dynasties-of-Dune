@@ -255,4 +255,8 @@
 		<zType>TEXT_PROJECT_HIRE_WEAPON_MASTER</zType>
 		<en-US>Hire Weapon Master~Hire Weapon Master~Hire Weapon Master</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE</zType>
+		<en-US>Decree~Decree~Decree</en-US>
+	</Entry>
 </Root>

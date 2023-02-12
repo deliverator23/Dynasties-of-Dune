@@ -363,6 +363,17 @@
 			</Pair>
 		</aiYieldRateDefending>
 	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_CONVOY</zType>
+		<Name>TEXT_PROJECT_CONVOY</Name>
+		<SourceProject>PROJECT_CONVOY</SourceProject>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 	<!-- Religion --> 
 	<Entry>
 		<zType>EFFECTCITY_THEOLOGY_GNOSTICISM</zType>
@@ -658,7 +669,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>20</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateCulture>
@@ -670,6 +681,48 @@
 		<aiImprovementModifier></aiImprovementModifier>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_LAW_FREEDOM</zType>
+		<Name>TEXT_LAW_FREEDOM</Name>
+		<SourceLaw>LAW_FREEDOM</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldRateSpecialist></aiYieldRateSpecialist>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_CENTRALIZATION_CAPITAL</zType>
+		<Name>TEXT_LAW_CENTRALIZATION</Name>
+		<SourceLaw>LAW_CENTRALIZATION</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiYieldRateCulture></aiYieldRateCulture>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_LAW_TYRANNY</zType>
 		<Name>TEXT_LAW_TYRANNY</Name>
 		<SourceLaw>LAW_TYRANNY</SourceLaw>
@@ -677,7 +730,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>20</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateMilitary>
@@ -686,6 +739,135 @@
 				<iValue>40</iValue>
 			</Pair>
 		</aiYieldRateMilitary>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_SERFDOM</zType>
+		<Name>TEXT_LAW_SERFDOM</Name>
+		<SourceLaw>LAW_SERFDOM</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_DIVINE_RULE</zType>
+		<Name>TEXT_LAW_DIVINE_RULE</Name>
+		<SourceLaw>LAW_DIVINE_RULE</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiYieldRateHolyCityWorld>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiYieldRateHolyCityWorld>
+		<aaiImprovementClassYield></aaiImprovementClassYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_TOLERANCE</zType>
+		<Name>TEXT_LAW_TOLERANCE</Name>
+		<SourceLaw>LAW_TOLERANCE</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiYieldRateReligionNonState>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRateReligionNonState>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_ORTHODOXY_STATE</zType>
+		<Name>TEXT_LAW_ORTHODOXY</Name>
+		<Source>TEXT_EFFECTCITY_STATE_RELIGION_CITY</Source>
+		<SourceLaw>LAW_ORTHODOXY</SourceLaw>
+		<bSingle>1</bSingle>
+		<bHurryOrders>0</bHurryOrders>
+		<aiYieldRateMilitary>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRateMilitary>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
+		<Name>TEXT_LAW_PROFESSIONAL_ARMY</Name>
+		<SourceLaw>LAW_PROFESSIONAL_ARMY</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiEffectCityYieldRate></aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_PHILOSOPHY</zType>
+		<Name>TEXT_LAW_PHILOSOPHY</Name>
+		<SourceLaw>LAW_PHILOSOPHY</SourceLaw>
+		<iSpecialistUrbanTrainTimeModifier>0</iSpecialistUrbanTrainTimeModifier>		
+		<bSingle>1</bSingle>
+		<aiYieldRateSpecialistUrban>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRateSpecialistUrban>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_ICONOGRAPHY</zType>
+		<Name>TEXT_LAW_ICONOGRAPHY</Name>
+		<SourceLaw>LAW_ICONOGRAPHY</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aaiImprovementClassYield></aaiImprovementClassYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_CALLIGRAPHY</zType>
+		<Name>TEXT_LAW_CALLIGRAPHY</Name>
+		<SourceLaw>LAW_CALLIGRAPHY</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier>
+			<Pair>
+				<zIndex>IMPROVEMENT_LIBRARY_1</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiImprovementModifier>
+		<aaiImprovementClassYield>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_LIBRARY</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+		</aaiImprovementClassYield>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_LAW_HOLY_WAR_STATE</zType>
@@ -707,7 +889,23 @@
 		<Name>TEXT_LAW_GUILDS</Name>
 		<SourceLaw>LAW_GUILDS</SourceLaw>
 		<bSingle>1</bSingle>
-		<bHurryMoney>1</bHurryMoney>
+		<bHurryMoney>0</bHurryMoney>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldModifier>
 		<aaiImprovementYield></aaiImprovementYield>
 	</Entry>
 	<Entry>
@@ -751,5 +949,34 @@
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_AUTARKY</zType>
+		<Name>TEXT_LAW_AUTARKY</Name>
+		<SourceLaw>LAW_AUTARKY</SourceLaw>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier>
+			<Pair>
+				<zIndex>IMPROVEMENT_WINDTRAP</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_DEW_COLLECTOR</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_PROCESSING_PLANT</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiImprovementModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_LAW_MONETARY_REFORM</zType>
+		<Name>TEXT_LAW_MONETARY_REFORM</Name>
+		<SourceLaw>LAW_MONETARY_REFORM</SourceLaw>
+		<iHurryDiscontentModifier>-100</iHurryDiscontentModifier>
+		<bSingle>1</bSingle>
+		<bHurryMoney>1</bHurryMoney>
+		<aiYieldRate></aiYieldRate>
 	</Entry>
 </Root>

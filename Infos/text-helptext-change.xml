@@ -33,4 +33,18 @@
 		
 link(CONCEPT_IDLE) Disciples produce a small Yield amount if positioned on an link(CONCEPT_IMPROVEMENT) of their link(CONCEPT_RELIGION).</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_HOLY_SITE</zType>
+		<en-US>A Holy Site is a Religious link(CONCEPT_IMPROVEMENT) which can only be built once and is the prerequisite of a link(CONCEPT_WORLD_RELIGION). For example, link(IMPROVEMENT_HOLY_SITE_NAVACHRISTIANITY) is needed to discover link(RELIGION_NAVACHRISTIANITY,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_IMPROVEMENTCLASS</zType>
+		<en-US>An Improvement Class is a group of link(CONCEPT_IMPROVEMENT,2) of the same type.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_MERCENARY</zType>
+		<en-US>Mercenary Units can be hired either once some techs are researched and from the Mercenaries faction.
+		
+Mercenaries have consumption costs of link(YIELD_MONEY,1).</en-US>
+	</Entry>	
 </Root>

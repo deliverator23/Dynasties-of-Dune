@@ -507,4 +507,13 @@
 		<zType>TEXT_COURTIER_WEAPON_MASTER_NICKNAME</zType>
 		<en-US>the Weapon Master</en-US>
 	</Entry>
+	<!-- Specialist -->
+	<Entry>
+		<zType>TEXT_SPECIALIST_DEW_COLLECTOR_PLANTER</zType>
+		<en-US>Dew Collector Planter~a Dew Collector Planter~Dew Collector Planters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_WINDTRAP_OPERATOR</zType>
+		<en-US>Windtrap Operator~a Windtrap Operator~Windtrap Operators</en-US>
+	</Entry>
 </Root>

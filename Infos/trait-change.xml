@@ -18,6 +18,7 @@
 				<iValue>-60</iValue>
 			</Pair>
 		</aiTraitOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_COMMANDER_ARCHETYPE</zType>
@@ -31,6 +32,7 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_TACTICIAN_ARCHETYPE</zType>
@@ -48,6 +50,7 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_ZEALOT_ARCHETYPE</zType>
@@ -105,6 +108,7 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_JUDGE_ARCHETYPE</zType>
@@ -122,6 +126,7 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiRating>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_BUILDER_ARCHETYPE</zType>
@@ -159,5 +164,6 @@
 				<iValue>-60</iValue>
 			</Pair>
 		</aiTraitOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 </Root>

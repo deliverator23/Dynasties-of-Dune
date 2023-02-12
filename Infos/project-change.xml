@@ -320,4 +320,52 @@
 		<iCivics>50</iCivics>
 		<CityProject></CityProject>
 	</Entry>
+	<Entry>
+		<zType>PROJECT_DECREE_1</zType>
+		<Name>TEXT_PROJECT_DECREE_1</Name>
+		<zIcon>PROJECT_DECREE_1</zIcon>
+		<iCivics>5</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_DECREE_1</Bonus>
+		<CityProject>PROJECT_DECREE</CityProject>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
+		<EffectCityPrereq></EffectCityPrereq>
+		<CapitalEffectPlayerPrereq>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</CapitalEffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DECREE_2</zType>
+		<Name>TEXT_PROJECT_DECREE_2</Name>
+		<zIcon>PROJECT_DECREE_2</zIcon>
+		<iCivics>5</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_DECREE_2</Bonus>
+		<CityProject>PROJECT_DECREE</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+		<EffectCityPrereq></EffectCityPrereq>
+		<CapitalEffectPlayerPrereq>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</CapitalEffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DECREE_3</zType>
+		<Name>TEXT_PROJECT_DECREE_3</Name>
+		<zIcon>PROJECT_DECREE_3</zIcon>
+		<iCivics>5</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_DECREE_3</Bonus>
+		<CityProject>PROJECT_DECREE</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<EffectCityPrereq></EffectCityPrereq>
+		<CapitalEffectPlayerPrereq>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</CapitalEffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DECREE_4</zType>
+		<Name>TEXT_PROJECT_DECREE_4</Name>
+		<zIcon>PROJECT_DECREE_4</zIcon>
+		<iCivics>5</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_DECREE_4</Bonus>
+		<CityProject>PROJECT_DECREE</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<EffectCityPrereq></EffectCityPrereq>
+		<CapitalEffectPlayerPrereq>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</CapitalEffectPlayerPrereq>
+	</Entry>
 </Root>

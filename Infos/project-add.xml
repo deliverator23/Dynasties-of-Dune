@@ -67,7 +67,7 @@
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WINDTRAP_II</CityProject>
 		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
-		<TechPrereq>TECH_WATER_STORAGE</TechPrereq>
+		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -90,7 +90,7 @@
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WINDTRAP_III</CityProject>
 		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
-		<TechPrereq>TECH_WATER_CONSERVATION</TechPrereq>
+		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -113,7 +113,7 @@
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WINDTRAP_IV</CityProject>
 		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
-		<TechPrereq>TECH_WATER_CONSERVATION</TechPrereq>
+		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -132,10 +132,9 @@
 		<zType>PROJECT_WORKSHOP_1</zType>
 		<Name>TEXT_PROJECT_WORKSHOP_1</Name>
 		<zIcon>PROJECT_CIVICS_2</zIcon>
-		<iCivics>25</iCivics>
-		<bRepeat>1</bRepeat>
+		<iCivics>20</iCivics>
+		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_WORKSHOP_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
 		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -205,7 +204,7 @@
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_FUEL_FACTORY_III</CityProject>
 		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
-		<TechPrereq>TECH_SIETCH</TechPrereq>
+		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -228,7 +227,7 @@
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_FUEL_FACTORY_IV</CityProject>
 		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
-		<TechPrereq>TECH_SIETCH</TechPrereq>
+		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -1353,5 +1352,12 @@
 				<iValue>500</iValue>
 			</Pair>
 		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DECREE</zType>
+		<Name>TEXT_PROJECT_DECREE</Name>
+		<zIcon>PROJECT_DECREE_1</zIcon>
+		<bHidden>1</bHidden>
+		<EffectCity>EFFECTCITY_PROJECT_DECREE</EffectCity>
 	</Entry>
 </Root>

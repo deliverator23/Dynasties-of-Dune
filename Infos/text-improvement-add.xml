@@ -20,6 +20,10 @@
 		<en-US>Insect Farm~an Insect Farm~Insect Farms</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_IMPROVEMENT_SIETCH</zType>
+		<en-US>Sietch~a Sietch~Sietches</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_IMPROVEMENT_INSECT_FARM_HINT</zType>
 		<en-US>Insect Farm Hint</en-US>
 	</Entry>

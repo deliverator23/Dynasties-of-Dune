@@ -11,4 +11,36 @@
 		<zType>LAWCLASS_MONOTHEISM_POLYTHEISM</zType>
 		<TechPrereq>TECH_SUPERSTITIOUS_I</TechPrereq>
 	</Entry>
+	<Entry>
+		<zType>LAWCLASS_EPICS_EXPLORATION</zType>
+		<TechPrereq>TECH_EXPLORATION</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_DIVINE_RULE_LEGAL_CODE</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_TOLERANCE_ORTHODOXY</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_PROFESSIONAL_ARMY_VOLUNTEERS</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_PHILOSOPHY_ENGINEERING</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_ICONOGRAPHY_CALLIGRAPHY</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_AUTARKY_TRADE_LEAGUE</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>LAWCLASS_COIN_DEBASEMENT_MONETARY_REFORM</zType>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+	</Entry>
 </Root>

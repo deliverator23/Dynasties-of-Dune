@@ -247,4 +247,9 @@
 			</Pair>
 		</aaiResourceYieldOutput>
 	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_SIETCH</zType>
+		<Name>TEXT_IMPROVEMENTCLASS_SIETCH</Name>
+		<TechPrereq>TECH_SIETCH</TechPrereq>
+	</Entry>
 </Root>

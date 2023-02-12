@@ -360,6 +360,15 @@
 		<zType>CHARACTER_HEPHAESTION</zType>
 	</Entry>
 	<Entry>
+		<zType>CONCEPT_FRESH_WATER</zType>
+	</Entry>
+	<Entry>
+		<zType>CONCEPT_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>CONCEPT_MARCH</zType>
+	</Entry>
+	<Entry>
 		<zType>COURTIER_SOLDIER</zType>
 	</Entry>
 	<Entry>
@@ -537,9 +546,6 @@
 		<zType>IMPROVEMENT_MARKET_3</zType>
 	</Entry>
 	<Entry>
-		<zType>IMPROVEMENT_LIBRARY_1</zType>
-	</Entry>
-	<Entry>
 		<zType>IMPROVEMENT_LIBRARY_2</zType>
 	</Entry>
 	<Entry>
@@ -607,9 +613,6 @@
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_MARKET</zType>
-	</Entry>
-	<Entry>
-		<zType>IMPROVEMENTCLASS_LIBRARY</zType>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_COURTHOUSE</zType>
@@ -830,6 +833,24 @@
 	<Entry>
 		<zType>IMPROVEMENT_RUINS_4</zType>
 	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_LAURION_MINE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_FOREST_FIRE_TOMB</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_SHRINE_TRIBE_PAGANISM</zType>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_SWORD_CULT</zType>
+	</Entry>
 	<Entry beginGroup="EP Sacred and Profane">
 		<zType>IMPROVEMENT_PAGAN_STATUE_TEMPLE</zType>
 	</Entry>
@@ -873,75 +894,6 @@
 		<zType>IMPROVEMENT_CULT_OF_THE_HEALER</zType>
 	</Entry>
 	<Entry>
-		<zType>LAW_EPICS</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_EXPLORATION</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_FREEDOM</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_CENTRALIZATION</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_VASSALAGE</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_CONSTITUTION</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_COLONIES</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_SERFDOM</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_DIVINE_RULE</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_LEGAL_CODE</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_TOLERANCE</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_ORTHODOXY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_PROFESSIONAL_ARMY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_VOLUNTEERS</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_PHILOSOPHY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_ENGINEERING</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_ICONOGRAPHY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_CALLIGRAPHY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_AUTARKY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_TRADE_LEAGUE</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_COIN_DEBASEMENT</zType>
-	</Entry>
-	<Entry>
-		<zType>LAW_MONETARY_REFORM</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_EPICS_EXPLORATION</zType>
-	</Entry>
-	<Entry>
 		<zType>LAWCLASS_SLAVERY_FREEDOM</zType>
 	</Entry>
 	<Entry>
@@ -952,27 +904,6 @@
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_COLONIES_SERFDOM</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_DIVINE_RULE_LEGAL_CODE</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_TOLERANCE_ORTHODOXY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_PROFESSIONAL_ARMY_VOLUNTEERS</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_PHILOSOPHY_ENGINEERING</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_ICONOGRAPHY_CALLIGRAPHY</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_AUTARKY_TRADE_LEAGUE</zType>
-	</Entry>
-	<Entry>
-		<zType>LAWCLASS_COIN_DEBASEMENT_MONETARY_REFORM</zType>
 	</Entry>
 	<Entry>
 		<zType>NATION_ASSYRIA</zType>
@@ -1072,6 +1003,9 @@
 	</Entry>
 	<Entry>
 		<zType>RELIGION_PAGAN_HITTITE</zType>
+	</Entry>
+	<Entry>
+		<zType>SPECIALIST_FARMER</zType>
 	</Entry>
 	<Entry>
 		<zType>SPECIALIST_MINER</zType>

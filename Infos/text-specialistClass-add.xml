@@ -1,0 +1,10 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_SPECIALISTCLASS_DEW_COLLECTOR_PLANTER</zType>
+		<en-US>Dew Collector Planter~Dew Collector Planters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALISTCLASS_WINDTRAP_OPERATOR</zType>
+		<en-US>Windtrap Operator~Windtrap Operators</en-US>
+	</Entry>
+</Root>

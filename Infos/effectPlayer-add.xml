@@ -198,6 +198,19 @@
 		<SourceLaw>LAW_EQUIPMENT_MAINTENANCE</SourceLaw>
 		<iConsumptionModifier>-50</iConsumptionModifier>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_DECENTRALIZATION</zType>
+		<Name>TEXT_LAW_DECENTRALIZATION</Name>
+		<SourceLaw>LAW_DECENTRALIZATION</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_DECENTRALIZATION</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_BLACK_MARKET</zType>
+		<Name>TEXT_LAW_BLACK_MARKET</Name>
+		<SourceLaw>LAW_BLACK_MARKET</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_BLACK_MARKET</EffectCity>
+		<bNoSellPenalty>1</bNoSellPenalty>
+	</Entry>
 	<!-- Upkeep --> 
 	<Entry>
 		<zType>EFFECTPLAYER_UPKEEP_VERY_HIGH_SPICE</zType>
@@ -249,6 +262,46 @@
 		<aiYieldUpkeep>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiYieldUpkeep>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_UPKEEP_VERY_VERY_HIGH_CIVICS</zType>
+		<Name>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</Name>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiYieldUpkeep>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_UPKEEP_VERY_HIGH_MANPOWER</zType>
+		<Name>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_MANPOWER</Name>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiYieldUpkeep>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_UPKEEP_VERY_HIGH_DEVOTION</zType>
+		<Name>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_DEVOTION</Name>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>-50</iValue>
+			</Pair>
+		</aiYieldUpkeep>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_UPKEEP_VERY_HIGH_INTEL</zType>
+		<Name>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_INTEL</Name>
+		<aiYieldUpkeep>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
 				<iValue>-50</iValue>
 			</Pair>
 		</aiYieldUpkeep>

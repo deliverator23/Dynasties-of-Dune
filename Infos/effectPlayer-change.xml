@@ -211,10 +211,46 @@
 	</Entry>
 	<!-- Laws --> 
 	<Entry>
+		<zType>EFFECTPLAYER_LAW_EPICS</zType>
+		<Name>TEXT_LAW_EPICS</Name>
+		<SourceLaw>LAW_EPICS</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_EPICS</EffectCity>
+		<EffectUnit></EffectUnit>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_EXPLORATION</zType>
+		<Name>TEXT_LAW_EXPLORATION</Name>
+		<SourceLaw>LAW_EXPLORATION</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_EXPLORATION</EffectCity>
+		<bRiverMovement>0</bRiverMovement>
+		<aeWaterUnit></aeWaterUnit>
+	</Entry>
+	<Entry>
 		<zType>EFFECTPLAYER_LAW_SLAVERY</zType>
 		<Name>TEXT_LAW_SLAVERY</Name>
 		<SourceLaw>LAW_SLAVERY</SourceLaw>
 		<EffectCity>EFFECTCITY_LAW_SLAVERY</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_FREEDOM</zType>
+		<Name>TEXT_LAW_FREEDOM</Name>
+		<SourceLaw>LAW_FREEDOM</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_FREEDOM</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_CENTRALIZATION</zType>
+		<Name>TEXT_LAW_CENTRALIZATION</Name>
+		<SourceLaw>LAW_CENTRALIZATION</SourceLaw>
+		<EffectCity></EffectCity>
+		<CapitalEffectCity>EFFECTCITY_LAW_CENTRALIZATION_CAPITAL</CapitalEffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_VASSALAGE</zType>
+		<Name>TEXT_LAW_VASSALAGE</Name>
+		<SourceLaw>LAW_VASSALAGE</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_VASSALAGE</EffectCity>
+		<iConsumptionModifier>0</iConsumptionModifier>
+		<bNoUnitConsumption>0</bNoUnitConsumption>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_LAW_TYRANNY</zType>
@@ -222,6 +258,126 @@
 		<SourceLaw>LAW_TYRANNY</SourceLaw>
 		<EffectCity>EFFECTCITY_LAW_TYRANNY</EffectCity>
 		<aiYieldRate></aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_CONSTITUTION</zType>
+		<Name>TEXT_LAW_CONSTITUTION</Name>
+		<SourceLaw>LAW_CONSTITUTION</SourceLaw>
+		<EffectPlayer>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</EffectPlayer>
+		<EffectCity></EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
+		<Name>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</Name>
+		<Source>TEXT_EFFECTPLAYER_CAPITAL_SOURCE</Source>
+		<SourceLaw>LAW_CONSTITUTION</SourceLaw>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_COLONIES</zType>
+		<Name>TEXT_LAW_COLONIES</Name>
+		<SourceLaw>LAW_COLONIES</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_COLONIES</EffectCity>
+		<aeBuyTile></aeBuyTile>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_SERFDOM</zType>
+		<Name>TEXT_LAW_SERFDOM</Name>
+		<SourceLaw>LAW_SERFDOM</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_SERFDOM</EffectCity>
+		<aiYieldRate></aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_DIVINE_RULE</zType>
+		<Name>TEXT_LAW_DIVINE_RULE</Name>
+		<SourceLaw>LAW_DIVINE_RULE</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_DIVINE_RULE</EffectCity>
+		<CapitalEffectCity>EFFECTCITY_LAW_DIVINE_RULE_CAPITAL</CapitalEffectCity>
+		<bPaganStateReligion>0</bPaganStateReligion>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_LEGAL_CODE</zType>
+		<Name>TEXT_LAW_LEGAL_CODE</Name>
+		<SourceLaw>LAW_LEGAL_CODE</SourceLaw>
+		<aiYieldRateLaws>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRateLaws>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_TOLERANCE</zType>
+		<Name>TEXT_LAW_TOLERANCE</Name>
+		<SourceLaw>LAW_TOLERANCE</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_TOLERANCE</EffectCity>
+		<bBuildAllReligions>1</bBuildAllReligions>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_ORTHODOXY</zType>
+		<Name>TEXT_LAW_ORTHODOXY</Name>
+		<SourceLaw>LAW_ORTHODOXY</SourceLaw>
+		<StateReligionEffectCity>EFFECTCITY_LAW_ORTHODOXY_STATE</StateReligionEffectCity>
+		<bPurgeReligions>0</bPurgeReligions>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>
+		<Name>TEXT_LAW_PROFESSIONAL_ARMY</Name>
+		<SourceLaw>LAW_PROFESSIONAL_ARMY</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_PROFESSIONAL_ARMY</EffectCity>
+		<iXPModifier>50</iXPModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_VOLUNTEERS</zType>
+		<Name>TEXT_LAW_VOLUNTEERS</Name>
+		<SourceLaw>LAW_VOLUNTEERS</SourceLaw>
+		<EffectCity></EffectCity>
+		<aiWarYield>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>250</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>250</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>250</iValue>
+			</Pair>
+		</aiWarYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_PHILOSOPHY</zType>
+		<Name>TEXT_LAW_PHILOSOPHY</Name>
+		<SourceLaw>LAW_PHILOSOPHY</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_PHILOSOPHY</EffectCity>
+		<EffectCityExtra></EffectCityExtra>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_ENGINEERING</zType>
+		<Name>TEXT_LAW_ENGINEERING</Name>
+		<SourceLaw>LAW_ENGINEERING</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_ENGINEERING</EffectCity>
+		<iWonderModifier>0</iWonderModifier>
+		<bRiverBridging>0</bRiverBridging>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_ICONOGRAPHY</zType>
+		<Name>TEXT_LAW_ICONOGRAPHY</Name>
+		<SourceLaw>LAW_ICONOGRAPHY</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_ICONOGRAPHY</EffectCity>
+		<EffectCityExtra></EffectCityExtra>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_CALLIGRAPHY</zType>
+		<Name>TEXT_LAW_CALLIGRAPHY</Name>
+		<SourceLaw>LAW_CALLIGRAPHY</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_CALLIGRAPHY</EffectCity>
+		<EffectCityExtra></EffectCityExtra>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_LAW_PILGRIMAGE</zType>
@@ -264,5 +420,39 @@
 		<Name>TEXT_LAW_POLYTHEISM</Name>
 		<SourceLaw>LAW_POLYTHEISM</SourceLaw>
 		<EffectCity>EFFECTCITY_LAW_POLYTHEISM</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_AUTARKY</zType>
+		<Name>TEXT_LAW_AUTARKY</Name>
+		<SourceLaw>LAW_AUTARKY</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_AUTARKY</EffectCity>
+		<EffectCityExtra></EffectCityExtra>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_TRADE_LEAGUE</zType>
+		<Name>TEXT_LAW_TRADE_LEAGUE</Name>
+		<SourceLaw>LAW_TRADE_LEAGUE</SourceLaw>
+		<EffectPlayer>EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</EffectPlayer>
+		<bNoSellPenalty>0</bNoSellPenalty>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</zType>
+		<Name>TEXT_PROJECT_CONVOY</Name>
+		<SourceLaw>LAW_TRADE_LEAGUE</SourceLaw>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_COIN_DEBASEMENT</zType>
+		<Name>TEXT_LAW_COIN_DEBASEMENT</Name>
+		<SourceLaw>LAW_COIN_DEBASEMENT</SourceLaw>
+		<iMaxActions>30</iMaxActions>
+		<aeTradeYield>
+			<zValue>YIELD_ORDERS</zValue>
+		</aeTradeYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_LAW_MONETARY_REFORM</zType>
+		<Name>TEXT_LAW_MONETARY_REFORM</Name>
+		<SourceLaw>LAW_MONETARY_REFORM</SourceLaw>
+		<EffectCity>EFFECTCITY_LAW_MONETARY_REFORM</EffectCity>
 	</Entry>
 </Root>

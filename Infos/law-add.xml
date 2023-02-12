@@ -117,4 +117,24 @@
 		<EffectPlayer>EFFECTPLAYER_LAW_EQUIPMENT_MAINTENANCE</EffectPlayer>
 		<EffectPlayerUpkeep>EFFECTPLAYER_UPKEEP_HIGH_SOLARIS</EffectPlayerUpkeep>
 	</Entry>
+	<Entry>
+		<zType>LAW_DECENTRALIZATION</zType>
+		<Name>TEXT_LAW_DECENTRALIZATION</Name>
+		<zIconName>LAW_DECENTRALIZATION</zIconName>
+		<iCostBase>200</iCostBase>
+		<iCostPerChange>100</iCostPerChange>
+		<LawClass>LAWCLASS_CENTRALIZATION_DECENTRALIZATION</LawClass>
+		<EffectPlayer>EFFECTPLAYER_LAW_DECENTRALIZATION</EffectPlayer>
+		<EffectPlayerUpkeep>EFFECTPLAYER_UPKEEP_VERY_HIGH_SOLARIS</EffectPlayerUpkeep>
+	</Entry>
+	<Entry>
+		<zType>LAW_BLACK_MARKET</zType>
+		<Name>TEXT_LAW_BLACK_MARKET</Name>
+		<zIconName>LAW_BLACK_MARKET</zIconName>
+		<iCostBase>200</iCostBase>
+		<iCostPerChange>100</iCostPerChange>
+		<LawClass>LAWCLASS_SIETCH_BLACK_MARKET</LawClass>
+		<EffectPlayer>EFFECTPLAYER_LAW_BLACK_MARKET</EffectPlayer>
+		<EffectPlayerUpkeep>EFFECTPLAYER_UPKEEP_VERY_VERY_HIGH_CIVICS</EffectPlayerUpkeep>
+	</Entry>
 </Root>

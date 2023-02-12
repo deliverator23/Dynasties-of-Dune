@@ -19,12 +19,7 @@
 		<iSpreadChange>5</iSpreadChange>
 		<Achievement>ACHIEVEMENT_THEOLOGY_VENERATION</Achievement>
 		<EffectCity>EFFECTCITY_THEOLOGY_VENERATION</EffectCity>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_ICONOGRAPHY</zIndex>
-				<iValue>40</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_LEGALISM</zType>
@@ -35,12 +30,7 @@
 		<iSpreadChange>5</iSpreadChange>
 		<Achievement>ACHIEVEMENT_THEOLOGY_LEGALISM</Achievement>
 		<EffectCity>EFFECTCITY_THEOLOGY_LEGALISM</EffectCity>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_CENTRALIZATION</zIndex>
-				<iValue>20</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_REVELATION</zType>
@@ -51,12 +41,7 @@
 		<iSpreadChange>25</iSpreadChange>
 		<Achievement>ACHIEVEMENT_THEOLOGY_REVELATION</Achievement>
 		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_ORTHODOXY</zIndex>
-				<iValue>30</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_DUALISM</zType>
@@ -68,12 +53,7 @@
 		<Achievement>ACHIEVEMENT_THEOLOGY_DUALISM</Achievement>
 		<TechPrereq>TECH_RHETORIC</TechPrereq>
 		<EffectCity>EFFECTCITY_THEOLOGY_DUALISM</EffectCity>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_TOLERANCE</zIndex>
-				<iValue>30</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 	<Entry>
 		<zType>THEOLOGY_GNOSTICISM</zType>
@@ -109,11 +89,6 @@
 		<Achievement>ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT</Achievement>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
 		<EffectCity>EFFECTCITY_THEOLOGY_ENLIGHTENMENT</EffectCity>
-		<aiLawOpinion>
-			<Pair>
-				<zIndex>LAW_PHILOSOPHY</zIndex>
-				<iValue>40</iValue>
-			</Pair>
-		</aiLawOpinion>
+		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 </Root>

@@ -39,4 +39,16 @@
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_SOLARIS</zType>
 		<en-US>Very High Solaris</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_MANPOWER</zType>
+		<en-US>Very High Manpower</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_DEVOTION</zType>
+		<en-US>Very High Devotion</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_INTEL</zType>
+		<en-US>Very High Intel</en-US>
+	</Entry>
 </Root>

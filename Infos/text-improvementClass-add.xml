@@ -15,4 +15,8 @@
 		<zType>TEXT_IMPROVEMENTCLASS_PROCESSING_PLANT</zType>
 		<en-US>Processing Plant~a Processing Plant~Processing Plants</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_SIETCH</zType>
+		<en-US>Sietch~a Sietch~Sietches</en-US>
+	</Entry>
 </Root>
