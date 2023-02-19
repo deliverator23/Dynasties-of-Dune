@@ -204,7 +204,7 @@ public class MapScriptArrakipelago : DefaultMapScript
 	{
 		// do nothing
 	}
-
+    
 	protected override void HandleRainEffects()
 	{
 		using (new UnityProfileScope("DefaultMapScript.HandleRainEffects"))
@@ -218,7 +218,7 @@ public class MapScriptArrakipelago : DefaultMapScript
 			}
 		}
 	}
-
+    
 	protected override void MakePlayerStart(PlayerType player, TileData tile, bool freshWaterCheck = true)
 	{
 		tile.meCitySite = CitySiteType.ACTIVE_START;
@@ -230,7 +230,7 @@ public class MapScriptArrakipelago : DefaultMapScript
 	{
 		// do nothing
 	}
-
+    
     protected override bool AddPlayerStarts()
     {
         BuildAreas(islands, null, x => IsLand(x) && !x.isImpassable(infos));
@@ -248,14 +248,14 @@ public class MapScriptArrakipelago : DefaultMapScript
 
         return base.AddPlayerStarts();
     }
-
+    
     protected override bool IsValidPlayerStart(TileData tile, PlayerType player, bool bDoMinDistanceCheck = true)
     {
         if (!base.IsValidPlayerStart(tile, player, bDoMinDistanceCheck))
         {
             return false;
         }
-
+        
         if (bDoMinDistanceCheck)
         {
             bool islandTaken = false;
@@ -271,16 +271,16 @@ public class MapScriptArrakipelago : DefaultMapScript
                     }
                 }
             }
-
-            if (islands.Count >= players.Count && islandTaken)
+            
+            if (islands.Count >= Players.Count && islandTaken)
             {
                 return false;
-            }
+            } 
         }
 
         return true;
     }
-
+    
     protected override bool AddPlayerStartsTwoTeamMP()
     {
         if (!MirrorMap)
@@ -291,5 +291,5 @@ public class MapScriptArrakipelago : DefaultMapScript
         {
             return base.AddPlayerStartsTwoTeamMP();
         }
-    }
+    } 
 }
