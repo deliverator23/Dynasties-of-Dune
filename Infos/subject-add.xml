@@ -1,0 +1,8 @@
+<Root>
+	<!-- Subject for Spice Spawning -->
+	<Entry comment="Determine tiles to randomly spawn spice">
+		<zType>SUBJECT_SPICE_VIABLE_TILES</zType>
+		<Class>SUBJECTCLASS_TILE</Class>
+		<bNoCityTerritory>1</bNoCityTerritory>
+	</Entry>
+</Root>

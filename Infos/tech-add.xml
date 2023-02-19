@@ -1,4 +1,5 @@
 <Root>
+	<!-- Survival Techs --> 
 	<Entry>
 		<zType>TECH_DESERT_SURVIVAL</zType>
 		<Name>TEXT_TECH_DESERT_SURVIVAL</Name>
@@ -20,26 +21,6 @@
 		<bValidAll>1</bValidAll>
 	</Entry>
 	<Entry>
-		<zType>TECH_SYMBOLS</zType>
-		<Name>TEXT_TECH_SYMBOLS</Name>
-		<Advice>TEXT_GUIDE_TECH_SYMBOLS</Advice>
-		<zIconName>TECH_SYMBOLS</zIconName>
-		<iCost>20</iCost>
-		<iColumn>0</iColumn>
-		<iRow>2</iRow>
-		<bValidAll>1</bValidAll>
-	</Entry>
-	<Entry>
-		<zType>TECH_MYSTICISM</zType>
-		<Name>TEXT_TECH_MYSTICISM</Name>
-		<Advice>TEXT_GUIDE_TECH_MYSTICISM</Advice>
-		<zIconName>TECH_MYSTICISM</zIconName>
-		<iCost>20</iCost>
-		<iColumn>0</iColumn>
-		<iRow>6</iRow>
-		<bValidAll>1</bValidAll>
-	</Entry>
-	<Entry>
 		<zType>TECH_BASIC_MINING</zType>
 		<Name>TEXT_TECH_BASIC_MINING</Name>
 		<Advice>TEXT_GUIDE_TECH_BASIC_MINING</Advice>
@@ -54,6 +35,185 @@
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_BASIC_DEFENSE</zType>
+		<Name>TEXT_TECH_BASIC_DEFENSE</Name>
+		<Advice>TEXT_GUIDE_TECH_BASIC_DEFENSE</Advice>
+		<zIconName>TECH_BASIC_DEFENSE</zIconName>
+		<iCost>45</iCost>
+		<iColumn>2</iColumn>
+		<iRow>0</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_BASIC_MINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_COMBAT_ORNITHOPTER</zType>
+		<Name>TEXT_TECH_COMBAT_ORNITHOPTER</Name>
+		<Advice>TEXT_GUIDE_TECH_COMBAT_ORNITHOPTER</Advice>
+		<zIconName>TECH_COMBAT_ORNITHOPTER</zIconName>
+		<iCost>60</iCost>
+		<iColumn>3</iColumn>
+		<iRow>0</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_BASIC_DEFENSE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_BLADE_MAKING</zType>
+		<Name>TEXT_TECH_BLADE_MAKING</Name>
+		<Advice>TEXT_GUIDE_TECH_BLADE_MAKING</Advice>
+		<zIconName>TECH_BLADE_MAKING</zIconName>
+		<iCost>60</iCost>
+		<iColumn>3</iColumn>
+		<iRow>1</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_BASIC_DEFENSE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_MERCENARY</zType>
+		<Name>TEXT_TECH_MERCENARY</Name>
+		<Advice>TEXT_GUIDE_TECH_MERCENARY</Advice>
+		<zIconName>TECH_MERCENARY</zIconName>
+		<iCost>75</iCost>
+		<iColumn>4</iColumn>
+		<iRow>0</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_COMBAT_ORNITHOPTER</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_BLADE_MAKING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_BASIC_TRAINING</zType>
+		<Name>TEXT_TECH_BASIC_TRAINING</Name>
+		<Advice>TEXT_GUIDE_TECH_BASIC_TRAINING</Advice>
+		<zIconName>TECH_BASIC_TRAINING</zIconName>
+		<iCost>75</iCost>
+		<iColumn>4</iColumn>
+		<iRow>1</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_COMBAT_ORNITHOPTER</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_BLADE_MAKING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_LOCAL_DIALECT_TRAINING</zType>
+		<Name>TEXT_TECH_LOCAL_DIALECT_TRAINING</Name>
+		<Advice>TEXT_GUIDE_TECH_LOCAL_DIALECT_TRAINING</Advice>
+		<zIconName>TECH_LOCAL_DIALECT_TRAINING</zIconName>
+		<iCost>100</iCost>
+		<iColumn>5</iColumn>
+		<iRow>0</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_MERCENARY</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_BASIC_TRAINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_OUTPOSTS_LOGISTICS</zType>
+		<Name>TEXT_TECH_OUTPOSTS_LOGISTICS</Name>
+		<Advice>TEXT_GUIDE_TECH_OUTPOSTS_LOGISTICS</Advice>
+		<zIconName>TECH_OUTPOSTS_LOGISTICS</zIconName>
+		<iCost>100</iCost>
+		<iColumn>5</iColumn>
+		<iRow>1</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_MERCENARY</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_BASIC_TRAINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_BORDER_DEFENSE</zType>
+		<Name>TEXT_TECH_BORDER_DEFENSE</Name>
+		<Advice>TEXT_GUIDE_TECH_BORDER_DEFENSE</Advice>
+		<zIconName>TECH_BORDER_DEFENSE</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>0</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_LOCAL_DIALECT_TRAINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_OUTPOSTS_LOGISTICS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_SURVIVAL_TRAINING</zType>
+		<Name>TEXT_TECH_SURVIVAL_TRAINING</Name>
+		<Advice>TEXT_GUIDE_TECH_SURVIVAL_TRAINING</Advice>
+		<zIconName>TECH_SURVIVAL_TRAINING</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>1</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_LOCAL_DIALECT_TRAINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_OUTPOSTS_LOGISTICS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<!-- City Development Techs --> 
+	<Entry>
+		<zType>TECH_SYMBOLS</zType>
+		<Name>TEXT_TECH_SYMBOLS</Name>
+		<Advice>TEXT_GUIDE_TECH_SYMBOLS</Advice>
+		<zIconName>TECH_SYMBOLS</zIconName>
+		<iCost>20</iCost>
+		<iColumn>0</iColumn>
+		<iRow>2</iRow>
+		<bValidAll>1</bValidAll>
 	</Entry>
 	<Entry>
 		<zType>TECH_WATER_TRANSPORT</zType>
@@ -96,54 +256,6 @@
 		</abTechPrereq>
 	</Entry>
 	<Entry>
-		<zType>TECH_RITUAL</zType>
-		<Name>TEXT_TECH_RITUAL</Name>
-		<Advice>TEXT_GUIDE_TECH_RITUAL</Advice>
-		<zIconName>TECH_RITUAL</zIconName>
-		<iCost>30</iCost>
-		<iColumn>1</iColumn>
-		<iRow>6</iRow>
-		<bValidAll>1</bValidAll>
-		<abTechPrereq>
-			<Pair>
-				<zIndex>TECH_MYSTICISM</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abTechPrereq>
-	</Entry>
-	<Entry>
-		<zType>TECH_WORSHIP</zType>
-		<Name>TEXT_TECH_WORSHIP</Name>
-		<Advice>TEXT_GUIDE_TECH_WORSHIP</Advice>
-		<zIconName>TECH_WORSHIP</zIconName>
-		<iCost>30</iCost>
-		<iColumn>1</iColumn>
-		<iRow>7</iRow>
-		<bValidAll>1</bValidAll>
-		<abTechPrereq>
-			<Pair>
-				<zIndex>TECH_MYSTICISM</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abTechPrereq>
-	</Entry>
-	<Entry>
-		<zType>TECH_BASIC_DEFENSE</zType>
-		<Name>TEXT_TECH_BASIC_DEFENSE</Name>
-		<Advice>TEXT_GUIDE_TECH_BASIC_DEFENSE</Advice>
-		<zIconName>TECH_BASIC_DEFENSE</zIconName>
-		<iCost>45</iCost>
-		<iColumn>2</iColumn>
-		<iRow>0</iRow>
-		<bValidAll>1</bValidAll>
-		<abTechPrereq>
-			<Pair>
-				<zIndex>TECH_BASIC_MINING</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abTechPrereq>
-	</Entry>
-	<Entry>
 		<zType>TECH_SIETCH</zType>
 		<Name>TEXT_TECH_SIETCH</Name>
 		<Advice>TEXT_GUIDE_TECH_SIETCH</Advice>
@@ -163,6 +275,123 @@
 			</Pair>
 		</abTechPrereq>
 	</Entry>
+	<Entry>
+		<zType>TECH_BASIC_EDUCATION</zType>
+		<Name>TEXT_TECH_BASIC_EDUCATION</Name>
+		<Advice>TEXT_GUIDE_TECH_BASIC_EDUCATION</Advice>
+		<zIconName>TECH_BASIC_EDUCATION</zIconName>
+		<iCost>60</iCost>
+		<iColumn>3</iColumn>
+		<iRow>3</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_SIETCH</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_STILLSUITS</zType>
+		<Name>TEXT_TECH_STILLSUITS</Name>
+		<Advice>TEXT_GUIDE_TECH_STILLSUITS</Advice>
+		<zIconName>TECH_STILLSUITS</zIconName>
+		<iCost>75</iCost>
+		<iColumn>4</iColumn>
+		<iRow>3</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_ADMINISTRATION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_BASIC_EDUCATION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_LOCAL_HUBS</zType>
+		<Name>TEXT_TECH_LOCAL_HUBS</Name>
+		<Advice>TEXT_GUIDE_TECH_LOCAL_HUBS</Advice>
+		<zIconName>TECH_LOCAL_HUBS</zIconName>
+		<iCost>100</iCost>
+		<iColumn>5</iColumn>
+		<iRow>2</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_LABOR_FORCE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_STILLSUITS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_SHELTERS</zType>
+		<Name>TEXT_TECH_SHELTERS</Name>
+		<Advice>TEXT_GUIDE_TECH_SHELTERS</Advice>
+		<zIconName>TECH_SHELTERS</zIconName>
+		<iCost>100</iCost>
+		<iColumn>5</iColumn>
+		<iRow>3</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_LABOR_FORCE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_STILLSUITS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_ANIMAL_DEN</zType>
+		<Name>TEXT_TECH_ANIMAL_DEN</Name>
+		<Advice>TEXT_GUIDE_TECH_ANIMAL_DEN</Advice>
+		<zIconName>TECH_ANIMAL_DEN</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>2</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_LOCAL_HUBS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_SHELTERS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_BASIC_SCHOOLS</zType>
+		<Name>TEXT_TECH_BASIC_SCHOOLS</Name>
+		<Advice>TEXT_GUIDE_TECH_BASIC_SCHOOLS</Advice>
+		<zIconName>TECH_BASIC_SCHOOLS</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>3</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_LOCAL_HUBS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_SHELTERS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<!-- Empire Development Techs --> 
 	<Entry>
 		<zType>TECH_MINING</zType>
 		<Name>TEXT_TECH_MINING</Name>
@@ -190,7 +419,154 @@
 		<bValidAll>1</bValidAll>
 		<abTechPrereq>
 			<Pair>
+				<zIndex>TECH_WATER_TRANSPORT</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
 				<zIndex>TECH_WATER_STORAGE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_SPICE_EXTRACTION</zType>
+		<Name>TEXT_TECH_SPICE_EXTRACTION</Name>
+		<Advice>TEXT_GUIDE_TECH_SPICE_EXTRACTION</Advice>
+		<zIconName>TECH_SPICE_EXTRACTION</zIconName>
+		<iCost>60</iCost>
+		<iColumn>3</iColumn>
+		<iRow>4</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_MINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_WATER_CONSERVATION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_LIGHT_MANUFACTURING</zType>
+		<Name>TEXT_TECH_LIGHT_MANUFACTURING</Name>
+		<Advice>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING</Advice>
+		<zIconName>TECH_LIGHT_MANUFACTURING</zIconName>
+		<iCost>60</iCost>
+		<iColumn>3</iColumn>
+		<iRow>5</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_MINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_WATER_CONSERVATION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_DESERT_ENGINEERING</zType>
+		<Name>TEXT_TECH_DESERT_ENGINEERING</Name>
+		<Advice>TEXT_GUIDE_TECH_DESERT_ENGINEERING</Advice>
+		<zIconName>TECH_DESERT_ENGINEERING</zIconName>
+		<iCost>75</iCost>
+		<iColumn>4</iColumn>
+		<iRow>4</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_SPICE_EXTRACTION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_LIGHT_MANUFACTURING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_DESERT_TRADE</zType>
+		<Name>TEXT_TECH_DESERT_TRADE</Name>
+		<Advice>TEXT_GUIDE_TECH_DESERT_TRADE</Advice>
+		<zIconName>TECH_DESERT_TRADE</zIconName>
+		<iCost>75</iCost>
+		<iColumn>4</iColumn>
+		<iRow>5</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_SPICE_EXTRACTION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_LIGHT_MANUFACTURING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_ENERGY_SOURCES</zType>
+		<Name>TEXT_TECH_ENERGY_SOURCES</Name>
+		<Advice>TEXT_GUIDE_TECH_ENERGY_SOURCES</Advice>
+		<zIconName>TECH_ENERGY_SOURCES</zIconName>
+		<iCost>100</iCost>
+		<iColumn>5</iColumn>
+		<iRow>4</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_DESERT_ENGINEERING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_DESERT_TRADE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<!-- Religion Techs --> 
+	<Entry>
+		<zType>TECH_MYSTICISM</zType>
+		<Name>TEXT_TECH_MYSTICISM</Name>
+		<Advice>TEXT_GUIDE_TECH_MYSTICISM</Advice>
+		<zIconName>TECH_MYSTICISM</zIconName>
+		<iCost>20</iCost>
+		<iColumn>0</iColumn>
+		<iRow>6</iRow>
+		<bValidAll>1</bValidAll>
+	</Entry>
+	<Entry>
+		<zType>TECH_RITUAL</zType>
+		<Name>TEXT_TECH_RITUAL</Name>
+		<Advice>TEXT_GUIDE_TECH_RITUAL</Advice>
+		<zIconName>TECH_RITUAL</zIconName>
+		<iCost>30</iCost>
+		<iColumn>1</iColumn>
+		<iRow>6</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_MYSTICISM</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_WORSHIP</zType>
+		<Name>TEXT_TECH_WORSHIP</Name>
+		<Advice>TEXT_GUIDE_TECH_WORSHIP</Advice>
+		<zIconName>TECH_WORSHIP</zIconName>
+		<iCost>30</iCost>
+		<iColumn>1</iColumn>
+		<iRow>7</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_MYSTICISM</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>
@@ -228,89 +604,58 @@
 		</abTechPrereq>
 	</Entry>
 	<Entry>
-		<zType>TECH_COMBAT_ORNITHOPTER</zType>
-		<Name>TEXT_TECH_COMBAT_ORNITHOPTER</Name>
-		<Advice>TEXT_GUIDE_TECH_COMBAT_ORNITHOPTER</Advice>
-		<zIconName>TECH_COMBAT_ORNITHOPTER</zIconName>
-		<iCost>60</iCost>
-		<iColumn>3</iColumn>
-		<iRow>0</iRow>
+		<zType>TECH_CULT</zType>
+		<Name>TEXT_TECH_CULT</Name>
+		<Advice>TEXT_GUIDE_TECH_CULT</Advice>
+		<zIconName>TECH_CULT</zIconName>
+		<iCost>75</iCost>
+		<iColumn>4</iColumn>
+		<iRow>6</iRow>
 		<bValidAll>1</bValidAll>
 		<abTechPrereq>
 			<Pair>
-				<zIndex>TECH_BASIC_DEFENSE</zIndex>
+				<zIndex>TECH_DIVINATION</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>
 	</Entry>
 	<Entry>
-		<zType>TECH_BLADE_MAKING</zType>
-		<Name>TEXT_TECH_BLADE_MAKING</Name>
-		<Advice>TEXT_GUIDE_TECH_BLADE_MAKING</Advice>
-		<zIconName>TECH_BLADE_MAKING</zIconName>
-		<iCost>60</iCost>
-		<iColumn>3</iColumn>
-		<iRow>1</iRow>
+		<zType>TECH_FANATICISM</zType>
+		<Name>TEXT_TECH_FANATICISM</Name>
+		<Advice>TEXT_GUIDE_TECH_FANATICISM</Advice>
+		<zIconName>TECH_FANATICISM</zIconName>
+		<iCost>75</iCost>
+		<iColumn>4</iColumn>
+		<iRow>7</iRow>
 		<bValidAll>1</bValidAll>
 		<abTechPrereq>
 			<Pair>
-				<zIndex>TECH_BASIC_DEFENSE</zIndex>
+				<zIndex>TECH_DIVINATION</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>
 	</Entry>
 	<Entry>
-		<zType>TECH_BASIC_EDUCATION</zType>
-		<Name>TEXT_TECH_BASIC_EDUCATION</Name>
-		<Advice>TEXT_GUIDE_TECH_BASIC_EDUCATION</Advice>
-		<zIconName>TECH_BASIC_EDUCATION</zIconName>
-		<iCost>60</iCost>
-		<iColumn>3</iColumn>
-		<iRow>3</iRow>
+		<zType>TECH_TEMPLE_BUILDING</zType>
+		<Name>TEXT_TECH_TEMPLE_BUILDING</Name>
+		<Advice>TEXT_GUIDE_TECH_TEMPLE_BUILDING</Advice>
+		<zIconName>TECH_TEMPLE_BUILDING</zIconName>
+		<iCost>100</iCost>
+		<iColumn>5</iColumn>
+		<iRow>6</iRow>
 		<bValidAll>1</bValidAll>
 		<abTechPrereq>
 			<Pair>
-				<zIndex>TECH_SIETCH</zIndex>
+				<zIndex>TECH_CULT</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_FANATICISM</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>
 	</Entry>
-	<Entry>
-		<zType>TECH_SPICE_EXTRACTION</zType>
-		<Name>TEXT_TECH_SPICE_EXTRACTION</Name>
-		<Advice>TEXT_GUIDE_TECH_SPICE_EXTRACTION</Advice>
-		<zIconName>TECH_SPICE_EXTRACTION</zIconName>
-		<iCost>60</iCost>
-		<iColumn>3</iColumn>
-		<iRow>4</iRow>
-		<bValidAll>1</bValidAll>
-		<abTechPrereq>
-			<Pair>
-				<zIndex>TECH_WATER_CONSERVATION</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abTechPrereq>
-	</Entry>
-	<Entry>
-		<zType>TECH_LIGHT_MANUFACTURING</zType>
-		<Name>TEXT_TECH_LIGHT_MANUFACTURING</Name>
-		<Advice>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING</Advice>
-		<zIconName>TECH_LIGHT_MANUFACTURING</zIconName>
-		<iCost>60</iCost>
-		<iColumn>3</iColumn>
-		<iRow>5</iRow>
-		<bValidAll>1</bValidAll>
-		<abTechPrereq>
-			<Pair>
-				<zIndex>TECH_MINING</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TECH_WATER_CONSERVATION</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abTechPrereq>
-	</Entry>
+	<!-- Unique Techs --> 
 	<Entry>
 		<zType>TECH_SPY_NETWORK_I</zType>
 		<Name>TEXT_TECH_SPY_NETWORK_I</Name>

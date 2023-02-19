@@ -71,8 +71,8 @@
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldModifier>
@@ -107,7 +107,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>20</iValue>
+				<iValue>10</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -343,8 +343,8 @@
 		<bSingle>1</bSingle>
 		<aiYieldRateDefending>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRateDefending>
 	</Entry>
@@ -358,8 +358,8 @@
 		<bSingle>1</bSingle>
 		<aiYieldRateDefending>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRateDefending>
 	</Entry>
@@ -413,7 +413,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>50</iValue>
+				<iValue>-50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -429,7 +429,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>60</iValue>
+				<iValue>-60</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -445,7 +445,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>80</iValue>
+				<iValue>-80</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -461,7 +461,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>90</iValue>
+				<iValue>-90</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -477,7 +477,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
+				<iValue>-100</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -493,7 +493,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>110</iValue>
+				<iValue>-110</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -509,7 +509,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>130</iValue>
+				<iValue>-130</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -525,7 +525,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>150</iValue>
+				<iValue>-150</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -669,7 +669,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
+				<iValue>-10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateCulture>
@@ -687,8 +687,8 @@
 		<bSingle>1</bSingle>
 		<aiYieldRate>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-20</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -730,7 +730,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
+				<iValue>-10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateMilitary>
@@ -752,7 +752,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
+				<iValue>-10</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -763,8 +763,8 @@
 		<bSingle>1</bSingle>
 		<aiYieldRateHolyCityWorld>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-60</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>60</iValue>
 			</Pair>
 		</aiYieldRateHolyCityWorld>
 		<aaiImprovementClassYield></aaiImprovementClassYield>
@@ -776,8 +776,8 @@
 		<bSingle>1</bSingle>
 		<aiYieldRateReligionNonState>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-20</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRateReligionNonState>
 	</Entry>
@@ -842,8 +842,8 @@
 				<iValue>50</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-20</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aaiImprovementClassYield></aaiImprovementClassYield>
@@ -892,8 +892,8 @@
 		<bHurryMoney>0</bHurryMoney>
 		<aiYieldRate>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldModifier>
@@ -929,8 +929,8 @@
 		<bSingle>1</bSingle>
 		<aiYieldRate>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-20</iValue>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -978,5 +978,40 @@
 		<bSingle>1</bSingle>
 		<bHurryMoney>1</bHurryMoney>
 		<aiYieldRate></aiYieldRate>
+	</Entry>
+	<!-- Family Opinion --> 
+	<Entry>
+		<zType>EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldModifier>
 	</Entry>
 </Root>

@@ -11,17 +11,6 @@
 		</aeTraitAny>
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_CHARACTER_NOT_CHARMING</zType>
-		<aeTraitNone>
-			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
-			<zValue>TRAIT_CUNNING</zValue>
-			<zValue>TRAIT_AFFABLE</zValue>
-			<zValue>TRAIT_ELOQUENT</zValue>
-			<zValue>TRAIT_WITTY</zValue>
-			<zValue>TRAIT_SLY</zValue>
-		</aeTraitNone>
-	</Entry>
-	<Entry>
 		<zType>SUBJECT_CHARACTER_COVERT</zType>
 		<aeTraitAny>
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
@@ -30,16 +19,6 @@
 			<zValue>TRAIT_RUTHLESS</zValue>
 			<zValue>TRAIT_SLY</zValue>
 		</aeTraitAny>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_CHARACTER_NOT_COVERT</zType>
-		<aeTraitNone>
-			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
-			<zValue>TRAIT_DECEITFUL</zValue>
-			<zValue>TRAIT_CUNNING</zValue>
-			<zValue>TRAIT_RUTHLESS</zValue>
-			<zValue>TRAIT_SLY</zValue>
-		</aeTraitNone>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_RELIGIOUS</zType>
@@ -59,24 +38,5 @@
 			<zValue>TRAIT_ASCETIC</zValue>
 			<zValue>TRAIT_SPIRITUAL</zValue>
 		</aeTraitAny>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_CHARACTER_NOT_RELIGIOUS</zType>
-		<Name>TEXT_SUBJECT_CHARACTER_NOT_RELIGIOUS</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_SUBJECT_CHARACTER_NOT_RELIGIOUS_F</Second>
-			</Pair>
-		</GenderedNames>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<aeTraitNone>
-			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
-			<zValue>TRAIT_SUPERSTITIOUS</zValue>
-			<zValue>TRAIT_PIOUS</zValue>
-			<zValue>TRAIT_PROPHET</zValue>
-			<zValue>TRAIT_ASCETIC</zValue>
-			<zValue>TRAIT_SPIRITUAL</zValue>
-		</aeTraitNone>
 	</Entry>
 </Root>

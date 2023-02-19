@@ -363,10 +363,10 @@
 		<zType>CONCEPT_FRESH_WATER</zType>
 	</Entry>
 	<Entry>
-		<zType>CONCEPT_LUXURY</zType>
+		<zType>CONCEPT_MARCH</zType>
 	</Entry>
 	<Entry>
-		<zType>CONCEPT_MARCH</zType>
+		<zType>CONCEPT_PAGAN_RELIGION</zType>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SOLDIER</zType>
@@ -1158,9 +1158,6 @@
 		<zType>TECH_VAULTING</zType>
 	</Entry>
 	<Entry>
-		<zType>TECH_VAULTING_BONUS_DISCONTENT</zType>
-	</Entry>
-	<Entry>
 		<zType>TECH_INDUSTRIAL_PROGRESS_NO_CHARACTERS</zType>
 	</Entry>
 	<Entry>
@@ -1411,6 +1408,9 @@
 	</Entry>
 	<Entry>
 		<zType>TECH_POLIS</zType>
+	</Entry>
+	<Entry>
+		<zType>TECH_VAULTING_BONUS_HAPPINESS</zType>
 	</Entry>
 	<Entry>
 		<zType>TERRAIN_MARSH</zType>

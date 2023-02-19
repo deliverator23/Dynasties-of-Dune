@@ -43,7 +43,7 @@
 		<iCivics>25</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WINDTRAP_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -55,18 +55,19 @@
 	<Entry>
 		<zType>PROJECT_WINDTRAP_II</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_2</Name>
-		<zIcon>PROJECT_GROWTH_6</zIcon>
+		<zIcon>PROJECT_GROWTH_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WINDTRAP_2</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WINDTRAP_2</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_2</Name>
-		<zIcon>PROJECT_GROWTH_6</zIcon>
+		<zIcon>PROJECT_GROWTH_2</zIcon>
 		<iCivics>35</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_WINDTRAP_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<Bonus>BONUS_PROJECT_WINDTRAP_2</Bonus>
+		<CityProject>PROJECT_WINDTRAP_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -78,19 +79,20 @@
 	<Entry>
 		<zType>PROJECT_WINDTRAP_III</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_3</Name>
-		<zIcon>PROJECT_GROWTH_7</zIcon>
+		<zIcon>PROJECT_GROWTH_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WINDTRAP_3</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WINDTRAP_3</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_3</Name>
-		<zIcon>PROJECT_GROWTH_7</zIcon>
+		<zIcon>PROJECT_GROWTH_2</zIcon>
 		<iCivics>45</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_WINDTRAP_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
-		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
+		<Bonus>BONUS_PROJECT_WINDTRAP_3</Bonus>
+		<CityProject>PROJECT_WINDTRAP_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_WATER_STORAGE</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -101,19 +103,20 @@
 	<Entry>
 		<zType>PROJECT_WINDTRAP_IV</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_4</Name>
-		<zIcon>PROJECT_GROWTH_8</zIcon>
+		<zIcon>PROJECT_GROWTH_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WINDTRAP_4</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WINDTRAP_4</zType>
 		<Name>TEXT_PROJECT_WINDTRAP_4</Name>
-		<zIcon>PROJECT_GROWTH_8</zIcon>
+		<zIcon>PROJECT_GROWTH_2</zIcon>
 		<iCivics>55</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_WINDTRAP_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
-		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
+		<Bonus>BONUS_PROJECT_WINDTRAP_4</Bonus>
+		<CityProject>PROJECT_WINDTRAP_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_WATER_STORAGE</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -123,7 +126,7 @@
 	</Entry>
 	<Entry>
 		<zType>PROJECT_WORKSHOP_I</zType>
-		<Name>TEXT_PROJECT_WORKSHOP_1</Name>
+		<Name>TEXT_PROJECT_WORKSHOP_I</Name>
 		<zIcon>PROJECT_CIVICS_2</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_WORKSHOP_1</EffectCity>
@@ -132,14 +135,62 @@
 		<zType>PROJECT_WORKSHOP_1</zType>
 		<Name>TEXT_PROJECT_WORKSHOP_1</Name>
 		<zIcon>PROJECT_CIVICS_2</zIcon>
-		<iCivics>20</iCivics>
-		<iMaxCount>1</iMaxCount>
+		<iCivics>50</iCivics>
+		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_WORKSHOP_I</CityProject>
-		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
+		<TechPrereq>TECH_LIGHT_MANUFACTURING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
 				<iValue>30</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_WORKSHOP_2</zType>
+		<Name>TEXT_PROJECT_WORKSHOP_2</Name>
+		<zIcon>PROJECT_CIVICS_2</zIcon>
+		<iCivics>65</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_WORKSHOP_2</Bonus>
+		<CityProject>PROJECT_WORKSHOP_I</CityProject>
+		<TechPrereq>TECH_LIGHT_MANUFACTURING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_WORKSHOP_3</zType>
+		<Name>TEXT_PROJECT_WORKSHOP_3</Name>
+		<zIcon>PROJECT_CIVICS_2</zIcon>
+		<iCivics>80</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_WORKSHOP_3</Bonus>
+		<CityProject>PROJECT_WORKSHOP_I</CityProject>
+		<TechPrereq>TECH_LIGHT_MANUFACTURING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_WORKSHOP_4</zType>
+		<Name>TEXT_PROJECT_WORKSHOP_4</Name>
+		<zIcon>PROJECT_CIVICS_2</zIcon>
+		<iCivics>95</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_WORKSHOP_4</Bonus>
+		<CityProject>PROJECT_WORKSHOP_I</CityProject>
+		<TechPrereq>TECH_LIGHT_MANUFACTURING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>60</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -157,7 +208,7 @@
 		<iCivics>25</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_FUEL_FACTORY_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -169,18 +220,19 @@
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_II</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_2</Name>
-		<zIcon>PROJECT_FUEL_2</zIcon>
+		<zIcon>PROJECT_FUEL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_FUEL_FACTORY_2</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_2</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_2</Name>
-		<zIcon>PROJECT_FUEL_2</zIcon>
+		<zIcon>PROJECT_FUEL_1</zIcon>
 		<iCivics>40</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_FUEL_FACTORY_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<Bonus>BONUS_PROJECT_FUEL_FACTORY_2</Bonus>
+		<CityProject>PROJECT_FUEL_FACTORY_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -192,18 +244,19 @@
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_III</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_3</Name>
-		<zIcon>PROJECT_FUEL_3</zIcon>
+		<zIcon>PROJECT_FUEL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_FUEL_FACTORY_3</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_3</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_3</Name>
-		<zIcon>PROJECT_FUEL_3</zIcon>
+		<zIcon>PROJECT_FUEL_1</zIcon>
 		<iCivics>50</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_FUEL_FACTORY_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
+		<Bonus>BONUS_PROJECT_FUEL_FACTORY_3</Bonus>
+		<CityProject>PROJECT_FUEL_FACTORY_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
 		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -215,18 +268,19 @@
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_IV</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_4</Name>
-		<zIcon>PROJECT_FUEL_4</zIcon>
+		<zIcon>PROJECT_FUEL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_FUEL_FACTORY_4</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FUEL_FACTORY_4</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_4</Name>
-		<zIcon>PROJECT_FUEL_4</zIcon>
+		<zIcon>PROJECT_FUEL_1</zIcon>
 		<iCivics>60</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_FUEL_FACTORY_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
+		<Bonus>BONUS_PROJECT_FUEL_FACTORY_4</Bonus>
+		<CityProject>PROJECT_FUEL_FACTORY_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 		<TechPrereq>TECH_DESERT_SURVIVAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -249,7 +303,7 @@
 		<iCivics>25</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_MONUMENT_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_SYMBOLS</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -265,18 +319,19 @@
 	<Entry>
 		<zType>PROJECT_MONUMENT_II</zType>
 		<Name>TEXT_PROJECT_MONUMENT_2</Name>
-		<zIcon>PROJECT_CULTURE_2</zIcon>
+		<zIcon>PROJECT_CULTURE_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MONUMENT_2</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MONUMENT_2</zType>
 		<Name>TEXT_PROJECT_MONUMENT_2</Name>
-		<zIcon>PROJECT_CULTURE_2</zIcon>
+		<zIcon>PROJECT_CULTURE_1</zIcon>
 		<iCivics>30</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_MONUMENT_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<Bonus>BONUS_PROJECT_MONUMENT_2</Bonus>
+		<CityProject>PROJECT_MONUMENT_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_SYMBOLS</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -292,18 +347,19 @@
 	<Entry>
 		<zType>PROJECT_MONUMENT_III</zType>
 		<Name>TEXT_PROJECT_MONUMENT_3</Name>
-		<zIcon>PROJECT_CULTURE_3</zIcon>
+		<zIcon>PROJECT_CULTURE_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MONUMENT_3</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MONUMENT_3</zType>
 		<Name>TEXT_PROJECT_MONUMENT_3</Name>
-		<zIcon>PROJECT_CULTURE_3</zIcon>
+		<zIcon>PROJECT_CULTURE_1</zIcon>
 		<iCivics>40</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_MONUMENT_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
+		<Bonus>BONUS_PROJECT_MONUMENT_3</Bonus>
+		<CityProject>PROJECT_MONUMENT_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
 		<TechPrereq>TECH_SYMBOLS</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -315,21 +371,23 @@
 				<iValue>25</iValue>
 			</Pair>
 		</aiYieldCost>
-	</Entry><Entry>
+	</Entry>
+	<Entry>
 		<zType>PROJECT_MONUMENT_IV</zType>
 		<Name>TEXT_PROJECT_MONUMENT_4</Name>
-		<zIcon>PROJECT_CULTURE_4</zIcon>
+		<zIcon>PROJECT_CULTURE_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MONUMENT_4</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MONUMENT_4</zType>
 		<Name>TEXT_PROJECT_MONUMENT_4</Name>
-		<zIcon>PROJECT_CULTURE_4</zIcon>
+		<zIcon>PROJECT_CULTURE_1</zIcon>
 		<iCivics>50</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_MONUMENT_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
+		<Bonus>BONUS_PROJECT_MONUMENT_4</Bonus>
+		<CityProject>PROJECT_MONUMENT_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 		<TechPrereq>TECH_SYMBOLS</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -345,7 +403,7 @@
 	<Entry>
 		<zType>PROJECT_MINE_I</zType>
 		<Name>TEXT_PROJECT_MINE_1</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_2</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_1</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MINE_1</EffectCity>
 	</Entry>
@@ -356,7 +414,7 @@
 		<iCivics>25</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_MINE_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_BASIC_MINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -368,18 +426,19 @@
 	<Entry>
 		<zType>PROJECT_MINE_II</zType>
 		<Name>TEXT_PROJECT_MINE_2</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_4</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MINE_2</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MINE_2</zType>
 		<Name>TEXT_PROJECT_MINE_2</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_4</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_1</zIcon>
 		<iCivics>40</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_MINE_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<Bonus>BONUS_PROJECT_MINE_2</Bonus>
+		<CityProject>PROJECT_MINE_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_BASIC_MINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -391,19 +450,20 @@
 	<Entry>
 		<zType>PROJECT_MINE_III</zType>
 		<Name>TEXT_PROJECT_MINE_3</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_5</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MINE_3</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MINE_3</zType>
 		<Name>TEXT_PROJECT_MINE_3</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_5</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_1</zIcon>
 		<iCivics>55</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_MINE_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
-		<TechPrereq>TECH_MINING</TechPrereq>
+		<Bonus>BONUS_PROJECT_MINE_3</Bonus>
+		<CityProject>PROJECT_MINE_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_BASIC_MINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -414,19 +474,20 @@
 	<Entry>
 		<zType>PROJECT_MINE_IV</zType>
 		<Name>TEXT_PROJECT_MINE_4</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_6</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MINE_4</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MINE_4</zType>
 		<Name>TEXT_PROJECT_MINE_4</Name>
-		<zIcon>PROJECT_LOCAL_MATERIAL_6</zIcon>
+		<zIcon>PROJECT_LOCAL_MATERIAL_1</zIcon>
 		<iCivics>70</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_MINE_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
-		<TechPrereq>TECH_MINING</TechPrereq>
+		<Bonus>BONUS_PROJECT_MINE_4</Bonus>
+		<CityProject>PROJECT_MINE_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_BASIC_MINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -438,7 +499,7 @@
 		<zType>PROJECT_MINERAL_TRADE_POST</zType>
 		<Name>TEXT_PROJECT_MINERAL_TRADE_POST</Name>
 		<zIcon>PROJECT_LOCAL_MATERIAL_2</zIcon>
-		<iCivics>30</iCivics>
+		<iCivics>25</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_MINERAL_TRADE_POST</CityProject>
 		<EffectCity>EFFECTCITY_PROJECT_MINERAL_TRADE_POST</EffectCity>
@@ -457,7 +518,7 @@
 		<iCivics>25</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<EffectCity>EFFECTCITY_PROJECT_LOCAL_MATERIAL_TRADE</EffectCity>
-		<TechPrereq>TECH_BASIC_MINING</TechPrereq>
+		<TechPrereq>TECH_MINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -504,7 +565,7 @@
 		<iCivics>30</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_WATER_SILO_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_WATER_STORAGE</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -531,7 +592,7 @@
 		<iCivics>20</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_WATER_PLANT_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_WATER_TRANSPORT</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -558,7 +619,7 @@
 		<iCivics>30</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_WATER_PLANT_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_WATER_TRANSPORT</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -584,8 +645,8 @@
 		<iCivics>40</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_WATER_PLANT_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
-		<TechPrereq>TECH_WATER_TRANSPORT</TechPrereq>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_WATER_CONSERVATION</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_FUEL</zIndex>
@@ -610,8 +671,8 @@
 		<iCivics>50</iCivics>
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_WATER_PLANT_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
-		<TechPrereq>TECH_WATER_TRANSPORT</TechPrereq>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_WATER_CONSERVATION</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_FUEL</zIndex>
@@ -671,9 +732,9 @@
 		<Name>TEXT_PROJECT_SHRINE_1</Name>
 		<zIcon>PROJECT_DEVOTION_2</zIcon>
 		<iCivics>25</iCivics>
-		<bRepeat>1</bRepeat>
+		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_SHRINE_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_MYSTICISM</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -698,9 +759,9 @@
 		<Name>TEXT_PROJECT_SHRINE_2</Name>
 		<zIcon>PROJECT_DEVOTION_7</zIcon>
 		<iCivics>35</iCivics>
-		<bRepeat>1</bRepeat>
+		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_SHRINE_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_MYSTICISM</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -724,9 +785,9 @@
 		<Name>TEXT_PROJECT_SHRINE_3</Name>
 		<zIcon>PROJECT_DEVOTION_8</zIcon>
 		<iCivics>45</iCivics>
-		<bRepeat>1</bRepeat>
+		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_SHRINE_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
 		<TechPrereq>TECH_MYSTICISM</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -751,9 +812,9 @@
 		<Name>TEXT_PROJECT_SHRINE_4</Name>
 		<zIcon>PROJECT_DEVOTION_9</zIcon>
 		<iCivics>55</iCivics>
-		<bRepeat>1</bRepeat>
+		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_SHRINE_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 		<TechPrereq>TECH_MYSTICISM</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -773,7 +834,7 @@
 		<iCivics>10</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_RITUAL</Bonus>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_RITUAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -789,7 +850,7 @@
 		<iCivics>15</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_RITUAL_2</Bonus>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_RITUAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -805,7 +866,7 @@
 		<iCivics>20</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_RITUAL_3</Bonus>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
 		<TechPrereq>TECH_RITUAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -821,7 +882,7 @@
 		<iCivics>25</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_RITUAL_4</Bonus>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 		<TechPrereq>TECH_RITUAL</TechPrereq>
 		<aiYieldCost>
 			<Pair>
@@ -845,61 +906,61 @@
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_MEDITATION</Bonus>
 		<CityProject>PROJECT_MEDITATION_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
 		<TechPrereq>TECH_MEDITATION</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MEDITATION_II</zType>
 		<Name>TEXT_PROJECT_MEDITATION_2</Name>
-		<zIcon>PROJECT_DEVOTION_11</zIcon>
+		<zIcon>PROJECT_DEVOTION_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MEDITATION_2</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MEDITATION_2</zType>
 		<Name>TEXT_PROJECT_MEDITATION_2</Name>
-		<zIcon>PROJECT_DEVOTION_11</zIcon>
+		<zIcon>PROJECT_DEVOTION_10</zIcon>
 		<iCivics>60</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_MEDITATION_2</Bonus>
-		<CityProject>PROJECT_MEDITATION_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<CityProject>PROJECT_MEDITATION_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
 		<TechPrereq>TECH_MEDITATION</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MEDITATION_III</zType>
 		<Name>TEXT_PROJECT_MEDITATION_3</Name>
-		<zIcon>PROJECT_DEVOTION_12</zIcon>
+		<zIcon>PROJECT_DEVOTION_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MEDITATION_3</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MEDITATION_3</zType>
 		<Name>TEXT_PROJECT_MEDITATION_3</Name>
-		<zIcon>PROJECT_DEVOTION_12</zIcon>
+		<zIcon>PROJECT_DEVOTION_10</zIcon>
 		<iCivics>75</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_MEDITATION_3</Bonus>
-		<CityProject>PROJECT_MEDITATION_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
+		<CityProject>PROJECT_MEDITATION_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
 		<TechPrereq>TECH_MEDITATION</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MEDITATION_IV</zType>
 		<Name>TEXT_PROJECT_MEDITATION_4</Name>
-		<zIcon>PROJECT_DEVOTION_13</zIcon>
+		<zIcon>PROJECT_DEVOTION_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_MEDITATION_4</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_MEDITATION_4</zType>
 		<Name>TEXT_PROJECT_MEDITATION_4</Name>
-		<zIcon>PROJECT_DEVOTION_13</zIcon>
+		<zIcon>PROJECT_DEVOTION_10</zIcon>
 		<iCivics>90</iCivics>
 		<bRepeat>1</bRepeat>
 		<Bonus>BONUS_PROJECT_MEDITATION_4</Bonus>
-		<CityProject>PROJECT_MEDITATION_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
+		<CityProject>PROJECT_MEDITATION_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 		<TechPrereq>TECH_MEDITATION</TechPrereq>
 	</Entry>
 	<Entry>
@@ -936,8 +997,8 @@
 		<iCivics>25</iCivics>
 		<bRepeat>1</bRepeat>
 		<CityProject>PROJECT_AGENT_TRAINING_I</CityProject>
-		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
-		<TechPrereq>TECH_SPY_NETWORK_I</TechPrereq>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
+		<TechPrereq>TECH_LOCAL_DIALECT_TRAINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -952,19 +1013,20 @@
 	<Entry>
 		<zType>PROJECT_AGENT_TRAINING_II</zType>
 		<Name>TEXT_PROJECT_AGENT_TRAINING_2</Name>
-		<zIcon>PROJECT_INTEL_4</zIcon>
+		<zIcon>PROJECT_INTEL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_AGENT_TRAINING_2</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_AGENT_TRAINING_2</zType>
 		<Name>TEXT_PROJECT_AGENT_TRAINING_2</Name>
-		<zIcon>PROJECT_INTEL_4</zIcon>
+		<zIcon>PROJECT_INTEL_3</zIcon>
 		<iCivics>35</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_AGENT_TRAINING_II</CityProject>
-		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
-		<TechPrereq>TECH_SPY_NETWORK_I</TechPrereq>
+		<Bonus>BONUS_PROJECT_AGENT_TRAINING_2</Bonus>
+		<CityProject>PROJECT_AGENT_TRAINING_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+		<TechPrereq>TECH_LOCAL_DIALECT_TRAINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -975,22 +1037,24 @@
 				<iValue>30</iValue>
 			</Pair>
 		</aiYieldCost>
-	</Entry><Entry>
+	</Entry>
+	<Entry>
 		<zType>PROJECT_AGENT_TRAINING_III</zType>
 		<Name>TEXT_PROJECT_AGENT_TRAINING_3</Name>
-		<zIcon>PROJECT_INTEL_5</zIcon>
+		<zIcon>PROJECT_INTEL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_AGENT_TRAINING_3</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_AGENT_TRAINING_3</zType>
 		<Name>TEXT_PROJECT_AGENT_TRAINING_3</Name>
-		<zIcon>PROJECT_INTEL_5</zIcon>
+		<zIcon>PROJECT_INTEL_3</zIcon>
 		<iCivics>45</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_AGENT_TRAINING_III</CityProject>
-		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
-		<TechPrereq>TECH_SPY_NETWORK_I</TechPrereq>
+		<Bonus>BONUS_PROJECT_AGENT_TRAINING_3</Bonus>
+		<CityProject>PROJECT_AGENT_TRAINING_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_LOCAL_DIALECT_TRAINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -1001,22 +1065,24 @@
 				<iValue>40</iValue>
 			</Pair>
 		</aiYieldCost>
-	</Entry><Entry>
+	</Entry>
+	<Entry>
 		<zType>PROJECT_AGENT_TRAINING_IV</zType>
 		<Name>TEXT_PROJECT_AGENT_TRAINING_4</Name>
-		<zIcon>PROJECT_INTEL_6</zIcon>
+		<zIcon>PROJECT_INTEL_100</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_AGENT_TRAINING_4</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_AGENT_TRAINING_4</zType>
 		<Name>TEXT_PROJECT_AGENT_TRAINING_4</Name>
-		<zIcon>PROJECT_INTEL_6</zIcon>
+		<zIcon>PROJECT_INTEL_3</zIcon>
 		<iCivics>55</iCivics>
 		<bRepeat>1</bRepeat>
-		<CityProject>PROJECT_AGENT_TRAINING_IV</CityProject>
-		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
-		<TechPrereq>TECH_SPY_NETWORK_I</TechPrereq>
+		<Bonus>BONUS_PROJECT_AGENT_TRAINING_4</Bonus>
+		<CityProject>PROJECT_AGENT_TRAINING_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_LOCAL_DIALECT_TRAINING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -1212,15 +1278,15 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>200</iValue>
+				<iValue>50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
-				<iValue>200</iValue>
+				<iValue>50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>200</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -1232,19 +1298,19 @@
 		<iMaxCount>1</iMaxCount>
 		<CityProject>PROJECT_POWER_GENERATOR_1</CityProject>
 		<EffectCity>EFFECTCITY_PROJECT_POWER_GENERATOR_1</EffectCity>
-		<TechPrereq>TECH_LIGHT_MANUFACTURING</TechPrereq>
+		<TechPrereq>TECH_DESERT_ENGINEERING</TechPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>100</iValue>
+				<iValue>50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
-				<iValue>100</iValue>
+				<iValue>50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>100</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>
@@ -1359,5 +1425,173 @@
 		<zIcon>PROJECT_DECREE_1</zIcon>
 		<bHidden>1</bHidden>
 		<EffectCity>EFFECTCITY_PROJECT_DECREE</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DESERT_TRADE_I</zType>
+		<Name>TEXT_PROJECT_DESERT_TRADE_I</Name>
+		<zIcon>PROJECT_SOLARIS_1</zIcon>
+		<bHidden>1</bHidden>
+		<EffectCity>EFFECTCITY_PROJECT_DESERT_TRADE_1</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DESERT_TRADE_1</zType>
+		<Name>TEXT_PROJECT_DESERT_TRADE_1</Name>
+		<zIcon>PROJECT_SOLARIS_1</zIcon>
+		<iCivics>30</iCivics>
+		<bRepeat>1</bRepeat>
+		<CityProject>PROJECT_DESERT_TRADE_I</CityProject>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
+		<TechPrereq>TECH_DESERT_TRADE</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DESERT_TRADE_2</zType>
+		<Name>TEXT_PROJECT_DESERT_TRADE_2</Name>
+		<zIcon>PROJECT_SOLARIS_1</zIcon>
+		<iCivics>40</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_DESERT_TRADE_2</Bonus>
+		<CityProject>PROJECT_DESERT_TRADE_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+		<TechPrereq>TECH_DESERT_TRADE</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DESERT_TRADE_3</zType>
+		<Name>TEXT_PROJECT_DESERT_TRADE_3</Name>
+		<zIcon>PROJECT_SOLARIS_1</zIcon>
+		<iCivics>50</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_DESERT_TRADE_3</Bonus>
+		<CityProject>PROJECT_DESERT_TRADE_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_DESERT_TRADE</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>70</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DESERT_TRADE_4</zType>
+		<Name>TEXT_PROJECT_DESERT_TRADE_4</Name>
+		<zIcon>PROJECT_SOLARIS_1</zIcon>
+		<iCivics>60</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_DESERT_TRADE_4</Bonus>
+		<CityProject>PROJECT_DESERT_TRADE_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_DESERT_TRADE</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_BASIC_TRAINING_I</zType>
+		<Name>TEXT_PROJECT_BASIC_TRAINING_I</Name>
+		<zIcon>PROJECT_MANPOWER_1</zIcon>
+		<bHidden>1</bHidden>
+		<EffectCity>EFFECTCITY_PROJECT_BASIC_TRAINING_1</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_BASIC_TRAINING_1</zType>
+		<Name>TEXT_PROJECT_BASIC_TRAINING_1</Name>
+		<zIcon>PROJECT_MANPOWER_1</zIcon>
+		<iCivics>30</iCivics>
+		<bRepeat>1</bRepeat>
+		<CityProject>PROJECT_BASIC_TRAINING_I</CityProject>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
+		<TechPrereq>TECH_BASIC_TRAINING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_BASIC_TRAINING_2</zType>
+		<Name>TEXT_PROJECT_BASIC_TRAINING_2</Name>
+		<zIcon>PROJECT_MANPOWER_1</zIcon>
+		<iCivics>40</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_BASIC_TRAINING_2</Bonus>
+		<CityProject>PROJECT_BASIC_TRAINING_I</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+		<TechPrereq>TECH_BASIC_TRAINING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_BASIC_TRAINING_3</zType>
+		<Name>TEXT_PROJECT_BASIC_TRAINING_3</Name>
+		<zIcon>PROJECT_MANPOWER_1</zIcon>
+		<iCivics>50</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_BASIC_TRAINING_3</Bonus>
+		<CityProject>PROJECT_BASIC_TRAINING_I</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_BASIC_TRAINING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>70</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_BASIC_TRAINING_4</zType>
+		<Name>TEXT_PROJECT_BASIC_TRAINING_4</Name>
+		<zIcon>PROJECT_MANPOWER_1</zIcon>
+		<iCivics>60</iCivics>
+		<bRepeat>1</bRepeat>
+		<Bonus>BONUS_PROJECT_BASIC_TRAINING_4</Bonus>
+		<CityProject>PROJECT_BASIC_TRAINING_I</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_BASIC_TRAINING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_SPICE_HARVEST_1</zType>
+		<Name>TEXT_PROJECT_SPICE_HARVEST_1</Name>
+		<zIcon>PROJECT_SPICE_1</zIcon>
+		<iCivics>40</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<CityProject>PROJECT_SPICE_HARVEST_1</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_SPICE_HARVEST_1</EffectCity>
+		<TechPrereq>TECH_SPICE_EXTRACTION</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
 	</Entry>
 </Root>

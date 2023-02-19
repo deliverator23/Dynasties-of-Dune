@@ -5,4 +5,10 @@
 		<zIconName>UNITTRAIT_EXPLORATION</zIconName>
 		<EffectUnit>EFFECTUNIT_EXPLORATION</EffectUnit>
 	</Entry>
+	<Entry>
+		<zType>UNITTRAIT_HARVESTER</zType>
+		<Name>TEXT_UNITTRAIT_HARVESTER</Name>
+		<zIconName>UNITTRAIT_HARVESTER</zIconName>
+		<EffectUnit>EFFECTUNIT_HARVESTER</EffectUnit>
+	</Entry>
 </Root>

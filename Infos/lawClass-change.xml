@@ -21,11 +21,11 @@
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_TOLERANCE_ORTHODOXY</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_CULT</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_PROFESSIONAL_ARMY_VOLUNTEERS</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_BORDER_DEFENSE</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_PHILOSOPHY_ENGINEERING</zType>

@@ -276,4 +276,53 @@
 			<zValue>UNITTRAIT_INFANTRY</zValue>
 		</aeUnitTrait>
 	</Entry>
+	<Entry>
+		<zType>UNIT_SPICE_HARVESTER</zType>
+		<Name>TEXT_UNIT_SPICE_HARVESTER</Name>
+		<zIconName>UNIT_BIREME</zIconName>
+		<zPortraitName>UNIT_BIREME</zPortraitName>
+		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
+		<zAudioSelectionType>NAVAL</zAudioSelectionType>
+		<zAudioMovementType>NAVAL</zAudioMovementType>
+		<zAudioAttackType>ANIMATED</zAudioAttackType>
+		<zAudioDamagedByProjectileType>combo_metal_wood</zAudioDamagedByProjectileType>
+		<aeFormations>
+			<zValue>FORMATION_BIREME</zValue>
+			<zValue>FORMATION_BIREME_WATER</zValue>
+		</aeFormations>
+		<UnitCycle>UNITCYCLE_MILITARY_WATER</UnitCycle>
+		<TechPrereq>TECH_SPICE_EXTRACTION</TechPrereq>
+		<ProductionType>YIELD_MANPOWER</ProductionType>
+		<iMovement>2</iMovement>
+		<iVision>3</iVision>
+		<iReveal>1</iReveal>
+		<iFatigue>3</iFatigue>
+		<iWaterControl>3</iWaterControl>
+		<iStrength>20</iStrength>
+		<iHPMax>40</iHPMax>
+		<iProduction>40</iProduction>
+		<iProductionCity>10</iProductionCity>
+		<bWater>1</bWater>
+		<bOutsideOpinion>1</bOutsideOpinion>
+		<bHarvest>1</bHarvest>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>75</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>3</iValue>
+			</Pair>
+		</aiYieldConsumption>
+		<aeUnitTrait>
+			<zValue>UNITTRAIT_HARVESTER</zValue>
+		</aeUnitTrait>
+	</Entry>
 </Root>

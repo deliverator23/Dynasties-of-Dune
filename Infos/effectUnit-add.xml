@@ -37,6 +37,12 @@
 		<SourceUnitTrait>UNITTRAIT_EXPLORATION</SourceUnitTrait>
 	</Entry>
 	<Entry>
+		<zType>EFFECTUNIT_HARVESTER</zType>
+		<Name>TEXT_UNITTRAIT_HARVESTER</Name>
+		<zIconName>UNITTRAIT_HARVESTER</zIconName>
+		<SourceUnitTrait>UNITTRAIT_HARVESTER</SourceUnitTrait>
+	</Entry>
+	<Entry>
 		<zType>EFFECTUNIT_RITUAL_SACRIFICE</zType>
 		<Name>TEXT_EFFECTUNIT_RITUAL_SACRIFICE</Name>
 		<zIconName>EFFECTUNIT_RITUAL_SACRIFICE</zIconName>

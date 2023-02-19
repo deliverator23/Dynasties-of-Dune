@@ -9,7 +9,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WINDTRAP_1</zType>
-		<en-US>Primitive Windtrap~a Primitive Windtrap~Primitive Windtraps</en-US>
+		<en-US>Windtrap~a Windtrap~Windtraps</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_WINDTRAP_2</zType>
@@ -24,12 +24,28 @@
 		<en-US>Superior Windtrap~a Superior Windtrap~Superior Windtraps</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_WORKSHOP_I</zType>
+		<en-US>Workshop~a Workshop~Workshops</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_WORKSHOP_1</zType>
 		<en-US>Primitive Workshop~a Primitive Workshop~Primitive Workshops</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_WORKSHOP_2</zType>
+		<en-US>Basic Workshop~a Basic Workshop~Basic Workshops</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WORKSHOP_3</zType>
+		<en-US>Improved Workshop~an Improved Workshop~Improved Workshops</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WORKSHOP_4</zType>
+		<en-US>Superior Workshop~a Superior Workshop~Superior Workshops</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_FUEL_FACTORY_1</zType>
-		<en-US>Primitive Fuel Factory~a Primitive Fuel Factory~Primitive Fuel Factories</en-US>
+		<en-US>Fuel Factory~a Fuel Factory~Fuel Factories</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_FUEL_FACTORY_2</zType>
@@ -45,7 +61,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MONUMENT_1</zType>
-		<en-US>Early Monument~an Early Monument~Early Monuments</en-US>
+		<en-US>Monument~a Monument~Monuments</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MONUMENT_2</zType>
@@ -61,7 +77,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINE_1</zType>
-		<en-US>Primitive Mine~a Primitive Mine~Primitive Mines</en-US>
+		<en-US>Mine~a Mine~Mines</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MINE_2</zType>
@@ -153,7 +169,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AGENT_TRAINING_1</zType>
-		<en-US>Basic Agent Training~a Basic Agent Training~Basic Agent Training</en-US>
+		<en-US>Agent Training~Agent Training~Agent Training</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_AGENT_TRAINING_2</zType>
@@ -205,7 +221,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MEDITATION</zType>
-		<en-US>Meditation I~Meditation I~Meditation I</en-US>
+		<en-US>Meditation~Meditation~Meditation</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_MEDITATION_2</zType>
@@ -258,5 +274,49 @@
 	<Entry>
 		<zType>TEXT_PROJECT_DECREE</zType>
 		<en-US>Decree~Decree~Decree</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DESERT_TRADE_I</zType>
+		<en-US>Desert Trade~Desert Trade~Desert Trade</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DESERT_TRADE_1</zType>
+		<en-US>Desert Trade I~Desert Trade I~Desert Trade I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DESERT_TRADE_2</zType>
+		<en-US>Desert Trade II~Desert Trade II~Desert Trade II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DESERT_TRADE_3</zType>
+		<en-US>Desert Trade III~Desert Trade III~Desert Trade III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DESERT_TRADE_4</zType>
+		<en-US>Desert Trade IV~Desert Trade IV~Desert Trade IV</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BASIC_TRAINING_I</zType>
+		<en-US>Basic Training~Basic Training~Basic Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BASIC_TRAINING_1</zType>
+		<en-US>Basic Training I~Basic Training I~Basic Training I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BASIC_TRAINING_2</zType>
+		<en-US>Basic Training II~Basic Training II~Basic Training II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BASIC_TRAINING_3</zType>
+		<en-US>Basic Training III~Basic Training III~Basic Training III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_BASIC_TRAINING_4</zType>
+		<en-US>Basic Training IV~Basic Training IV~Basic Training IV</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SPICE_HARVEST_1</zType>
+		<en-US>Limited Spice Harvesting~Limited Spice Harvesting~Limited Spice Harvesting</en-US>
 	</Entry>
 </Root>

@@ -11,4 +11,8 @@
 		<zType>TEXT_UNIT_B_TROOPER</zType>
 		<en-US>Basic Trooper~a Basic Trooper~Basic Troopers</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SPICE_HARVESTER</zType>
+		<en-US>Spice Harvester~a Spice Harvester~Spice Harvesters</en-US>
+	</Entry>
 </Root>

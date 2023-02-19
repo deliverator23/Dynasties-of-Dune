@@ -94,7 +94,7 @@
 		<zType>BONUS_PROJECT_COUNCIL_1</zType>
 		<aiCityYields>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
+				<zIndex>YIELD_HAPPINESS</zIndex>
 				<iValue>-10</iValue>
 			</Pair>
 		</aiCityYields>
@@ -103,7 +103,7 @@
 		<zType>BONUS_PROJECT_COUNCIL_2</zType>
 		<aiCityYields>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
+				<zIndex>YIELD_HAPPINESS</zIndex>
 				<iValue>-15</iValue>
 			</Pair>
 		</aiCityYields>
@@ -112,7 +112,7 @@
 		<zType>BONUS_PROJECT_COUNCIL_3</zType>
 		<aiCityYields>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
+				<zIndex>YIELD_HAPPINESS</zIndex>
 				<iValue>-20</iValue>
 			</Pair>
 		</aiCityYields>
@@ -121,7 +121,7 @@
 		<zType>BONUS_PROJECT_COUNCIL_4</zType>
 		<aiCityYields>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
+				<zIndex>YIELD_HAPPINESS</zIndex>
 				<iValue>-25</iValue>
 			</Pair>
 		</aiCityYields>
@@ -194,7 +194,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>20</iValue>
+				<iValue>25</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -203,7 +203,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>35</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -212,7 +212,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>60</iValue>
+				<iValue>100</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -278,6 +278,238 @@
 				<zValue/>
 			</Pair>
 		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_AGENT_TRAINING_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_AGENT_TRAINING_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_AGENT_TRAINING_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_FUEL_FACTORY_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_FUEL_FACTORY_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_FUEL_FACTORY_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MINE_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MINE_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MINE_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MONUMENT_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MONUMENT_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_MONUMENT_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CULTURE</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_WINDTRAP_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_WINDTRAP_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_WINDTRAP_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_DESERT_TRADE_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_DESERT_TRADE_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_DESERT_TRADE_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_WORKSHOP_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_WORKSHOP_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_WORKSHOP_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_BASIC_TRAINING_2</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_BASIC_TRAINING_3</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiCityYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_PROJECT_BASIC_TRAINING_4</zType>
+		<aiCityYields>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiCityYields>
 	</Entry>
 	<!-- Council --> 
 	<Entry>

@@ -220,6 +220,7 @@
 		<bNoHurry>1</bNoHurry>
 		<Bonus>BONUS_PROJECT_COUNCIL_2</Bonus>
 		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+		<TechPrereq>TECH_SIETCH</TechPrereq>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -236,6 +237,7 @@
 		<bNoHurry>1</bNoHurry>
 		<Bonus>BONUS_PROJECT_COUNCIL_3</Bonus>
 		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_SIETCH</TechPrereq>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -252,6 +254,7 @@
 		<bNoHurry>1</bNoHurry>
 		<Bonus>BONUS_PROJECT_COUNCIL_4</Bonus>
 		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_SIETCH</TechPrereq>
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -279,6 +282,7 @@
 		<Bonus>BONUS_PROJECT_FESTIVAL_2</Bonus>
 		<CityProject></CityProject>
 		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+		<TechPrereq>TECH_SYMBOLS</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FESTIVAL_3</zType>
@@ -289,6 +293,7 @@
 		<Bonus>BONUS_PROJECT_FESTIVAL_3</Bonus>
 		<CityProject>PROJECT_FESTIVAL</CityProject>
 		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<TechPrereq>TECH_SYMBOLS</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_FESTIVAL_4</zType>
@@ -299,6 +304,7 @@
 		<Bonus>BONUS_PROJECT_FESTIVAL_4</Bonus>
 		<CityProject>PROJECT_FESTIVAL</CityProject>
 		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<TechPrereq>TECH_SYMBOLS</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>PROJECT_INQUIRY_1</zType>
@@ -367,5 +373,60 @@
 		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
 		<EffectCityPrereq></EffectCityPrereq>
 		<CapitalEffectPlayerPrereq>EFFECTPLAYER_LAW_CONSTITUTION_DECREE</CapitalEffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CONVOY</zType>
+		<Name>TEXT_PROJECT_CONVOY</Name>
+		<zIcon>PROJECT_CONVOY_1</zIcon>
+		<bHidden>1</bHidden>
+		<EffectCity>EFFECTCITY_PROJECT_CONVOY</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CONVOY_1</zType>
+		<Name>TEXT_PROJECT_CONVOY_1</Name>
+		<zIcon>PROJECT_CONVOY_1</zIcon>
+		<iCivics>50</iCivics>
+		<bRepeat>1</bRepeat>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_CONVOY_1</Bonus>
+		<CityProject>PROJECT_CONVOY</CityProject>
+		<RequiresCulture>CULTURE_WEAK</RequiresCulture>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</EffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CONVOY_2</zType>
+		<Name>TEXT_PROJECT_CONVOY_2</Name>
+		<zIcon>PROJECT_CONVOY_2</zIcon>
+		<iCivics>70</iCivics>
+		<bRepeat>1</bRepeat>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_CONVOY_2</Bonus>
+		<CityProject>PROJECT_CONVOY</CityProject>
+		<RequiresCulture>CULTURE_DEVELOPING</RequiresCulture>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</EffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CONVOY_3</zType>
+		<Name>TEXT_PROJECT_CONVOY_3</Name>
+		<zIcon>PROJECT_CONVOY_3</zIcon>
+		<iCivics>90</iCivics>
+		<bRepeat>1</bRepeat>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_CONVOY_3</Bonus>
+		<CityProject>PROJECT_CONVOY</CityProject>
+		<RequiresCulture>CULTURE_STRONG</RequiresCulture>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</EffectPlayerPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_CONVOY_4</zType>
+		<Name>TEXT_PROJECT_CONVOY_4</Name>
+		<zIcon>PROJECT_CONVOY_4</zIcon>
+		<iCivics>100</iCivics>
+		<bRepeat>1</bRepeat>
+		<bNoHurry>1</bNoHurry>
+		<Bonus>BONUS_PROJECT_CONVOY_4</Bonus>
+		<CityProject>PROJECT_CONVOY</CityProject>
+		<RequiresCulture>CULTURE_LEGENDARY</RequiresCulture>
+		<EffectPlayerPrereq>EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</EffectPlayerPrereq>
 	</Entry>
 </Root>

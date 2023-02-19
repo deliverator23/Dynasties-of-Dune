@@ -369,7 +369,7 @@
 				<iValue>20</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
+				<zIndex>YIELD_HAPPINESS</zIndex>
 				<iValue>-10</iValue>
 			</Pair>
 		</aiYieldOutput>

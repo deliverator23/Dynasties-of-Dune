@@ -365,12 +365,148 @@
 		<en-US>This tech unlocks more sources of Local Materials.</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TECH_LOCAL_DIALECT_TRAINING</zType>
+		<en-US>Local Dialect Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_LOCAL_DIALECT_TRAINING</zType>
+		<en-US>This tech unlocks projects that can boost your Manpower.</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TECH_STRUGGLE</zType>
 		<en-US>Struggle</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_STRUGGLE</zType>
 		<en-US>This tech unlocks two laws unique to House Atreides.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MERCENARY</zType>
+		<en-US>Mercenary</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_MERCENARY</zType>
+		<en-US>This tech unlocks the most basic mercenaries.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BASIC_TRAINING</zType>
+		<en-US>Basic Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BASIC_TRAINING</zType>
+		<en-US>This tech unlocks the tools to get more experienced units.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STILLSUITS</zType>
+		<en-US>Stillsuits</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_STILLSUITS</zType>
+		<en-US>This tech unlocks the tools for more growth and also aids combat units.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LOCAL_HUBS</zType>
+		<en-US>Local Hubs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_LOCAL_HUBS</zType>
+		<en-US>This tech unlocks projects that improves Civics and Solaris.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DESERT_ENGINEERING</zType>
+		<en-US>Desert Engineering</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_DESERT_ENGINEERING</zType>
+		<en-US>This tech unlocks projects that improves Rural Improvements.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DESERT_TRADE</zType>
+		<en-US>Desert Trade</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_DESERT_TRADE</zType>
+		<en-US>This tech unlocks projects that improves empire-wide Solaris.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ENERGY_SOURCES</zType>
+		<en-US>Energy Sources</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_ENERGY_SOURCES</zType>
+		<en-US>This tech unlocks projects that uses Fuel to improve the empire.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CULT</zType>
+		<en-US>Cult</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_CULT</zType>
+		<en-US>This tech unlocks the laws: Tolerance and Orthodoxy.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_FANATICISM</zType>
+		<en-US>Fanaticism</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_FANATICISM</zType>
+		<en-US>This tech unlocks projects that improves Devoted Units.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TEMPLE_BUILDING</zType>
+		<en-US>Temple Building</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_TEMPLE_BUILDING</zType>
+		<en-US>This tech unlocks the temple improvements.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_OUTPOSTS_LOGISTICS</zType>
+		<en-US>Outposts Logistics</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_OUTPOSTS_LOGISTICS</zType>
+		<en-US>This tech unlocks projecst that improve Forts.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BORDER_DEFENSE</zType>
+		<en-US>Border Defense</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BORDER_DEFENSE</zType>
+		<en-US>This tech unlocks Veteran Militia (uppgrades of Militia).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SURVIVAL_TRAINING</zType>
+		<en-US>Survival Training</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SURVIVAL_TRAINING</zType>
+		<en-US>This tech unlocks projects that provide promotions that improves Units locally.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SHELTERS</zType>
+		<en-US>Shelters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SHELTERS</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_GROWTH) to a City.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ANIMAL_DEN</zType>
+		<en-US>Animal Den</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_ANIMAL_DEN</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_GROWTH) to a City.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BASIC_SCHOOLS</zType>
+		<en-US>Basic Schools</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BASIC_SCHOOLS</zType>
+		<en-US>This tech unlocks projects that provide small amounts of link(YIELD_SCIENCE).</en-US>
 	</Entry>
 	<!-- Theologies --> 
 	<Entry>
@@ -515,5 +651,14 @@
 	<Entry>
 		<zType>TEXT_SPECIALIST_WINDTRAP_OPERATOR</zType>
 		<en-US>Windtrap Operator~a Windtrap Operator~Windtrap Operators</en-US>
+	</Entry>
+	<!-- Victory -->
+	<Entry>
+		<zType>TEXT_VICTORY_TIME_800</zType>
+		<en-US>Extended Time (800)~a Extended Time Victory (800)~Extended Time Victory (800)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VICTORY_TIME_800_HELP</zType>
+		<en-US>Extended Time (800)~a Extended  Time Victory (800)~Extended Time Victory (800)</en-US>
 	</Entry>
 </Root>

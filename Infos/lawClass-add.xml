@@ -25,11 +25,11 @@
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_MILITARY_SERVICE_EQUIP_MAINTENANCE</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_SURVIVAL_TRAINING</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_CENTRALIZATION_DECENTRALIZATION</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_SPICE_EXTRACTION</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_FREEDOM_VASSALAGE</zType>

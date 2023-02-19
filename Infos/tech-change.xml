@@ -50,6 +50,10 @@
 				<zIndex>TECH_ADMINISTRATION</zIndex>
 				<bValue>1</bValue>
 			</Pair>
+			<Pair>
+				<zIndex>TECH_BASIC_EDUCATION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
 		</abTechPrereq>
 	</Entry>
 </Root>

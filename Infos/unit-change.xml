@@ -18,7 +18,7 @@
 	</Entry>
 	<Entry>
 		<zType>UNIT_WORKER</zType>
-		<TechPrereq>TECH_SIETCH</TechPrereq>
+		<TechPrereq>TECH_WATER_TRANSPORT</TechPrereq>
 		<iProduction>25</iProduction>
 		<aiStartDifficulty></aiStartDifficulty>
 		<aiYieldCost>

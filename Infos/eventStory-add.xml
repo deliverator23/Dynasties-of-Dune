@@ -15,11 +15,36 @@
 		</aeBonuses>
 		<aeOptions>
 			<zValue>EVENTOPTION_RUINS_SURVIVORS_INVITE</zValue>
-			<zValue>EVENTOPTION_RUINS_SURVIVORS_EXPLORE</zValue>
 		</aeOptions>
 		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
 		<iWeight>20</iWeight>
 		<iProb>100</iProb>
 		<iRepeatTurns>1</iRepeatTurns>
+		<bIgnoreTriggerProb>1</bIgnoreTriggerProb>
+		<bHidden>1</bHidden>
+	</Entry>
+	<Entry comment="Spawn Spice Fields">
+		<zType>EVENTSTORY_SPAWN_SPICE_FIELDS2</zType>
+		<Name>TEXT_EVENTSTORY_SPAWN_SPICE_FIELDS_TITLE</Name>
+		<Text>TEXT_EVENTSTORY_SPAWN_SPICE_FIELDS</Text>
+		<zBackgroundName>DEFAULT</zBackgroundName>
+		<zAudioTrigger>AUDIO_UI_EVENT_POP_RUIN_GENERIC</zAudioTrigger>
+		<zAuthor>AG</zAuthor>
+		<aeSubjects>
+			<zValue>SUBJECT_SPICE_VIABLE_TILES</zValue>
+		</aeSubjects>
+		<aeBonuses>
+			<zValue>BONUS_SPAWN_SPICE_FIELDS</zValue>
+			<zValue/>
+		</aeBonuses>
+		<aeOptions>
+			<zValue>EVENTOPTION_RUINS_SURVIVORS_INVITE</zValue>
+		</aeOptions>
+		<Trigger>EVENTTRIGGER_NEW_TURN</Trigger>
+		<iWeight>20</iWeight>
+		<iProb>100</iProb>
+		<iRepeatTurns>1</iRepeatTurns>
+		<bIgnoreTriggerProb>1</bIgnoreTriggerProb>
+		<bHidden>1</bHidden>
 	</Entry>
 </Root>

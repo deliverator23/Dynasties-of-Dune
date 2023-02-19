@@ -817,24 +817,14 @@
 		<iHarvestCost>1</iHarvestCost>
 		<iHarvestRoll>8</iHarvestRoll>
 		<bNoVegetation>1</bNoVegetation>
-		<aiYieldReveal>
-			<Pair>
-				<zIndex>YIELD_SPICE</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldReveal>
+		<aiYieldReveal></aiYieldReveal>
 		<aiYieldHarvest>
 			<Pair>
 				<zIndex>YIELD_SPICE</zIndex>
-				<iValue>10</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldHarvest>
-		<aiYieldNoImprovement>
-			<Pair>
-				<zIndex>YIELD_SPICE</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldNoImprovement>
+		<aiYieldNoImprovement></aiYieldNoImprovement>
 		<abTerrainValid>
 			<Pair>
 				<zIndex>TERRAIN_SAND</zIndex>
@@ -843,7 +833,11 @@
 		</abTerrainValid>
 		<abHeightValid>
 			<Pair>
-				<zIndex>HEIGHT_COAST</zIndex>
+                <zIndex>HEIGHT_FLAT</zIndex>
+                <bValue>1</bValue>
+            </Pair>
+			<Pair>
+				<zIndex>HEIGHT_HILL</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abHeightValid>

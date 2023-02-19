@@ -45,26 +45,6 @@
 				<iValue>400</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 	</Entry>
 	<Entry>
 		<zType>DIFFICULTY_JUST</zType>
@@ -112,26 +92,6 @@
 				<iValue>200</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 	</Entry>
 	<Entry>
 		<zType>DIFFICULTY_GOOD</zType>
@@ -180,26 +140,6 @@
 				<iValue>100</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 	</Entry>
 	<Entry>
 		<zType>DIFFICULTY_STRONG</zType>
@@ -247,26 +187,6 @@
 				<iValue>75</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 	</Entry>
 	<Entry>
 		<zType>DIFFICULTY_NOBLE</zType>
@@ -304,26 +224,6 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 	</Entry>
 	<Entry>
 		<zType>DIFFICULTY_GLORIOUS</zType>
@@ -361,26 +261,6 @@
 				<iValue>25</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 		<aiEffectCityRebelProb></aiEffectCityRebelProb>
 	</Entry>
 	<Entry>
@@ -403,26 +283,6 @@
 				<iValue>8</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 		<aiEffectCityRebelProb></aiEffectCityRebelProb>
 	</Entry>
 	<Entry>
@@ -445,26 +305,6 @@
 				<iValue>8</iValue>
 			</Pair>
 		</aiYieldStockpile>
-		<aiYieldThresholdBase>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>100</iValue>
-			</Pair>
-		</aiYieldThresholdBase>
-		<aiYieldThresholdPer>
-			<Pair>
-				<zIndex>YIELD_GROWTH</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiYieldThresholdPer>
 		<aiEffectCityRebelProb></aiEffectCityRebelProb>
 	</Entry>
 </Root>

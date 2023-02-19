@@ -3,4 +3,8 @@
 		<zType>TEXT_UNITTRAIT_EXPLORATION</zType>
 		<en-US>Exploration</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_HARVESTER</zType>
+		<en-US>Harvester</en-US>
+	</Entry>
 </Root>

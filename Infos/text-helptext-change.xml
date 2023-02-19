@@ -46,5 +46,13 @@ link(CONCEPT_IDLE) Disciples produce a small Yield amount if positioned on an li
 		<en-US>Mercenary Units can be hired either once some techs are researched and from the Mercenaries faction.
 		
 Mercenaries have consumption costs of link(YIELD_MONEY,1).</en-US>
-	</Entry>	
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_NATION</zType>
+		<en-US>Nations are the major factions that are vying for control over Arrakis.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_OPINION_FAMILY</zType>
+		<en-US>link(CONCEPT_FAMILY) Opinion modifies the icon(ATTACKDEFENSE)Strength of their Units and the link(YIELD_CIVICS,1), link(YIELD_MANPOWER,1), and link(YIELD_MAINTENANCE,1) of their Cities. Further, a negative Opinion can lead to link(TRIBE_REBELS) spawing near the link(CONCEPT_FAMILY) Cities.</en-US>
+	</Entry>
 </Root>
