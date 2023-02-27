@@ -1,0 +1,33 @@
+<Root>
+	<Entry>
+		<zType>SPECIALIST_PHILOSOPHER_1</zType>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_1</Name>
+		<zIconName>SPECIALIST_PHILOSOPHER</zIconName>
+		<Class>SPECIALISTCLASS_PHILOSOPHER</Class>
+		<iCivics>40</iCivics>
+		<EffectCity>EFFECTCITY_SPECIALIST_PHILOSOPHER_1</EffectCity>
+		<EffectCityExtra></EffectCityExtra>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>SPECIALIST_PRIEST_1</zType>
+		<Name>TEXT_SPECIALIST_PRIEST_1</Name>
+		<zIconName>SPECIALIST_PRIEST</zIconName>
+		<Class>SPECIALISTCLASS_PRIEST</Class>
+		<iCivics>40</iCivics>
+		<iOpinionReligion>2</iOpinionReligion>
+		<EffectCity>EFFECTCITY_SPECIALIST_PRIEST_1</EffectCity>
+		<EffectCityExtra></EffectCityExtra>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+</Root>

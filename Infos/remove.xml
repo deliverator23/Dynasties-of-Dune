@@ -369,6 +369,9 @@
 		<zType>CONCEPT_PAGAN_RELIGION</zType>
 	</Entry>
 	<Entry>
+		<zType>CONCEPT_SHRINE</zType>
+	</Entry>
+	<Entry>
 		<zType>COURTIER_SOLDIER</zType>
 	</Entry>
 	<Entry>
@@ -382,6 +385,9 @@
 	</Entry>	
 	<Entry>
 		<zType>BONUS_FAMILYCLASS_STATESMEN</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</zType>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RESOURCE_SALT_LUXURY</zType>
@@ -412,6 +418,84 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_RESOURCE_PEARL_LUXURY</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_AMPHIBIOUS</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_MARINES</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COLD</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HORSEBANE</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_COCKSWAIN</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_GRAPPLER</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_SEABORN</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_FIRESHIP</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_LADING</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_MANEUVERS</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_SADDLEBORN</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_RANGER_ALL</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HORSEBANE_ALL</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_STEALTH</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ASSYRIA</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ROME</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ANTIPOLEARM</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ANTIMOUNTED1</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ANTIMOUNTED2</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ANTIMOUNTED3</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_MOUNTED</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HORSE</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_CAMEL</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ELEPHANT</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_SHIP</zType>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HITTITE</zType>
 	</Entry>
 	<Entry>
 		<zType>EVENTCITY_CIVICS_BOOM</zType>
@@ -967,6 +1051,36 @@
 	</Entry>
 	<Entry>
 		<zType>PROJECT_UNTAXED_TEMPLES</zType>
+	</Entry>	
+	<Entry>
+		<zType>PROMOTION_AMPHIBIOUS</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_MARINES</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_HORSEBANE</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_COCKSWAIN</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_GRAPPLER</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_SEABORN</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_FIRESHIP</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_LADING</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_MANEUVERS</zType>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_SADDLEBORN</zType>
 	</Entry>
 	<Entry>
 		<zType>RELIGION_ZOROASTRIANISM</zType>
@@ -1047,9 +1161,6 @@
 		<zType>SPECIALIST_MONK_3</zType>
 	</Entry>
 	<Entry>
-		<zType>SPECIALIST_PRIEST_1</zType>
-	</Entry>
-	<Entry>
 		<zType>SPECIALIST_PRIEST_2</zType>
 	</Entry>
 	<Entry>
@@ -1090,9 +1201,6 @@
 	</Entry>
 	<Entry>
 		<zType>SPECIALIST_SHOPKEEPER_3</zType>
-	</Entry>
-	<Entry>
-		<zType>SPECIALIST_PHILOSOPHER_1</zType>
 	</Entry>
 	<Entry>
 		<zType>SPECIALIST_PHILOSOPHER_2</zType>
@@ -1633,5 +1741,17 @@
 	</Entry>
 	<Entry>
 		<zType>UNIT_MANICHAEISM_DISCIPLE</zType>
+	</Entry>
+	<Entry>
+		<zType>VEGETATION_TREES</zType>
+	</Entry>
+	<Entry>
+		<zType>VEGETATION_TREES_CUT</zType>
+	</Entry>
+	<Entry>
+		<zType>VEGETATION_SCRUB</zType>
+	</Entry>
+	<Entry>
+		<zType>VEGETATION_SCRUB_CUT</zType>
 	</Entry>
 </Root> 

@@ -1014,4 +1014,53 @@
 			</Pair>
 		</aiYieldModifier>
 	</Entry>
+	<!-- Improvements --> 
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_LIBRARY_1</zType>
+		<Name>TEXT_IMPROVEMENT_LIBRARY_1</Name>
+		<SourceImprovement>IMPROVEMENT_LIBRARY_1</SourceImprovement>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<!-- Specialists --> 
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zType>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_1</Name>
+		<SourceSpecialist>SPECIALIST_PHILOSOPHER_1</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_PRIEST_1</zType>
+		<Name>TEXT_SPECIALIST_PRIEST_1</Name>
+		<SourceSpecialist>SPECIALIST_PRIEST_1</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 </Root>

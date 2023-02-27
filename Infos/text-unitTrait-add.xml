@@ -7,4 +7,16 @@
 		<zType>TEXT_UNITTRAIT_HARVESTER</zType>
 		<en-US>Harvester</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_DEVOTED</zType>
+		<en-US>Devoted</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_IRREGULAR</zType>
+		<en-US>Irregular</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MERCENARY</zType>
+		<en-US>Mercenary</en-US>
+	</Entry>
 </Root>

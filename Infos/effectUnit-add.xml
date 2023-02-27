@@ -31,18 +31,6 @@
 		<iMovementExtra>1</iMovementExtra>
 	</Entry>
 	<Entry>
-		<zType>EFFECTUNIT_EXPLORATION</zType>
-		<Name>TEXT_UNITTRAIT_EXPLORATION</Name>
-		<zIconName>UNITTRAIT_EXPLORATION</zIconName>
-		<SourceUnitTrait>UNITTRAIT_EXPLORATION</SourceUnitTrait>
-	</Entry>
-	<Entry>
-		<zType>EFFECTUNIT_HARVESTER</zType>
-		<Name>TEXT_UNITTRAIT_HARVESTER</Name>
-		<zIconName>UNITTRAIT_HARVESTER</zIconName>
-		<SourceUnitTrait>UNITTRAIT_HARVESTER</SourceUnitTrait>
-	</Entry>
-	<Entry>
 		<zType>EFFECTUNIT_RITUAL_SACRIFICE</zType>
 		<Name>TEXT_EFFECTUNIT_RITUAL_SACRIFICE</Name>
 		<zIconName>EFFECTUNIT_RITUAL_SACRIFICE</zIconName>
@@ -90,5 +78,55 @@
 		<zIconName>EFFECTUNIT_OUTLAW_LEADER</zIconName>
 		<iHealAlways>5</iHealAlways>
 		<bSkipIcon>1</bSkipIcon>
+	</Entry>
+	<!-- Unit Traits --> 
+	<Entry>
+		<zType>EFFECTUNIT_DEVOTED</zType>
+		<Name>TEXT_UNITTRAIT_DEVOTED</Name>
+		<zIconName>EFFECTUNIT_DEVOTED</zIconName>
+		<SourceUnitTrait>UNITTRAIT_DEVOTED</SourceUnitTrait>
+		<iAttackModifier>25</iAttackModifier>
+		<aiMilitaryKillYield>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>15</iValue>
+			</Pair>
+		</aiMilitaryKillYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_EXPLORATION</zType>
+		<Name>TEXT_UNITTRAIT_EXPLORATION</Name>
+		<zIconName>UNITTRAIT_EXPLORATION</zIconName>
+		<SourceUnitTrait>UNITTRAIT_EXPLORATION</SourceUnitTrait>
+		<iVisionExtra>2</iVisionExtra>
+		<iRevealExtra>1</iRevealExtra>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HARVESTER</zType>
+		<Name>TEXT_UNITTRAIT_HARVESTER</Name>
+		<zIconName>UNITTRAIT_HARVESTER</zIconName>
+		<SourceUnitTrait>UNITTRAIT_HARVESTER</SourceUnitTrait>
+		<iHealAlways>-1</iHealAlways>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_IRREGULAR</zType>
+		<Name>TEXT_UNITTRAIT_IRREGULAR</Name>
+		<zIconName>UNITTRAIT_IRREGULAR</zIconName>
+		<SourceUnitTrait>UNITTRAIT_IRREGULAR</SourceUnitTrait>
+		<iStrengthModifier>-10</iStrengthModifier>
+		<iHomeModifier>25</iHomeModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_MERCENARY</zType>
+		<Name>TEXT_UNITTRAIT_MERCENARY</Name>
+		<zIconName>EFFECTUNIT_MERCENARY</zIconName>
+		<SourceUnitTrait>UNITTRAIT_MERCENARY</SourceUnitTrait>
+		<iStrengthModifier>20</iStrengthModifier>
+		<aiMilitaryKillYield>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiMilitaryKillYield>
 	</Entry>
 </Root>

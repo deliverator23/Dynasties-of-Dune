@@ -12,7 +12,23 @@
 		<en-US>Basic Trooper~a Basic Trooper~Basic Troopers</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_UNIT_DEVOTED_WARRIOR</zType>
+		<en-US>Devoted Warrior~a Devoted Warrior~Devoted Warriors</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_UNIT_SPICE_HARVESTER</zType>
 		<en-US>Spice Harvester~a Spice Harvester~Spice Harvesters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_M_RANGER</zType>
+		<en-US>Mercenary Ranger~a Mercenary Ranger~Mercenary Rangers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_M_TROOPER</zType>
+		<en-US>Mercenary Trooper~a Mercenary Trooper~Mercenary Troopers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NEW_FANATIC</zType>
+		<en-US>New Fanatic~a New Fanatic~New Fanatics</en-US>
 	</Entry>
 </Root>

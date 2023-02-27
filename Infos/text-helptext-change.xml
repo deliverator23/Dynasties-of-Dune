@@ -55,4 +55,53 @@ Mercenaries have consumption costs of link(YIELD_MONEY,1).</en-US>
 		<zType>TEXT_HELPTEXT_LINK_HELP_OPINION_FAMILY</zType>
 		<en-US>link(CONCEPT_FAMILY) Opinion modifies the icon(ATTACKDEFENSE)Strength of their Units and the link(YIELD_CIVICS,1), link(YIELD_MANPOWER,1), and link(YIELD_MAINTENANCE,1) of their Cities. Further, a negative Opinion can lead to link(TRIBE_REBELS) spawing near the link(CONCEPT_FAMILY) Cities.</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_POPULATION</zType>
+		<en-US>A City's Population is the sum of its link(CONCEPT_SPECIALIST,2) and link(CONCEPT_CITIZEN,2). Each point of a City's Population consumes link(YIELD_GROWTH,1) and increases City link(YIELD_MAINTENANCE,1). Cities cost additional link(YIELD_GROWTH,1) per population, while cities of link(CULTURE_WEAK), link(CULTURE_DEVELOPING), link(CULTURE_STRONG), and link(CULTURE_LEGENDARY) link(YIELD_CULTURE,1) also cost link(YIELD_LOCAL_MATERIAL,1) cumulatively.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_PROMOTION</zType>
+		<en-US>Promotions provide various combat bonuses to Units. They are earned when leveling up from either acquiring link(CONCEPT_XP) or spending some {YIELD_MANPOWER}link(YIELD_MANPOWER). Each time a Unit chooses a Promotion, three new ones are randomly chosen from the eligible pool for the Unit's next Level. (Units have a maximum of int(MAX_LEVELS) Levels.)
+
+Units also can temporarily inherit Promotions from the Traits of their link(CONCEPT_GENERAL,2).
+		</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_RELIGION</zType>
+		<en-US>There is World Religion. link(CONCEPT_WORLD_RELIGION,2), such as link(RELIGION_MAOMETH_SAARI), are founded by the first link(CONCEPT_NATION) to build the respective Holy Site.
+		
+All Religions give {YIELD_CULTURE}link(YIELD_CULTURE) to their Cities, and a link(OPINIONRELIGION_PLEASED) or link(OPINIONRELIGION_FRIENDLY) Religion will reduce {YIELD_DISCONTENT}link(YIELD_DISCONTENT) while an link(OPINIONRELIGION_UPSET), link(OPINIONRELIGION_ANGRY), or link(OPINIONRELIGION_FURIOUS) Religion will increase {YIELD_DISCONTENT}link(YIELD_DISCONTENT).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_SPREAD_RELIGION</zType>
+		<en-US>Each link(CONCEPT_WORLD_RELIGION) normally has no chance of spreading to one random City or Tribal Site each Turn unless specific link(CONCEPT_THEOLOGY,2) are picked. Cities and Tribal Sites are more likely to get the link(CONCEPT_RELIGION) if they are closer to the link(CONCEPT_HOLY_CITY) and less likely if they already have link(CONCEPT_RELIGION,2). link(CONCEPT_WORLD_RELIGION,2) are primarily spread with link(CONCEPT_DISCIPLE,2).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_SUCCESSION</zType>
+		<en-US>The Ratings of your first four Characters in your Succession affect your Global Yields (at half the rate of the Leader). For example, their link(RATING_COURAGE) will increase your {YIELD_MANPOWER}link(YIELD_TRAINING). Further, their link(CONCEPT_OPINION_CHARACTER,3) of you will increase or decrease these Yield rates.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_TERRITORY</zType>
+		<en-US>A link(CONCEPT_CITY)'s Territory is made up of its surrounding tiles within the City's border. Most link(CONCEPT_IMPROVEMENT,2) can only be built within a City's Territory. Territory can be expanded by building link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) or training link(CONCEPT_SPECIALIST,2) near City borders.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_THEOLOGY</zType>
+		<en-US>Establishing a Theology grants additional bonuses to a link(CONCEPT_WORLD_RELIGION). They are established using link(CONCEPT_DISCIPLE,2), and the link(CONCEPT_RELIGION) must be your Nation's link(CONCEPT_STATE_RELIGION). The effects of the Theology are Global and will be active for all link(CONCEPT_NATION,2) with the associated Religion.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_HELP_TRIBE</zType>
+		<en-US>Tribes occupy most of the link(CONCEPT_CITY_SITE,2) spread across the map, which can be used as locations to found new Cities. These Tribes (with the exception of link(TRIBE_BARBARIANS)) can intermarry with your Characters, can convert to a link(CONCEPT_RELIGION), and can conduct diplomacy with link(CONCEPT_NATION,2), potentially leading to link(CONCEPT_PEACE_TRIBE) or link(CONCEPT_ALLIANCE_TRIBE,1). Tribes also provide additional unique bonuses once you achieve link(CONCEPT_ALLIANCE_TRIBE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_UPGRADE</zType>
+		<en-US>Many Units can be Upgraded to a more advanced type, at the cost of some {YIELD_MANPOWER}link(YIELD_TRAINING) and other Yields.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_UPGRADE_IMPROVEMENTS</zType>
+		<en-US>link(TRAIT_JUDGE_ARCHETYPE) Leaders can Upgrade an Improvement to the next level (for example, link(IMPROVEMENT_LIBRARY_1,1) to link(IMPROVEMENT_LIBRARY_2,1)).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HELPTEXT_LINK_HELP_WORLD_RELIGION</zType>
+		<en-US>The four World Religions (link(RELIGION_MAOMETH_SAARI), link(RELIGION_ZENSUNNI_CATHOLICISM), link(RELIGION_BUDDISLAM), and link(RELIGION_NAVACHRISTIANITY)) are founded when a link(CONCEPT_NATION) build the religion's respective Holy Site. Cities with that Religion can then build link(CONCEPT_DISCIPLE,2) which are capable of spreading the Religion to other link(CONCEPT_SETTLEMENT,2). These link(CONCEPT_DISCIPLE,2) can also build link(IMPROVEMENTCLASS_TEMPLE,2) of their link(CONCEPT_RELIGION). Finally, link(CONCEPT_DISCIPLE,2) can establish a link(CONCEPT_THEOLOGY) for World Religions.</en-US>
+	</Entry>
 </Root>

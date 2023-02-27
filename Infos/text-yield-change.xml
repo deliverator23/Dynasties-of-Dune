@@ -5,10 +5,38 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_GROWTH_HELP</zType>
-		<en-US>When a City's {YIELD_GROWTH}Growth bar fills up, a new link(CONCEPT_CITIZEN) becomes available. {YIELD_GROWTH}Growth also determines how fast a City can produce Civilian Units, such as link(UNIT_SETTLER,2) and link(UNIT_WORKER,2). While a City produces a Civilian Unit, its {YIELD_GROWTH}Growth bar no longer fills. Ways to improve a City's {YIELD_GROWTH}Growth rate include building link(IMPROVEMENT_FARM,2) on crop resources, link(IMPROVEMENT_NETS,2) on link(RESOURCE_FISH,1) or link(RESOURCE_CRAB,1), and link(IMPROVEMENT_GRANARY,2), as well as training link(SPECIALIST_FARMER,2) and link(SPECIALIST_FISHER,2).</en-US>
+		<en-US>When a City's {YIELD_GROWTH}Growth bar fills up, a new link(CONCEPT_CITIZEN) becomes available. {YIELD_GROWTH}Growth also determines how fast a City can produce Civilian Units, such as link(UNIT_SETTLER,2) and link(UNIT_WORKER,2). While a City produces a Unit that requires {YIELD_GROWTH}Growth, its {YIELD_GROWTH}Growth bar no longer fills.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_YIELD_MONEY</zType>
 		<en-US>Solaris~icon(YIELD_MONEY)Solaris</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_MONEY_HELP</zType>
+		<en-US>{YIELD_MONEY}Money can be earned and spent by respectively selling and buying link(YIELD_LOCAL_MATERIAL,1), link(YIELD_SPICE,1), link(YIELD_FUEL,1) and link(YIELD_OFFWORLD_SUPPLIES,1). {YIELD_MONEY}Money yields can be increased by completing certain projects and adopting Laws. Members of your link(CONCEPT_COURT) with high link(RATING_DISCIPLINE) also contribute to {YIELD_MONEY}Money yields.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_CIVICS_HELP</zType>
+		<en-US>Cities produce link(CONCEPT_SPECIALIST,2) and link(CONCEPT_PROJECT,2) with their {YIELD_CIVICS}Civics. Unused {YIELD_CIVICS}Civics go into the Global stockpile, which can be used to enact Laws, establish link(CONCEPT_THEOLOGY,2), link(CONCEPT_HURRY), perform Missions like link(MISSION_PACIFY_CITY), and other uses. You can stockpile a maximum of int(MAX_CIVICS) {YIELD_CIVICS}Civics, with excess converted into {YIELD_SCIENCE}link(YIELD_SCIENCE). Increase {YIELD_CIVICS}Civics by building certain projects and enact certain Laws. Members of your link(CONCEPT_COURT) with high link(RATING_CHARISMA) also contribute to the global {YIELD_CIVICS}Civics stockpile.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_CIVICS_ENCYCLOPEDIA</zType>
+		<en-US>To be updated!!!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_CULTURE_HELP</zType>
+		<en-US>When a City's {YIELD_CULTURE}Culture bar fills up, a positive Event occurs, and the City's overall {YIELD_CULTURE}Culture Level increases. The four {YIELD_CULTURE}Culture Levels are link(CULTURE_WEAK), link(CULTURE_DEVELOPING), link(CULTURE_STRONG), and link(CULTURE_LEGENDARY). {YIELD_CULTURE}Culture Level affects which link(CONCEPT_IMPROVEMENT,2) can be built in a City's territory and whether the City can link(CONCEPT_HURRY), which requires at least link(CULTURE_DEVELOPING) {YIELD_CULTURE}Culture. Cities with higher {YIELD_CULTURE}Culture levels also cost additional link(YIELD_LOCAL_MATERIAL,1) per link(CONCEPT_POPULATION). Ways to increase a City's {YIELD_CULTURE}Culture yield include building certain projects, training certain link(CONCEPT_SPECIALIST,2), spreading a link(CONCEPT_RELIGION) to a City, and adopting certain Laws.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_DISCONTENT_HELP</zType>
+		<en-US>Cities slowly gain {YIELD_DISCONTENT}Discontent over time. When a City's {YIELD_DISCONTENT}Discontent bar fills up, its overall {YIELD_DISCONTENT}Discontent Level goes up by one, which reduces link(YIELD_GROWTH,1), link(YIELD_LOCAL_MATERIAL,1), link(YIELD_MANPOWER,1), link(YIELD_SPICE,1), link(YIELD_FUEL,1), link(YIELD_SCIENCE,1) and link(YIELD_OFFWORLD_SUPPLIES,1) and also increases link(YIELD_MAINTENANCE,1). Higher {YIELD_DISCONTENT}Discontent Levels also reduce the link(CONCEPT_OPINION_FAMILY,3) of the City's ruling link(CONCEPT_FAMILY). Some ways to slow {YIELD_DISCONTENT}Discontent include connecting your City with the link(CONCEPT_TRADE_NETWORK), holding a link(PROJECT_FESTIVAL), adopting Laws such as link(LAW_TOLERANCE) and keeping a City's link(CONCEPT_RELIGION,2) happy.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_ORDERS_HELP</zType>
+		<en-US>{YIELD_ORDERS}Orders are needed for various Unit actions such as moving, attacking, and building link(CONCEPT_IMPROVEMENT,2). They are also needed for such actions as assigning link(CONCEPT_GOVERNOR,2) and sending link(CONCEPT_COUNCILOR,2) on Missions. Unused {YIELD_ORDERS}Orders are sold for link(YIELD_MONEY,1) at the end of the Turn. Your {YIELD_ORDERS}Orders rate can be increased by improving your link(CONCEPT_LEGITIMACY).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_YIELD_HAPPINESS_HELP</zType>
+		<en-US>When a City's {YIELD_HAPPINESS}Happiness bar fills up, its overall {YIELD_HAPPINESS}Happiness Level goes up by one, which increase link(YIELD_GROWTH,1) and reduces link(YIELD_MAINTENANCE,1). Some ways to increase {YIELD_HAPPINESS}Happiness include connecting your City with the link(CONCEPT_TRADE_NETWORK), holding a link(PROJECT_FESTIVAL), adopting Laws and keeping a City's link(CONCEPT_RELIGION,2) happy.</en-US>
 	</Entry>
 </Root>

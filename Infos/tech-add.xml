@@ -528,6 +528,66 @@
 			</Pair>
 		</abTechPrereq>
 	</Entry>
+	<Entry>
+		<zType>TECH_COMPOSITE_MATERIALS</zType>
+		<Name>TEXT_TECH_COMPOSITE_MATERIALS</Name>
+		<Advice>TEXT_GUIDE_TECH_COMPOSITE_MATERIALS</Advice>
+		<zIconName>TECH_COMPOSITE_MATERIALS</zIconName>
+		<iCost>140</iCost>
+		<iColumn>5</iColumn>
+		<iRow>5</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_DESERT_ENGINEERING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_DESERT_TRADE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_IMPROVED_MANUFACTURING</zType>
+		<Name>TEXT_TECH_IMPROVED_MANUFACTURING</Name>
+		<Advice>TEXT_GUIDE_TECH_IMPROVED_MANUFACTURING</Advice>
+		<zIconName>TECH_IMPROVED_MANUFACTURING</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>4</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_ENERGY_SOURCES</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_COMPOSITE_MATERIALS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_MODULAR_PARTS</zType>
+		<Name>TEXT_TECH_MODULAR_PARTS</Name>
+		<Advice>TEXT_GUIDE_TECH_MODULAR_PARTS</Advice>
+		<zIconName>TECH_MODULAR_PARTS</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>5</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_ENERGY_SOURCES</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_COMPOSITE_MATERIALS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
 	<!-- Religion Techs --> 
 	<Entry>
 		<zType>TECH_MYSTICISM</zType>
@@ -651,6 +711,66 @@
 			</Pair>
 			<Pair>
 				<zIndex>TECH_FANATICISM</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_ORGANIZED_RELIGION</zType>
+		<Name>TEXT_TECH_ORGANIZED_RELIGION</Name>
+		<Advice>TEXT_GUIDE_TECH_ORGANIZED_RELIGION</Advice>
+		<zIconName>TECH_ORGANIZED_RELIGION</zIconName>
+		<iCost>100</iCost>
+		<iColumn>5</iColumn>
+		<iRow>7</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_CULT</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_FANATICISM</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_RELIGIOUS_ORDER</zType>
+		<Name>TEXT_TECH_RELIGIOUS_ORDER</Name>
+		<Advice>TEXT_GUIDE_TECH_RELIGIOUS_ORDER</Advice>
+		<zIconName>TECH_RELIGIOUS_ORDER</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>6</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_TEMPLE_BUILDING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_ORGANIZED_RELIGION</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
+	</Entry>
+	<Entry>
+		<zType>TECH_PIOUS_SOLDIERS</zType>
+		<Name>TEXT_TECH_PIOUS_SOLDIERS</Name>
+		<Advice>TEXT_GUIDE_TECH_PIOUS_SOLDIERS</Advice>
+		<zIconName>TECH_PIOUS_SOLDIERS</zIconName>
+		<iCost>140</iCost>
+		<iColumn>6</iColumn>
+		<iRow>7</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_TEMPLE_BUILDING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_ORGANIZED_RELIGION</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abTechPrereq>

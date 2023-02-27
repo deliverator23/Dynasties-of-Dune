@@ -11,4 +11,22 @@
 		<zIconName>UNITTRAIT_HARVESTER</zIconName>
 		<EffectUnit>EFFECTUNIT_HARVESTER</EffectUnit>
 	</Entry>
+	<Entry>
+		<zType>UNITTRAIT_DEVOTED</zType>
+		<Name>TEXT_UNITTRAIT_DEVOTED</Name>
+		<zIconName>UNITTRAIT_DEVOTED</zIconName>
+		<EffectUnit>EFFECTUNIT_DEVOTED</EffectUnit>
+	</Entry>
+	<Entry>
+		<zType>UNITTRAIT_IRREGULAR</zType>
+		<Name>TEXT_UNITTRAIT_IRREGULAR</Name>
+		<zIconName>UNITTRAIT_IRREGULAR</zIconName>
+		<EffectUnit>EFFECTUNIT_IRREGULAR</EffectUnit>
+	</Entry>
+	<Entry>
+		<zType>UNITTRAIT_MERCENARY</zType>
+		<Name>TEXT_UNITTRAIT_MERCENARY</Name>
+		<zIconName>UNITTRAIT_MERCENARY</zIconName>
+		<EffectUnit>EFFECTUNIT_MERCENARY</EffectUnit>
+	</Entry>
 </Root>

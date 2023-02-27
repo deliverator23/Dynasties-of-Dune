@@ -65,7 +65,6 @@
 		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_ZOROASTRIANISM_DISCIPLE</zValue>
-			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_NAVACHRISTIANITY</RequiresReligion>
@@ -95,7 +94,6 @@
 		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_JUDAISM_DISCIPLE</zValue>
-			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_BUDDISLAM</RequiresReligion>
@@ -125,7 +123,6 @@
 		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_CHRISTIANITY_DISCIPLE</zValue>
-			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_MAOMETH_SAARI</RequiresReligion>
@@ -155,7 +152,6 @@
 		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_MANICHAEISM_DISCIPLE</zValue>
-			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_DISCIPLE</UnitCycle>
 		<RequiresReligion>RELIGION_ZENSUNNI_CATHOLICISM</RequiresReligion>
@@ -185,7 +181,6 @@
 		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_SLINGER</zValue>
-			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_MILITARY_RANGED</UnitCycle>
 		<TechPrereq>TECH_BASIC_DEFENSE</TechPrereq>
@@ -236,7 +231,6 @@
 		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_WARRIOR</zValue>
-			<zValue>FORMATION_DEFAULT_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_MILITARY_INFANTRY</UnitCycle>
 		<TechPrereq>TECH_BLADE_MAKING</TechPrereq>
@@ -277,6 +271,57 @@
 		</aeUnitTrait>
 	</Entry>
 	<Entry>
+		<zType>UNIT_DEVOTED_WARRIOR</zType>
+		<Name>TEXT_UNIT_DEVOTED_WARRIOR</Name>
+		<zIconName>UNIT_AXEMAN</zIconName>
+		<zPortraitName>UNIT_AXEMAN</zPortraitName>
+		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
+		<zAudioSelectionType>MACE</zAudioSelectionType>
+		<zAudioMovementType>ANIMATED</zAudioMovementType>
+		<zAudioAttackType>ANIMATED</zAudioAttackType>
+		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
+		<aeFormations>
+			<zValue>FORMATION_AXEMAN</zValue>
+		</aeFormations>
+		<UnitCycle>UNITCYCLE_MILITARY_INFANTRY</UnitCycle>
+		<TechPrereq>TECH_DIVINATION</TechPrereq>
+		<ProductionType>YIELD_DEVOTION</ProductionType>
+		<iMovement>2</iMovement>
+		<iVision>4</iVision>
+		<iFatigue>3</iFatigue>
+		<iStrength>50</iStrength>
+		<iHPMax>35</iHPMax>
+		<iProduction>25</iProduction>
+		<fAttackDuration>2</fAttackDuration>
+		<bMelee>1</bMelee>
+		<bOutsideOpinion>1</bOutsideOpinion>
+		<bZOC>1</bZOC>
+		<bBlocks>1</bBlocks>
+		<bFortify>1</bFortify>
+		<bPillage>1</bPillage>
+		<bPromote>1</bPromote>
+		<bGeneral>1</bGeneral>
+		<bBarbCity>1</bBarbCity>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldConsumption>
+		<aeObsoleteTech></aeObsoleteTech>
+		<aeUpgradeUnit></aeUpgradeUnit>
+		<aeUnitTrait>
+			<zValue>UNITTRAIT_MELEE</zValue>
+			<zValue>UNITTRAIT_DEVOTED</zValue>
+		</aeUnitTrait>
+	</Entry>
+	<Entry>
 		<zType>UNIT_SPICE_HARVESTER</zType>
 		<Name>TEXT_UNIT_SPICE_HARVESTER</Name>
 		<zIconName>UNIT_BIREME</zIconName>
@@ -288,7 +333,6 @@
 		<zAudioDamagedByProjectileType>combo_metal_wood</zAudioDamagedByProjectileType>
 		<aeFormations>
 			<zValue>FORMATION_BIREME</zValue>
-			<zValue>FORMATION_BIREME_WATER</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_MILITARY_WATER</UnitCycle>
 		<TechPrereq>TECH_SPICE_EXTRACTION</TechPrereq>
@@ -323,6 +367,158 @@
 		</aiYieldConsumption>
 		<aeUnitTrait>
 			<zValue>UNITTRAIT_HARVESTER</zValue>
+		</aeUnitTrait>
+	</Entry>
+	<Entry>
+		<zType>UNIT_M_RANGER</zType>
+		<Name>TEXT_UNIT_M_RANGER</Name>
+		<zIconName>UNIT_ARCHER</zIconName>
+		<zPortraitName>UNIT_ARCHER</zPortraitName>
+		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
+		<zAudioSelectionType>BOW</zAudioSelectionType>
+		<zAudioMovementType>ANIMATED</zAudioMovementType>
+		<zAudioAttackType>ANIMATED</zAudioAttackType>
+		<zAudioDamagedByProjectileType>combo_flesh_chain_mail</zAudioDamagedByProjectileType>
+		<aeFormations>
+			<zValue>FORMATION_ARCHER</zValue>
+		</aeFormations>
+		<UnitCycle>UNITCYCLE_MILITARY_RANGED</UnitCycle>
+		<TechPrereq>TECH_MERCENARY</TechPrereq>
+		<ProductionType>YIELD_GROWTH</ProductionType>
+		<iMovement>2</iMovement>
+		<iVision>4</iVision>
+		<iFatigue>3</iFatigue>
+		<iStrength>40</iStrength>
+		<iRangeMax>2</iRangeMax>
+		<iHPMax>35</iHPMax>
+		<iProduction>1</iProduction>
+		<fAttackDuration>2</fAttackDuration>
+		<bOutsideOpinion>1</bOutsideOpinion>
+		<bZOC>1</bZOC>
+		<bBlocks>1</bBlocks>
+		<bPillage>1</bPillage>
+		<bPromote>1</bPromote>
+		<bGeneral>1</bGeneral>
+		<bBarbCity>1</bBarbCity>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiYieldConsumption>
+		<aeObsoleteTech></aeObsoleteTech>
+		<aeUpgradeUnit></aeUpgradeUnit>
+		<aeUnitTrait>
+			<zValue>UNITTRAIT_RANGED</zValue>
+			<zValue>UNITTRAIT_MERCENARY</zValue>
+		</aeUnitTrait>
+	</Entry>
+	<Entry>
+		<zType>UNIT_M_TROOPER</zType>
+		<Name>TEXT_UNIT_M_TROOPER</Name>
+		<zIconName>UNIT_SPEARMAN</zIconName>
+		<zPortraitName>UNIT_SPEARMAN</zPortraitName>
+		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
+		<zAudioSelectionType>SPEAR</zAudioSelectionType>
+		<zAudioMovementType>ANIMATED</zAudioMovementType>
+		<zAudioAttackType>ANIMATED</zAudioAttackType>
+		<zAudioDamagedByProjectileType>combo_flesh_metal</zAudioDamagedByProjectileType>
+		<aeFormations>
+			<zValue>FORMATION_SPEARMAN</zValue>
+		</aeFormations>
+		<UnitCycle>UNITCYCLE_MILITARY_INFANTRY</UnitCycle>
+		<TechPrereq>TECH_MERCENARY</TechPrereq>
+		<ProductionType>YIELD_GROWTH</ProductionType>
+		<iMovement>2</iMovement>
+		<iVision>4</iVision>
+		<iFatigue>3</iFatigue>
+		<iStrength>50</iStrength>
+		<iHPMax>40</iHPMax>
+		<iProduction>1</iProduction>
+		<fAttackDuration>2</fAttackDuration>
+		<bMelee>1</bMelee>
+		<bOutsideOpinion>1</bOutsideOpinion>
+		<bZOC>1</bZOC>
+		<bBlocks>1</bBlocks>
+		<bFortify>1</bFortify>
+		<bPillage>1</bPillage>
+		<bPromote>1</bPromote>
+		<bGeneral>1</bGeneral>
+		<bBarbCity>1</bBarbCity>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiYieldConsumption>
+		<aeObsoleteTech></aeObsoleteTech>
+		<aeUpgradeUnit></aeUpgradeUnit>
+		<aeUnitTrait>
+			<zValue>UNITTRAIT_MELEE</zValue>
+			<zValue>UNITTRAIT_MERCENARY</zValue>
+		</aeUnitTrait>
+	</Entry>
+	<Entry>
+		<zType>UNIT_NEW_FANATIC</zType>
+		<Name>TEXT_UNIT_NEW_FANATIC</Name>
+		<zIconName>UNIT_MACEMAN</zIconName>
+		<zPortraitName>UNIT_MACEMAN</zPortraitName>
+		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
+		<zAudioSelectionType>AXE</zAudioSelectionType>
+		<zAudioMovementType>ANIMATED</zAudioMovementType>
+		<zAudioAttackType>ANIMATED</zAudioAttackType>
+		<zAudioDamagedByProjectileType>combo_flesh_wood</zAudioDamagedByProjectileType>
+		<aeFormations>
+			<zValue>FORMATION_MACEMAN</zValue>
+		</aeFormations>
+		<UnitCycle>UNITCYCLE_MILITARY_INFANTRY</UnitCycle>
+		<TechPrereq>TECH_FANATICISM</TechPrereq>
+		<ProductionType>YIELD_DEVOTION</ProductionType>
+		<iMovement>3</iMovement>
+		<iVision>4</iVision>
+		<iFatigue>3</iFatigue>
+		<iStrength>60</iStrength>
+		<iHPMax>40</iHPMax>
+		<iProduction>35</iProduction>
+		<fAttackDuration>2</fAttackDuration>
+		<bMelee>1</bMelee>
+		<bOutsideOpinion>1</bOutsideOpinion>
+		<bZOC>1</bZOC>
+		<bBlocks>1</bBlocks>
+		<bFortify>1</bFortify>
+		<bPillage>1</bPillage>
+		<bPromote>1</bPromote>
+		<bGeneral>1</bGeneral>
+		<bBarbCity>1</bBarbCity>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>75</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldConsumption>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldConsumption>
+		<aeObsoleteTech></aeObsoleteTech>
+		<aeUpgradeUnit></aeUpgradeUnit>
+		<aeUnitTrait>
+			<zValue>UNITTRAIT_MELEE</zValue>
+			<zValue>UNITTRAIT_DEVOTED</zValue>
 		</aeUnitTrait>
 	</Entry>
 </Root>

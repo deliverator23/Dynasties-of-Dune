@@ -107,13 +107,17 @@
 	<Entry>
 		<zType>IMPROVEMENTCLASS_LIBRARY</zType>
 		<Name>TEXT_IMPROVEMENTCLASS_LIBRARY</Name>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_BASIC_SCHOOLS</TechPrereq>
 		<EffectCity>EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</EffectCity>
-		<aiAdjacentResourceYieldOutput>
-			<Pair>
-				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>10</iValue>
-			</Pair>
-		</aiAdjacentResourceYieldOutput>
+		<aiAdjacentResourceYieldOutput></aiAdjacentResourceYieldOutput>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_TEMPLE</zType>
+		<Name>TEXT_IMPROVEMENTCLASS_TEMPLE</Name>
+		<CustomName>TEXT_IMPROVEMENTCLASS_TEMPLE_CUSTOM</CustomName>
+		<TechPrereq>TECH_TEMPLE_BUILDING</TechPrereq>
+		<aiAdjacentImprovementClassModifier></aiAdjacentImprovementClassModifier>
+		<aeTheologyCityEffect></aeTheologyCityEffect>
+		<aaiTheologyYieldOutput></aaiTheologyYieldOutput>
 	</Entry>
 </Root>

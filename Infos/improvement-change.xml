@@ -529,16 +529,10 @@
 	<Entry>
 		<zType>IMPROVEMENT_LIBRARY_1</zType>
 		<Name>TEXT_IMPROVEMENT_LIBRARY_1</Name>
-		<GrammaticalGenders>
-			<Pair>
-				<First>LANGUAGE_SPANISH</First>
-				<Second>GRAMMATICAL_GENDER_FEMININE</Second>
-			</Pair>
-		</GrammaticalGenders>
 		<Class>IMPROVEMENTCLASS_LIBRARY</Class>
 		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_LIBRARY_1</AssetVariation>
 		<zIconName>IMPROVEMENT_LIBRARY</zIconName>
-		<iBuildTurns>4</iBuildTurns>
+		<iBuildTurns>3</iBuildTurns>
 		<iBuildCost>1</iBuildCost>
 		<iPillageTurns>10</iPillageTurns>
 		<iMaxCityCount>1</iMaxCityCount>
@@ -550,11 +544,15 @@
 		<CulturePrereq>CULTURE_DEVELOPING</CulturePrereq>
 		<UpgradeImprovement></UpgradeImprovement>
 		<EffectCity>EFFECTCITY_IMPROVEMENT_LIBRARY_1</EffectCity>
-		<Specialist></Specialist>
+		<Specialist>SPECIALIST_PHILOSOPHER_1</Specialist>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>80</iValue>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiYieldConsumption>

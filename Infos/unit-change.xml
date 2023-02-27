@@ -57,6 +57,12 @@
 				<iValue>1</iValue>
 			</Pair>
 		</aiYieldConsumption>
+		<aeObsoleteTech></aeObsoleteTech>
+		<aeUpgradeUnit></aeUpgradeUnit>
+		<aeUnitTrait>
+			<zValue>UNITTRAIT_MELEE</zValue>
+			<zValue>UNITTRAIT_IRREGULAR</zValue>
+		</aeUnitTrait>
 	</Entry>	
 	<Entry>
 		<zType>UNIT_SCOUT</zType>

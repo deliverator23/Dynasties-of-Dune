@@ -508,6 +508,54 @@
 		<zType>TEXT_GUIDE_TECH_BASIC_SCHOOLS</zType>
 		<en-US>This tech unlocks projects that provide small amounts of link(YIELD_SCIENCE).</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COMPOSITE_MATERIALS</zType>
+		<en-US>Composite Materials</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_COMPOSITE_MATERIALS</zType>
+		<en-US>This tech unlocks projects that provide small amounts of link(YIELD_OFFWORLD_SUPPLIES).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_IMPROVED_MANUFACTURING</zType>
+		<en-US>Improved Manufacturing</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_IMPROVED_MANUFACTURING</zType>
+		<en-US>This tech unlocks the improvement Factory.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MODULAR_PARTS</zType>
+		<en-US>Modular Parts</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_MODULAR_PARTS</zType>
+		<en-US>This tech unlocks projects that provide small amounts of link(YIELD_CIVICS).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ORGANIZED_RELIGION</zType>
+		<en-US>Organized Religion</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_ORGANIZED_RELIGION</zType>
+		<en-US>This tech unlocks tier 3 Theologies.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_RELIGIOUS_ORDER</zType>
+		<en-US>Religious Order</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_RELIGIOUS_ORDER</zType>
+		<en-US>This tech unlocks new religious units and the improvement Religious Order.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_PIOUS_SOLDIERS</zType>
+		<en-US>Pious Soldiers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_PIOUS_SOLDIERS</zType>
+		<en-US>This tech unlocks projects that provide promotions for devoted units.</en-US>
+	</Entry>
 	<!-- Theologies --> 
 	<Entry>
 		<zType>TEXT_THEOLOGY_BLESSING_ARTISTRY</zType>

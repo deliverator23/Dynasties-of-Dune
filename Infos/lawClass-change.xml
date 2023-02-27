@@ -17,7 +17,7 @@
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_DIVINE_RULE_LEGAL_CODE</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_ORGANIZED_RELIGION</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_TOLERANCE_ORTHODOXY</zType>
@@ -29,11 +29,11 @@
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_PHILOSOPHY_ENGINEERING</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_DESERT_ENGINEERING</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_ICONOGRAPHY_CALLIGRAPHY</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_BASIC_SCHOOLS</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_AUTARKY_TRADE_LEAGUE</zType>
