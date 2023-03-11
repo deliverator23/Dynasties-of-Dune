@@ -8,7 +8,7 @@ using TenCrowns.GameCore;
 
 
 public class MapScriptArrakipelago : DefaultMapScript
-{
+{ 
     readonly int HillsPercent = 16;
     readonly int MinIslandSizeForPlayerStart = 30;
 
@@ -20,15 +20,15 @@ public class MapScriptArrakipelago : DefaultMapScript
     readonly MapOptionType LANDMASS_LARGE = MapOptionType.NONE;
     readonly MapOptionType LANDMASS_MEDIUM = MapOptionType.NONE;
     readonly MapOptionType LANDMASS_SMALL = MapOptionType.NONE;
-
+   
     public static string GetName()
     {
-        return "Arrakipelago";
+        return "Arrakis Archipelago";
     }
 
     public static string GetHelp()
     {
-        return "TEXT_MAP_HELP_ARRAKIPELAGO";
+        return "Arrakis Archipelago";
     }
 
     public static bool IncludeInRandom()
@@ -119,7 +119,7 @@ public class MapScriptArrakipelago : DefaultMapScript
 
         ResetDistances();
     }
-
+     
 	protected override void GenerateDeserts()
 	{
 		// do nothing
@@ -222,8 +222,8 @@ public class MapScriptArrakipelago : DefaultMapScript
 	protected override void MakePlayerStart(PlayerType player, TileData tile, bool freshWaterCheck = true)
 	{
 		tile.meCitySite = CitySiteType.ACTIVE_START;
-		playerStarts.Add(player, tile.ID);
-		mValidCitySite.Clear();
+        playerStarts.Add(PairStruct.Create(player, (int)tile.ID));
+        mValidCitySite.Clear();
 	}
 	
  	protected override void BuildVegetation()
@@ -261,8 +261,8 @@ public class MapScriptArrakipelago : DefaultMapScript
             bool islandTaken = false;
             foreach (var kvp in playerStarts)
             {
-                PlayerType loopPlayer = kvp.Key;
-                int startTileID = kvp.Value;
+                PlayerType loopPlayer = kvp.First;
+                int startTileID = kvp.Second;
                 if (startTileID != -1)
                 {
                     if (tileIslands[startTileID] == tileIslands[tile.ID])
