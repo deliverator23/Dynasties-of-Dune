@@ -95,6 +95,10 @@
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
 				<iValue>-10</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>5</iValue>
+			</Pair>
 		</aiYieldRate>
 	</Entry>
 	<Entry>
@@ -413,7 +417,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-50</iValue>
+				<iValue>50</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -429,7 +433,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-60</iValue>
+				<iValue>60</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -445,7 +449,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-80</iValue>
+				<iValue>80</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -461,7 +465,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-90</iValue>
+				<iValue>90</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -477,7 +481,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-100</iValue>
+				<iValue>100</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -493,7 +497,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-110</iValue>
+				<iValue>110</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -509,7 +513,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-130</iValue>
+				<iValue>130</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -525,7 +529,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-150</iValue>
+				<iValue>150</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -669,7 +673,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateCulture>
@@ -730,7 +734,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 		<aiYieldRateMilitary>
@@ -752,7 +756,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -858,6 +862,14 @@
 				<zIndex>IMPROVEMENT_LIBRARY_1</zIndex>
 				<iValue>100</iValue>
 			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_LIBRARY_2</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>IMPROVEMENT_LIBRARY_3</zIndex>
+				<iValue>100</iValue>
+			</Pair>
 		</aiImprovementModifier>
 		<aaiImprovementClassYield>
 			<Pair>
@@ -955,20 +967,20 @@
 		<Name>TEXT_LAW_AUTARKY</Name>
 		<SourceLaw>LAW_AUTARKY</SourceLaw>
 		<bSingle>1</bSingle>
-		<aiImprovementModifier>
+		<aiImprovementClassModifier>
 			<Pair>
-				<zIndex>IMPROVEMENT_WINDTRAP</zIndex>
+				<zIndex>IMPROVEMENTCLASS_WINDTRAP</zIndex>
 				<iValue>50</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>IMPROVEMENT_DEW_COLLECTOR</zIndex>
+				<zIndex>IMPROVEMENTCLASS_DEW_COLLECTOR</zIndex>
 				<iValue>50</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>IMPROVEMENT_PROCESSING_PLANT</zIndex>
+				<zIndex>IMPROVEMENTCLASS_PROCESSING_PLANT</zIndex>
 				<iValue>50</iValue>
 			</Pair>
-		</aiImprovementModifier>
+		</aiImprovementClassModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_LAW_MONETARY_REFORM</zType>
@@ -1032,6 +1044,44 @@
 			</Pair>
 		</aiYieldModifier>
 	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_LIBRARY_2</zType>
+		<Name>TEXT_IMPROVEMENT_LIBRARY_2</Name>
+		<SourceImprovement>IMPROVEMENT_LIBRARY_2</SourceImprovement>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_LIBRARY_3</zType>
+		<Name>TEXT_IMPROVEMENT_LIBRARY_3</Name>
+		<SourceImprovement>IMPROVEMENT_LIBRARY_3</SourceImprovement>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldModifier>
+	</Entry>
 	<!-- Specialists --> 
 	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zType>
@@ -1049,6 +1099,36 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_PHILOSOPHER_2</zType>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_2</Name>
+		<SourceSpecialist>SPECIALIST_PHILOSOPHER_2</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_PHILOSOPHER_3</zType>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_3</Name>
+		<SourceSpecialist>SPECIALIST_PHILOSOPHER_3</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_SPECIALIST_PRIEST_1</zType>
 		<Name>TEXT_SPECIALIST_PRIEST_1</Name>
 		<SourceSpecialist>SPECIALIST_PRIEST_1</SourceSpecialist>
@@ -1062,5 +1142,71 @@
 				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_PRIEST_2</zType>
+		<Name>TEXT_SPECIALIST_PRIEST_2</Name>
+		<SourceSpecialist>SPECIALIST_PRIEST_2</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_PRIEST_3</zType>
+		<Name>TEXT_SPECIALIST_PRIEST_3</Name>
+		<SourceSpecialist>SPECIALIST_PRIEST_3</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_MASTER</zType>
+		<Name>TEXT_EFFECTCITY_SPECIALIST_MASTER</Name>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_ELDER</zType>
+		<Name>TEXT_EFFECTCITY_SPECIALIST_ELDER</Name>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<!-- Unused --> 
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</zType>
+		<Name>TEXT_IMPROVEMENT_NECROPOLIS</Name>
+		<SourceImprovement>IMPROVEMENT_NECROPOLIS</SourceImprovement>
+		<bSingle>1</bSingle>
+		<aaiImprovementClassYield></aaiImprovementClassYield>
 	</Entry>
 </Root>

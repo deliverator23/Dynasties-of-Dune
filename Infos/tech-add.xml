@@ -15,6 +15,7 @@
 		<Name>TEXT_TECH_EXPLORATION</Name>
 		<Advice>TEXT_GUIDE_TECH_EXPLORATION</Advice>
 		<zIconName>TECH_EXPLORATION</zIconName>
+		<EffectPlayer>EFFECTPLAYER_TECH_EXPLORATION</EffectPlayer>
 		<iCost>20</iCost>
 		<iColumn>0</iColumn>
 		<iRow>0</iRow>
@@ -25,7 +26,7 @@
 		<Name>TEXT_TECH_BASIC_MINING</Name>
 		<Advice>TEXT_GUIDE_TECH_BASIC_MINING</Advice>
 		<zIconName>TECH_BASIC_MINING</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>0</iRow>
 		<bValidAll>1</bValidAll>
@@ -41,7 +42,7 @@
 		<Name>TEXT_TECH_BASIC_DEFENSE</Name>
 		<Advice>TEXT_GUIDE_TECH_BASIC_DEFENSE</Advice>
 		<zIconName>TECH_BASIC_DEFENSE</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>0</iRow>
 		<bValidAll>1</bValidAll>
@@ -57,7 +58,7 @@
 		<Name>TEXT_TECH_COMBAT_ORNITHOPTER</Name>
 		<Advice>TEXT_GUIDE_TECH_COMBAT_ORNITHOPTER</Advice>
 		<zIconName>TECH_COMBAT_ORNITHOPTER</zIconName>
-		<iCost>60</iCost>
+		<iCost>52</iCost>
 		<iColumn>3</iColumn>
 		<iRow>0</iRow>
 		<bValidAll>1</bValidAll>
@@ -73,7 +74,7 @@
 		<Name>TEXT_TECH_BLADE_MAKING</Name>
 		<Advice>TEXT_GUIDE_TECH_BLADE_MAKING</Advice>
 		<zIconName>TECH_BLADE_MAKING</zIconName>
-		<iCost>60</iCost>
+		<iCost>52</iCost>
 		<iColumn>3</iColumn>
 		<iRow>1</iRow>
 		<bValidAll>1</bValidAll>
@@ -220,7 +221,7 @@
 		<Name>TEXT_TECH_WATER_TRANSPORT</Name>
 		<Advice>TEXT_GUIDE_TECH_WATER_TRANSPORT</Advice>
 		<zIconName>TECH_WATER_TRANSPORT</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>2</iRow>
 		<bValidAll>1</bValidAll>
@@ -240,7 +241,7 @@
 		<Name>TEXT_TECH_WATER_STORAGE</Name>
 		<Advice>TEXT_GUIDE_TECH_WATER_STORAGE</Advice>
 		<zIconName>TECH_WATER_STORAGE</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>3</iRow>
 		<bValidAll>1</bValidAll>
@@ -260,7 +261,7 @@
 		<Name>TEXT_TECH_SIETCH</Name>
 		<Advice>TEXT_GUIDE_TECH_SIETCH</Advice>
 		<zIconName>TECH_SIETCH</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>2</iRow>
 		<bValidAll>1</bValidAll>
@@ -280,7 +281,7 @@
 		<Name>TEXT_TECH_BASIC_EDUCATION</Name>
 		<Advice>TEXT_GUIDE_TECH_BASIC_EDUCATION</Advice>
 		<zIconName>TECH_BASIC_EDUCATION</zIconName>
-		<iCost>60</iCost>
+		<iCost>52</iCost>
 		<iColumn>3</iColumn>
 		<iRow>3</iRow>
 		<bValidAll>1</bValidAll>
@@ -397,7 +398,7 @@
 		<Name>TEXT_TECH_MINING</Name>
 		<Advice>TEXT_GUIDE_TECH_MINING</Advice>
 		<zIconName>TECH_MINING</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>4</iRow>
 		<bValidAll>1</bValidAll>
@@ -413,7 +414,7 @@
 		<Name>TEXT_TECH_WATER_CONSERVATION</Name>
 		<Advice>TEXT_GUIDE_TECH_WATER_CONSERVATION</Advice>
 		<zIconName>TECH_WATER_CONSERVATION</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>5</iRow>
 		<bValidAll>1</bValidAll>
@@ -433,7 +434,7 @@
 		<Name>TEXT_TECH_SPICE_EXTRACTION</Name>
 		<Advice>TEXT_GUIDE_TECH_SPICE_EXTRACTION</Advice>
 		<zIconName>TECH_SPICE_EXTRACTION</zIconName>
-		<iCost>60</iCost>
+		<iCost>52</iCost>
 		<iColumn>3</iColumn>
 		<iRow>4</iRow>
 		<bValidAll>1</bValidAll>
@@ -453,7 +454,7 @@
 		<Name>TEXT_TECH_LIGHT_MANUFACTURING</Name>
 		<Advice>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING</Advice>
 		<zIconName>TECH_LIGHT_MANUFACTURING</zIconName>
-		<iCost>60</iCost>
+		<iCost>52</iCost>
 		<iColumn>3</iColumn>
 		<iRow>5</iRow>
 		<bValidAll>1</bValidAll>
@@ -604,7 +605,7 @@
 		<Name>TEXT_TECH_RITUAL</Name>
 		<Advice>TEXT_GUIDE_TECH_RITUAL</Advice>
 		<zIconName>TECH_RITUAL</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>6</iRow>
 		<bValidAll>1</bValidAll>
@@ -620,7 +621,7 @@
 		<Name>TEXT_TECH_WORSHIP</Name>
 		<Advice>TEXT_GUIDE_TECH_WORSHIP</Advice>
 		<zIconName>TECH_WORSHIP</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>7</iRow>
 		<bValidAll>1</bValidAll>
@@ -636,7 +637,7 @@
 		<Name>TEXT_TECH_MEDITATION</Name>
 		<Advice>TEXT_GUIDE_TECH_MEDITATION</Advice>
 		<zIconName>TECH_MEDITATION</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>6</iRow>
 		<bValidAll>1</bValidAll>
@@ -652,7 +653,7 @@
 		<Name>TEXT_TECH_DEVOTION</Name>
 		<Advice>TEXT_GUIDE_TECH_DEVOTION</Advice>
 		<zIconName>TECH_DEVOTION</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>7</iRow>
 		<bValidAll>1</bValidAll>
@@ -797,7 +798,7 @@
 		<Name>TEXT_TECH_BASIC_MINING_II</Name>
 		<Advice>TEXT_GUIDE_TECH_BASIC_MINING_II</Advice>
 		<zIconName>TECH_BASIC_MINING_II</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>8</iRow>
 		<bValidAll>0</bValidAll>
@@ -819,7 +820,7 @@
 		<Name>TEXT_TECH_BRUTALITY_I</Name>
 		<Advice>TEXT_GUIDE_TECH_BRUTALITY_I</Advice>
 		<zIconName>TECH_BRUTALITY_I</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>9</iRow>
 		<bValidAll>0</bValidAll>
@@ -857,7 +858,7 @@
 		<Name>TEXT_TECH_WATER_STORAGE_II</Name>
 		<Advice>TEXT_GUIDE_TECH_WATER_STORAGE_II</Advice>
 		<zIconName>TECH_WATER_STORAGE_II</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>8</iRow>
 		<bValidAll>0</bValidAll>
@@ -879,7 +880,7 @@
 		<Name>TEXT_TECH_SUPERSTITIOUS_I</Name>
 		<Advice>TEXT_GUIDE_TECH_SUPERSTITIOUS_I</Advice>
 		<zIconName>TECH_SUPERSTITIOUS_I</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>8</iRow>
 		<bValidAll>0</bValidAll>
@@ -917,7 +918,7 @@
 		<Name>TEXT_TECH_BASIC_DEFENSE_II</Name>
 		<Advice>TEXT_GUIDE_TECH_BASIC_DEFENSE_II</Advice>
 		<zIconName>TECH_BASIC_DEFENSE_II</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>8</iRow>
 		<bValidAll>0</bValidAll>
@@ -939,7 +940,7 @@
 		<Name>TEXT_TECH_DEVELOPMENT_I</Name>
 		<Advice>TEXT_GUIDE_TECH_DEVELOPMENT_I</Advice>
 		<zIconName>TECH_DEVELOPMENT_I</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>8</iRow>
 		<bValidAll>0</bValidAll>
@@ -977,7 +978,7 @@
 		<Name>TEXT_TECH_MINING_II</Name>
 		<Advice>TEXT_GUIDE_TECH_MINING_II</Advice>
 		<zIconName>TECH_MINING_II</zIconName>
-		<iCost>30</iCost>
+		<iCost>27</iCost>
 		<iColumn>1</iColumn>
 		<iRow>8</iRow>
 		<bValidAll>0</bValidAll>
@@ -999,7 +1000,7 @@
 		<Name>TEXT_TECH_STRUGGLE</Name>
 		<Advice>TEXT_GUIDE_TECH_STRUGGLE</Advice>
 		<zIconName>TECH_STRUGGLE</zIconName>
-		<iCost>45</iCost>
+		<iCost>36</iCost>
 		<iColumn>2</iColumn>
 		<iRow>8</iRow>
 		<bValidAll>0</bValidAll>

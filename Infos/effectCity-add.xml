@@ -108,7 +108,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CULTURE</zIndex>
-				<iValue>30</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -306,7 +306,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-20</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -331,7 +331,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-20</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -356,7 +356,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-20</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -381,7 +381,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-20</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -1178,9 +1178,9 @@
 		<Name>TEXT_PROJECT_POWER_GENERATOR_1</Name>
 		<SourceProject>PROJECT_POWER_GENERATOR_1</SourceProject>
 		<bSingle>1</bSingle>
-		<aaiImprovementYield>
+		<aaiImprovementClassYield>
 			<Pair>
-				<zIndex>IMPROVEMENT_WINDTRAP</zIndex>
+				<zIndex>IMPROVEMENTCLASS_WINDTRAP</zIndex>
 				<SubPair>
 					<zSubIndex>YIELD_CIVICS</zSubIndex>
 					<iValue>10</iValue>
@@ -1190,7 +1190,26 @@
 					<iValue>-30</iValue>
 				</SubPair>
 			</Pair>
-		</aaiImprovementYield>
+		</aaiImprovementClassYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_POWER_GENERATOR_2</zType>
+		<Name>TEXT_PROJECT_POWER_GENERATOR_2</Name>
+		<SourceProject>PROJECT_POWER_GENERATOR_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiImprovementClassYield>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_WINDTRAP</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CIVICS</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_FUEL</zSubIndex>
+					<iValue>-50</iValue>
+				</SubPair>
+			</Pair>
+		</aaiImprovementClassYield>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_PROJECT_DECREE</zType>
@@ -1242,6 +1261,91 @@
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_STILLSUIT_2</zType>
+		<Name>TEXT_PROJECT_STILLSUIT_2</Name>
+		<SourceProject>PROJECT_STILLSUIT_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-30</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aeTraitPromotion>
+			<Pair>
+				<zIndex>UNITTRAIT_INFANTRY</zIndex>
+				<zValue>PROMOTION_GUARD1</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNITTRAIT_DEVOTED</zIndex>
+				<zValue>PROMOTION_GUARD1</zValue>
+			</Pair>
+		</aeTraitPromotion>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_CITIZEN</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_LOCAL_HUB</zType>
+		<Name>TEXT_PROJECT_LOCAL_HUB</Name>
+		<SourceProject>PROJECT_LOCAL_HUB</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_IMPROVEMENT_SIETCH</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_CIVICS</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MANPOWER</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_IMPROVED_CHROMOPLASTIC</zType>
+		<Name>TEXT_PROJECT_IMPROVED_CHROMOPLASTIC</Name>
+		<SourceProject>PROJECT_IMPROVED_CHROMOPLASTIC</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiImprovementClassYield>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_DEW_COLLECTOR</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_GROWTH</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+		</aaiImprovementClassYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_FUEL_CELL_1</zType>
+		<Name>TEXT_PROJECT_FUEL_CELL_1</Name>
+		<SourceProject>PROJECT_FUEL_CELL_1</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 	<!-- Theologies --> 
 	<Entry>
@@ -1407,7 +1511,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-40</iValue>
+				<iValue>40</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -1729,7 +1833,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>10</iValue>
+				<iValue>20</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_FUEL</zIndex>
@@ -1753,7 +1857,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-20</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -1814,20 +1918,20 @@
 		<Name>TEXT_LAW_ENGINEERING</Name>
 		<SourceLaw>LAW_ENGINEERING</SourceLaw>
 		<bSingle>1</bSingle>
-		<aiImprovementModifier>
+		<aiImprovementClassModifier>
 			<Pair>
-				<zIndex>IMPROVEMENT_WINDTRAP</zIndex>
+				<zIndex>IMPROVEMENTCLASS_WINDTRAP</zIndex>
 				<iValue>50</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>IMPROVEMENT_DEW_COLLECTOR</zIndex>
+				<zIndex>IMPROVEMENTCLASS_DEW_COLLECTOR</zIndex>
 				<iValue>50</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>IMPROVEMENT_PROCESSING_PLANT</zIndex>
+				<zIndex>IMPROVEMENTCLASS_PROCESSING_PLANT</zIndex>
 				<iValue>50</iValue>
 			</Pair>
-		</aiImprovementModifier>
+		</aiImprovementClassModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_LAW_DIVINE_RULE_CAPITAL</zType>
@@ -1867,5 +1971,26 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
+	</Entry>
+	<!-- Improvements --> 
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_SIETCH</zType>
+		<Name>TEXT_IMPROVEMENT_SIETCH</Name>
+		<SourceImprovement>IMPROVEMENT_SIETCH</SourceImprovement>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_DEW_COLLECTOR</zType>
+		<Name>TEXT_IMPROVEMENT_DEW_COLLECTOR</Name>
+		<SourceImprovement>IMPROVEMENT_DEW_COLLECTOR</SourceImprovement>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_DEW_COLLECTOR_MEDIUM</zType>
+		<Name>TEXT_IMPROVEMENT_DEW_COLLECTOR_MEDIUM</Name>
+		<SourceImprovement>IMPROVEMENT_DEW_COLLECTOR_MEDIUM</SourceImprovement>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_IMPROVEMENT_DEW_COLLECTOR_LARGE</zType>
+		<Name>TEXT_IMPROVEMENT_DEW_COLLECTOR_LARGE</Name>
+		<SourceImprovement>IMPROVEMENT_DEW_COLLECTOR_LARGE</SourceImprovement>
 	</Entry>
 </Root>

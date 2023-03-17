@@ -19,4 +19,8 @@
 		<zType>TEXT_UNITTRAIT_MERCENARY</zType>
 		<en-US>Mercenary</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_UNUSED</zType>
+		<en-US>Unused</en-US>
+	</Entry>
 </Root>

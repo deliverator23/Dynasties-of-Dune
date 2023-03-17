@@ -9,21 +9,109 @@
 		<zIconName>IMPROVEMENT_MINE</zIconName>
 		<iBuildTurns>5</iBuildTurns>
 		<iBuildCost>1</iBuildCost>
+		<iDevelopTurns>20</iDevelopTurns>
 		<iPillageTurns>10</iPillageTurns>
 		<bBuild>1</bBuild>
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
-		<bShowAlways>1</bShowAlways>
+		<DevelopImprovement>IMPROVEMENT_WINDTRAP_MEDIUM</DevelopImprovement>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>100</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiYieldOutput>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
 				<iValue>10</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
+			<Pair>
+				<zIndex>TERRAIN_ARID</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTerrainValid>
+		<abHeightValid>
+			<Pair>
+				<zIndex>HEIGHT_MOUNTAIN</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abHeightValid>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_WINDTRAP_MEDIUM</zType>
+		<Name>TEXT_IMPROVEMENT_WINDTRAP_MEDIUM</Name>
+		<Hint>TEXT_IMPROVEMENT_WINDTRAP_HINT</Hint>
+		<Class>IMPROVEMENTCLASS_WINDTRAP</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
+		<AssetConstruction>NONE</AssetConstruction>
+		<zIconName>IMPROVEMENT_MINE</zIconName>
+		<iDevelopTurns>20</iDevelopTurns>
+		<iPillageTurns>10</iPillageTurns>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bNoVegetation>1</bNoVegetation>
+		<DevelopImprovement>IMPROVEMENT_WINDTRAP_LARGE</DevelopImprovement>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
+			<Pair>
+				<zIndex>TERRAIN_ARID</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTerrainValid>
+		<abHeightValid>
+			<Pair>
+				<zIndex>HEIGHT_MOUNTAIN</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abHeightValid>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_WINDTRAP_LARGE</zType>
+		<Name>TEXT_IMPROVEMENT_WINDTRAP_LARGE</Name>
+		<Hint>TEXT_IMPROVEMENT_WINDTRAP_HINT</Hint>
+		<Class>IMPROVEMENTCLASS_WINDTRAP</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
+		<AssetConstruction>NONE</AssetConstruction>
+		<zIconName>IMPROVEMENT_MINE</zIconName>
+		<iPillageTurns>10</iPillageTurns>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bNoVegetation>1</bNoVegetation>
+		<DevelopImprovement>IMPROVEMENT_WINDTRAP_LARGE</DevelopImprovement>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiYieldOutput>
 		<aiYieldPillage>
@@ -96,11 +184,12 @@
 		<zIconName>IMPROVEMENT_GROVE</zIconName>
 		<iBuildTurns>3</iBuildTurns>
 		<iBuildCost>1</iBuildCost>
+		<iDevelopTurns>20</iDevelopTurns>
 		<iPillageTurns>10</iPillageTurns>
 		<bBuild>1</bBuild>
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
-		<bShowAlways>1</bShowAlways>
+		<DevelopImprovement>IMPROVEMENT_DEW_COLLECTOR_MEDIUM</DevelopImprovement>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -127,6 +216,76 @@
 		</abTerrainValid>
 	</Entry>
 	<Entry>
+		<zType>IMPROVEMENT_DEW_COLLECTOR_MEDIUM</zType>
+		<Name>TEXT_IMPROVEMENT_DEW_COLLECTOR_MEDIUM</Name>
+		<Hint>TEXT_IMPROVEMENT_DEW_COLLECTOR_HINT</Hint>
+		<Class>IMPROVEMENTCLASS_DEW_COLLECTOR</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
+		<AssetConstruction>NONE</AssetConstruction>
+		<zIconName>IMPROVEMENT_GROVE</zIconName>
+		<iDevelopTurns>20</iDevelopTurns>
+		<iPillageTurns>10</iPillageTurns>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bNoVegetation>1</bNoVegetation>
+		<DevelopImprovement>IMPROVEMENT_DEW_COLLECTOR_LARGE</DevelopImprovement>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
+			<Pair>
+				<zIndex>TERRAIN_TEMPERATE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTerrainValid>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_DEW_COLLECTOR_LARGE</zType>
+		<Name>TEXT_IMPROVEMENT_DEW_COLLECTOR_LARGE</Name>
+		<Hint>TEXT_IMPROVEMENT_DEW_COLLECTOR_HINT</Hint>
+		<Class>IMPROVEMENTCLASS_DEW_COLLECTOR</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
+		<AssetConstruction>NONE</AssetConstruction>
+		<zIconName>IMPROVEMENT_GROVE</zIconName>
+		<iPillageTurns>10</iPillageTurns>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bNoVegetation>1</bNoVegetation>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>60</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-30</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
+			<Pair>
+				<zIndex>TERRAIN_TEMPERATE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTerrainValid>
+	</Entry>
+	<Entry>
 		<zType>IMPROVEMENT_PROCESSING_PLANT</zType>
 		<Name>TEXT_IMPROVEMENT_PROCESSING_PLANT</Name>
 		<Hint>TEXT_IMPROVEMENT_PROCESSING_PLANT_HINT</Hint>
@@ -136,11 +295,12 @@
 		<zIconName>IMPROVEMENT_GROVE</zIconName>
 		<iBuildTurns>3</iBuildTurns>
 		<iBuildCost>1</iBuildCost>
+		<iDevelopTurns>20</iDevelopTurns>
 		<iPillageTurns>10</iPillageTurns>
 		<bBuild>1</bBuild>
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
-		<bShowAlways>1</bShowAlways>
+		<DevelopImprovement>IMPROVEMENT_PROCESSING_PLANT_MEDIUM</DevelopImprovement>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -151,6 +311,71 @@
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
 				<iValue>20</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
+			<Pair>
+				<zIndex>TERRAIN_TEMPERATE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTerrainValid>
+	</Entry>
+	<Entry>
+		<zType>IMPROVEMENT_PROCESSING_PLANT_MEDIUM</zType>
+		<Name>TEXT_IMPROVEMENT_PROCESSING_PLANT_MEDIUM</Name>
+		<Hint>TEXT_IMPROVEMENT_PROCESSING_PLANT_HINT</Hint>
+		<Class>IMPROVEMENTCLASS_PROCESSING_PLANT</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
+		<AssetConstruction>NONE</AssetConstruction>
+		<zIconName>IMPROVEMENT_GROVE</zIconName>
+		<iDevelopTurns>20</iDevelopTurns>
+		<iPillageTurns>10</iPillageTurns>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bNoVegetation>1</bNoVegetation>
+		<DevelopImprovement>IMPROVEMENT_PROCESSING_PLANT_LARGE</DevelopImprovement>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldOutput>
+		<aiYieldPillage>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldPillage>
+		<abTerrainValid>
+			<Pair>
+				<zIndex>TERRAIN_TEMPERATE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTerrainValid>
+	</Entry><Entry>
+		<zType>IMPROVEMENT_PROCESSING_PLANT_LARGE</zType>
+		<Name>TEXT_IMPROVEMENT_PROCESSING_PLANT_LARGE</Name>
+		<Hint>TEXT_IMPROVEMENT_PROCESSING_PLANT_HINT</Hint>
+		<Class>IMPROVEMENTCLASS_PROCESSING_PLANT</Class>
+		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_WINDTRAP</AssetVariation>
+		<AssetConstruction>NONE</AssetConstruction>
+		<zIconName>IMPROVEMENT_GROVE</zIconName>
+		<iPillageTurns>10</iPillageTurns>
+		<bTerritoryOnly>1</bTerritoryOnly>
+		<bNoVegetation>1</bNoVegetation>
+		<aiYieldOutput>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldOutput>
 		<aiYieldPillage>
@@ -180,6 +405,7 @@
 		<bBuild>1</bBuild>
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bPermanent>1</bPermanent>
+		<EffectCity>EFFECTCITY_IMPROVEMENT_SIETCH</EffectCity>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -197,7 +423,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-10</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldOutput>
 		<aiYieldConsumption>

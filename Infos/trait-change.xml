@@ -166,4 +166,12 @@
 		</aiTraitOpinion>
 		<aiLawOpinion></aiLawOpinion>
 	</Entry>
+	<Entry>
+		<zType>TRAIT_EQUESTRIAN</zType>
+		<bDisplay>0</bDisplay>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_HORSEBANE</zType>
+		<bDisplay>0</bDisplay>
+	</Entry>
 </Root>

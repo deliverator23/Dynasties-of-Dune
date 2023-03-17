@@ -20,6 +20,39 @@
         <zType>TEXT_TERRAIN_TUNDRA</zType>
         <en-US>Polar</en-US>
     </Entry>
+	<!-- InfoVegetation -->
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES</zType>
+		<en-US>(Unused) Trees</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_REMOVE</zType>
+		<en-US>(Unused) Cut Trees</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT</zType>
+		<en-US>(Unused) Trees (Cut)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
+		<en-US>(Unused) link(CONCEPT_CLEAR) Land</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB</zType>
+		<en-US>(Unused) Scrub~a Scrub~Scrubs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_REMOVE</zType>
+		<en-US>(Unused) Cut Scrub</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT</zType>
+		<en-US>(Unused) Scrub (Cut)~a Scrub (Cut)~Scrubs (Cut)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
+		<en-US>(Unused) link(CONCEPT_CLEAR) Land</en-US>
+	</Entry>
     <!-- Height -->
     <Entry>
 		<zType>TEXT_HEIGHT_HILL</zType>
@@ -149,5 +182,473 @@
 	</Entry><Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_AGENT</zType>
 		<en-US>Minor Agents can be sent to Cities with an link(CONCEPT_AGENT_NETWORK) to gain visiblity of the City's territory and to conduct link(MISSION_TREACHERY) and link(MISSION_INSURRECTION) Missions. They also siphon off a percentage of its Yields, depending on the Ratings of the Character. (For example, a Character's link(RATING_WISDOM) will determine how much {YIELD_SCIENCE}link(YIELD_SCIENCE) they will gather.)</en-US>
+	</Entry>
+	<!-- Unused Techs --> 
+	<Entry>
+		<zType>TEXT_TECH_IRONWORKING</zType>
+		<en-US>(Unused) Ironworking</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STONECUTTING</zType>
+		<en-US>(Unused) Stonecutting</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STONECUTTING_BONUS_STONE</zType>
+		<en-US>(Unused) link(YIELD_STONE) Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TRAPPING</zType>
+		<en-US>(Unused) Trapping</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ADMINISTRATION_BONUS_WORKER</zType>
+		<en-US>(Unused) Free link(UNIT_WORKER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HUSBANDRY</zType>
+		<en-US>(Unused) Husbandry</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HUSBANDRY_BONUS_FOOD</zType>
+		<en-US>(Unused) link(YIELD_FOOD) Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DRAMA</zType>
+		<en-US>(Unused) Drama</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DRAMA_BONUS_SETTLER</zType>
+		<en-US>(Unused) Free link(UNIT_SETTLER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_POLIS</zType>
+		<en-US>(Unused) Polis</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MILITARY_DRILL</zType>
+		<en-US>(Unused) Military Drill</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ARISTOCRACY</zType>
+		<en-US>(Unused) Aristocracy</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ARISTOCRACY_BONUS_BORDERS</zType>
+		<en-US>(Unused) Border Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_RHETORIC</zType>
+		<en-US>(Unused) Rhetoric</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_NAVIGATION</zType>
+		<en-US>(Unused) Navigation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_NAVIGATION_BONUS_BIREME</zType>
+		<en-US>(Unused) Free link(UNIT_BIREME)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_PHALANX</zType>
+		<en-US>(Unused) Phalanx</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_PHALANX_BONUS_ORDERS</zType>
+		<en-US>(Unused) link(YIELD_ORDERS) Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SPOKED_WHEEL</zType>
+		<en-US>(Unused) Spoked Wheel</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SPOKED_WHEEL_BONUS_CHARIOT</zType>
+		<en-US>(Unused) Free link(UNIT_CHARIOT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_FORESTRY</zType>
+		<en-US>(Unused) Forestry</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_FORESTRY_BONUS_SCIENTIST</zType>
+		<en-US>(Unused) Free link(COURTIER_SCIENTIST)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STEEL</zType>
+		<en-US>(Unused) Steel</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STEEL_BONUS_TRAINING</zType>
+		<en-US>(Unused) link(YIELD_TRAINING) Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SOVEREIGNTY</zType>
+		<en-US>(Unused) Sovereignty</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SOVEREIGNITY_BONUS_CIVICS</zType>
+		<en-US>(Unused) link(YIELD_CIVICS) Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_METAPHYSICS</zType>
+		<en-US>(Unused) Metaphysics</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COINAGE</zType>
+		<en-US>(Unused) Coinage</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COINAGE_BONUS_MONEY</zType>
+		<en-US>(Unused) link(YIELD_MONEY) Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CITIZENSHIP</zType>
+		<en-US>(Unused) Citizenship</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CITIZENSHIP_BONUS_MINISTER</zType>
+		<en-US>(Unused) Free link(COURTIER_MINISTER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_PORTCULLIS</zType>
+		<en-US>(Unused) Portcullis</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_PORTCULLIS_BONUS_MACEMAN</zType>
+		<en-US>(Unused) Free link(UNIT_MACEMAN)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LAND_CONSOLIDATION</zType>
+		<en-US>(Unused) Land Consolidation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LAND_CONSOLIDATION_BONUS_CAMEL_ARCHER</zType>
+		<en-US>(Unused) Free link(UNIT_CAMEL_ARCHER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LAND_CONSOLIDATION_BONUS_WAR_ELEPHANT</zType>
+		<en-US>(Unused) Free link(UNIT_WAR_ELEPHANT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COMPOSITE_BOW</zType>
+		<en-US>(Unused) Composite Bow</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COMPOSITE_BOW_BONUS_ARCHER</zType>
+		<en-US>(Unused) Free link(UNIT_ARCHER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MONASTICISM</zType>
+		<en-US>(Unused) Monasticism</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MACHINERY</zType>
+		<en-US>(Unused) Machinery</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MACHINERY_BONUS_ONAGER</zType>
+		<en-US>(Unused) Free link(UNIT_ONAGER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SCHOLARSHIP</zType>
+		<en-US>(Unused) Scholarship</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SCHOLARSHIP_BONUS_SCIENTIST</zType>
+		<en-US>(Unused) Free link(COURTIER_SCIENTIST)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HYDRAULICS</zType>
+		<en-US>(Unused) Hydraulics</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HYDRAULICS_BONUS_BALLISTA</zType>
+		<en-US>(Unused) Free link(UNIT_BALLISTA)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STIRRUPS</zType>
+		<en-US>(Unused) Stirrups</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STIRRUPS_BONUS_HORSEMAN</zType>
+		<en-US>(Unused) Free link(UNIT_HORSEMAN)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_STIRRUPS_BONUS_HORSE_ARCHER</zType>
+		<en-US>(Unused) Free link(UNIT_HORSE_ARCHER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ARCHITECTURE</zType>
+		<en-US>(Unused) Architecture</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MANOR</zType>
+		<en-US>(Unused) Manor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MANOR_BONUS_GOODS</zType>
+		<en-US>(Unused) Goods Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BATTLELINE</zType>
+		<en-US>(Unused) Battle Line</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BATTLELINE_BONUS_SOLDIER</zType>
+		<en-US>(Unused) Free link(COURTIER_SOLDIER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DOCTRINE</zType>
+		<en-US>(Unused) Doctrine</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CARTOGRAPHY</zType>
+		<en-US>(Unused) Cartography</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CARTOGRAPHY_BONUS_TRIREME</zType>
+		<en-US>(Unused) Free link(UNIT_TRIREME)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LATEEN_SAIL</zType>
+		<en-US>(Unused) Lateen Sail</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LATEEN_SAIL_BONUS_DROMON</zType>
+		<en-US>(Unused) Free link(UNIT_DROMON)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_JURISPRUDENCE</zType>
+		<en-US>(Unused) Jurisprudence</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_JURISPRUDENCE_BONUS_MINISTER</zType>
+		<en-US>(Unused) Free link(COURTIER_MINISTER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MARTIAL_CODE</zType>
+		<en-US>(Unused) Martial Code</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_VAULTING</zType>
+		<en-US>(Unused) Vaulting</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_VAULTING_BONUS_HAPPINESS</zType>
+		<en-US>(Unused) link(YIELD_DISCONTENT) Boost</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BODKIN_ARROW</zType>
+		<en-US>(Unused) Bodkin Arrow</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_WINDLASS</zType>
+		<en-US>(Unused) Windlass</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_WINDLASS_BONUS_CROSSBOWMAN</zType>
+		<en-US>(Unused) Free link(UNIT_CROSSBOWMAN)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_FISCAL_POLICY</zType>
+		<en-US>(Unused) Fiscal Policy</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_FISCAL_POLICY_BONUS_MERCHANT</zType>
+		<en-US>(Unused) Free link(COURTIER_MERCHANT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BARDING</zType>
+		<en-US>(Unused) Barding</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_INFANTRY_SQUARE</zType>
+		<en-US>(Unused) Infantry Square</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_INFANTRY_SQUARE_BONUS_SOLDIER</zType>
+		<en-US>(Unused) Free link(COURTIER_SOLDIER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COHORTS</zType>
+		<en-US>(Unused) Cohorts</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CHAIN_DRIVE</zType>
+		<en-US>(Unused) Chain Drive</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CHAIN_DRIVE_BONUS_MERCHANT</zType>
+		<en-US>(Unused) Free link(COURTIER_MERCHANT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BALLISTICS</zType>
+		<en-US>(Unused) Ballistics</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_ECONOMIC_REFORM</zType>
+		<en-US>(Unused) Economic Reform</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_MILITARY_PRESTIGE</zType>
+		<en-US>(Unused) Military Prestige</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_INDUSTRIAL_PROGRESS</zType>
+		<en-US>(Unused) Industrial Progress</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BATTERING_RAM_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_BATTERING_RAM)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SIEGE_TOWER_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_SIEGE_TOWER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_AKKADIAN_ARCHER_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_AKKADIAN_ARCHER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CIMMERIAN_ARCHER_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_CIMMERIAN_ARCHER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_AFRICAN_ELEPHANT_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_AFRICAN_ELEPHANT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_TURRETED_ELEPHANT_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_TURRETED_ELEPHANT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LIGHT_CHARIOT_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_LIGHT_CHARIOT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_KUSHITE_CAVALRY_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_KUSHITE_CAVALRY)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HOPLITE_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_HOPLITE)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_PHALANGITE_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_PHALANGITE)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_PALTON_CAVALRY_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_PALTON_CAVALRY)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_CATAPHRACT_ARCHER_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_CATAPHRACT_ARCHER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HASTATUS_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_HASTATUS)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LEGIONARY_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_LEGIONARY)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HITTITE_CHARIOT_1_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_HITTITE_CHARIOT_1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HITTITE_CHARIOT_2_BONUS</zType>
+		<en-US>(Unused) Free link(UNIT_HITTITE_CHARIOT_2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BODKIN_ARROW_BONUS_LONGBOWMAN</zType>
+		<en-US>(Unused) Free link(UNIT_LONGBOWMAN)</en-US>
+	</Entry>
+	<!-- Unused Concepts --> 
+	<Entry>
+		<zType>TEXT_CONCEPT_FRESH_WATER</zType>
+		<en-US>(Unused) Fresh Water</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_MARCH</zType>
+		<en-US>(Unused) Forced March~(Unused) a Forced March~(Unused) Forced Marches~(Unused) Force March</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_PAGAN_RELIGION</zType>
+		<en-US>(Unused) Pagan Religion~(Unused) a Pagan Religion~(Unused) Pagan Religions</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CONCEPT_SHRINE</zType>
+		<en-US>(Unused) Shrine~(Unused) a Shrine~(Unused) Shrines</en-US>
+	</Entry>
+	<!-- Courtiers --> 
+	<Entry>
+		<zType>TEXT_COURTIER_SOLDIER</zType>
+		<en-US>Soldier</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SOLDIER_F</zType>
+		<en-US>Soldier</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_MINISTER</zType>
+		<en-US>Minister</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_MINISTER_F</zType>
+		<en-US>Minister</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_MERCHANT</zType>
+		<en-US>Merchant</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_MERCHANT_F</zType>
+		<en-US>Merchant</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SCIENTIST</zType>
+		<en-US>Scholar</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_COURTIER_SCIENTIST_F</zType>
+		<en-US>Scholar</en-US>
+	</Entry>
+	<!-- Family --> 
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_LANDOWNERS</zType>
+		<en-US>(Unused) Landowners~(Unused) Landowner</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_CHAMPIONS</zType>
+		<en-US>(Unused) Champions~(Unused) Champion</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_PATRONS</zType>
+		<en-US>(Unused) Patrons~(Unused) Patron</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_CLERICS</zType>
+		<en-US>(Unused) Clerics~(Unused) Cleric</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_SAGES</zType>
+		<en-US>(Unused) Sages~(Unused) Sage</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_TRADERS</zType>
+		<en-US>(Unused) Traders~(Unused) Trader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_ARTISANS</zType>
+		<en-US>(Unused) Artisans~(Unused) Artisan</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_RIDERS</zType>
+		<en-US>(Unused) Riders~(Unused) Rider</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_FAMILYCLASS_HUNTERS</zType>
+		<en-US>(Unused) Hunters~(Unused) Hunter</en-US>
 	</Entry>
 </Root>

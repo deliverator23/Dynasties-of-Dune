@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Entry beginGroup="EP Sacred and Profane">
+		<zType>PROJECT_SUPPRESS_DISSENT_ZOROASTRIANISM</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_SUPPRESS_DISSENT_JUDAISM</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_SUPPRESS_DISSENT_CHRISTIANITY</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_SUPPRESS_DISSENT_MANICHAEISM</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DISSENT_RELIGION</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DISSENT_ZOROASTRIANISM</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DISSENT_JUDAISM</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DISSENT_CHRISTIANITY</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DISSENT_MANICHAEISM</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_MONASTIC_TRADITIONS</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_DIVINE_STEED</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_UNTAXED_TEMPLES</zType>
+		<TechPrereq>TECH_STONECUTTING</TechPrereq>
+	</Entry>
+</Root>

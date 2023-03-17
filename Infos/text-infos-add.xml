@@ -370,7 +370,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_LOCAL_DIALECT_TRAINING</zType>
-		<en-US>This tech unlocks projects that can boost your Manpower.</en-US>
+		<en-US>This tech unlocks projects that can boost your Intel.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STRUGGLE</zType>
@@ -394,7 +394,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_BASIC_TRAINING</zType>
-		<en-US>This tech unlocks the tools to get more experienced units.</en-US>
+		<en-US>This tech unlocks the projects that boost your Manpower.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_STILLSUITS</zType>
@@ -402,7 +402,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_STILLSUITS</zType>
-		<en-US>This tech unlocks the tools for more growth and also aids combat units.</en-US>
+		<en-US>This tech unlocks the projects for more growth and also aids combat units.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_LOCAL_HUBS</zType>

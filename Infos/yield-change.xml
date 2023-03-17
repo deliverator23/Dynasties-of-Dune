@@ -1,6 +1,7 @@
 <Root>
 	<Entry>
 		<zType>YIELD_MONEY</zType>
+		<iGeneralCost>200</iGeneralCost>
 		<iUIPosition>0</iUIPosition>
 	</Entry>
 	<Entry>
@@ -18,6 +19,7 @@
 	</Entry>
 	<Entry>
 		<zType>YIELD_TRAINING</zType>
+		<iGeneralCost>0</iGeneralCost>
 		<iUIPosition>-1</iUIPosition>
 	</Entry>
 	<Entry>

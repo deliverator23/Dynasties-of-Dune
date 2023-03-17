@@ -4,12 +4,28 @@
 		<en-US>Windtrap~a Windtrap~Windtraps</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDTRAP_MEDIUM</zType>
+		<en-US>Medium Windtrap~a Medium Windtrap~Medium Windtraps</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDTRAP_LARGE</zType>
+		<en-US>Large Windtrap~a Large Windtrap~Large Windtraps</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_IMPROVEMENT_WINDTRAP_HINT</zType>
 		<en-US>Windtrap Hint</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_DEW_COLLECTOR</zType>
 		<en-US>Dew Collector~a Dew Collector~Dew Collectors</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_DEW_COLLECTOR_MEDIUM</zType>
+		<en-US>Medium Dew Collector~a Medium Dew Collector~Medium Dew Collectors</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_DEW_COLLECTOR_LARGE</zType>
+		<en-US>Large Dew Collector~a Large Dew Collector~Large Dew Collectors</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_DEW_COLLECTOR_HINT</zType>
@@ -30,6 +46,14 @@
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PROCESSING_PLANT</zType>
 		<en-US>Processing Plant~a Processing Plant~Processing Plants</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PROCESSING_PLANT_MEDIUM</zType>
+		<en-US>Medium Processing Plant~a Medium Processing Plant~Medium Processing Plants</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PROCESSING_PLANT_LARGE</zType>
+		<en-US>Large Processing Plant~a Large Processing Plant~Large Processing Plants</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_IMPROVEMENT_PROCESSING_PLANT_HINT</zType>

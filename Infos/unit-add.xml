@@ -191,7 +191,7 @@
 		<iStrength>30</iStrength>
 		<iRangeMax>2</iRangeMax>
 		<iHPMax>25</iHPMax>
-		<iProduction>15</iProduction>
+		<iProduction>10</iProduction>
 		<fAttackDuration>2</fAttackDuration>
 		<bOutsideOpinion>1</bOutsideOpinion>
 		<bZOC>1</bZOC>

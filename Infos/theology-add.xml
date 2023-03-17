@@ -106,5 +106,5 @@
 		<iCost>200</iCost>
 		<TechPrereq>TECH_DEVOTION</TechPrereq>
 		<EffectCity>EFFECTCITY_THEOLOGY_WAY_NOBLE_TRUTHS</EffectCity>
-	</Entry>
+	</Entry> 
 </Root>

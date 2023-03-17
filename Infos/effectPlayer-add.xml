@@ -306,4 +306,12 @@
 			</Pair>
 		</aiYieldUpkeep>
 	</Entry>
+	<!-- Techs --> 
+	<Entry>
+		<zType>EFFECTPLAYER_TECH_EXPLORATION</zType>
+		<Name>TEXT_EFFECTPLAYER_TECH_EXPLORATION</Name>
+		<zIconName>WORKER_AUTOMATE</zIconName>
+		<SourceTech>TECH_EXPLORATION</SourceTech>
+		<bAutomateScouts>1</bAutomateScouts>
+	</Entry>
 </Root>

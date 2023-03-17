@@ -1315,6 +1315,30 @@
 		</aiYieldCost>
 	</Entry>
 	<Entry>
+		<zType>PROJECT_POWER_GENERATOR_2</zType>
+		<Name>TEXT_PROJECT_POWER_GENERATOR_2</Name>
+		<zIcon>PROJECT_CIVICS_3</zIcon>
+		<iCivics>20</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<CityProject>PROJECT_POWER_GENERATOR_2</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_POWER_GENERATOR_2</EffectCity>
+		<TechPrereq>TECH_ENERGY_SOURCES</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
 		<zType>PROJECT_HIRE_ASSASSIN</zType>
 		<Name>TEXT_PROJECT_HIRE_ASSASSIN</Name>
 		<zIcon>PROJECT_MISC_1</zIcon>
@@ -1591,6 +1615,86 @@
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_STILLSUIT_2</zType>
+		<Name>TEXT_PROJECT_STILLSUIT_2</Name>
+		<zIcon>PROJECT_GROWTH_100</zIcon>
+		<iCivics>50</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<CityProject>PROJECT_STILLSUIT_2</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_STILLSUIT_2</EffectCity>
+		<TechPrereq>TECH_STILLSUITS</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_LOCAL_HUB</zType>
+		<Name>TEXT_PROJECT_LOCAL_HUB</Name>
+		<zIcon>PROJECT_GROWTH_100</zIcon>
+		<iCivics>100</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<CityProject>PROJECT_LOCAL_HUB</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_LOCAL_HUB</EffectCity>
+		<TechPrereq>TECH_LOCAL_HUBS</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_IMPROVED_CHROMOPLASTIC</zType>
+		<Name>TEXT_PROJECT_IMPROVED_CHROMOPLASTIC</Name>
+		<zIcon>PROJECT_GROWTH_100</zIcon>
+		<iCivics>50</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<CityProject>PROJECT_IMPROVED_CHROMOPLASTIC</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_IMPROVED_CHROMOPLASTIC</EffectCity>
+		<TechPrereq>TECH_DESERT_ENGINEERING</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>75</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_FUEL_CELL_1</zType>
+		<Name>TEXT_PROJECT_FUEL_CELL_1</Name>
+		<zIcon>PROJECT_GROWTH_100</zIcon>
+		<iCivics>25</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<CityProject>PROJECT_FUEL_CELL_1</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_FUEL_CELL_1</EffectCity>
+		<TechPrereq>TECH_ENERGY_SOURCES</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>

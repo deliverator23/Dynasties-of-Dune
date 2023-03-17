@@ -129,4 +129,10 @@
 			</Pair>
 		</aiMilitaryKillYield>
 	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_UNUSED</zType>
+		<Name>TEXT_UNITTRAIT_UNUSED</Name>
+		<zIconName>UNITTRAIT_UNUSED</zIconName>
+		<SourceUnitTrait>UNITTRAIT_UNUSED</SourceUnitTrait>
+	</Entry>
 </Root>

@@ -51,4 +51,8 @@
 		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_INTEL</zType>
 		<en-US>Very High Intel</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_EXPLORATION</zType>
+		<en-US>Automate link(UNIT_SCOUT,2)</en-US>
+	</Entry>
 </Root>

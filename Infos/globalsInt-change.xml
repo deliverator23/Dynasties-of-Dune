@@ -3,4 +3,20 @@
 		<zType>MAX_TECHS_AVAILABLE</zType>
 		<iValue>4</iValue>
 	</Entry>
+	<Entry>
+		<zType>MAX_AMBITIONS</zType>
+		<iValue>20</iValue>
+	</Entry>
+	<Entry>
+		<zType>AMBITION_DELAY_TURNS</zType>
+		<iValue>15</iValue>
+	</Entry>
+	<Entry>
+		<zType>LEGACY_MAX_TURNS</zType>
+		<iValue>25</iValue>
+	</Entry>
+	<Entry>
+		<zType>VP_PER_PLAYER</zType>
+		<iValue>75</iValue>
+	</Entry>
 </Root>

@@ -95,7 +95,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-10</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -104,7 +104,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-15</iValue>
+				<iValue>15</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -113,7 +113,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-20</iValue>
+				<iValue>20</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -122,7 +122,7 @@
 		<aiCityYields>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-25</iValue>
+				<iValue>25</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>

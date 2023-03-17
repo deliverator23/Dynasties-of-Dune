@@ -244,6 +244,10 @@
 		<en-US>Basic Power Generator~a Basic Power Generator~Basic Power Generators</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_POWER_GENERATOR_2</zType>
+		<en-US>Improved Power Generator~an Improved Power Generator~Improved Power Generators</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_HIRE_ASSASSIN</zType>
 		<en-US>Hire Assassin~Hire Assassin~Hire Assassin</en-US>
 	</Entry>
@@ -318,5 +322,21 @@
 	<Entry>
 		<zType>TEXT_PROJECT_SPICE_HARVEST_1</zType>
 		<en-US>Limited Spice Harvesting~Limited Spice Harvesting~Limited Spice Harvesting</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_STILLSUIT_2</zType>
+		<en-US>Basic Stillsuits~Basic Stillsuits~Basic Stillsuits</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LOCAL_HUB</zType>
+		<en-US>Local Hub~a Local Hub~Local Hubs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPROVED_CHROMOPLASTIC</zType>
+		<en-US>Improved Chromoplastic~Improved Chromoplastic~Improved Chromoplastic</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FUEL_CELL_1</zType>
+		<en-US>Fuel Cell Prototype~a Fuel Cell Prototype~Fuel Cell Prototypes</en-US>
 	</Entry>
 </Root>

@@ -29,4 +29,10 @@
 		<zIconName>UNITTRAIT_MERCENARY</zIconName>
 		<EffectUnit>EFFECTUNIT_MERCENARY</EffectUnit>
 	</Entry>
+	<Entry>
+		<zType>UNITTRAIT_UNUSED</zType>
+		<Name>TEXT_UNITTRAIT_UNUSED</Name>
+		<zIconName>UNITTRAIT_UNUSED</zIconName>
+		<EffectUnit>EFFECTUNIT_UNUSED</EffectUnit>
+	</Entry>
 </Root>

@@ -1,6 +1,7 @@
 <Root>
 	<Entry>
 		<zType>FAMILYCLASS_STATESMEN</zType>
+		<FoundBonus></FoundBonus>
 		<aiLawOpinion></aiLawOpinion>
 	</Entry>
 </Root>

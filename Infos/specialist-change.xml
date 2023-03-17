@@ -15,6 +15,38 @@
 		</aiYieldCost>
 	</Entry>
 	<Entry>
+		<zType>SPECIALIST_PHILOSOPHER_2</zType>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_2</Name>
+		<zIconName>SPECIALIST_PHILOSOPHER</zIconName>
+		<Class>SPECIALISTCLASS_PHILOSOPHER</Class>
+		<iCivics>60</iCivics>
+		<SpecialistPrereq>SPECIALIST_PHILOSOPHER_1</SpecialistPrereq>
+		<EffectCity>EFFECTCITY_SPECIALIST_PHILOSOPHER_2</EffectCity>
+		<EffectCityExtra>EFFECTCITY_SPECIALIST_MASTER</EffectCityExtra>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>SPECIALIST_PHILOSOPHER_3</zType>
+		<Name>TEXT_SPECIALIST_PHILOSOPHER_3</Name>
+		<zIconName>SPECIALIST_PHILOSOPHER</zIconName>
+		<Class>SPECIALISTCLASS_PHILOSOPHER</Class>
+		<iCivics>80</iCivics>
+		<SpecialistPrereq>SPECIALIST_PHILOSOPHER_2</SpecialistPrereq>
+		<EffectCity>EFFECTCITY_SPECIALIST_PHILOSOPHER_3</EffectCity>
+		<EffectCityExtra>EFFECTCITY_SPECIALIST_ELDER</EffectCityExtra>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>55</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
 		<zType>SPECIALIST_PRIEST_1</zType>
 		<Name>TEXT_SPECIALIST_PRIEST_1</Name>
 		<zIconName>SPECIALIST_PRIEST</zIconName>
@@ -27,6 +59,40 @@
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
 				<iValue>25</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>SPECIALIST_PRIEST_2</zType>
+		<Name>TEXT_SPECIALIST_PRIEST_2</Name>
+		<zIconName>SPECIALIST_PRIEST</zIconName>
+		<Class>SPECIALISTCLASS_PRIEST</Class>
+		<iCivics>60</iCivics>
+		<iOpinionReligion>3</iOpinionReligion>
+		<SpecialistPrereq>SPECIALIST_PRIEST_1</SpecialistPrereq>
+		<EffectCity>EFFECTCITY_SPECIALIST_PRIEST_2</EffectCity>
+		<EffectCityExtra>EFFECTCITY_SPECIALIST_MASTER</EffectCityExtra>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>SPECIALIST_PRIEST_3</zType>
+		<Name>TEXT_SPECIALIST_PRIEST_3</Name>
+		<zIconName>SPECIALIST_PRIEST</zIconName>
+		<Class>SPECIALISTCLASS_PRIEST</Class>
+		<iCivics>80</iCivics>
+		<iOpinionReligion>5</iOpinionReligion>
+		<SpecialistPrereq>SPECIALIST_PRIEST_2</SpecialistPrereq>
+		<EffectCity>EFFECTCITY_SPECIALIST_PRIEST_3</EffectCity>
+		<EffectCityExtra>EFFECTCITY_SPECIALIST_ELDER</EffectCityExtra>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>55</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>

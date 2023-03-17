@@ -1,0 +1,26 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
+		<en-US>(Unused) Mounted</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_POLEARM</zType>
+		<en-US>(Unused) Polearm</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_HORSE</zType>
+		<en-US>(Unused) Horse</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_CAMEL</zType>
+		<en-US>(Unused) Camel</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_ELEPHANT</zType>
+		<en-US>(Unused) Elephant</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_SHIP</zType>
+		<en-US>(Unused) Ship</en-US>
+	</Entry>
+</Root>

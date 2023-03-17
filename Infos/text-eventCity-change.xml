@@ -1,0 +1,11 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_EVENTCITY_TRAINING_BOOM</zType>
+		<en-US>{CITY} has experienced a manpower boom</en-US>
+	</Entry>
+	<!-- Name -->
+	<Entry>
+		<zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
+		<en-US>link(YIELD_MANPOWER) Boom</en-US>
+	</Entry>
+</Root>

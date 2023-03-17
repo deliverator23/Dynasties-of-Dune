@@ -6,6 +6,7 @@
 		<Class>SPECIALISTCLASS_WINDTRAP_OPERATOR</Class>
 		<iCivics>30</iCivics>
 		<EffectCity>EFFECTCITY_SPECIALIST_WINDTRAP_OPERATOR</EffectCity>
+		<EffectCityExtra>EFFECTCITY_SPECIALIST_RURAL</EffectCityExtra>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>
@@ -26,6 +27,7 @@
 		<Class>SPECIALISTCLASS_DEW_COLLECTOR_PLANTER</Class>
 		<iCivics>30</iCivics>
 		<EffectCity>EFFECTCITY_SPECIALIST_DEW_COLLECTOR_PLANTER</EffectCity>
+		<EffectCityExtra>EFFECTCITY_SPECIALIST_RURAL</EffectCityExtra>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_MANPOWER</zIndex>

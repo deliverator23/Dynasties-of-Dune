@@ -1,0 +1,142 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_AMPHIBIOUS</zType>
+		<en-US>(Unused) Amphibious</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_AMPHIBIOUS_F</zType>
+		<en-US>(Unused) Amphibious</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MARINES</zType>
+		<en-US>(Unused) Marines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MARINES_F</zType>
+		<en-US>(Unused) Marines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COLD</zType>
+		<en-US>(Unused) Cold</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COLD_F</zType>
+		<en-US>(Unused) Cold</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RANGER_ALL</zType>
+		<en-US>(Unused) Ranger Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RANGER_ALL_F</zType>
+		<en-US>(Unused) Ranger Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
+		<en-US>(Unused) Horsebane</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HORSEBANE_F</zType>
+		<en-US>(Unused) Horsebane</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HORSEBANE_ALL</zType>
+		<en-US>(Unused) Horsebane Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HORSEBANE_ALL_F</zType>
+		<en-US>(Unused) Horsebane Leader</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COCKSWAIN</zType>
+		<en-US>(Unused) Cockswain</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COCKSWAIN_F</zType>
+		<en-US>(Unused) Cockswain</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GRAPPLER</zType>
+		<en-US>(Unused) Grappler</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GRAPPLER_F</zType>
+		<en-US>(Unused) Grappler</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SEABORN</zType>
+		<en-US>(Unused) Seaborn</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SEABORN_F</zType>
+		<en-US>(Unused) Seaborn</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FIRESHIP</zType>
+		<en-US>(Unused) Fireship</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FIRESHIP_F</zType>
+		<en-US>(Unused) Fireship</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_LADING</zType>
+		<en-US>(Unused) Lading</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_LADING_F</zType>
+		<en-US>(Unused) Lading</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MANEUVERS</zType>
+		<en-US>(Unused) Maneuvers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MANEUVERS_F</zType>
+		<en-US>(Unused) Maneuvers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
+		<en-US>(Unused) Saddleborn</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SADDLEBORN_F</zType>
+		<en-US>(Unused) Saddleborn</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
+		<en-US>(Unused) Stealth</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_STEALTH_F</zType>
+		<en-US>(Unused) Stealth</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ANTIPOLEARM</zType>
+		<en-US>(Unused) Anti-link(UNITTRAIT_POLEARM)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ANTIMOUNTED1</zType>
+		<en-US>(Unused) Anti-link(UNITTRAIT_MOUNTED) I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ANTIMOUNTED2</zType>
+		<en-US>(Unused) Anti-link(UNITTRAIT_MOUNTED) II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ANTIMOUNTED3</zType>
+		<en-US>(Unused) Anti-link(UNITTRAIT_MOUNTED) III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ASSYRIA</zType>
+		<en-US>(Unused) link(NATION_ASSYRIA)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ROME</zType>
+		<en-US>(Unused) link(NATION_ROME)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HITTITE</zType>
+		<en-US>(Unused) link(NATION_HITTITE)</en-US>
+	</Entry>
+</Root>

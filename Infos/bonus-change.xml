@@ -8,6 +8,34 @@
 			</Pair>
 		</aiGlobalYields>
 	</Entry>
+	<!-- Boom --> 
+	<Entry>
+		<zType>BONUS_CITY_CIVICS_BOOM</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_CITY_TRAINING_BOOM</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
+	<Entry>
+		<zType>BONUS_CITY_SCIENCE_BOOM</zType>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiGlobalYields>
+	</Entry>
 	<!-- Projects --> 
 	<Entry>
 		<zType>BONUS_PROJECT_ARCHIVE_1</zType>
@@ -54,7 +82,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-10</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -67,7 +95,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-15</iValue>
+				<iValue>15</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -80,7 +108,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-25</iValue>
+				<iValue>25</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>
@@ -93,7 +121,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_HAPPINESS</zIndex>
-				<iValue>-50</iValue>
+				<iValue>50</iValue>
 			</Pair>
 		</aiCityYields>
 	</Entry>

@@ -28,7 +28,6 @@
 		<iMovementCost>9</iMovementCost>
 		<iBorderValue>500</iBorderValue>
 		<bCitySite>1</bCitySite>
-		<bStart>1</bStart>
 		<bRoadValid>1</bRoadValid>
 		<DefaultHeight>HEIGHT_FLAT</DefaultHeight>
 		<aeHeightAsset>
@@ -59,7 +58,6 @@
 		<iMovementCost>9</iMovementCost>
 		<iBorderValue>400</iBorderValue>
 		<bCitySite>1</bCitySite>
-		<bStart>1</bStart>
 		<bRoadValid>1</bRoadValid>
 		<DefaultHeight>HEIGHT_FLAT</DefaultHeight>
 		<aeHeightAsset>
@@ -118,6 +116,8 @@
 		<Name>TEXT_TERRAIN_SAND</Name>
 		<zIconName>TERRAIN_SAND</zIconName>
 		<iMovementCost>18</iMovementCost>
+		<iBuildChange>0</iBuildChange>
+		<iUnitDamage>3</iUnitDamage>
 		<bWater>1</bWater>
 		<bNoVegetation>1</bNoVegetation>
 		<DefaultHeight>HEIGHT_FLAT</DefaultHeight>

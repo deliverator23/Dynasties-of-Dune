@@ -1,0 +1,1054 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_HINT_1</zType>
+		<en-US>link(TERRAIN_SAND) tiles are deadly due to their extra Movement Cost and -1 HP/Year. If you wish to strike an enemy, be decisive.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_2</zType>
+		<en-US>link(UNITTRAIT_DEVOTED) cost link(YIELD_DEVOTION) while link(UNITTRAIT_MERCENARY) cost link(YIELD_MONEY). They are great alternatives if you lack link(YIELD_MANPOWER).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_3</zType>
+		<en-US>link(UNITTRAIT_MELEE) link(UNITTRAIT_INFANTRY) can link(CONCEPT_FORTIFY), gaining a defensive bonus while they remain on their current tile.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_4</zType>
+		<en-US>Land Units can move across link(TERRAIN_SAND) tiles with the right technology. This opens the entire map making it harder to defend your territory.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_5</zType>
+		<en-US>Hold [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] to see your link(CONCEPT_TRADE_NETWORK) and Connections to the link(CONCEPT_CAPITAL).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_6</zType>
+		<en-US>link(YIELD_MANPOWER,1) stockpiles are not capped. However, link(YIELD_MANPOWER,1) is used for many projects and units so don't expect this yield to be in huge abundance.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_7</zType>
+		<en-US>You can only use 3 of your Nation's 4 link(CONCEPT_FAMILY,2) each game. Experiment to find out which combinations work best!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_8</zType>
+		<en-US>Unused link(YIELD_CIVICS,1) in your Cities are added to your Nation's stockpile.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_9</zType>
+		<en-US>If you don't want to use all of your link(YIELD_ORDERS,1), you can end your turn by pressing [hotkey(HOTKEY_END_TURN)].</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_10</zType>
+		<en-US>Your link(UNIT_WORKER,2) can build improvements. Rural improvements upgrade after a certain amount of turns so get them built as soon as possible.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_11</zType>
+		<en-US>If you don't have enough resources to start a Unit or link(CONCEPT_IMPROVEMENT), [ALT+Click] to automatically buy what you're missing (assuming you have enough link(YIELD_MONEY,1)).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_12</zType>
+		<en-US>Building an link(CONCEPT_IMPROVEMENT) on a link(HEIGHT_HILL) will increase the time it takes to finish by one turn.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_13</zType>
+		<en-US>link(TRIBE_BARBARIANS) are xenophobic tribes hostile to all link(CONCEPT_NATION,2). There are no diplomatic consequences for attacking their Units or taking over their land. They have no allies, including other link(CONCEPT_TRIBE,2).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_14</zType>
+		<en-US>link(YIELD_SPICE) is mostly spawned randomly on the map. Depending on your luck, you may have to expand aggressive to get to Spices faster than your rivals.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_15</zType>
+		<en-US>You aren't expected to build everything in your Cities. Specialize your Cities so they can produce a lot of a certain yield.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_16</zType>
+		<en-US>If you have a surplus of link(YIELD_MONEY), you can hire courtiers to ensure your court stays formidable.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_17</zType>
+		<en-US>Being at link(DIPLOMACY_WAR) against several opponents can leave your armies overwhelmed, unable to execute enough link(YIELD_ORDERS,1) to fight effectively on every front. Use diplomacy to avoid this fate.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_18</zType>
+		<en-US>Laws are powerful ways to get bonuses. You can access laws as early as Exploration Tech.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_19</zType>
+		<en-US>Expect demand for link(YIELD_GROWTH,1) to rise as your Cities grow and mature.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_20</zType>
+		<en-US>Adding generals to your units require link(YIELD_MONEY) so pick your generals carefully unless you have the economy to sustain it.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_21</zType>
+		<en-US>Roads help Units move farther with each link(YIELD_ORDERS,3) spent, especially when the link(CONCEPT_ROAD) passes through difficult terrain. They also extend your link(CONCEPT_TRADE_NETWORK).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_22</zType>
+		<en-US>link(UNITTRAIT_RANGED) Units gain an extra tile of range if positioned on link(HEIGHT_HILL,2), unless their target is also on a link(HEIGHT_HILL).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_23</zType>
+		<en-US>Stationing a Unit on a conquered link(CONCEPT_CITY_SITE) marks the territory as yours. Failing to guard the site may result in it being claimed by a new link(CONCEPT_TRIBE,3) link(CONCEPT_SETTLEMENT) or settled by your rivals.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_24</zType>
+		<en-US>Growing your number of link(YIELD_ORDERS,1) should be a priority. The more territory and Units that you control, the more link(YIELD_ORDERS,1) your Nation will need to function and to defend itself.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_25</zType>
+		<en-US>The power of each Law tends to increase as your Nation grows. When choosing what to research, do not neglect unlocking new Laws.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_26</zType>
+		<en-US>A City becomes stronger with each cultural levels so don't neglect on the link(YIELD_CULTURE).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_27</zType>
+		<en-US>link(UNIT_SCOUT,2) can keep an eye on a large number of tiles. They can provide valuable intelligence regarding enemy strength and movements.</en-US>
+		<es>Los link(UNIT_SCOUT,2) pueden vigilar muchas casillas. Además, otorgan información muy valiosa de las fortalezas y actividades enemigas.</es>
+		<de>link(UNIT_SCOUT,5) können eine große Anzahl an Feldern im Auge behalten. Sie versorgen Euch mit Informationen im Hinblick auf Stärke und Bewegungen feindlicher Truppen.</de>
+		<fr>Les link(UNIT_SCOUT,2) peuvent surveiller un grand nombre de cases. Ils offrent de précieuses informations sur les forces et mouvements ennemis.</fr>
+		<ja>link(UNIT_SCOUT,2)は、多数のタイルを監視することができます。彼らは敵の戦闘力や動きに関する貴重な情報を与えてくれます。</ja>
+		<zh-TW>link(UNIT_SCOUT,2)能看管大範圍的圖塊。他們能針對敵人的實力和動向提供寶貴的情報。</zh-TW>
+		<ru>link(UNIT_SCOUT,6) могут обозревать сразу много клеток. Они дают ценную информацию о численности вражеских войск и их передвижениях.</ru>
+		<zh-CN>link(UNIT_SCOUT,2)能看管大范围的图块。他们能针对敌人的实力和动向提供宝贵的情报。</zh-CN>
+		<pt-BR>Os link(UNIT_SCOUT,2) têm a capacidade de vigiar muitas casas. Eles são uma fonte valiosa de inteligência sobre as forças e movimentos de seus inimigos.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_28</zType>
+		<en-US>Cities with high link(YIELD_GROWTH,1) train new link(UNIT_SETTLER,2), link(UNIT_WORKER,2), and link(UNIT_SCOUT,2) more rapidly.</en-US>
+		<es>Las ciudades con alto índice de link(YIELD_GROWTH,1) son más rápidas entrenando link(UNIT_SETTLER,2), link(UNIT_WORKER,2) y link(UNIT_SCOUT,2).</es>
+		<de>Städte mit hohem link(YIELD_GROWTH,1) bilden link(UNIT_SETTLER,5), link(UNIT_WORKER,5) und link(UNIT_SCOUT,5) schneller aus.</de>
+		<fr>Les villes avec une link(YIELD_GROWTH,1) élevée entraînent plus rapidement les link(UNIT_SETTLER,2), les link(UNIT_WORKER,2), et les link(UNIT_SCOUT,2).</fr>
+		<ja>link(YIELD_GROWTH,1)が高い都市ほど、新しいlink(UNIT_SETTLER,2)、link(UNIT_WORKER,2)、link(UNIT_SCOUT,2)をより迅速に育成します。</ja>
+		<zh-TW>擁有高link(YIELD_GROWTH,1)的城市訓練新link(UNIT_SETTLER,2)、link(UNIT_WORKER,2)及link(UNIT_SCOUT,2)的速度較快。</zh-TW>
+		<ru>Города с высоким показателем {lowercase:link(YIELD_GROWTH,1)} быстрее готовят новых {lowercase:link(UNIT_SETTLER,9)}, {lowercase:link(UNIT_WORKER,9)} и {lowercase:link(UNIT_SCOUT,9)}.</ru>
+		<zh-CN>拥有高link(YIELD_GROWTH,1)的城市训练新link(UNIT_SETTLER,2)、link(UNIT_WORKER,2)及link(UNIT_SCOUT,2)的速度较快。</zh-CN>
+		<pt-BR>Cidades com uma taxa alta de link(YIELD_GROWTH,1) treinam novos link(UNIT_SETTLER,2), link(UNIT_WORKER,2), e link(UNIT_SCOUT,2) mais rápido.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_29</zType>
+		<en-US>The rate at which military Units are produced by a City is tied directly to its link(YIELD_TRAINING,1) output.</en-US>
+		<es>La velocidad a la que se producen las unidades militares en una ciudad está ligada directamente a su producción de link(YIELD_TRAINING,1).</es>
+		<de>Die Produktionsrate von Militäreinheiten einer Stadt steht in direktem Zusammenhang mit ihrer link(YIELD_TRAINING,1)sleistung.</de>
+		<fr>La vitesse à laquelle les unités militaires sont produites par une ville est directement liée à sa capacité d'link(YIELD_TRAINING,1).</fr>
+		<ja>軍事ユニットの生産速度は、都市のlink(YIELD_TRAINING,1)出力に直接結びついています。</ja>
+		<zh-TW>一座城市產生軍事單位的速率和它的link(YIELD_TRAINING,1)產值有直接的關聯。</zh-TW>
+		<ru>Скорость подготовки военных юнитов в городе напрямую связана с его показателям выработки {lowercase:link(YIELD_TRAINING,1)}.</ru>
+		<zh-CN>一座城市产生军事单位的速率和它的link(YIELD_TRAINING,1)产值有直接的关联。</zh-CN>
+		<pt-BR>A velocidade com que unidades militares são produzidas por uma cidade é diretamente relacionada à sua produção de link(YIELD_TRAINING,1).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_30</zType>
+		<en-US>The rate at which link(CONCEPT_PROJECT,2) are completed at a City depends on its link(YIELD_CIVICS,1) output.</en-US>
+		<es>La velocidad a la que los link(CONCEPT_PROJECT,2) se completan en una ciudad depende de su producción de link(YIELD_CIVICS,1).</es>
+		<de>Die link(CONCEPT_PROJECT)-Fertigstellungsrate einer Stadt steht im direkten Zusammenhang mit ihrer link(YIELD_CIVICS,1)-Leistung.</de>
+		<fr>La vitesse à laquelle un link(CONCEPT_PROJECT,2) est terminé par une ville dépend de sa production de link(YIELD_CIVICS,1).</fr>
+		<ja>都市でlink(CONCEPT_PROJECT,2)が完了する速度は、その都市のlink(YIELD_CIVICS,1)出力によって異なります。</ja>
+		<zh-TW>一座城市完成link(CONCEPT_PROJECT,2)的速率由它的link(YIELD_CIVICS,1)產值決定。</zh-TW>
+		<ru>Скорость завершения {lowercase:link(CONCEPT_PROJECT,1)} в городе связана с его показателями {lowercase:link(YIELD_CIVICS,1)}.</ru>
+		<zh-CN>一座城市完成link(CONCEPT_PROJECT,2)的速率由它的link(YIELD_CIVICS,1)产值决定。</zh-CN>
+		<pt-BR>A velocidade de conclusão dos link(CONCEPT_PROJECT,2) em uma cidade depende de sua produção de link(YIELD_CIVICS,1).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_31</zType>
+		<en-US>link(CONCEPT_URBAN) link(CONCEPT_SPECIALIST,2) can be upgraded multiple times, greatly increasing the output of an link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT).</en-US>
+		<es>Los link(CONCEPT_SPECIALIST,2) link(CONCEPT_URBAN,2) pueden mejorarse varias veces, aumentando bastante la producción de un link(CONCEPT_IMPROVEMENT) link(CONCEPT_URBAN).</es>
+		<de>{sentencecase:link(CONCEPT_URBAN)} link(CONCEPT_SPECIALIST,2) können mehrmals verbessert werden und erhöhen die Leistung link(CONCEPT_URBAN,1) link(CONCEPT_IMPROVEMENT,2) erheblich.</de>
+		<fr>Les link(CONCEPT_SPECIALIST,2) de type link(CONCEPT_URBAN) peuvent être améliorés plusieurs fois, ce qui augmente grandement la productivité d'une link(CONCEPT_IMPROVEMENT) link(CONCEPT_URBAN).</fr>
+		<ja>link(CONCEPT_URBAN)のlink(CONCEPT_SPECIALIST,2)は複数回アップグレードできるため、link(CONCEPT_URBAN)のlink(CONCEPT_IMPROVEMENT)出力を大幅に増加させることが可能です。</ja>
+		<zh-TW>link(CONCEPT_URBAN)link(CONCEPT_SPECIALIST,2)可以升級好幾次，大幅增加link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT)的產值。</zh-TW>
+		<ru>link(CONCEPT_URBAN,3) {lowercase:link(CONCEPT_SPECIALIST,3)} можно улучшать несколько раз, заметно повышая выработку ресурсов {lowercase:link(CONCEPT_URBAN,1)} {lowercase:link(CONCEPT_IMPROVEMENT,1)}.</ru>
+		<zh-CN>link(CONCEPT_URBAN)link(CONCEPT_SPECIALIST,2)可以升级好几次，大幅增加link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT)的产值。</zh-CN>
+		<pt-BR>link(CONCEPT_SPECIALIST,2) link(CONCEPT_URBAN,2) podem ser melhorados várias vezes para aumentar ainda mais a produção de uma link(CONCEPT_IMPROVEMENT) link(CONCEPT_URBAN,3).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_32</zType>
+		<en-US>Most link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT) types require link(YIELD_STONE,1) to construct. Expect high demand for link(YIELD_STONE,1) as the game matures and you unlock new technologies.</en-US>
+		<es>Hace falta link(YIELD_STONE,1) para construir la mayoría de los link(CONCEPT_IMPROVEMENT,2) de tipo link(CONCEPT_URBAN). La demanda de link(YIELD_STONE,1) crecerá bastante a medida que la partida avance y desarrolles nuevas tecnologías.</es>
+		<de>Die meisten Arten link(CONCEPT_URBAN,1) link(CONCEPT_IMPROVEMENT,2) müssen mit link(YIELD_STONE,1) erbaut werden. Mit fortschreitendem Spiel und immer mehr freigeschalteten Technologien könnt Ihr daher mit einer erhöhten link(YIELD_STONE,1)-Nachfrage rechnen.</de>
+		<fr>La plupart des link(CONCEPT_IMPROVEMENT) de type link(CONCEPT_URBAN) ont besoin de link(YIELD_STONE,1) pour leur construction. La demande en link(YIELD_STONE,1) augmente au fil de la partie et quand vous débloquez de nouvelles technologies.</fr>
+		<ja>ほとんどのlink(CONCEPT_URBAN)のlink(CONCEPT_IMPROVEMENT)は、建設にlink(YIELD_STONE,1)を必要とします。ゲームを進行させ、新しい技術をアンロックすると、link(YIELD_STONE,1)の需要が高くなることが予想されます。</ja>
+		<zh-TW>大部分的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT) 類別需要link(YIELD_STONE,1)來建造。隨著遊戲發展、你會解鎖越來越多新科技，link(YIELD_STONE,1)的需求也會隨之提高。</zh-TW>
+		<ru>Большинство типов {lowercase:link(CONCEPT_URBAN,1)} {lowercase:link(CONCEPT_IMPROVEMENT,1)} для строительства требуют {lowercase:link(YIELD_STONE,3)}. По мере прохождения игры и открытия новых технологий стоит ожидать высокий спрос на {lowercase:link(YIELD_STONE,3)}.</ru>
+		<zh-CN>大部分的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT) 类别需要link(YIELD_STONE,1)来建造。随着游戏发展、你会解锁越来越多新科技，link(YIELD_STONE,1)的需求也会随之提高。</zh-CN>
+		<pt-BR>A maioria das link(CONCEPT_IMPROVEMENT,2) link(CONCEPT_URBAN,4) precisam de link(YIELD_STONE,1) para serem construídas. Haverá uma alta demanda de link(YIELD_STONE,1) conforme a partida avançar e você desbloquear novas tecnologias.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_33</zType>
+		<en-US>link(UNITTRAIT_RANGED) Units are efficient in battle, often attacking an enemy without having to spend link(YIELD_ORDERS,1) on movement.</en-US>
+		<es>Las unidades link(UNITTRAIT_RANGED) son efectivas en combate ya que a menudo pueden atacar a sus enemigos sin necesidad de gastar link(YIELD_ORDERS,1) en moverse.</es>
+		<de>link(UNITTRAIT_RANGED)-Einheiten sind im Kampf äußerst effektiv und können oftmals Feinde angreifen, ohne dafür link(YIELD_ORDERS,1) für die Bewegung ausgeben zu müssen.</de>
+		<fr>Les unités link(UNITTRAIT_RANGED) sont efficaces au combat, car elles peuvent attaquer un ennemi sans dépenser d'link(YIELD_ORDERS,1) pour se déplacer.</fr>
+		<ja>link(UNITTRAIT_RANGED)ユニットは戦闘において効率的で、移動にlink(YIELD_ORDERS,1)を費やすことなく敵を攻撃することがよくあります。</ja>
+		<zh-TW>link(UNITTRAIT_RANGED)單位在戰鬥中效率很高，通常不需要花費link(YIELD_ORDERS,1)在移動上就能攻擊敵人。</zh-TW>
+		<ru>link(UNITTRAIT_RANGED) юниты эффективны в бою, они часто атакуют врага без необходимости тратить {lowercase:link(YIELD_ORDERS,1)} на передвижение.</ru>
+		<zh-CN>link(UNITTRAIT_RANGED)单位在战斗中效率很高，通常不需要花费link(YIELD_ORDERS,1)在移动上就能攻击敌人。</zh-CN>
+		<pt-BR>Unidades link(UNITTRAIT_RANGED) são eficientes em batalha e com frequência podem atacar inimigos sem gastar link(YIELD_ORDERS,1) para se movimentarem.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_34</zType>
+		<en-US>To predict the number of orders needed for a Unit to go from one tile to another by way of a third tile, select the Unit and [CTRL+Click] on the third tile.</en-US>
+		<es>Para conocer el número de órdenes necesarias para que una unidad vaya de una casilla a otra pasando por una tercera, selecciona esa unidad y presiona [Ctrl+Clic] en la tercera casilla.</es>
+		<de>Um die Anzahl der Befehle vorherzusagen, die eine Einheit benötigt, um über ein drittes Feld von einem Feld zu einem anderen zu gelangen, wählt erst die Einheit und dann mit [STRG+Klick] das dritte Feld aus.</de>
+		<fr>Pour obtenir le nombre d’ordres nécessaires à une unité pour passer d’une tuile à une autre en passant par une troisième tuile, sélectionnez l’unité et [CTRL+Clic] sur la troisième tuile.</fr>
+		<ja>ユニットがあるタイルから別のタイルに移動するのに必要な命令の数を予測するには、ユニットを選択し、3番目のタイルを[CTRLキー+クリック]します。</ja>
+		<zh-TW>要預測一個單位從起點圖塊通過中途圖塊抵達終點圖塊需要的命令數量，請選擇該單位並 [CTRL+點擊] 中途圖塊。</zh-TW>
+		<ru>Чтобы предсказать количество приказов, нужное юниту для перехода с одной клетки на другую через третью клетку, выберите юнита и выполните [Ctrl+щелчок] на третьей клетке.</ru>
+		<zh-CN>要预测一个单位从起点图块通过中途图块抵达终点图块需要的命令数量，请选择该单位并 [CTRL+点击] 中途图块。</zh-CN>
+		<pt-BR>Para descobrir o número de ordens necessárias para que uma unidade vá de uma casa para outra através de uma terceira casa, selecione a unidade e pressione [CTRL+Clique] na terceira casa.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_35</zType>
+		<en-US>link(UNIT_MILITIA) and link(UNIT_CONSCRIPT) Units cannot be link(CONCEPT_PROMOTION,3), but they are produced with link(YIELD_GROWTH,1) instead of link(YIELD_TRAINING,1). Cities with high link(YIELD_GROWTH) output may be able to train them rapidly.</en-US>
+		<es>Las unidades de link(UNIT_MILITIA) y link(UNIT_CONSCRIPT) no pueden ser link(CONCEPT_PROMOTION,3), pero pueden producirse con link(YIELD_GROWTH,1) en vez de link(YIELD_TRAINING,1). Las ciudades con alto índice de link(YIELD_GROWTH) pueden entrenarlas con rapidez.</es>
+		<de>link(UNIT_MILITIA,5) und link(UNIT_CONSCRIPT,5) können nicht link(CONCEPT_PROMOTION,4) werden, ihre Erzeugung erfolgt allerdings mit link(YIELD_GROWTH,1) anstelle von link(YIELD_TRAINING,1). Städte mit hoher link(YIELD_GROWTH)sleistung können diese Einheiten besonders schnell ausbilden.</de>
+		<fr>Les unités de link(UNIT_MILITIA) et de link(UNIT_CONSCRIPT) ne peuvent pas être link(CONCEPT_PROMOTION,3), mais elles sont produites avec de la link(YIELD_GROWTH,1) à la place de l'link(YIELD_TRAINING,1). Les cités ayant une link(YIELD_GROWTH) élevée peuvent rapidement les entraîner.</fr>
+		<ja>link(UNIT_MILITIA)ユニットとlink(UNIT_CONSCRIPT)ユニットはlink(CONCEPT_PROMOTION,3)できませんが、link(YIELD_TRAINING,1)の代わりにlink(YIELD_GROWTH,1)で生産されます。link(YIELD_GROWTH)出力が高い都市は、これらのユニットを迅速に育成できるかもしれません。</ja>
+		<zh-TW>link(UNIT_MILITIA)及link(UNIT_CONSCRIPT)單位無法接受link(CONCEPT_PROMOTION,3)，不過他們可以透過link(YIELD_GROWTH,1)而不是link(YIELD_TRAINING,1)產生。擁有高度link(YIELD_GROWTH)的城市就能快速地訓練他們。</zh-TW>
+		<ru>link(UNIT_MILITIA) и {lowercase:link(UNIT_CONSCRIPT)} не подлежат {lowercase:link(CONCEPT_PROMOTION,2)}, но на их подготовку вместо {lowercase:link(YIELD_TRAINING,1)} расходуется {lowercase:link(YIELD_GROWTH)}. Города с большим производством {lowercase:link(YIELD_GROWTH,1)} могут быстро готовить таких юнитов.</ru>
+		<zh-CN>link(UNIT_MILITIA)及link(UNIT_CONSCRIPT)单位无法接受link(CONCEPT_PROMOTION,3)，不过他们可以透过link(YIELD_GROWTH,1)而不是link(YIELD_TRAINING,1)产生。拥有高度link(YIELD_GROWTH)的城市就能快速地训练他们。</zh-CN>
+		<pt-BR>Unidades de link(UNIT_MILITIA) e link(UNIT_CONSCRIPT,2) não podem receber link(CONCEPT_PROMOTION,2), mas elas são produzidas com link(YIELD_GROWTH,1) em vez de link(YIELD_TRAINING,1). Cidades com uma alta produção de link(YIELD_GROWTH) podem treiná-las rapidamente.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_36</zType>
+		<en-US>Many link(UNITTRAIT_MOUNTED) Units have the link(CONCEPT_ROUT) ability. When they slay an enemy Unit, they occupy that Unit's tile if there is another Unit available to attack from the newly occupied tile. Although they cannot move again, routing units can chain together multiple rout attacks.</en-US>
+		<es>Muchas unidades link(UNITTRAIT_MOUNTED,1) tienen la habilidad de link(CONCEPT_ROUT). Cuando matan a una unidad enemiga, ocupan su casilla si hay otra unidad que puedan atacar desde la casilla nueva. Aunque no puedan moverse de nuevo, las unidades arolladas pueden provocar que se encadenen varios ataques de arrollar.</es>
+		<de>Viele link(UNITTRAIT_MOUNTED) Einheiten besitzen die Fähigkeit link(CONCEPT_ROUT). Wenn sie eine feindliche Einheit töten, besetzen sie das Feld dieser Einheit, wenn eine andere Einheit verfügbar ist, die von dem neu besetzten Feld aus angreifen kann. Obwohl sie sich nicht mehr bewegen können, können Einheiten mit dieser Fähigkeit mehrere Aufreibungsangriffe aneinanderreihen.</de>
+		<fr>Plusieurs unités link(UNITTRAIT_MOUNTED) ont la capacité de link(CONCEPT_ROUT). Quand elles battent une unité ennemie, elles occupent la tuile de cette dernière. Bien qu'elles ne puissent plus se déplacer, elles peuvent attaquer à nouveau si elles ont une cible à portée.</fr>
+		<ja>多くのlink(UNITTRAIT_MOUNTED)ユニットは、link(CONCEPT_ROUT)能力を持っています。敵のユニットを倒すと、そのユニットのタイルを占拠します。新たに占拠したタイルから攻撃できる他のユニットがいる場合、そのユニットがいるタイルを占拠できます。再移動はできませんが、制圧中のユニットは、複数の制圧攻撃を連鎖的に行うことができます。</ja>
+		<zh-TW>許多link(UNITTRAIT_MOUNTED)單位擁有link(CONCEPT_ROUT)的能力。在他們殲滅一個敵人單位時，若該單位所在的新位置鄰近其他敵方單位，則佔領該單位的圖塊。雖然他們無法再次移動，如果附近有另一個目標，他們就能再次攻擊。</zh-TW>
+		<ru>Многие {lowercase:link(UNITTRAIT_MOUNTED,6)} юниты обладают способностью «{lowercase:link(CONCEPT_ROUT)}». Убивая вражеского юнита, они занимают его клетку, если с нее можно атаковать другого юнита. Сразу после этого они не могут перемещаться, но могут атаковать снова.</ru>
+		<zh-CN>许多link(UNITTRAIT_MOUNTED)单位拥有link(CONCEPT_ROUT)的能力。在他们歼灭一个敌人单位时，若该单位所在的新位置邻近其他敌方单位，则占领该单位的图块。虽然他们无法再次移动，如果附近有另一个目标，他们就能再次攻击。</zh-CN>
+		<pt-BR>Muitas unidades link(UNITTRAIT_MOUNTED,1) têm a habilidade de link(CONCEPT_ROUT). Quando elas matam uma unidade inimiga, elas ocupam a casa na qual a unidade inimiga estava se houver outra unidade disponível para atacar a partir da nova casa ocupada. Embora elas não possam se mover novamente, elas podem atacar novamente se houver outro alvo adjacente.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_37</zType>
+		<en-US>Consider spending link(YIELD_TRAINING,1) to give link(CONCEPT_PROMOTION,2) to some of your Units. Units who have engaged in combat and earned link(CONCEPT_XP,1) cost less link(YIELD_TRAINING) to promote.</en-US>
+		<es>Considera gastar link(YIELD_TRAINING,1) para dar link(CONCEPT_PROMOTION,2) a algunas de tus unidades. Necesitas menos link(YIELD_TRAINING) para ascender a las unidades que han entablado combate y ganado link(CONCEPT_XP,1).</es>
+		<de>Ihr könnt link(YIELD_TRAINING,1) verwenden, um einige Eurer Einheiten zu link(CONCEPT_PROMOTION,6). Bei Einheiten, die bereits Gefechte hinter sich haben und die darin link(CONCEPT_XP) gesammelt haben, kostet die Beförderung weniger link(YIELD_TRAINING).</de>
+		<fr>N'hésitez pas à utiliser l'link(YIELD_TRAINING,1) pour donner des link(CONCEPT_PROMOTION,2) à certaines de vos unités. Les unités ayant combattu et gagné de l'link(CONCEPT_XP,1) ont besoin de moins d'link(YIELD_TRAINING) pour leur promotion.</fr>
+		<ja>link(YIELD_TRAINING,1)を消費して、いくつかのユニットをlink(CONCEPT_PROMOTION,2)することを検討してみましょう。戦闘に参加してlink(CONCEPT_XP,1)を獲得したユニットは、登用のためのlink(YIELD_TRAINING)が少なくて済みます。</ja>
+		<zh-TW>可以花費link(YIELD_TRAINING,1)來給予你的一些單位link(CONCEPT_PROMOTION,2)。參與過戰鬥並獲得link(CONCEPT_XP,1)的單位晉升所需的link(YIELD_TRAINING)花費較少。</zh-TW>
+		<ru>Советуем вам расходовать {lowercase:link(YIELD_TRAINING)} на {lowercase:link(CONCEPT_PROMOTION)} ваших юнитов. На повышение юнитов, участвовавших в боях и заработавших link(CONCEPT_XP), уходит меньше {lowercase:link(YIELD_TRAINING,1)}.</ru>
+		<zh-CN>可以花费link(YIELD_TRAINING,1)来给予你的一些单位link(CONCEPT_PROMOTION,2)。参与过战斗并获得link(CONCEPT_XP,1)的单位晋升所需的link(YIELD_TRAINING)花费较少。</zh-CN>
+		<pt-BR>Considere gastar link(YIELD_TRAINING,1) para link(CONCEPT_PROMOTION,4) algumas de suas unidades. Menos link(YIELD_TRAINING) será necessário para Promover unidades que já tiverem entrado em combate e ganho link(CONCEPT_XP,1).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_38</zType>
+		<en-US>link(CONCEPT_TRIBE,2) are not link(CONCEPT_NATION,2). When at link(DIPLOMACY_WAR) with you, only their Units near your Units or territory pose a threat, unless you anger them enough for them to launch a link(CONCEPT_TRIBE_INVASION).</en-US>
+		<es>Las tribus no son naciones. Cuando están en link(DIPLOMACY_WAR) contigo, solo suponen una amenaza las unidades que tengan próximas a las tuyas o a tus territorios, a no ser que las enfades tanto como para lancen una link(CONCEPT_TRIBE_INVASION).</es>
+		<de>Stämme sind keine Nationen. Wenn sie mit Euch link(DIPLOMACY_WAR) führen, stellen lediglich jene ihrer Einheiten eine Gefahr dar, die sich in der Nähe Eurer Einheiten befinden – es sei denn, Ihr verärgert sie so sehr, dass sie eine link(CONCEPT_TRIBE_INVASION,4) starten.</de>
+		<fr>Les tribus ne sont pas des nations. Quand elles sont en link(DIPLOMACY_WAR) contre vous, seules les unités proches des vôtres ou de votre territoire sont une menace, à moins que vous ne les énerviez au point de lancer une link(CONCEPT_TRIBE_INVASION).</fr>
+		<ja>部族は国家ではありません。部族とlink(DIPLOMACY_WAR)しているとき、あなたが部族を怒らせてlink(CONCEPT_TRIBE_INVASION)を引き起こさない限り、自分のユニットまたは領土の近くにいる部族のユニットだけが脅威となります。</ja>
+		<zh-TW>部落並非國家。他們和你進行link(DIPLOMACY_WAR)時，只有靠近你單位或領地的單位會造成威脅，除非你進一步激怒他們，使他們發起link(CONCEPT_TRIBE_INVASION)。</zh-TW>
+		<ru>Племена — это не нации. Если племя находится в состоянии {lowercase:link(DIPLOMACY_WAR,1)} с вами, непосредственную угрозу представляют лишь его юниты, находящиеся рядом с вашими. Исключение — ситуация, когда вы разозлили племя настолько, что оно начало {lowercase:link(CONCEPT_TRIBE_INVASION,3)}.</ru>
+		<zh-CN>部落并非国家。他们和你进行link(DIPLOMACY_WAR)时，只有靠近你单位或领地的单位会造成威胁，除非你进一步激怒他们，使他们发起link(CONCEPT_TRIBE_INVASION)。</zh-CN>
+		<pt-BR>link(CONCEPT_TRIBE,2) não são link(CONCEPT_NATION,2). Quando uma tribo estiver em link(DIPLOMACY_WAR) com você, apenas as unidades próximas das suas ou de seu território são uma ameaça, a menos que você deixe a tribo com raiva suficiente para que ela lance uma link(CONCEPT_TRIBE_INVASION).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_39</zType>
+		<en-US>Coastal Cities control less land than inland Cities, but they tend to be less vulnerable to attack.</en-US>
+		<es>Las ciudades costeras controlan menos tierra que las ciudades interiores, pero suelen ser menos vulnerables a ataques.</es>
+		<de>Küstenstädte kontrollieren weniger Landgebiete als Städte im Inland, sind allerdings auch weniger anfällig für einen Angriff.</de>
+		<fr>Les villes côtières contrôlent moins de terres que les villes intérieures, mais en général, elles sont moins vulnérables aux attaques.</fr>
+		<ja>沿岸都市は内陸都市に比べて管理する土地は少ないですが、攻撃を受けにくい傾向があります。</ja>
+		<zh-TW>沿海都市控制的土地較內陸城市少，不過他們也較不易遭受攻擊。</zh-TW>
+		<ru>Прибрежные города контролируют меньше земли, чем сухопутные, но они, как правило, менее уязвимы к атакам.</ru>
+		<zh-CN>沿海都市控制的土地较内陆城市少，不过他们也较不易遭受攻击。</zh-CN>
+		<pt-BR>Cidades litorâneas controlam menos terra do que cidades centrais, mas elas tendem a ser menos vulneráveis a ataques.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_40</zType>
+		<en-US>Colder air forces clouds to drop their rain as they gain altitude to move over mountains. Most mountains have a lush band, where the rain falls, and a rain shadow on the opposite side, depending on regional wind patterns.</en-US>
+		<es>El aire frío fuerza a las nubes a soltar lluvia a medida que ganan altitud para pasar sobre las montañas. La mayoría de las montañas presentan una banda frondosa donde caen estas precipitaciones y una sombra orográfica en el lado opuesto, que depende de los patrones de viento regionales.</es>
+		<de>Kältere Luft lässt Wolken regnen, wenn sie über Bergen in höhere Lagen ziehen. Die meisten Bergregionen verfügen daher über einen fruchtbaren Streifen Land, in dem diese Regenfälle niedergehen, dazu einen Regenschatten auf der gegenüberliegenden Seite – abhängig von den Windmustern in einem Gebiet.</de>
+		<fr>L'air froid force les nuages à faire pleuvoir quand ils passent au-dessus des montagnes. La plupart des montagnes ont un flanc luxuriant, là où tombe la pluie, et une ombre orographique du côté opposé, selon la configuration des vents régionaux.</fr>
+		<ja>空気が冷たくなると、雲は山を越えるために高度を上げ、雨を降らせます。ほとんどの山には、地域的な風のパターンに応じて、雨が降り注ぐ緑豊かな地帯があり、その反対側には雨蔭があります。</ja>
+		<zh-TW>在雲朵上升要通過山岳時，較冷的空氣會使雲朵降雨。根據地區的風向，大部分的山岳都有一層會接受雨水的蓊鬱帶，另一面則是乾燥的雨影。</zh-TW>
+		<ru>Набирая высоту над горами, облака попадают в более холодный воздух, из-за чего проливаются дождем. У большинства гор с подветренной стороны есть район с повышенной интенсивностью растительности, а с противоположной, наветренной стороны — т.н. дождевая тень. Этот эффект зависит от преобладающих сезонных ветров.</ru>
+		<zh-CN>在云朵上升要通过山岳时，较冷的空气会使云朵降雨。根据地区的风向，大部分的山岳都有一层会接受雨水的蓊郁带，另一面则是干燥的雨影。</zh-CN>
+		<pt-BR>O ar mais frio força as nuvens a liberarem a chuva que carregam quando elas ganham altitude para ultrapassar as montanhas. A maioria das montanhas tem uma faixa fértil onde a chuva cai e uma sombra de chuva no lado oposto, a depender das correntes de vento regionais.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_41</zType>
+		<en-US>Consider dealing with Events early in your turn. Some Event options require you to spend link(YIELD_ORDERS,1).</en-US>
+		<es>Plantéate lidiar con los eventos nada más empezar el turno, ya que algunos requieren que gastes link(YIELD_ORDERS,1).</es>
+		<de>Mit Ereignissen solltet Ihr Euch ehestmöglich auseinandersetzen, wenn Ihr am Zug seid. Manche Ereignisoptionen könnt Ihr nur dann wählen, wenn Ihr dafür link(YIELD_ORDERS,1) verwendet.</de>
+		<fr>Essayez de gérer les événements au début de votre tour. Certaines options vous demandent de dépenser des link(YIELD_ORDERS,1).</fr>
+		<ja>ターンの早い段階でイベントに対処することを考えましょう。イベントオプションの中には、link(YIELD_ORDERS,1)を消費しなければならないものがあります。</ja>
+		<zh-TW>在你的回合中，可以考慮優先處理事件。有些事件選項需要花費link(YIELD_ORDERS,1)來選擇。</zh-TW>
+		<ru>Действия, связанные с событиями, лучше выполнять в начале хода. На некоторые варианты таких действий нужно расходовать {lowercase:link(YIELD_ORDERS,3)}.</ru>
+		<zh-CN>在你的回合中，可以考虑优先处理事件。有些事件选项需要花费link(YIELD_ORDERS,1)来选择。</zh-CN>
+		<pt-BR>Pode ser uma boa ideia lidar com os eventos no início dos turnos, pois algumas escolhas durante os eventos irão solicitar que você gaste link(YIELD_ORDERS,1).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_42</zType>
+		<en-US>A link(CONCEPT_ALLIANCE_TRIBE) allows you to found Cities peacefully next to your Ally's link(CONCEPT_SETTLEMENT,2).</en-US>
+		<es>Una link(CONCEPT_ALLIANCE_TRIBE) te permite fundar ciudades de forma pacífica junto a los link(CONCEPT_SETTLEMENT,2) de tu aliado.</es>
+		<de>Mit einer link(CONCEPT_ALLIANCE_TRIBE) könnt Ihr Städte kampflos direkt neben link(CONCEPT_SETTLEMENT,2) Eurer Verbündeten platzieren.</de>
+		<fr>Une link(CONCEPT_ALLIANCE_TRIBE) vous permet de bâtir pacifiquement des villes près des link(CONCEPT_SETTLEMENT,2) de votre allié.</fr>
+		<ja>link(CONCEPT_ALLIANCE_TRIBE)により、味方のlink(CONCEPT_SETTLEMENT,2)の隣に平和的に都市を設立することができるようになります。</ja>
+		<zh-TW>link(CONCEPT_ALLIANCE_TRIBE)讓你能和平地在盟友的link(CONCEPT_SETTLEMENT,2)旁邊建立城市。</zh-TW>
+		<ru>link(CONCEPT_ALLIANCE_TRIBE) позволяет основывать города рядом с {lowercase:link(CONCEPT_SETTLEMENT,10)} вашего союзника, не нарушая мир.</ru>
+		<zh-CN>link(CONCEPT_ALLIANCE_TRIBE)让你能和平地在盟友的link(CONCEPT_SETTLEMENT,2)旁边建立城市。</zh-CN>
+		<pt-BR>Uma link(CONCEPT_ALLIANCE_TRIBE) permite que você funde cidades pacificamente perto dos link(CONCEPT_SETTLEMENT,2) da sua tribo aliada.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_43</zType>
+		<en-US>link(YIELD_CIVICS,1) stockpiles are capped at int(MAX_CIVICS). Above this value, they will be converted to link(YIELD_SCIENCE,1).</en-US>
+		<es>Las reservas de link(YIELD_CIVICS,1) tienen su límite en int(MAX_CIVICS). Cuando superen este valor comenzarán a convertirse en link(YIELD_SCIENCE,1).</es>
+		<de>link(YIELD_CIVICS,1)-Vorräte haben ein Limit von int(MAX_CIVICS). Ist dieser Wert erreicht, werden sie stattdessen in link(YIELD_SCIENCE,1) umgewandelt.</de>
+		<fr>La réserve de link(YIELD_CIVICS,1) est limitée à int(MAX_CIVICS). Quand elle dépasse cette valeur, elle est convertie en link(YIELD_SCIENCE,1).</fr>
+		<ja>link(YIELD_CIVICS,1)の備蓄は、int(MAX_CIVICS)で制限されます。この値を超えると、link(YIELD_SCIENCE,1)に変換されます。</ja>
+		<zh-TW>link(YIELD_CIVICS,1)儲備的上限為int(MAX_CIVICS)。超過這個值的儲備會被轉換為link(YIELD_SCIENCE,1)。</zh-TW>
+		<ru>Запасы {lowercase:link(YIELD_CIVICS,1)} ограничены на уровне int(MAX_CIVICS). Ресурс, превышающий это значение, будет преобразован в {lowercase:link(YIELD_SCIENCE,3)}.</ru>
+		<zh-CN>link(YIELD_CIVICS,1)储备的上限为int(MAX_CIVICS)。超过这个值的储备会被转换为link(YIELD_SCIENCE,1)。</zh-CN>
+		<pt-BR>A reserva de link(YIELD_CIVICS,1) tem um limite de int(MAX_CIVICS). Valores acima disso serão transformados em link(YIELD_SCIENCE,1).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_44</zType>
+		<en-US>Damaged link(UNIT_WORKER,2) take an extra turn to build link(CONCEPT_IMPROVEMENT,2).</en-US>
+		<es>Los link(UNIT_WORKER,2) dañados necesitan un turno extra para construir link(CONCEPT_IMPROVEMENT,2).</es>
+		<de>Angeschlagene link(UNIT_WORKER,5) brauchen einen zusätzlichen Zug, um link(CONCEPT_IMPROVEMENT,2) fertigzustellen.</de>
+		<fr>Les link(UNIT_WORKER,2) endommagés ont besoin d'un tour supplémentaire pour construire les link(CONCEPT_IMPROVEMENT,2).</fr>
+		<ja>ダメージを受けたlink(UNIT_WORKER,2)は、link(CONCEPT_IMPROVEMENT,2)を建てるのに1ターンが追加で必要になります。</ja>
+		<zh-TW>受傷的link(UNIT_WORKER,2)會多花一回合來建造link(CONCEPT_IMPROVEMENT,2)。</zh-TW>
+		<ru>У получивших урон {lowercase:link(UNIT_WORKER,7)} уходит лишний ход на строительство {lowercase:link(CONCEPT_IMPROVEMENT,1)}.</ru>
+		<zh-CN>受伤的link(UNIT_WORKER,2)会多花一回合来建造link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
+		<pt-BR>link(UNIT_WORKER,2) machucados levam um turno a mais para construir link(CONCEPT_IMPROVEMENT,2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_45</zType>
+		<en-US>[CTRL+Click] to link(CONCEPT_MARCH,3) a Unit to move past its link(CONCEPT_FATIGUE) range.</en-US>
+		<es>Pulsa [CTRL+Clic] para hacer link(CONCEPT_MARCH,3) a una unidad y que se mueva más allá de su límite de link(CONCEPT_FATIGUE).</es>
+		<de>Mit [STRG + Klick] könnt Ihr einer Einheit über die Reichweite ihrer link(CONCEPT_FATIGUE) hinaus einen link(CONCEPT_MARCH,3).</de>
+		<fr>[CTRL+Click] pour demander à une unité de link(CONCEPT_MARCH,3) et aller plus loin que sa portée de link(CONCEPT_FATIGUE).</fr>
+		<ja>[CTRLキー+クリック]でユニットをlink(CONCEPT_MARCH,3)させ、link(CONCEPT_FATIGUE)の範囲を越えて移動させることができます。</ja>
+		<zh-TW>[CTRL+點擊] 來讓單位link(CONCEPT_MARCH,3)到超過link(CONCEPT_FATIGUE)範圍的地方。</zh-TW>
+		<ru>[Ctrl+ЛКМ] — выполнить юнитом {lowercase:link(CONCEPT_MARCH,3)}, невзирая на его предел {lowercase:link(CONCEPT_FATIGUE,1)}.</ru>
+		<zh-CN>[CTRL+点击] 来让单位link(CONCEPT_MARCH,3)到超过link(CONCEPT_FATIGUE)范围的地方。</zh-CN>
+		<pt-BR>Pressione [CTRL+Clique] para link(CONCEPT_MARCH,3) de uma unidade para que ela se mova além do seu limite de link(CONCEPT_FATIGUE).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_46</zType>
+		<en-US>Hold [hotkey(HOTKEY_HIDE_VEGETATION)] to hide link(VEGETATION_TREES) and link(VEGETATION_SCRUB).</en-US>
+		<es>Mantén [hotkey(HOTKEY_HIDE_VEGETATION)] para esconder los link(VEGETATION_TREES,2) y link(VEGETATION_SCRUB,2).</es>
+		<de>Haltet [hotkey(HOTKEY_HIDE_VEGETATION)] gedrückt, um link(VEGETATION_TREES) und link(VEGETATION_SCRUB,2) auszublenden.</de>
+		<fr>Maintenez [hotkey(HOTKEY_HIDE_VEGETATION)] pour cacher les link(VEGETATION_TREES) et les link(VEGETATION_SCRUB).</fr>
+		<ja>[hotkey(HOTKEY_HIDE_VEGETATION)]を長押しして、link(VEGETATION_TREES)とlink(VEGETATION_SCRUB)を非表示にすることができます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_HIDE_VEGETATION)] 來隱藏link(VEGETATION_TREES)及link(VEGETATION_SCRUB)。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_HIDE_VEGETATION)], чтобы скрыть {lowercase:link(VEGETATION_TREES,3)} и {lowercase:link(VEGETATION_SCRUB,3)}.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_HIDE_VEGETATION)] 来隐藏link(VEGETATION_TREES)及link(VEGETATION_SCRUB)。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_HIDE_VEGETATION)] para ocultar as link(VEGETATION_TREES) e link(VEGETATION_SCRUB,2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_47</zType>
+		<en-US>Hold [hotkey(HOTKEY_SHOW_ZOC)] to highlight Zones of Control.</en-US>
+		<es>Mantén [hotkey(HOTKEY_SHOW_ZOC)] para resaltar las zonas de control.</es>
+		<de>Haltet [hotkey(HOTKEY_SHOW_ZOC)] gedrückt, um Kontrollzonen hervorzuheben.</de>
+		<fr>Maintenez [hotkey(HOTKEY_SHOW_ZOC)] pour mettre en évidence les zones de contrôle.</fr>
+		<ja>[hotkey(HOTKEY_SHOW_ZOC)]を長押しして、制圧領域（ZOC）をハイライトすることができます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_SHOW_ZOC)] 來突顯控制區。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_SHOW_ZOC)], чтобы выделить зоны контроля.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_SHOW_ZOC)] 来突显控制区。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_SHOW_ZOC)] para mostrar as zonas de controle.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_48</zType>
+		<en-US>Hold [hotkey(HOTKEY_SHOW_DANGER_TILES)] to highlight tiles which enemy Units can target.</en-US>
+		<es>Mantén [hotkey(HOTKEY_SHOW_DANGER_TILES)] para resaltar las casillas a donde pueden apuntar las unidades enemigas.</es>
+		<de>Haltet [hotkey(HOTKEY_SHOW_DANGER_TILES)] gedrückt, um Felder hervorzuheben, die sich innerhalb der Angriffsreichweite feindlicher Einheiten befinden.</de>
+		<fr>Maintenez [hotkey(HOTKEY_SHOW_DANGER_TILES)] pour mettre en évidence les cases que les unités ennemies peuvent cibler.</fr>
+		<ja>[hotkey(HOTKEY_SHOW_DANGER_TILES)]を長押しして、敵ユニットが標的にできるタイルをハイライトすることができます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_SHOW_DANGER_TILES)] 來突顯敵人單位能鎖定的圖塊。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_SHOW_DANGER_TILES)], чтобы выделить клетки, попадающие под атаки вражеских юнитов.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_SHOW_DANGER_TILES)] 来突显敌人单位能锁定的图块。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_SHOW_DANGER_TILES)] para mostrar as casas que podem ser alvos de unidade inimigas.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_49</zType>
+		<en-US>Hold [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] to highlight Cities Connected to your Capital.</en-US>
+		<es>Mantén [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] para resaltar las ciudades conectadas a tu capital.</es>
+		<de>Haltet [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] gedrückt, um Städte hervorzuheben, die mit Eurer Hauptstadt verbunden sind.</de>
+		<fr>Maintenez [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] pour mettre en évidence les cités connectées à votre capitale.</fr>
+		<ja>[hotkey(HOTKEY_SHOW_TRADE_NETWORK)]を長押しして、自分の首都に接続されている都市をハイライトすることができます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] 來突顯和首都連結的城市。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_SHOW_TRADE_NETWORK)], чтобы выделить города, соединенные с вашей столицей.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] 来突显和首都连结的城市。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_SHOW_TRADE_NETWORK)] para mostrar as cidades conectadas à sua capital.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_50</zType>
+		<en-US>Hold [hotkey(HOTKEY_SHOW_IDLE_UNITS)] to highlight Units which can still be used.</en-US>
+		<es>Mantén [hotkey(HOTKEY_SHOW_IDLE_UNITS)] para resaltar las unidades que todavía se pueden usar.</es>
+		<de>Haltet [hotkey(HOTKEY_SHOW_IDLE_UNITS)] gedrückt, um Einheiten hervorzuheben, die noch eingesetzt werden können.</de>
+		<fr>Maintenez [hotkey(HOTKEY_SHOW_IDLE_UNITS)] pour mettre en évidence les unités pouvant encore être utilisées.</fr>
+		<ja>[hotkey(HOTKEY_SHOW_IDLE_UNITS)]を長押しして、使用可能なユニットをハイライトすることができます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_SHOW_IDLE_UNITS)] 來突顯還可以使用的單位。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_SHOW_IDLE_UNITS)], чтобы выделить юниты, которые еще можно использовать.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_SHOW_IDLE_UNITS)] 来突显还可以使用的单位。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_SHOW_IDLE_UNITS)] para mostrar as unidades que ainda podem ser usadas.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_51</zType>
+		<en-US>Hold [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] to highlight Resources and tile link(CONCEPT_IMPROVEMENT,2).</en-US>
+		<es>Mantén [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] para resaltar los recursos y las casillas de link(CONCEPT_IMPROVEMENT,2).</es>
+		<de>Haltet [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] um Rohstoffe und Feld-link(CONCEPT_IMPROVEMENT,2) hervorzuheben.</de>
+		<fr>Maintenez [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] pour mettre en évidence les ressources et les link(CONCEPT_IMPROVEMENT,2) de case.</fr>
+		<ja>[hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)]を長押しして、資源とlink(CONCEPT_IMPROVEMENT,2)タイルをハイライトすることができます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] 來突顯資源及圖塊link(CONCEPT_IMPROVEMENT,2)。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)], чтобы выделить ресурсы и {lowercase:link(CONCEPT_IMPROVEMENT,9)} клеток.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] 来突显资源及图块link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_SHOW_RESOURCES_IMPROVEMENTS)] para mostrar recursos e casas de link(CONCEPT_IMPROVEMENT,2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_52</zType>
+		<en-US>If your Leader is not able to complete an link(CONCEPT_AMBITION) before death, it becomes a link(CONCEPT_LEGACY). Legacies count towards an link(VICTORY_AMBITION,2) but are worth less  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</en-US>
+		<es>Si tu líder no puede completar una link(CONCEPT_AMBITION) antes de morir, se convertirá en un link(CONCEPT_LEGACY). Los legados cuentan para link(VICTORY_AMBITION,1), pero valen menos icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</es>
+		<de>Wenn Euer Oberhaupt eine link(CONCEPT_AMBITION) nicht vor dem Tod realisieren kann, wird diese zum link(CONCEPT_LEGACY). Vermächtnisse werden einem link(VICTORY_AMBITION) angerechnet, sind aber weniger icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) wert.</de>
+		<fr>Si votre dirigeant n'arrive pas à accomplir une link(CONCEPT_AMBITION) avant de mourir, elle se transforme en link(CONCEPT_LEGACY). Les héritages comptent pour une link(VICTORY_AMBITION), mais rapporte moins de icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</fr>
+		<ja>指導者が死ぬまでにlink(CONCEPT_AMBITION)を達成できなかった場合、それはlink(CONCEPT_LEGACY)になります。遺命はlink(VICTORY_AMBITION)にカウントされますが、icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)よりは価値が下がります。</ja>
+		<zh-TW>如果你的領袖無法在死前完成一項link(CONCEPT_AMBITION)，它就會變成link(CONCEPT_LEGACY)。遺產也算在link(VICTORY_AMBITION)中，不過icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)值較少。</zh-TW>
+		<ru>Если ваш лидер не смог реализовать {lowercase:link(CONCEPT_AMBITION,3)} перед смертью, она становится {lowercase:link(CONCEPT_LEGACY,4)}. Наследия учитываются, как и {lowercase:link(VICTORY_AMBITION,6)}, но стоят меньше icon(YIELD_LEGITIMACY){lowercase:link(CONCEPT_LEGITIMACY,1)}.</ru>
+		<zh-CN>如果你的领袖无法在死前完成一项link(CONCEPT_AMBITION)，它就会变成link(CONCEPT_LEGACY)。遗产也算在link(VICTORY_AMBITION)中，不过icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)值较少。</zh-CN>
+		<pt-BR>Se o seu líder não for capaz de completar uma link(CONCEPT_AMBITION) antes de morrer, ela se tornará um link(CONCEPT_LEGACY). Legados contam para uma link(VICTORY_AMBITION,2), mas valem menos  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_53</zType>
+		<en-US>Tribal Strength, chosen under Advanced Setup, affects the number of empty link(CONCEPT_CITY_SITE,2) near your link(CONCEPT_CAPITAL).</en-US>
+		<es>La Fuerza Tribal, que se puede elegir en la configuración avanzada, afecta a la cantidad de link(CONCEPT_CITY_SITE,2) vacías cerca de tu link(CONCEPT_CAPITAL).</es>
+		<de>Die Stammesstärke kann im erweiterten Setup eingestellt werden und beeinflusst die Anzahl leerer link(CONCEPT_CITY_SITE,2) in der Nähe Eurer link(CONCEPT_CAPITAL).</de>
+		<fr>La puissance tribale, qui se paramètre dans Configuration avancée, affecte le nombre d'link(CONCEPT_CITY_SITE,2) vides près de votre link(CONCEPT_CAPITAL).</fr>
+		<ja>「詳細設定」で選択された部族戦闘力は、自分のlink(CONCEPT_CAPITAL)の近くにある空きのlink(CONCEPT_CITY_SITE,2)の数に影響を及ぼします。</ja>
+		<zh-TW>部落強度可在進階設定中選擇，會影響你的link(CONCEPT_CAPITAL)附近無人link(CONCEPT_CITY_SITE,2)的數量。</zh-TW>
+		<ru>Сила племени, выбранная в дополнительных настройках, влияет на количество пустых {lowercase:link(CONCEPT_CITY_SITE,7)} рядом с вашей {lowercase:link(CONCEPT_CAPITAL,4)}.</ru>
+		<zh-CN>部落强度可在进阶设定中选择，会影响你的link(CONCEPT_CAPITAL)附近无人link(CONCEPT_CITY_SITE,2)的数量。</zh-CN>
+		<pt-BR>A força tribal, uma das opções que pode ser escolhida nas configurações avançadas, afeta o número de link(CONCEPT_CITY_SITE,2) vazios perto da sua link(CONCEPT_CAPITAL).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_54</zType>
+		<en-US>Non-coastal link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) must be adjacent to the City tile or to two other link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2).</en-US>
+		<es>Los link(CONCEPT_IMPROVEMENT,2) link(CONCEPT_URBAN,2) no costeros tienen que estar adyacentes a casillas de ciudad o a otros dos link(CONCEPT_IMPROVEMENT,2) link(CONCEPT_URBAN,2).</es>
+		<de>{sentencecase:link(CONCEPT_URBAN)} link(CONCEPT_IMPROVEMENT,2), die nicht an der Küste liegen, müssen auf einem Feld errichtet werden, das an ein Stadtfeld oder an zwei weitere link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) angrenzt.</de>
+		<fr>Les link(CONCEPT_IMPROVEMENT,2) non côtiers de type link(CONCEPT_URBAN) doivent êtres adjacents à la case de cité ou à deux autres link(CONCEPT_IMPROVEMENT,2) de type link(CONCEPT_URBAN).</fr>
+		<ja>非沿岸のlink(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)は、都市タイルに隣接するか、他の2つのlink(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)に隣接している必要があります。</ja>
+		<zh-TW>不靠海的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)必須鄰近一個城市圖塊或兩個其他的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)。</zh-TW>
+		<ru>Небереговые {lowercase:link(CONCEPT_URBAN,6)} {lowercase:link(CONCEPT_IMPROVEMENT,6)} должны располагаться рядом с городской клеткой или с двумя другими {lowercase:link(CONCEPT_URBAN,10)} {lowercase:link(CONCEPT_IMPROVEMENT,10)}.</ru>
+		<zh-CN>不靠海的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)必须邻近一个城市图块或两个其他的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
+		<pt-BR>link(CONCEPT_IMPROVEMENT,2) link(CONCEPT_URBAN,4) não litorâneas devem ser construídas adjacentes a uma casa de cidade ou a outras duas link(CONCEPT_IMPROVEMENT,2) link(CONCEPT_URBAN,4).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_55</zType>
+		<en-US>link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) on the coast need only be adjacent to one other link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT) on the same coast or the City tile.</en-US>
+		<es>Los link(CONCEPT_IMPROVEMENT,2) link(CONCEPT_URBAN,2) costeros solo necesitan estar adyacentes a otro link(CONCEPT_IMPROVEMENT) link(CONCEPT_URBAN) o a una casilla de ciudad.</es>
+		<de>{sentencecase:link(CONCEPT_URBAN)} link(CONCEPT_IMPROVEMENT,2) an der Küste müssen nicht an ein Stadtfeld oder an andere link(CONCEPT_URBAN) link(CONCEPT_IMPROVEMENT,2) angrenzen.</de>
+		<fr>Les link(CONCEPT_IMPROVEMENT,2) de type link(CONCEPT_URBAN) doivent être adjacentes à au moins une autre link(CONCEPT_IMPROVEMENT) de type link(CONCEPT_URBAN) ou à la case de cité.</fr>
+		<ja>沿岸にあるlink(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)は、他のlink(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT)、または都市タイルの1つと隣接している必要があります。</ja>
+		<zh-TW>沿海的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)只需要鄰近另一個其他的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT)或城市圖塊。</zh-TW>
+		<ru>link(CONCEPT_URBAN,8) {lowercase:link(CONCEPT_IMPROVEMENT,8)} на берегу достаточно располагаться рядом с одним {lowercase:link(CONCEPT_URBAN,4)} {lowercase:link(CONCEPT_IMPROVEMENT,4)} или городской клеткой.</ru>
+		<zh-CN>沿海的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT,2)只需要邻近另一个其他的link(CONCEPT_URBAN)link(CONCEPT_IMPROVEMENT)或城市图块。</zh-CN>
+		<pt-BR>link(CONCEPT_IMPROVEMENT,2) link(CONCEPT_URBAN,4) no litoral precisam estar adjacentes apenas a uma casa de cidade ou a outra link(CONCEPT_IMPROVEMENT) link(CONCEPT_URBAN,3) no mesmo litoral.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_56</zType>
+		<en-US>With a link(UNIT_WORKER) selected, hold [CTRL] and move the cursor over a tile to see what link(CONCEPT_IMPROVEMENT,2) can be built there.</en-US>
+		<es>Mantén [CTRL] con link(UNIT_WORKER,1) seleccionado y mueve el cursor a una casilla para ver qué link(CONCEPT_IMPROVEMENT,2) se pueden construir ahí.</es>
+		<de>Haltet [STRG] gedrückt, während Ihr einen link(UNIT_WORKER) ausgewählt habt, und bewegt anschließend den Mauszeiger über ein Feld. Auf diese Weise seht Ihr, welche link(CONCEPT_IMPROVEMENT,2) Ihr hier errichten könnt.</de>
+		<fr>Avec un link(UNIT_WORKER) sélectionné, maintenez [CTRL] et déplacez le curseur sur une case pour voir quelles link(CONCEPT_IMPROVEMENT,2) vous pouvez y construire.</fr>
+		<ja>link(UNIT_WORKER)を選択した状態で、[CTRLキー]を押しながらタイル上にカーソルを移動すると、そこにどんなlink(CONCEPT_IMPROVEMENT,2)を建てることができるかを確認することができます。</ja>
+		<zh-TW>選擇一個link(UNIT_WORKER)，按住 [CTRL] 並將游標移到圖塊上方，來查看該地能建造什麼樣的link(CONCEPT_IMPROVEMENT,2)。</zh-TW>
+		<ru>Выбрав {lowercase:link(UNIT_WORKER,1)} удерживайте [Ctrl] и перемещайте курсор над клетками, чтобы увидеть, какое {lowercase:link(CONCEPT_IMPROVEMENT,3)} можно на них построить.</ru>
+		<zh-CN>选择一个link(UNIT_WORKER)，按住 [CTRL] 并将游标移到图块上方，来查看该地能建造什么样的link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
+		<pt-BR>Com um link(UNIT_WORKER) selecionado, pressione [CTRL] e posicione o cursor sobre uma casa para ver quais as link(CONCEPT_IMPROVEMENT,2) que podem ser construídas no local.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_57</zType>
+		<en-US>link(UNIT_SCOUT,2) are link(CONCEPT_HIDDEN) while on a link(VEGETATION_TREES) tile in neutral or friendly territory.</en-US>
+		<es>Los link(UNIT_SCOUT,2) están link(CONCEPT_HIDDEN,3) en casillas de link(VEGETATION_TREES) en territorio neutral o aliado.</es>
+		<de>link(UNIT_SCOUT,5) sind link(CONCEPT_HIDDEN), wenn sie sich auf einem neutralen oder verbündeten Feld mit link(VEGETATION_TREES,1) befinden.</de>
+		<fr>Les link(UNIT_SCOUT,2) sont link(CONCEPT_HIDDEN,2) quand ils sont sur une case d'link(VEGETATION_TREES) en territoire neutre ou amical.</fr>
+		<ja>中立的または友好的な領土のlink(VEGETATION_TREES)のタイル上にいる間、link(UNIT_SCOUT,2)はlink(CONCEPT_HIDDEN)状態になります。</ja>
+		<zh-TW>link(UNIT_SCOUT,2)在中立或友好領地的link(VEGETATION_TREES)圖塊上是link(CONCEPT_HIDDEN)的。</zh-TW>
+		<ru>link(UNIT_SCOUT,6) {lowercase:link(CONCEPT_HIDDEN)}, если находятся на клетке с {lowercase:link(VEGETATION_TREES,4)} на нейтральной или дружественной территории.</ru>
+		<zh-CN>link(UNIT_SCOUT,2)在中立或友好领地的link(VEGETATION_TREES)图块上是link(CONCEPT_HIDDEN)的。</zh-CN>
+		<pt-BR>link(UNIT_SCOUT,2) ficam link(CONCEPT_HIDDEN,2) enquanto estão em casas com link(VEGETATION_TREES) em território neutro ou aliado.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_58</zType>
+		<en-US>Hold [SHIFT] or [MIDDLE-CLICK] to Freeze Tooltips.</en-US>
+		<es>Mantén [MAYÚS] o haz clic con [BOTÓN CENTRAL] para congelar los recuadros.</es>
+		<de>Haltet [UMSCHALT] oder die [MITTLERE MAUSTASTE] gedrückt, um Tooltips einzufrieren.</de>
+		<fr>Maintenez [SHIFT] ou [MIDDLE-CLICK] pour figer les infobulles.</fr>
+		<ja>[SHIFTキー]または[ミドルボタン]を長押しして、ツールチップを静止画表示させることができます。</ja>
+		<zh-TW>按住 [SHIFT] 或 [點擊中鍵] 來凍結提示框。</zh-TW>
+		<ru>Удерживайте [Shift] или щелкните [СКМ], чтобы закрепить подсказки на экране.</ru>
+		<zh-CN>按住 [SHIFT] 或 [点击中键] 来冻结提示框。</zh-CN>
+		<pt-BR>Segure [SHIFT] ou [BOTÃO DO MEIO] para bloquear os quadros de dicas.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_59</zType>
+		<en-US>With a unit selected, hover the mouse cursor over enemy Units to preview combat damage. Hold [ALT] to preview even for non-enemy Units.</en-US>
+		<es>Mientras mantienes una unidad seleccionada, pasa el cursor sobre las unidades enemigas para previsualizar el daño de combate. Mantén [ALT] para previsualizar también las unidades no enemigas.</es>
+		<de>Wenn eine Einheit ausgewählt ist, bewegt den Mauszeiger über gegnerische Einheiten, um eine Vorschau des Kampfschadens anzuzeigen. Haltet [ALT] gedrückt, um auch für nicht feindliche Einheiten eine Vorschau anzuzeigen.</de>
+		<fr>Avec une unité sélectionnée, placez le curseur de la souris sur des unités ennemies pour voir un aperçu des dégâts. Maintenez [ALT] afin de voir l'aperçu pour les unités qui ne sont pas vos ennemies.</fr>
+		<ja>ユニットを選択した状態で、マウスカーソルを敵ユニットに合わせると、戦闘ダメージをプレビューできます。[ALTキー]を長押しすると、敵以外のユニットもプレビューできます。</ja>
+		<zh-TW>在選擇一個單位後，將游標移至敵人單位上方來預覽戰鬥傷害。按住 [ALT] 就能預覽非敵人單位的傷害。</zh-TW>
+		<ru>Выбрав своего юнита, можно навести курсор мыши на вражеского юнита, чтобы предварительно увидеть урон в потенциальном бою. Удерживайте [Alt], чтобы увидеть такой урон даже для невраждебных юнитов.</ru>
+		<zh-CN>在选择一个单位后，将鼠标移至敌人单位上方来预览战斗伤害。按住 [ALT] 就能预览非敌人单位的伤害。</zh-CN>
+		<pt-BR>Com uma unidade selecionada, posicione o cursor sobre unidades inimigas para verificar o dano que pode ser causado em combate. Segure [ALT] para verificar também as unidades não inimigas.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_60</zType>
+		<en-US>Hold down [SHIFT] when moving a Unit to assign a multi-turn destination. The Unit will move (to the edge of its link(CONCEPT_FATIGUE) range) towards that tile each turn.</en-US>
+		<es>Mantén [MAYÚS] cuando muevas a una unidad para asignarle un destino que necesite varios turnos. La unidad se moverá (hasta el límite de su link(CONCEPT_FATIGUE)) hacia esa casilla cada turno.</es>
+		<de>Haltet beim Bewegen [UMSCHALT] gedrückt, um einen Zielort festzulegen, der nicht innerhalb eines Zuges erreicht werden kann. Die Einheit wird sich fortan in jedem Zug (maximal bis zum Erreichen ihrer link(CONCEPT_FATIGUE)sreichweite) in Richtung dieses Feldes bewegen.</de>
+		<fr>Maintenez [SHIFT] quand vous déplacez une unité pour assigner une destination sur plusieurs tours. L'unité avancera (à la limite de sa portée de link(CONCEPT_FATIGUE)) vers cette case chaque tour.</fr>
+		<ja>[SHIFTキー]を押しながらユニットを移動させると、複数ターンでの移動先を指定することができます。ユニットは、それぞれのターンで目的のタイルに向かって（link(CONCEPT_FATIGUE)の範囲内で）移動します。</ja>
+		<zh-TW>移動單位時按住 [SHIFT] 來指定一個多回合的目標地。該單位每回合都回朝向該圖塊移動 (直到達到link(CONCEPT_FATIGUE)極限為止)。</zh-TW>
+		<ru>Удерживайте [Shift], перемещая юнита, чтобы назначить ему многоходовый маршрут. На каждом ходу юнит будет перемещаться по направлению к указанной клетке, насколько ему позволяет запас {lowercase:link(CONCEPT_FATIGUE,1)}.</ru>
+		<zh-CN>移动单位时按住 [SHIFT] 来指定一个多回合的目标地。该单位每回合都回朝向该图块移动 (直到达到link(CONCEPT_FATIGUE)极限为止)。</zh-CN>
+		<pt-BR>Segure [SHIFT] enquanto move uma unidade para fazer com que ela vá a um destino que necessitará de vários turnos para ser alcançado. A unidade irá se mover (respeitando seu limite de link(CONCEPT_FATIGUE)), de turno em turno, na direção do destino escolhido.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_61</zType>
+		<en-US>Pressing [ESC] will close the topmost tooltip or window.</en-US>
+		<es>Presionar [ESC] cerrará el recuadro o ventana más reciente.</es>
+		<de>Mit [ESC] kannst du den obersten Tooltip oder das Fenster schließen.</de>
+		<fr>Appuyer sur [ESC] fermera la dernière infobulle ou fenêtre.</fr>
+		<ja>[ESCキー]を押して、一番上のツールチップまたはウィンドウを閉じることができます。</ja>
+		<zh-TW>按下 [ESC] 來關閉最上層的提示框或視窗。</zh-TW>
+		<ru>Нажатие [Esc] закроет самую верхнюю подсказку или окно.</ru>
+		<zh-CN>按下 [ESC] 来关闭最上层的提示框或视窗。</zh-CN>
+		<pt-BR>Pressione [ESC] para fechar o quadro de dicas ou a janela que foi aberto por último.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_62</zType>
+		<en-US>Cities gain link(YIELD_DISCONTENT,1) over time. When a City's link(YIELD_DISCONTENT) meter is filled, its overall link(YIELD_DISCONTENT) Level goes up, which increases link(YIELD_MAINTENANCE,1) and reduces link(YIELD_GROWTH,1) and link(YIELD_SCIENCE,1).</en-US>
+		<es>Las ciudades ganan link(YIELD_DISCONTENT,1) con el tiempo. Cuando el medidor de link(YIELD_DISCONTENT) de una ciudad se llena, su nivel de link(YIELD_DISCONTENT) sube, lo que incrementa el link(YIELD_MAINTENANCE,1) y reduce el link(YIELD_GROWTH,1) y la link(YIELD_SCIENCE,1).</es>
+		<de>Die link(YIELD_DISCONTENT,1) von Städten wächst mit der Zeit. Wenn die link(YIELD_DISCONTENT)sleiste einer Stadt voll ist, erhöht sich die Gesamtstufe der link(YIELD_DISCONTENT), wodurch die link(YIELD_MAINTENANCE,1) erhöht und link(YIELD_GROWTH,1) sowie link(YIELD_SCIENCE,1) reduziert werden.</de>
+		<fr>Les cités gagnent du link(YIELD_DISCONTENT,1) au fil du temps. Quand la jauge de link(YIELD_DISCONTENT) d'une cité est remplie, son niveau global de link(YIELD_DISCONTENT) monte d'un niveau, ce qui augmente la link(YIELD_MAINTENANCE,1) et réduit la link(YIELD_GROWTH,1) et la link(YIELD_SCIENCE,1).</fr>
+		<ja>都市では、時間の経過とともにlink(YIELD_DISCONTENT,1)が増加します。都市のlink(YIELD_DISCONTENT)メーターがいっぱいになると、全体のlink(YIELD_DISCONTENT)レベルが上がり、link(YIELD_MAINTENANCE,1)が増加し、link(YIELD_GROWTH,1)とlink(YIELD_SCIENCE,1)は減少します。</ja>
+		<zh-TW>城市會逐漸獲得link(YIELD_DISCONTENT,1)。城市的link(YIELD_DISCONTENT)量表集滿後，整體link(YIELD_DISCONTENT)等級會上升，進而增加link(YIELD_MAINTENANCE,1)，並減少link(YIELD_GROWTH,1)和link(YIELD_SCIENCE,1)。</zh-TW>
+		<ru>Со временем в городах накапливается {lowercase:link(YIELD_DISCONTENT)}. Когда шкала {lowercase:link(YIELD_DISCONTENT,1)} в городе заполняется, возрастает его общий уровень {lowercase:link(YIELD_DISCONTENT,1)}, что повышает расходы на {lowercase:link(YIELD_MAINTENANCE,3)} и сокращает поступления {lowercase:link(YIELD_GROWTH,1)} и {lowercase:link(YIELD_SCIENCE,1)}.</ru>
+		<zh-CN>城市会逐渐获得link(YIELD_DISCONTENT,1)。城市的link(YIELD_DISCONTENT)量表集满后，整体link(YIELD_DISCONTENT)等级会上升，进而增加link(YIELD_MAINTENANCE,1)，并减少link(YIELD_GROWTH,1)和link(YIELD_SCIENCE,1)。</zh-CN>
+		<pt-BR>Cidades ganham link(YIELD_DISCONTENT,1) com o tempo. Quando a barra de link(YIELD_DISCONTENT) de uma cidade se enche, o nível geral de link(YIELD_DISCONTENT,1) aumenta em um. Isso faz com que o link(YIELD_GROWTH,1) e a link(YIELD_SCIENCE,1) diminuam e a link(YIELD_MAINTENANCE,1) aumente.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_63</zType>
+		<en-US>link(CONCEPT_FAMILY_CLASS,2) determine what effects a link(CONCEPT_FAMILY) has on its Cities, as well as what Laws, link(CONCEPT_LUXURY), and other conditions keep them happy.</en-US>
+		<es>Las link(CONCEPT_FAMILY_CLASS,2) determinan qué efectos tiene una link(CONCEPT_FAMILY) en sus ciudades, así como qué leyes, link(CONCEPT_LUXURY,2) y otras condiciones los mantienen felices.</es>
+		<de>Die link(CONCEPT_FAMILY_CLASS) bestimmt, wie eine link(CONCEPT_FAMILY) ihre Städte beeinflusst und welche Gesetze, link(CONCEPT_LUXURY,2) und weiteren Faktoren sie bei Laune halten.</de>
+		<fr>Les link(CONCEPT_FAMILY_CLASS,2) déterminent quels effets une link(CONCEPT_FAMILY) a sur ses cités, ainsi que les lois, les link(CONCEPT_LUXURY,2), et les autres conditions pour les rendre heureux.</fr>
+		<ja>link(CONCEPT_FAMILY_CLASS,2)は、link(CONCEPT_FAMILY)が都市に与える影響を決定づけます。また、法律、link(CONCEPT_LUXURY,2)、その他の条件によって都市を幸せに保つ条件を決定づけます。</ja>
+		<zh-TW>link(CONCEPT_FAMILY_CLASS,2)會決定link(CONCEPT_FAMILY)對其城市的影響，以及他們樂見的法典、link(CONCEPT_LUXURY,2)和其他條件為何。</zh-TW>
+		<ru>link(CONCEPT_FAMILY_CLASS) определяет, какие эффекты оказывает {lowercase:link(CONCEPT_FAMILY)} на свои города и какие законы и {lowercase:link(CONCEPT_LUXURY)}, а также прочие условия делают ее счастливой.</ru>
+		<zh-CN>link(CONCEPT_FAMILY_CLASS,2)会决定link(CONCEPT_FAMILY)对其城市的影响，以及他们乐见的法典、link(CONCEPT_LUXURY,2)和其他条件为何。</zh-CN>
+		<pt-BR>As link(CONCEPT_FAMILY_CLASS,2) determinam quais efeitos uma link(CONCEPT_FAMILY) tem sobre as cidades que governa, assim como quais são as leis, os link(CONCEPT_LUXURY) e demais condições que as mantêm felizes.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_64</zType>
+		<en-US>You can reduce link(YIELD_DISCONTENT,1) by connecting your Cities with link(CONCEPT_ROAD,2), recruiting link(SPECIALISTCLASS_PRIEST,1), and building link(IMPROVEMENTCLASS_BATHS,2). Certain other combinations of link(CONCEPT_IMPROVEMENT,2), link(CONCEPT_SPECIALIST,2), and laws reduce link(YIELD_DISCONTENT,1) as well.</en-US>
+		<es>Puedes reducir el link(YIELD_DISCONTENT,1) conectando tus ciudades con link(CONCEPT_ROAD,2), reclutando un link(SPECIALISTCLASS_PRIEST,1) y construyendo link(IMPROVEMENTCLASS_BATHS,2). Hay otras combinaciones de link(CONCEPT_IMPROVEMENT,2), link(CONCEPT_SPECIALIST,2) y leyes que también reducen el link(YIELD_DISCONTENT,1).</es>
+		<de>Ihr könnt die link(YIELD_DISCONTENT,1) reduzieren, indem Ihr Eure Städte mit link(CONCEPT_ROAD,2) verbindet, link(SPECIALISTCLASS_PRIEST,1) rekrutiert und link(IMPROVEMENTCLASS_BATHS,2) errichtet. Bestimmte andere Kombinationen von link(CONCEPT_IMPROVEMENT,2), link(CONCEPT_SPECIALIST,2) und Gesetzen reduzieren die link(YIELD_DISCONTENT,1) ebenfalls.</de>
+		<fr>Vous pouvez réduire le link(YIELD_DISCONTENT,1) en connectant vos cités à des link(CONCEPT_ROAD,2), en recrutant des link(SPECIALISTCLASS_PRIEST,1), et en construisant des link(IMPROVEMENTCLASS_BATHS,2). Certains link(CONCEPT_SPECIALIST,2), link(CONCEPT_IMPROVEMENT,2) et lois réduisent aussi le link(YIELD_DISCONTENT,1).</fr>
+		<ja>link(CONCEPT_ROAD,2)で都市を接続したり、link(SPECIALISTCLASS_PRIEST,1)を採用したり、link(IMPROVEMENTCLASS_BATHS,2)を建設することで、link(YIELD_DISCONTENT,1)を減らすことができます。link(CONCEPT_IMPROVEMENT,2)、link(CONCEPT_SPECIALIST,2)、法律の、他の特定の組み合わせによっても、link(YIELD_DISCONTENT,1)を減らすことが可能です。</ja>
+		<zh-TW>要降低link(YIELD_DISCONTENT,1)，你可以用link(CONCEPT_ROAD,2)連接你的城市、招募link(SPECIALISTCLASS_PRIEST,1)、及建造link(IMPROVEMENTCLASS_BATHS,2)。其他特定的link(CONCEPT_IMPROVEMENT,2)、link(CONCEPT_SPECIALIST,2)及法典組合也能降低link(YIELD_DISCONTENT,1)。</zh-TW>
+		<ru>link(YIELD_DISCONTENT,3) можно снизить, соединяя города {lowercase:link(CONCEPT_ROAD,10)}, нанимая {lowercase:link(SPECIALISTCLASS_PRIEST,9)} и строя {lowercase:link(IMPROVEMENTCLASS_BATHS,6)}. Определенные сочетания {lowercase:link(CONCEPT_IMPROVEMENT,7)}, {lowercase:link(CONCEPT_SPECIALIST,7)} и законов тоже снижают {lowercase:link(YIELD_DISCONTENT,3)}.</ru>
+		<zh-CN>要降低link(YIELD_DISCONTENT,1)，你可以用link(CONCEPT_ROAD,2)连接你的城市、招募link(SPECIALISTCLASS_PRIEST,1)、及建造link(IMPROVEMENTCLASS_BATHS,2)。其他特定的link(CONCEPT_IMPROVEMENT,2)、link(CONCEPT_SPECIALIST,2)及法典组合也能降低link(YIELD_DISCONTENT,1)。</zh-CN>
+		<pt-BR>Você pode reduzir a link(YIELD_DISCONTENT,1) de suas cidades ao conectá-las com link(CONCEPT_ROAD,2), ao recrutar link(SPECIALISTCLASS_PRIEST,1) e ao construir link(IMPROVEMENTCLASS_BATHS,2). Algumas outras combinações de link(CONCEPT_IMPROVEMENT,2), link(CONCEPT_SPECIALIST,2) e leis também reduzem a link(YIELD_DISCONTENT,1).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_65</zType>
+		<en-US>link(UNIT_SCOUT,2), link(UNIT_SETTLER,2), and link(UNIT_WORKER,2) can Harvest Resources for a quick supply of Goods.</en-US>
+		<es>Los link(UNIT_SCOUT,2), los link(UNIT_SETTLER,2) y los link(UNIT_WORKER,2) pueden recolectar recursos para proporcionarte bienes con rapidez.</es>
+		<de>link(UNIT_SCOUT,5), link(UNIT_SETTLER,5) und link(UNIT_WORKER,5) können Rohstoffe sammeln, falls Ihr schnell eine Warenlieferung benötigen solltet.</de>
+		<fr>Les link(UNIT_SCOUT,2), les link(UNIT_SETTLER,2), et les link(UNIT_WORKER,2) peuvent récolter des ressources pour obtenir rapidement des biens.</fr>
+		<ja>link(UNIT_SCOUT,2)、link(UNIT_SETTLER,2)、link(UNIT_WORKER,2)は、資源を獲得して物資を素早く供給することができます。</ja>
+		<zh-TW>link(UNIT_SCOUT,2)、link(UNIT_SETTLER,2)及link(UNIT_WORKER,2)能收集資源，快速產生物資。</zh-TW>
+		<ru>link(UNIT_SCOUT,6), {lowercase:link(UNIT_SETTLER,6)} и {lowercase:link(UNIT_WORKER,6)} могут собирать ресурсы, что дает быстрый приток товаров.</ru>
+		<zh-CN>link(UNIT_SCOUT,2)、link(UNIT_SETTLER,2)及link(UNIT_WORKER,2)能收集资源，快速产生物资。</zh-CN>
+		<pt-BR>link(UNIT_SCOUT,2), link(UNIT_SETTLER,2) e link(UNIT_WORKER,2) podem coletar recursos diretamente de casas para que você adquira alguns recursos rapidamente.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_66</zType>
+		<en-US>A link(CONCEPT_MARCH) permits a Unit to continue moving on the current turn when link(CONCEPT_FATIGUE,1), at the cost of int(UNIT_MARCH_COST) link(YIELD_TRAINING,1) and twice as many link(YIELD_ORDERS,1) per additional Move.</en-US>
+		<es>La link(CONCEPT_MARCH) permite que una unidad siga moviéndose durante el mismo turno cuando está link(CONCEPT_FATIGUE,1), al coste de int(UNIT_MARCH_COST) link(YIELD_TRAINING,1) y requiriendo el doble de link(YIELD_ORDERS,1) por cada movimiento adicional.</es>
+		<de>Mit einem link(CONCEPT_MARCH) kann eine Einheit innerhalb eines Zuges über die Grenzen der link(CONCEPT_FATIGUE) hinaus weiterziehen. Jede zusätzliche Bewegung verbraucht dabei int(UNIT_MARCH_COST) link(YIELD_TRAINING,1) und doppelt so viele link(YIELD_ORDERS,1).</de>
+		<fr>Une link(CONCEPT_MARCH) permet à une unité de continuer à se déplacer durant son tour quand elle est link(CONCEPT_FATIGUE,1), en payant de l'int(UNIT_MARCH_COST) link(YIELD_TRAINING,1) et deux fois plus d'link(YIELD_ORDERS,1) par déplacement supplémentaire.</fr>
+		<ja>link(CONCEPT_MARCH)により、ユニットがlink(CONCEPT_FATIGUE,1)状態のときでも現在のターンで移動を続けることができるようになりますが、その際、int(UNIT_MARCH_COST) link(YIELD_TRAINING,1)と追加の移動ごとに2倍のlink(YIELD_ORDERS,1)を消費します。</ja>
+		<zh-TW>link(CONCEPT_MARCH)能讓一個link(CONCEPT_FATIGUE,1)狀態下的單位在當前回合繼續移動，然每個額外的動作會花費int(UNIT_MARCH_COST)link(YIELD_TRAINING,1)和兩倍的link(YIELD_ORDERS,1)。</zh-TW>
+		<ru>link(CONCEPT_MARCH) позволяет юниту продолжить движение на текущем ходу, превысив предел {lowercase:link(CONCEPT_FATIGUE,1)}, за счет int(UNIT_MARCH_COST) {lowercase:link(YIELD_TRAINING,1)} и расхода удвоенного количества {lowercase:link(YIELD_ORDERS,1)} за каждый дополнительный ход.</ru>
+		<zh-CN>link(CONCEPT_MARCH)能让一个link(CONCEPT_FATIGUE,1)状态下的单位在当前回合继续移动，然每个额外的动作会花费int(UNIT_MARCH_COST)link(YIELD_TRAINING,1)和两倍的link(YIELD_ORDERS,1)。</zh-CN>
+		<pt-BR>Uma link(CONCEPT_MARCH) permite que uma unidade continue se movendo no mesmo turno quando já estiver link(CONCEPT_FATIGUE,2), ao custo de int(UNIT_MARCH_COST) link(YIELD_TRAINING,1) e 2x o valor de link(YIELD_ORDERS,1) por cada movimento adicional.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_67</zType>
+		<en-US>A link(CONCEPT_FATIGUE,1) Unit can only Move again on the current turn through a link(CONCEPT_MARCH).</en-US>
+		<es>Una unidad link(CONCEPT_FATIGUE,1) solo puede moverse de nuevo en el mismo turno por medio de la link(CONCEPT_MARCH).</es>
+		<de>Eine Einheit, die {lowercase:link(CONCEPT_FATIGUE,1)} ist, kann in derselben Runde nur durch einen link(CONCEPT_MARCH) erneut bewegt werden.</de>
+		<fr>Une unité link(CONCEPT_FATIGUE,1) ne peut se déplacer à nouveau lors de son tour qu'en utilisant une link(CONCEPT_MARCH).</fr>
+		<ja>link(CONCEPT_FATIGUE,1)したユニットはlink(CONCEPT_MARCH)によって現在のターンでのみ再び移動することが可能です。</ja>
+		<zh-TW>一個link(CONCEPT_FATIGUE,1)的單位在當前回合只能透過link(CONCEPT_MARCH)來再次移動。</zh-TW>
+		<ru>Юнит, превысивший предел {lowercase:link(CONCEPT_FATIGUE,1)}, может передвигаться на текущем ходу только с помощью {lowercase:link(CONCEPT_MARCH,1)}.</ru>
+		<zh-CN>一个link(CONCEPT_FATIGUE,1)的单位在当前回合只能透过link(CONCEPT_MARCH)来再次移动。</zh-CN>
+		<pt-BR>Uma unidade link(CONCEPT_FATIGUE,2) só pode se mover novamente no mesmo turno através de uma link(CONCEPT_MARCH).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_68</zType>
+		<en-US>link(CONCEPT_FLANKING,1) an enemy Unit by attacking it while another friendly Unit is on the opposite side.</en-US>
+		<es>Puedes link(CONCEPT_FLANKING,1) a una unidad enemiga si la atacas mientras otra unidad aliada está en el lado opuesto.</es>
+		<de>Ihr könnt eine feindliche Einheit link(CONCEPT_FLANKING,1), indem Ihr sie angreift, während eine andere mit Euch verbündete Einheit die gegenüberliegende Seite besetzt.</de>
+		<fr>Vous pouvez link(CONCEPT_FLANKING,1) une unité ennemie en l'attaquant alors qu'une autre unité amicale se trouve de l'autre côté.</fr>
+		<ja>別の味方ユニットが反対側にいるときに敵のユニットを攻撃し、link(CONCEPT_FLANKING,1)することができます。</ja>
+		<zh-TW>若一個敵人單位的另一側有一個友方單位，就可以發動攻擊以進行link(CONCEPT_FLANKING,1)。</zh-TW>
+		<ru>Атакуйте вражеский юнит с {lowercase:link(CONCEPT_FLANKING,1)}, напав на него, пока с другой стороны от него находится другой дружественный юнит.</ru>
+		<zh-CN>若一个敌人单位的另一侧有一个友方单位，就可以发动攻击以进行link(CONCEPT_FLANKING,1)。</zh-CN>
+		<pt-BR>É possível link(CONCEPT_FLANKING) uma unidade inimiga ao atacá-la por um lado enquanto outra unidade aliada estiver do lado oposto.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_69</zType>
+		<en-US>link(CONCEPT_GOVERNOR,2) can be appointed in Cities with a link(IMPROVEMENT_GARRISON_1). Their stats apply a multiplier to the City Yields and their traits can add other bonuses.</en-US>
+		<es>Los link(CONCEPT_GOVERNOR,2) pueden asignarse a ciudades con un link(IMPROVEMENT_GARRISON_1) para mejorar la producción. Sus estadísticas aplican un multiplicador a la producción de la ciudad y sus rasgos pueden otorgar otras bonificaciones.</es>
+		<de>link(CONCEPT_GOVERNOR,2) können in Städten mit einer link(IMPROVEMENT_GARRISON_1) ernannt werden und stärken dort die Ressourcen.</de>
+		<fr>Des link(CONCEPT_GOVERNOR,2) peuvent être nommés dans les cités possédant une link(IMPROVEMENT_GARRISON_1) pour augmenter la production.</fr>
+		<ja>link(CONCEPT_GOVERNOR,2)はlink(IMPROVEMENT_GARRISON_1)がある都市で任命することが可能で、産出物へのブーストが得られるようになります。</ja>
+		<zh-TW>可以將link(CONCEPT_GOVERNOR,2)指派至擁有link(IMPROVEMENT_GARRISON_1)的城市來提供收益加成。</zh-TW>
+		<ru>link(CONCEPT_GOVERNOR,7) можно назначать в городах с {lowercase:link(IMPROVEMENT_GARRISON_1,4)}, чтобы повысить сбор запасов.</ru>
+		<zh-CN>可以将link(CONCEPT_GOVERNOR,2)指派至拥有link(IMPROVEMENT_GARRISON_1)的城市来提供收益加成。</zh-CN>
+		<pt-BR>É possível designar link(CONCEPT_GOVERNOR,2) a cidades que tenham uma link(IMPROVEMENT_GARRISON_1). As características do governador concedem um bônus às produções da cidade e seus atributos podem acrescentar outros bônus.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_70</zType>
+		<en-US>link(IMPROVEMENTCLASS_SHRINE,2) provide various benefits and can help to spread Paganism.</en-US>
+		<es>Los link(IMPROVEMENTCLASS_SHRINE,2) otorgan diversos beneficios y sirven para extender el paganismo.</es>
+		<de>link(IMPROVEMENTCLASS_SHRINE,2) versorgen Euch mit verschiedenen Vorteilen und helfen bei der Verbreitung des Heidentums.</de>
+		<fr>Les link(IMPROVEMENTCLASS_SHRINE,2) offrent plusieurs avantages et peuvent servir à répandre le paganisme.</fr>
+		<ja>link(IMPROVEMENTCLASS_SHRINE,2)にはさまざまなメリットがあり、多神教を広めるのに役立ちます。</ja>
+		<zh-TW>link(IMPROVEMENTCLASS_SHRINE,2)能提供許多好處，也能協助散播萬神教。</zh-TW>
+		<ru>link(IMPROVEMENTCLASS_SHRINE,6) дают различные бонусы и помогают распространить язычество.</ru>
+		<zh-CN>link(IMPROVEMENTCLASS_SHRINE,2)能提供许多好处，也能协助散播万神教。</zh-CN>
+		<pt-BR>Os link(IMPROVEMENTCLASS_SHRINE,2) concedem vários benefícios à cidade na qual são construídos e podem ajudar a difundir o paganismo.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_71</zType>
+		<en-US>Hold [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] to hide all link(CONCEPT_IMPROVEMENT,2).</en-US>
+		<es>Mantén [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] para ocultar todos los link(CONCEPT_IMPROVEMENT,2).</es>
+		<de>Haltet [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] gedrückt, um sämtliche link(CONCEPT_IMPROVEMENT,2) zu verbergen.</de>
+		<fr>Maintenez [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] pour cacher toutes les link(CONCEPT_IMPROVEMENT,2).</fr>
+		<ja>[hotkey(HOTKEY_HIDE_IMPROVEMENTS)]を長押しして、すべてのlink(CONCEPT_IMPROVEMENT,2)を非表示にすることができます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] 來隱藏所有link(CONCEPT_IMPROVEMENT,2)。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_HIDE_IMPROVEMENTS)], чтобы скрыть все {lowercase:link(CONCEPT_IMPROVEMENT,9)}.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] 来隐藏所有link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_HIDE_IMPROVEMENTS)] para ocultar as link(CONCEPT_IMPROVEMENT,2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_72</zType>
+		<en-US>icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) is obtained by achieving link(CONCEPT_AMBITION,2) and acquiring better link(CONCEPT_COGNOMEN,2) (such as link(COGNOMEN_GREAT)). Higher link(CONCEPT_LEGITIMACY) improves link(CONCEPT_OPINION_FAMILY,2) and produces more link(YIELD_ORDERS,1) per turn.</en-US>
+		<es>Obtén icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) cumpliendo link(CONCEPT_AMBITION,2) y adquiriendo mejores link(CONCEPT_COGNOMEN,2) (como link(COGNOMEN_GREAT)). Una mayor link(CONCEPT_LEGITIMACY) mejora las link(CONCEPT_OPINION_FAMILY,2) y produce más link(YIELD_ORDERS,1) por año.</es>
+		<de>icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) erhaltet Ihr durch das Erreichen Eurer link(CONCEPT_AMBITION,2) und durch die Verleihung besserer link(CONCEPT_COGNOMEN,2) (etwa link(COGNOMEN_GREAT)). Höhere link(CONCEPT_LEGITIMACY) verbessert das link(CONCEPT_OPINION_FAMILY,2) und verschafft Euch pro Jahr eine größere Zahl link(YIELD_ORDERS,1).</de>
+		<fr>La icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) s'obtient en réalisant des link(CONCEPT_AMBITION,2) et en obtenant de meilleurs link(CONCEPT_COGNOMEN,2) (comme link(COGNOMEN_GREAT)). Une link(CONCEPT_LEGITIMACY) plus élevée améliore les link(CONCEPT_OPINION_FAMILY,2) et produit plus d'link(YIELD_ORDERS,1) par an.</fr>
+		<ja>link(CONCEPT_AMBITION,2)を達成し、より良いlink(CONCEPT_COGNOMEN,2)（link(COGNOMEN_GREAT)等）を取得した際に、icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)が得られます。link(CONCEPT_LEGITIMACY)が高いほど、link(CONCEPT_OPINION_FAMILY,2)が向上し、年間により多くのlink(YIELD_ORDERS,1)を生産することができます。</ja>
+		<zh-TW>要獲得icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)，需完成link(CONCEPT_AMBITION,2)及獲得更好的link(CONCEPT_COGNOMEN,2) (例如link(COGNOMEN_GREAT))。更高的link(CONCEPT_LEGITIMACY)能改善link(CONCEPT_OPINION_FAMILY,2)，且每年會產生更多link(YIELD_ORDERS,1)。</zh-TW>
+		<ru>icon(YIELD_LEGITIMACY){lowercase:link(CONCEPT_LEGITIMACY)} набирается реализацией {lowercase:link(CONCEPT_AMBITION,7)} и получением более престижных {lowercase:link(CONCEPT_COGNOMEN,7)} (таких, как {lowercase:link(COGNOMEN_GREAT)}). Повышенная {lowercase:link(CONCEPT_LEGITIMACY)} улучшает {lowercase:link(CONCEPT_OPINION_FAMILY,3)} и дает больше {lowercase:link(YIELD_ORDERS,7)} за год.</ru>
+		<zh-CN>要获得icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY)，需完成link(CONCEPT_AMBITION,2)及获得更好的link(CONCEPT_COGNOMEN,2) (例如link(COGNOMEN_GREAT))。更高的link(CONCEPT_LEGITIMACY)能改善link(CONCEPT_OPINION_FAMILY,2)，且每年会产生更多link(YIELD_ORDERS,1)。</zh-CN>
+		<pt-BR>É possível se obter  icon(YIELD_LEGITIMACY)link(CONCEPT_LEGITIMACY) completando link(CONCEPT_AMBITION,2) e adquirindo link(CONCEPT_COGNOMEN,2) melhores (tais como link(COGNOMEN_GREAT)). Ter link(CONCEPT_LEGITIMACY) mais alta melhora as link(CONCEPT_OPINION_FAMILY,2) e faz com que mais link(YIELD_ORDERS,1) sejam produzidas por turno.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_73</zType>
+		<en-US>Adopting a link(CONCEPT_STATE_RELIGION) improves that Religion's link(CONCEPT_OPINION_RELIGION,3) of your Nation and also both reduces link(YIELD_DISCONTENT) and enables the recruitment of link(CONCEPT_DISCIPLE,2) in your Cities of that Religion.</en-US>
+		<es>Adoptar una link(CONCEPT_STATE_RELIGION) mejora la link(CONCEPT_OPINION_RELIGION,3) que tienen la religión de tu nación y también reduce el link(YIELD_DISCONTENT) y permite reclutar link(CONCEPT_DISCIPLE,2) en tus ciudades que con esa religión.</es>
+		<de>Die Einführung einer link(CONCEPT_STATE_RELIGION) verbessert das link(CONCEPT_OPINION_RELIGION,3) Eurer Nation bei dieser Religionsgemeinschaft, reduziert außerdem die link(YIELD_DISCONTENT) und ermöglicht es Ihnen, link(CONCEPT_DISCIPLE) dieser Religion in Euren Städten zu rekrutieren.</de>
+		<fr>Adopter une link(CONCEPT_STATE_RELIGION) améliore l'link(CONCEPT_OPINION_RELIGION,3) de cette religion envers votre nation, réduit le link(YIELD_DISCONTENT) et permet de recruter des link(CONCEPT_DISCIPLE,2) dans les cités ayant cette religion.</fr>
+		<ja>link(CONCEPT_STATE_RELIGION)を採用すると、自国のその宗教のlink(CONCEPT_OPINION_RELIGION,3)が向上します。また、link(YIELD_DISCONTENT)が減少し、その宗教都市においてlink(CONCEPT_DISCIPLE,2)の募集ができるようになります。</ja>
+		<zh-TW>樹立一個link(CONCEPT_STATE_RELIGION)能增進該宗教對你的國家的link(CONCEPT_OPINION_RELIGION,3)，同時能減少link(YIELD_DISCONTENT)並讓你能在你的城市中招募該宗教的link(CONCEPT_DISCIPLE,2)。</zh-TW>
+		<ru>Принимая {lowercase:link(CONCEPT_STATE_RELIGION,3)}, вы повышаете {lowercase:link(CONCEPT_OPINION_RELIGION,3)} этой религии о вашей нации, а также снижаете {lowercase:link(YIELD_DISCONTENT,3)} и получаете возможность найма {lowercase:link(CONCEPT_DISCIPLE,7)} в своих городах с этой религией.</ru>
+		<zh-CN>树立一个link(CONCEPT_STATE_RELIGION)能增进该宗教对你的国家的link(CONCEPT_OPINION_RELIGION,3)，同时能减少link(YIELD_DISCONTENT)并让你能在你的城市中招募该宗教的link(CONCEPT_DISCIPLE,2)。</zh-CN>
+		<pt-BR>Adotar uma link(CONCEPT_STATE_RELIGION) melhora a link(CONCEPT_OPINION_RELIGION,3) da religião escolhida sobre a sua nação. Isso também diminui a link(YIELD_DISCONTENT) e permite o recrutamento de link(CONCEPT_DISCIPLE,2) nas suas cidades que pratiquem essa religião.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_74</zType>
+		<en-US>link(CONCEPT_LUXURY) can be traded to a City to reduce link(YIELD_DISCONTENT,1). They can also be traded to other link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2), and link(CONCEPT_FAMILY,2) to improve their Opinion of your Nation.</en-US>
+		<es>Los link(CONCEPT_LUXURY,2) pueden comerciarse a una ciudad para reducir el link(YIELD_DISCONTENT,1). También pueden comerciarse con otras link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2) y link(CONCEPT_FAMILY,2) para mejorar la opinión que tienen de tu nación.</es>
+		<de>link(CONCEPT_LUXURY,2) können mit einer Stadt gehandelt werden, um die dortige link(YIELD_DISCONTENT,1) zu reduzieren. Sie können außerdem mit anderen link(CONCEPT_NATION,2), link(CONCEPT_FAMILY,2) oder link(CONCEPT_TRIBE,4) gehandelt werden, damit sich das Ansehen Eurer Nation verbessert.</de>
+		<fr>Les link(CONCEPT_LUXURY,2) peuvent être vendues à une cité pour réduire le link(YIELD_DISCONTENT,1). Vous pouvez aussi les vendre à d'autres link(CONCEPT_NATION,2), à des link(CONCEPT_TRIBE,2), et des link(CONCEPT_FAMILY,2) pour améliorer leur opinion envers votre nation.</fr>
+		<ja>link(CONCEPT_LUXURY,2)は都市と取引することで、link(YIELD_DISCONTENT,1)を減少させることができます。また、他のlink(CONCEPT_NATION,2)、link(CONCEPT_TRIBE,2)、link(CONCEPT_FAMILY,2)と取引して、あなたの国に対する彼らの評価を向上させることができます。</ja>
+		<zh-TW>可以將link(CONCEPT_LUXURY,2)出口給一座城市來降低link(YIELD_DISCONTENT,1)。也可將奢侈品出口至其他link(CONCEPT_NATION,2)、link(CONCEPT_TRIBE,2)及link(CONCEPT_FAMILY,2)來增進他們對你的國家的好感度。</zh-TW>
+		<ru>link(CONCEPT_LUXURY,9) можно продавать в город, чтобы снизить уровень {lowercase:link(YIELD_DISCONTENT,1)}. Также их можно продавать другим {lowercase:link(CONCEPT_NATION,8)}, {lowercase:link(CONCEPT_TRIBE,8)} и {lowercase:link(CONCEPT_FAMILY,8)}, чтобы повышать их мнение о вашей нации.</ru>
+		<zh-CN>可以将link(CONCEPT_LUXURY,2)出口给一座城市来降低link(YIELD_DISCONTENT,1)。也可将奢侈品出口至其他link(CONCEPT_NATION,2)、link(CONCEPT_TRIBE,2)及link(CONCEPT_FAMILY,2)来增进他们对你的国家的好感度。</zh-CN>
+		<pt-BR>Os link(CONCEPT_LUXURY) podem ser enviados a uma cidade para reduzir a link(YIELD_DISCONTENT,1). Eles podem também ser enviado a outras link(CONCEPT_NATION,2), link(CONCEPT_TRIBE,2) e link(CONCEPT_FAMILY,2) para melhorar a opinião que cada uma tem da sua nação.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_75</zType>
+		<en-US>link(CONCEPT_TRIBE,3) link(CONCEPT_MERCENARY) Units can be hired from link(CONCEPT_TRIBE,2) by Carthage and by link(CONCEPT_NATION,2) with link(TRAIT_ORATOR_ARCHETYPE) Leaders.</en-US>
+		<es>Cartago y las link(CONCEPT_NATION,2) con un líder link(TRAIT_ORATOR_ARCHETYPE) pueden contratar unidades de link(CONCEPT_MERCENARY) link(CONCEPT_TRIBE,3) en link(CONCEPT_TRIBE,2).</es>
+		<de>link(CONCEPT_TRIBE,1) link(CONCEPT_MERCENARY)-Einheiten können von Karthago und link(CONCEPT_NATION,2) mit link(TRAIT_ORATOR_ARCHETYPE,2)-Oberhäuptern bei link(CONCEPT_TRIBE,4) angeheuert werden.</de>
+		<fr>Les unités link(CONCEPT_MERCENARY) de type link(CONCEPT_TRIBE,3) peuvent être recrutées dans les link(CONCEPT_TRIBE,2) par Carthage et les link(CONCEPT_NATION,2) avec des dirigeants de type link(TRAIT_ORATOR_ARCHETYPE).</fr>
+		<ja>link(CONCEPT_TRIBE,3)のlink(CONCEPT_MERCENARY)ユニットは、カルタゴやlink(TRAIT_ORATOR_ARCHETYPE)指導者を持つlink(CONCEPT_NATION,2)によって、link(CONCEPT_TRIBE,2)から雇用することができます。</ja>
+		<zh-TW>迦太基和其他擁有link(TRAIT_ORATOR_ARCHETYPE)領袖的link(CONCEPT_NATION,2)可以從link(CONCEPT_TRIBE,2)雇用link(CONCEPT_TRIBE,3)link(CONCEPT_MERCENARY)單位。</zh-TW>
+		<ru>link(CONCEPT_MERCENARY,9) из {lowercase:link(CONCEPT_TRIBE,7)} могут нанимать в {lowercase:link(CONCEPT_TRIBE,11)} Карфаген и {lowercase:link(CONCEPT_NATION,6)} с лидерами типа «{lowercase:link(TRAIT_ORATOR_ARCHETYPE)}».</ru>
+		<zh-CN>迦太基和其他拥有link(TRAIT_ORATOR_ARCHETYPE)领袖的link(CONCEPT_NATION,2)可以从link(CONCEPT_TRIBE,2)雇用link(CONCEPT_TRIBE,3)link(CONCEPT_MERCENARY)单位。</zh-CN>
+		<pt-BR>É possível contratar link(CONCEPT_MERCENARY,2) nas link(CONCEPT_TRIBE,2) jogando como Cartago e com link(CONCEPT_NATION,2) cujo líder seja um link(TRAIT_ORATOR_ARCHETYPE).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_76</zType>
+		<en-US>A link(CONCEPT_DISCIPLE) can spread your link(CONCEPT_STATE_RELIGION) to other Cities. With the link(LAW_ORTHODOXY) law, they can also purge other Religions from your Cities.</en-US>
+		<es>Un link(CONCEPT_DISCIPLE) puede extender tu link(CONCEPT_STATE_RELIGION) por otras ciudades. Con la ley de la link(LAW_ORTHODOXY) pueden incluso purgar otras religiones de tus ciudades.</es>
+		<de>link(CONCEPT_DISCIPLE,2) können Eure link(CONCEPT_STATE_RELIGION) in anderen Städten verbreiten. Unter dem Gesetz link(LAW_ORTHODOXY,2) können sie darüber hinaus andere Religionen aus Euren Städten verdrängen.</de>
+		<fr>Un link(CONCEPT_DISCIPLE) peut répandre votre link(CONCEPT_STATE_RELIGION) aux autres cités. Grâce à la loi d'link(LAW_ORTHODOXY), il peut aussi débarrasser vos cités des autres religions.</fr>
+		<ja>link(CONCEPT_DISCIPLE)はlink(CONCEPT_STATE_RELIGION)を他の都市に広めることができます。link(LAW_ORTHODOXY)で、彼らはあなたの都市に存在する他の宗教を追放することもできます。</ja>
+		<zh-TW>link(CONCEPT_DISCIPLE)可以將你的link(CONCEPT_STATE_RELIGION)傳播到其他城市。如果擁有link(LAW_ORTHODOXY)法典，他們也可以在你的城市中肅清其他宗教。</zh-TW>
+		<ru>link(CONCEPT_DISCIPLE) может распространять вашу {lowercase:link(CONCEPT_STATE_RELIGION,3)} в другие города. С помощью закона {lowercase:link(LAW_ORTHODOXY,1)} он также может избавлять ваши города от других религий.</ru>
+		<zh-CN>link(CONCEPT_DISCIPLE)可以将你的link(CONCEPT_STATE_RELIGION)传播到其他城市。如果拥有link(LAW_ORTHODOXY)法典，他们也可以在你的城市中肃清其他宗教。</zh-CN>
+		<pt-BR>Um link(CONCEPT_DISCIPLE) pode difundir sua link(CONCEPT_STATE_RELIGION) em outras cidades. Com a lei de link(LAW_ORTHODOXY), eles também podem expurgar outras religiões das suas cidades.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_77</zType>
+		<en-US>Establishing a link(CONCEPT_THEOLOGY) grants additional bonuses to a link(CONCEPT_WORLD_RELIGION). link(CONCEPT_THEOLOGY,2) are established using link(CONCEPT_DISCIPLE,2).</en-US>
+		<es>una link(CONCEPT_THEOLOGY) otorga bonificaciones adicionales a la link(CONCEPT_WORLD_RELIGION). Las link(CONCEPT_THEOLOGY,2) se establecen usando link(CONCEPT_DISCIPLE,2).</es>
+		<de>Durch das Einführen einer link(CONCEPT_THEOLOGY) erhaltet Ihr zusätzliche Boni auf eine link(CONCEPT_WORLD_RELIGION). link(CONCEPT_THEOLOGY,2) können durch link(CONCEPT_DISCIPLE) etabliert werden.</de>
+		<fr>Établir une link(CONCEPT_THEOLOGY) octroie des bonus supplémentaires à une link(CONCEPT_WORLD_RELIGION). Les link(CONCEPT_THEOLOGY,2) sont établies en utilisant des link(CONCEPT_DISCIPLE,2).</fr>
+		<ja>link(CONCEPT_THEOLOGY)を確立すると、link(CONCEPT_WORLD_RELIGION)に追加ボーナスが付与されます。link(CONCEPT_THEOLOGY,2)はlink(CONCEPT_DISCIPLE,2)によって確立されます。</ja>
+		<zh-TW>建立link(CONCEPT_THEOLOGY)能為link(CONCEPT_WORLD_RELIGION)提供額外的紅利。link(CONCEPT_THEOLOGY,2)可以透過link(CONCEPT_DISCIPLE,2)建立。</zh-TW>
+		<ru>Основав {lowercase:link(CONCEPT_THEOLOGY,3)}, вы получите дополнительные бонусы к {lowercase:link(CONCEPT_WORLD_RELIGION,2)}. Основание {lowercase:link(CONCEPT_THEOLOGY,7)} проводится с помощью {lowercase:link(CONCEPT_DISCIPLE,7)}.</ru>
+		<zh-CN>建立link(CONCEPT_THEOLOGY)能为link(CONCEPT_WORLD_RELIGION)提供额外的红利。 link(CONCEPT_THEOLOGY,2)可以透过link(CONCEPT_DISCIPLE,2)建立。</zh-CN>
+		<pt-BR>Instaurar uma link(CONCEPT_THEOLOGY) concede bônus adicionais a uma link(CONCEPT_WORLD_RELIGION). As link(CONCEPT_THEOLOGY,2) são instauradas usando link(CONCEPT_DISCIPLE,2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_78</zType>
+		<en-US>A link(IMPROVEMENT_HAMLET) and its upgrades, link(IMPROVEMENT_VILLAGE) and link(IMPROVEMENT_TOWN), produce extra link(YIELD_MONEY,1) if brought into your link(CONCEPT_TRADE_NETWORK).</en-US>
+		<es>La link(IMPROVEMENT_HAMLET) y sus mejoras, link(IMPROVEMENT_VILLAGE) y link(IMPROVEMENT_TOWN), producen link(YIELD_MONEY,1) extra si las añades a tu link(CONCEPT_TRADE_NETWORK).</es>
+		<de>Ein link(IMPROVEMENT_HAMLET) und die folgenden Verbesserungen, link(IMPROVEMENT_VILLAGE) und link(IMPROVEMENT_TOWN) produzieren mehr link(YIELD_MONEY,1), wenn Ihr sie in Euer link(CONCEPT_TRADE_NETWORK) eingliedert.</de>
+		<fr>Le link(IMPROVEMENT_HAMLET) et ses améliorations, link(IMPROVEMENT_VILLAGE) et link(IMPROVEMENT_TOWN), produisent de l'link(YIELD_MONEY,1) supplémentaire s'ils sont connectés à votre link(CONCEPT_TRADE_NETWORK).</fr>
+		<ja>link(IMPROVEMENT_HAMLET)とそのアップグレード版のlink(IMPROVEMENT_VILLAGE)とlink(IMPROVEMENT_TOWN)は、link(CONCEPT_TRADE_NETWORK)に取り込まれた場合、追加のlink(YIELD_MONEY,1)を生み出します。</ja>
+		<zh-TW>若將link(IMPROVEMENT_HAMLET)和後續升級的link(IMPROVEMENT_VILLAGE)及link(IMPROVEMENT_TOWN)納入link(CONCEPT_TRADE_NETWORK)，便可產生額外的link(YIELD_MONEY,1)。</zh-TW>
+		<ru>link(IMPROVEMENT_HAMLET) и ее улучшения, ({lowercase:link(IMPROVEMENT_VILLAGE)} и {lowercase:link(IMPROVEMENT_TOWN)}), дают дополнительные {lowercase:link(YIELD_MONEY,3)} если включить их в вашу {lowercase:link(CONCEPT_TRADE_NETWORK,3)}.</ru>
+		<zh-CN>若将link(IMPROVEMENT_HAMLET)和后续升级的link(IMPROVEMENT_VILLAGE)及link(IMPROVEMENT_TOWN)纳入link(CONCEPT_TRADE_NETWORK)，便可产生额外的link(YIELD_MONEY,1)。</zh-CN>
+		<pt-BR>Uma link(IMPROVEMENT_HAMLET) e suas melhoras (link(IMPROVEMENT_VILLAGE) e link(IMPROVEMENT_TOWN)) produzem mais link(YIELD_MONEY,1) se estiverem conectadas à link(CONCEPT_TRADE_NETWORK).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_79</zType>
+		<en-US>The link(CONCEPT_TRADE_NETWORK) consists of all tiles connected to your link(CONCEPT_CAPITAL) City.</en-US>
+		<es>La link(CONCEPT_TRADE_NETWORK) son todas las casillas conectadas a tu ciudad link(CONCEPT_CAPITAL).</es>
+		<de>Das link(CONCEPT_TRADE_NETWORK) umfasst alle Felder, die mit eurer link(CONCEPT_CAPITAL) in Verbindung stehen.</de>
+		<fr>Le link(CONCEPT_TRADE_NETWORK) est composé de toutes les cases connectées à votre link(CONCEPT_CAPITAL).</fr>
+		<ja>link(CONCEPT_TRADE_NETWORK)は自分のlink(CONCEPT_CAPITAL)に接続されているすべてのタイルで構成されます。</ja>
+		<zh-TW>link(CONCEPT_TRADE_NETWORK)包含所有和你的link(CONCEPT_CAPITAL)城市相連的圖塊。</zh-TW>
+		<ru>link(CONCEPT_TRADE_NETWORK) состоит из всех клеток, соединенных с вашей {lowercase:link(CONCEPT_CAPITAL,4)}.</ru>
+		<zh-CN>link(CONCEPT_TRADE_NETWORK)包含所有和你的link(CONCEPT_CAPITAL)城市相连的图块。</zh-CN>
+		<pt-BR>A link(CONCEPT_TRADE_NETWORK) consiste de todas as casas conectadas à sua link(CONCEPT_CAPITAL).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_80</zType>
+		<en-US>Cities and their link(CONCEPT_URBAN) tiles can be connected with one another over link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2), or open water.</en-US>
+		<es>Las ciudades y sus casillas link(CONCEPT_URBAN,4) pueden conectarse por medio de link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2) o por mar abierto.</es>
+		<de>Städte link(CONCEPT_URBAN) Felder können mit anderen durch link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2) oder offenes Wasser verbunden sein.</de>
+		<fr>Les cités et leurs cases de type link(CONCEPT_URBAN) peuvent être connectées l'une à l'autre par des link(CONCEPT_ROAD,2), des link(CONCEPT_RIVER,2), ou une étendue d'eau.</fr>
+		<ja>都市とそのlink(CONCEPT_URBAN)タイルは、link(CONCEPT_ROAD,2)、link(CONCEPT_RIVER,2)、または開水域で互いに接続することができます。</ja>
+		<zh-TW>城市和它們的link(CONCEPT_URBAN)圖塊可以透過link(CONCEPT_ROAD,2)、link(CONCEPT_RIVER,2)或開放水域相互連接。</zh-TW>
+		<ru>Города и их {lowercase:link(CONCEPT_URBAN,6)} клетки можно соединять друг с другом {lowercase:link(CONCEPT_ROAD,10)}, {lowercase:link(CONCEPT_RIVER,10)} или открытой водой.</ru>
+		<zh-CN>城市和它们的link(CONCEPT_URBAN)图块可以透过link(CONCEPT_ROAD,2)、link(CONCEPT_RIVER,2)或开放水域相互连接。</zh-CN>
+		<pt-BR>As cidades e suas casas link(CONCEPT_URBAN,4) podem ser conectadas umas às outras com link(CONCEPT_ROAD,2), link(CONCEPT_RIVER,2) ou corpos maiores de água.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_81</zType>
+		<en-US>You can check the link(CONCEPT_TRADE_NETWORK) overlay with the icon(MAP_OVERLAY_NETWORK) button beside the mini-map or by holding the hotkey(HOTKEY_SHOW_TRADE_NETWORK) key.</en-US>
+		<es>Puedes revisar la capa de link(CONCEPT_TRADE_NETWORK) con el botón icon(MAP_OVERLAY_NETWORK) junto al minimapa o manteniendo la tecla hotkey(HOTKEY_SHOW_TRADE_NETWORK).</es>
+		<de>Ihr könnt Euch das Overlay „link(CONCEPT_TRADE_NETWORK)“ ansehen, indem Ihr die icon(MAP_OVERLAY_NETWORK)-Schaltfläche neben der Minikarte betätigt. Alternativ könnt Ihr die Taste hotkey(HOTKEY_SHOW_TRADE_NETWORK) gedrückt halten.</de>
+		<fr>Vous pouvez afficher le link(CONCEPT_TRADE_NETWORK) grâce au bouton icon(MAP_OVERLAY_NETWORK) à côté de la minicarte ou en maintenant la touche hotkey(HOTKEY_SHOW_TRADE_NETWORK).</fr>
+		<ja>ミニマップ横のicon(MAP_OVERLAY_NETWORK)ボタンやhotkey(HOTKEY_SHOW_TRADE_NETWORK)キーを長押しして、link(CONCEPT_TRADE_NETWORK)のオーバーレイを確認することができます。</ja>
+		<zh-TW>欲察看link(CONCEPT_TRADE_NETWORK)的疊圖，可以按下迷你地圖旁的icon(MAP_OVERLAY_NETWORK)按鈕或按住 hotkey(HOTKEY_SHOW_TRADE_NETWORK) 鍵。</zh-TW>
+		<ru>Можно увидеть на экране слой {lowercase:link(CONCEPT_TRADE_NETWORK,1)}, нажав кнопку icon(MAP_OVERLAY_NETWORK) рядом с мини-картой или удерживая клавишу hotkey(HOTKEY_SHOW_TRADE_NETWORK).</ru>
+		<zh-CN>欲察看link(CONCEPT_TRADE_NETWORK)的叠图，可以按下迷你地图旁的icon(MAP_OVERLAY_NETWORK)按钮或按住 hotkey(HOTKEY_SHOW_TRADE_NETWORK) 键。</zh-CN>
+		<pt-BR>Você pode verificar a camada da link(CONCEPT_TRADE_NETWORK) com o botão  icon(MAP_OVERLAY_NETWORK) ao lado do minimapa ou ao segurar a tecla hotkey(HOTKEY_SHOW_TRADE_NETWORK).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_82</zType>
+		<en-US>You can verify that a City is connected to your link(CONCEPT_TRADE_NETWORK) by checking that the icon(CONNECTED) icon is displayed under its City banner.</en-US>
+		<es>Puedes verificar que una ciudad esté conectada a tu link(CONCEPT_TRADE_NETWORK) comprobando que el icono icon(CONNECTED) se muestre bajo su rótulo.</es>
+		<de>Ihr könnt überprüfen, ob eine Stadt an Euer link(CONCEPT_TRADE_NETWORK) angeschlossen ist, indem Ihr nachseht, ob das Symbol „icon(CONNECTED)“ unter dem Stadtbanner angezeigt wird.</de>
+		<fr>Vous pouvez confirmer qu'une cité est connectée à votre link(CONCEPT_TRADE_NETWORK) en cherchant l'icône icon(CONNECTED) sous la bannière de la cité.</fr>
+		<ja>icon(CONNECTED)アイコンが都市の旗の下に表示されているかをチェックすることで、都市があなたのlink(CONCEPT_TRADE_NETWORK)に接続されているかどうかを確認できます。</ja>
+		<zh-TW>若要確認一座城市是否和你的link(CONCEPT_TRADE_NETWORK)相連，可以看看該城市的橫幅下是否有icon(CONNECTED)圖示。</zh-TW>
+		<ru>Можно убедиться, что город соединен с вашей {lowercase:link(CONCEPT_TRADE_NETWORK,4)}, проверив, что под его табличкой отображается значок icon(CONNECTED).</ru>
+		<zh-CN>若要确认一座城市是否和你的link(CONCEPT_TRADE_NETWORK)相连，可以看看该城市的横幅下是否有icon(CONNECTED)图示。</zh-CN>
+		<pt-BR>Você pode verificar se uma cidade está conectada à sua link(CONCEPT_TRADE_NETWORK) ao verificar se o ícone  icon(CONNECTED) está sob o título da cidade.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_83</zType>
+		<en-US>To find how many movement steps a Unit requires to go from one tile to another, select the Unit and hover over the destination tile with the mouse.</en-US>
+		<es>Para saber cuántos pasos necesita dar una unidad para ir de un sitio a otro, selecciónala y sitúa el cursor en la casilla de destino.</es>
+		<de>Um herauszufinden, wie viele Bewegungsschritte erforderlich sind, um eine Einheit von einem Feld zum anderen zu bewegen, müsst Ihr dazu nur die Einheit auswählen und Euren Mauszeiger über das Zielfeld bewegen.</de>
+		<fr>Pour savoir de combien de pas une unité a besoin pour se rendre sur une autre case, sélectionnez-la et placez le curseur de la souris sur la destination.</fr>
+		<ja>ユニットが1つのタイルから別のタイルに移動するのに必要な移動数を確認するには、ユニットを選択し、移動先のタイルにマウスカーソルを合わせます。</ja>
+		<zh-TW>若要查看單位移動到另一個圖塊所需要的步數，請選擇該單位，並將滑鼠移至目標圖塊。</zh-TW>
+		<ru>Чтобы выяснить, сколько ходов потребуется юниту для перехода с одной клетки на другую, выберите юнита и наведите курсор мыши на нужную клетку.</ru>
+		<zh-CN>若要查看单位移动到另一个图块所需要的步数，请选择该单位，并将滑鼠移至目标图块。</zh-CN>
+		<pt-BR>Para descobrir quantos passos uma unidade precisa dar para ir de uma casa à outra, selecione a unidade e posicione o cursor sobre a casa de destino.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_84</zType>
+		<en-US>link(TERRAIN_URBAN) link(CONCEPT_IMPROVEMENT,2) require extra link(YIELD_STONE,1) when built on link(HEIGHT_HILL,2).</en-US>
+		<es>Hace falta más link(YIELD_STONE,1) para construir link(CONCEPT_IMPROVEMENT,2) link(TERRAIN_URBAN,2) en link(HEIGHT_HILL,2).</es>
+		<de>link(CONCEPT_IMPROVEMENT,2) im link(TERRAIN_URBAN) erfordern zusätzlichen link(YIELD_STONE,1), wenn sie auf einem link(HEIGHT_HILL) errichtet werden.</de>
+		<fr>Les link(CONCEPT_IMPROVEMENT,2) de type link(TERRAIN_URBAN) nécessitent de la link(YIELD_STONE,1) supplémentaire quand elles sont construites sur des link(HEIGHT_HILL,2).</fr>
+		<ja>link(TERRAIN_URBAN)link(CONCEPT_IMPROVEMENT,2)は、link(HEIGHT_HILL,2)の上に建てる場合、追加のlink(YIELD_STONE,1)を必要とします。</ja>
+		<zh-TW>link(TERRAIN_URBAN)link(CONCEPT_IMPROVEMENT,2)若建設在link(HEIGHT_HILL,2)上會需要額外的link(YIELD_STONE,1)。</zh-TW>
+		<ru>link(TERRAIN_URBAN,6) {lowercase:link(CONCEPT_IMPROVEMENT,6)} требуют больше {lowercase:link(YIELD_STONE,7)}, если строить их на {lowercase:link(HEIGHT_HILL,11)}.</ru>
+		<zh-CN>link(TERRAIN_URBAN)link(CONCEPT_IMPROVEMENT,2)若建设在link(HEIGHT_HILL,2)上会需要额外的link(YIELD_STONE,1)。</zh-CN>
+		<pt-BR>link(CONCEPT_IMPROVEMENT,2) em terreno link(TERRAIN_URBAN) precisam de mais link(YIELD_STONE,1) quando são construídas sobre link(HEIGHT_HILL,2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_85</zType>
+		<en-US>link(UNIT_WORKER,2) take an extra turn to build link(CONCEPT_IMPROVEMENT,2) outside their Family's territory.</en-US>
+		<es>Los link(UNIT_WORKER,2) necesitan un turno extra para construir link(CONCEPT_IMPROVEMENT,2) fuera del territorio de su familia.</es>
+		<de>link(UNIT_WORKER,5) brauchen einen zusätzlichen Zug, um link(CONCEPT_IMPROVEMENT,2) außerhalb des Territoriums ihrer Familie fertigzustellen.</de>
+		<fr>Les link(UNIT_WORKER,2) ont besoin d'un tour supplémentaire pour construire des link(CONCEPT_IMPROVEMENT,2) en dehors du territoire de la famille.</fr>
+		<ja>link(UNIT_WORKER,2)が自身の家族の領土外でlink(CONCEPT_IMPROVEMENT,2)を建てるには、追加のターンが必要です。</ja>
+		<zh-TW>link(UNIT_WORKER,2)在所屬家族的領地以外會多花一回合來建造link(CONCEPT_IMPROVEMENT,2)。</zh-TW>
+		<ru>У link(UNIT_WORKER,7) уходит лишний ход на строительство {lowercase:link(CONCEPT_IMPROVEMENT,1)} за пределами территории их семьи.</ru>
+		<zh-CN>link(UNIT_WORKER,2)在所属家族的领地以外会多花一回合来建造link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
+		<pt-BR>link(UNIT_WORKER,2) levam um turno a mais para construir link(CONCEPT_IMPROVEMENT,2) fora do território de sua família.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_86</zType>
+		<en-US>Your Nation can build its unique Units in Cities with link(CULTURE_DEVELOPING) Culture and a link(IMPROVEMENT_GARRISON_2).</en-US>
+		<es>Tu nación puede construir sus unidades únicas en ciudades con cultura link(CULTURE_DEVELOPING) y una link(IMPROVEMENT_GARRISON_2).</es>
+		<de>Eure Nation kann in Städten mit {lowercase:link(CULTURE_DEVELOPING,1)} Kultur und einer link(IMPROVEMENT_GARRISON_2) ihre einzigartigen Einheiten ausbilden.</de>
+		<fr>Votre nation peut construire ses unités uniques dans les cités avec une culture link(CULTURE_DEVELOPING) et une link(IMPROVEMENT_GARRISON_2).</fr>
+		<ja>あなたの国は、link(CULTURE_DEVELOPING)文化とlink(IMPROVEMENT_GARRISON_2)を持つ都市で、ユニークユニットを作成することができます。</ja>
+		<zh-TW>在擁有link(CULTURE_DEVELOPING)文化及link(IMPROVEMENT_GARRISON_2)的城市中，你的國家可以打造專屬單位。</zh-TW>
+		<ru>Ваша нация может готовить своих уникальные юниты в городах с {lowercase:link(CULTURE_DEVELOPING,4)} культурой и {lowercase:link(IMPROVEMENT_GARRISON_2,4)}.</ru>
+		<zh-CN>在拥有link(CULTURE_DEVELOPING)文化及link(IMPROVEMENT_GARRISON_2)的城市中，你的国家可以打造专属单位。</zh-CN>
+		<pt-BR>Sua nação pode produzir suas unidades exclusivas em cidades que tenham cultura link(CULTURE_DEVELOPING) e uma link(IMPROVEMENT_GARRISON_2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_87</zType>
+		<en-US>Beware of the map edges. link(TRIBE_RAIDERS) could be lurking beyond!</en-US>
+		<es>Ten cuidado con los límites del mapa. ¡Los link(TRIBE_RAIDERS) podrían estar al acecho!</es>
+		<de>Achtung vor den Kartenrändern! Hier könnten sich link(TRIBE_RAIDERS) herumtreiben!</de>
+		<fr>Faites bien attention aux bords de la carte. Des link(TRIBE_RAIDERS) pourraient être dans le coin !</fr>
+		<ja>マップの端にご注意を。link(TRIBE_RAIDERS)がその先に潜んでいるかもいるかもしれません！</ja>
+		<zh-TW>小心地圖的邊界。邊界外可能有link(TRIBE_RAIDERS)正在埋伏！</zh-TW>
+		<ru>Остерегайтесь краев карты. За ними могут рыскать {lowercase:link(TRIBE_RAIDERS)}!</ru>
+		<zh-CN>小心地图的边界。边界外可能有link(TRIBE_RAIDERS)正在埋伏！</zh-CN>
+		<pt-BR>Cuidado com as fronteiras do mapa. link(TRIBE_RAIDERS) podem estar à espreita!</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_88</zType>
+		<en-US>Any given Character can have a maximum of three good traits like link(TRAIT_VIGILANT), and three bad traits like link(TRAIT_GREEDY).</en-US>
+		<es>Cualquier personaje puede tener un máximo de tres rasgos positivos, como link(TRAIT_VIGILANT), y tres negativos, como link(TRAIT_GREEDY).</es>
+		<de>Alle Charaktere können maximal drei gute Merkmale wie „link(TRAIT_VIGILANT)“ sowie maximal drei schlechte Merkmale wie „link(TRAIT_GREEDY)“ aufweisen.</de>
+		<fr>Chaque personnage peut avoir un maximum de trois bon traits comme link(TRAIT_VIGILANT), et trois mauvais traits comme link(TRAIT_GREEDY).</fr>
+		<ja>どのキャラクターも、link(TRAIT_VIGILANT)のような3つの良い特性と、link(TRAIT_GREEDY)のような3つの悪い特性を持つことができます。</ja>
+		<zh-TW>每位角色最多可以有三項正面特質，例如link(TRAIT_VIGILANT)，及三項負面特質，例如link(TRAIT_GREEDY)。</zh-TW>
+		<ru>У любого конкретного персонажа может быть не более трех хороших черт, таких, как {lowercase:link(TRAIT_VIGILANT)}, и трех плохих черт — например, {lowercase:link(TRAIT_GREEDY)}.</ru>
+		<zh-CN>每位角色最多可以有三项正面特质，例如link(TRAIT_VIGILANT)，及三项负面特质，例如link(TRAIT_GREEDY)。</zh-CN>
+		<pt-BR>Qualquer personagem pode ter no máximo três atributos bons (como link(TRAIT_VIGILANT)) e três atributos ruins (como link(TRAIT_GREEDY)).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_89</zType>
+		<en-US>Ratings for Characters like link(RATING_COURAGE), link(RATING_DISCIPLINE), link(RATING_CHARISMA), and link(RATING_WISDOM) can be changed by events and affect a Character's abilities as a Leader, link(CONCEPT_GOVERNOR), or link(CONCEPT_GENERAL).</en-US>
+		<es>La características de los personajes, como el link(RATING_COURAGE), la link(RATING_DISCIPLINE), el link(RATING_CHARISMA) y la link(RATING_WISDOM) pueden cambiar por eventos y puede afectar las habilidades de un personaje como líder, link(CONCEPT_GOVERNOR) o link(CONCEPT_GENERAL).</es>
+		<de>Wertungen von Charakteren, etwa link(RATING_COURAGE), link(RATING_DISCIPLINE), link(RATING_CHARISMA) und link(RATING_WISDOM), können durch Ereignisse verändert werden und beeinflussen die Führungsqualitäten eines Charakters, etwa bei einem link(CONCEPT_GOVERNOR) oder link(CONCEPT_GENERAL).</de>
+		<fr>Les caractéristiques de personnage comme le link(RATING_COURAGE), la link(RATING_DISCIPLINE), le link(RATING_CHARISMA), et la link(RATING_WISDOM) peuvent être modifiées par les événements et affectent les capacités de dirigeant du personnage, link(CONCEPT_GOVERNOR), ou link(CONCEPT_GENERAL).</fr>
+		<ja>link(RATING_COURAGE)、link(RATING_DISCIPLINE)、link(RATING_CHARISMA)、link(RATING_WISDOM)といったキャラクターの評価はイベントによって変化し、指導者、link(CONCEPT_GOVERNOR)、link(CONCEPT_GENERAL)といったキャラクターの能力に影響を及ぼします。</ja>
+		<zh-TW>角色的評等，如link(RATING_COURAGE)、link(RATING_DISCIPLINE)、link(RATING_CHARISMA)、及link(RATING_WISDOM)，可能被事件所改變，並影響角色身為領袖、link(CONCEPT_GOVERNOR)或link(CONCEPT_GENERAL)的能力。</zh-TW>
+		<ru>Характеристики персонажей ({lowercase:link(RATING_COURAGE)}, {lowercase:link(RATING_DISCIPLINE)}, {lowercase:link(RATING_CHARISMA)}, {lowercase:link(RATING_WISDOM)} и т.д.) могут изменяться в связи с различными событиями и влияют на способности персонажа как лидера, {lowercase:link(CONCEPT_GOVERNOR,1)} или {lowercase:link(CONCEPT_GENERAL,1)}.</ru>
+		<zh-CN>角色的评等，如link(RATING_COURAGE)、link(RATING_DISCIPLINE)、link(RATING_CHARISMA)、及link(RATING_WISDOM)，可能被事件所改变，并影响角色身为领袖、link(CONCEPT_GOVERNOR)或link(CONCEPT_GENERAL)的能力。</zh-CN>
+		<pt-BR>As classificações dos personagens, como link(RATING_COURAGE), link(RATING_DISCIPLINE), link(RATING_CHARISMA) e link(RATING_WISDOM), podem ser alteradas por eventos e afetam as habilidades de um personagem enquanto líder, link(CONCEPT_GOVERNOR) ou link(CONCEPT_GENERAL).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_90</zType>
+		<en-US>Hold [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] to highlight tile Yields.</en-US>
+		<es>Mantén pulsado [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] para resaltar la producción de las casillas.</es>
+		<de>Haltet [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] gedrückt, um die Ressourcen von Feldern hervorzuheben.</de>
+		<fr>Maintenez [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] pour mettre en valeur la production des cases.</fr>
+		<ja>[hotkey(HOTKEY_SHOW_CURRENT_YIELDS)]を長押しすると、タイルの産出物がハイライト表示されます。</ja>
+		<zh-TW>按住 [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] 來突顯圖塊收益。</zh-TW>
+		<ru>Удерживайте [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)], чтобы выделить ресурсы на клетках.</ru>
+		<zh-CN>按住 [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] 来突显图块收益。</zh-CN>
+		<pt-BR>Pressione [hotkey(HOTKEY_SHOW_CURRENT_YIELDS)] para mostrar as recursos das casas.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_91</zType>
+		<en-US>Keep your link(CONCEPT_FAMILY) Heads happy! link(MISSION_INFLUENCE) them directly, or have other important Characters Intercede on your behalf.</en-US>
+		<es>¡Mantén a los líderes de tu link(CONCEPT_FAMILY) contentos! Puedes link(MISSION_INFLUENCE) en ellos directamente o hacer que otros personajes importantes intercedan en tu favor.</es>
+		<de>Sorgt dafür, dass die Oberhäupter Eurer link(CONCEPT_FAMILY,2) bei Laune bleiben! Ihr könnt sie direkt {lowercase:link(MISSION_INFLUENCE)} oder andere Charaktere für Euch intervenieren lassen.</de>
+		<fr>Maintenez vos chefs de link(CONCEPT_FAMILY) heureux ! Vous pouvez les link(MISSION_INFLUENCE) directement, ou faire en sorte que d'autres personnages importants interviennent en votre faveur.</fr>
+		<ja>link(CONCEPT_FAMILY)の主導者たちを幸せな状態に保ちましょう！ link(MISSION_INFLUENCE)を彼らに直接与えたり、他の重要なキャラクターにあなたの代わりに仲裁に入らせたりしましょう。</ja>
+		<zh-TW>記得讓你的link(CONCEPT_FAMILY)領導人保持開心！直接link(MISSION_INFLUENCE)他們，或派其他重要的角色為你說情。</zh-TW>
+		<ru>Главы {lowercase:link(CONCEPT_FAMILY,7)} должны быть счастливы! Оказывайте на них {lowercase:link(MISSION_INFLUENCE,3)} напрямую или добивайтесь того, чтобы за вас ходатайствовали другие важные персонажи.</ru>
+		<zh-CN>记得让你的link(CONCEPT_FAMILY)领导人保持开心！直接link(MISSION_INFLUENCE)他们，或派其他重要的角色为你说情。</zh-CN>
+		<pt-BR>Mantenha os líderes das suas link(CONCEPT_FAMILY,2) felizes! Você pode exercer sua link(MISSION_INFLUENCE) sobre os líderes diretamente ou pode fazer com que outros personagens importantes intervenham por você.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_92</zType>
+		<en-US>The Cities of link(CONCEPT_FAMILY,2) with a high link(CONCEPT_OPINION_FAMILY,3) of you cost less link(YIELD_MAINTENANCE), and their Units fight more effectively.</en-US>
+		<es>Las ciudades de las link(CONCEPT_FAMILY,2) con una link(CONCEPT_OPINION_FAMILY,3) elevada de ti necesitan menos link(YIELD_MAINTENANCE) y sus unidades luchan con más eficiencia.</es>
+		<de>Die Städte von link(CONCEPT_FAMILY,2), bei denen Ihr ein hohes link(CONCEPT_OPINION_FAMILY,3) genießt, verbrauchen weniger link(YIELD_MAINTENANCE), Einheiten aus diesen Städten haben eine größere Kampfkraft.</de>
+		<fr>Les cités de vos link(CONCEPT_FAMILY,2) ayant une haute link(CONCEPT_OPINION_FAMILY,3) de vous coûtent moins de link(YIELD_MAINTENANCE), et leurs unités combattent plus efficacement.</fr>
+		<ja>あなたに対するlink(CONCEPT_OPINION_FAMILY,3)が高いlink(CONCEPT_FAMILY,2)の都市は、link(YIELD_MAINTENANCE)のコストが低く、その氏族のユニットの戦闘効率は高くなります。</ja>
+		<zh-TW>若一座城市的link(CONCEPT_FAMILY,2)對你有很好的link(CONCEPT_OPINION_FAMILY,3)，該城市需要花費的link(YIELD_MAINTENANCE)會比較少，他們的單位作戰也會更有效率。</zh-TW>
+		<ru>На содержание городов, где находятся {lowercase:link(CONCEPT_FAMILY,6)} с высоким {lowercase:link(CONCEPT_OPINION_FAMILY,4)} о вас, уходит меньше {lowercase:link(YIELD_MAINTENANCE,1)}, а юниты из этих городов сражаются эффективнее.</ru>
+		<zh-CN>若一座城市的link(CONCEPT_FAMILY,2)对你有很好的link(CONCEPT_OPINION_FAMILY,3)，该城市需要花费的link(YIELD_MAINTENANCE)会比较少，他们的单位作战也会更有效率。</zh-CN>
+		<pt-BR>As cidades de link(CONCEPT_FAMILY,2) que tenham uma link(CONCEPT_OPINION_FAMILY,3) alta sobre você gastam menos com link(YIELD_MAINTENANCE) e as unidades delas são mais eficientes em combate.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_93</zType>
+		<en-US>The Cities of link(CONCEPT_FAMILY,2) with a low link(CONCEPT_OPINION_FAMILY,3) of you cost more link(YIELD_MAINTENANCE). Their Units fight less effectively too!</en-US>
+		<es>Las ciudades de link(CONCEPT_FAMILY,2) con una link(CONCEPT_OPINION_FAMILY,3) pobre de ti cuestan más link(YIELD_MAINTENANCE). ¡Sus unidades luchan peor, también!</es>
+		<de>Die Städte von link(CONCEPT_FAMILY,2) mit einem niedrigen link(CONCEPT_OPINION_FAMILY,3) von Euch kosten mehr link(YIELD_MAINTENANCE). Ihre Einheiten kämpfen außerdem weniger effektiv!</de>
+		<fr>Les cités de vos link(CONCEPT_FAMILY,2) ayant une basse link(CONCEPT_OPINION_FAMILY,3) de vous coûtent plus de link(YIELD_MAINTENANCE). Leurs unités combattent aussi moins bien !</fr>
+		<ja>あなたに対して低いlink(CONCEPT_OPINION_FAMILY,3)を持つlink(CONCEPT_FAMILY,2)の都市は、link(YIELD_MAINTENANCE)のコストが高くなり、その一族のユニットの戦闘効率も低くなってしまいます！</ja>
+		<zh-TW>若一座城市的link(CONCEPT_FAMILY,2)對你有很差的link(CONCEPT_OPINION_FAMILY,3)，該城市需要花費的link(YIELD_MAINTENANCE)會比較高。他們的單位作戰效率也會比較低！</zh-TW>
+		<ru>На содержание городов, где находятся {lowercase:link(CONCEPT_FAMILY,6)} с низким {lowercase:link(CONCEPT_OPINION_FAMILY,4)} о вас, уходит больше {lowercase:link(YIELD_MAINTENANCE,1)}, а юниты из них сражаются хуже.</ru>
+		<zh-CN>若一座城市的link(CONCEPT_FAMILY,2)对你有很差的link(CONCEPT_OPINION_FAMILY,3)，该城市需要花费的link(YIELD_MAINTENANCE)会比较高。他们的单位作战效率也会比较低！</zh-CN>
+		<pt-BR>As cidades de link(CONCEPT_FAMILY,2) que tenham uma link(CONCEPT_OPINION_FAMILY,3) baixa sobre você gastam mais com link(YIELD_MAINTENANCE) e as unidades delas são menos eficientes em combate.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_94</zType>
+		<en-US>Angry link(CONCEPT_FAMILY,2) can rebel against your rule, spawning link(TRIBE_REBELS,1) Units around their Cities. Your Units from that link(CONCEPT_FAMILY) are not as effective when fighting against their own link(TRIBE_REBELS).</en-US>
+		<es>Las link(CONCEPT_FAMILY,2) furiosas pueden rebelarse contra tu gobierno, creando unidades link(TRIBE_REBELS) alrededor de sus ciudades. Tus unidades de esa link(CONCEPT_FAMILY) no son tan efectivas cuando luchan contra link(TRIBE_REBELS).</es>
+		<de>Wütende link(CONCEPT_FAMILY,2) können gegen Eure Herrschaft aufbegehren und link(TRIBE_REBELS)-Einheiten um ihre Städte postieren. Eure Einheiten aus dieser link(CONCEPT_FAMILY) sind weniger effektiv, wenn sie gegen link(TRIBE_REBELS) kämpfen.</de>
+		<fr>Les link(CONCEPT_FAMILY,2) en colère peuvent se rebeller contre vous et faire apparaître des unités link(TRIBE_REBELS,1) autour de leurs cités. Vos unités de cette link(CONCEPT_FAMILY) perdent en efficacité quand elles combattent des link(TRIBE_REBELS).</fr>
+		<ja>立腹したlink(CONCEPT_FAMILY,2)はあなたの統治に反抗し、都市の周りにlink(TRIBE_REBELS,1)ユニットを生み出します。そのlink(CONCEPT_FAMILY)のあなたのユニットは、link(TRIBE_REBELS)と戦うとき、あまり効率的ではありません。</ja>
+		<zh-TW>憤怒的link(CONCEPT_FAMILY,2)可能會反抗你的統治，在他們的城市周圍會出現link(TRIBE_REBELS,1)。在你的單位中，來自該link(CONCEPT_FAMILY)的單位和link(TRIBE_REBELS)作戰時效率會比較低。</zh-TW>
+		<ru>Разозленные {lowercase:link(CONCEPT_FAMILY,6)} могут взбунтоваться против вашего правления, из-за чего у их городов появятся юниты-{lowercase:link(TRIBE_REBELS,6)}. Ваши юниты из этой {lowercase:link(CONCEPT_FAMILY,1)} будут сражаться с {lowercase:link(TRIBE_REBELS,4)} хуже, чем обычно.</ru>
+		<zh-CN>愤怒的link(CONCEPT_FAMILY,2)可能会反抗你的统治，在他们的城市周围会出现link(TRIBE_REBELS,1)。在你的单位中，来自该link(CONCEPT_FAMILY)的单位和link(TRIBE_REBELS)作战时效率会比较低。</zh-CN>
+		<pt-BR>As link(CONCEPT_FAMILY,2) iradas podem se rebelar contra o seu governo e criar unidades link(TRIBE_REBELS) nas cidades que governam. As unidades dessas link(CONCEPT_FAMILY,2) não são tão eficazes quando lutam contra seus próprios link(TRIBE_REBELS).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_95</zType>
+		<en-US>link(CONCEPT_OPINION_FAMILY,1) is directly influenced by link(CONCEPT_FAMILY) and link(CONCEPT_RELIGION) Head Characters.</en-US>
+		<es>La link(CONCEPT_OPINION_FAMILY,1) está directamente influida por la link(CONCEPT_FAMILY) y la link(CONCEPT_RELIGION) de los personajes principales.</es>
+		<de>link(CONCEPT_OPINION_FAMILY,3) wird unmittelbar von den Oberhäuptern der link(CONCEPT_FAMILY,2) und link(CONCEPT_RELIGION,2) beeinflusst.</de>
+		<fr>L'link(CONCEPT_OPINION_FAMILY,1) est directement influencée par les chefs de link(CONCEPT_FAMILY) et de link(CONCEPT_RELIGION).</fr>
+		<ja>link(CONCEPT_OPINION_FAMILY,1)は、link(CONCEPT_FAMILY)とlink(CONCEPT_RELIGION)主導者のキャラクターから直接的な影響を受けます。</ja>
+		<zh-TW>link(CONCEPT_OPINION_FAMILY,1)受link(CONCEPT_FAMILY)及link(CONCEPT_RELIGION)領導人角色的直接影響。</zh-TW>
+		<ru>На {lowercase:link(CONCEPT_OPINION_FAMILY,3)} напрямую влияют главные представители {lowercase:link(CONCEPT_FAMILY,1)} и {lowercase:link(CONCEPT_RELIGION,1)}.</ru>
+		<zh-CN>link(CONCEPT_OPINION_FAMILY,1)受link(CONCEPT_FAMILY)及link(CONCEPT_RELIGION)领导人角色的直接影响。</zh-CN>
+		<pt-BR>A link(CONCEPT_OPINION_FAMILY,1) é influenciada diretamente pelos líderes das link(CONCEPT_FAMILY,2) e da link(CONCEPT_RELIGION).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_96</zType>
+		<en-US>It may become difficult to keep all link(CONCEPT_FAMILY,2) happy if they follow different link(CONCEPT_RELIGION,2).</en-US>
+		<es>Puede ser difícil mantener a todas las link(CONCEPT_FAMILY,2) contentas si siguen diferentes link(CONCEPT_RELIGION,2).</es>
+		<de>Es könnte schwierig sein, alle link(CONCEPT_FAMILY,2) bei Laune zu halten, wenn sie unterschiedlichen link(CONCEPT_RELIGION,2) angehören.</de>
+		<fr>Il peut être difficile de maintenir toutes les link(CONCEPT_FAMILY,2) heureuses si elles ont des link(CONCEPT_RELIGION,2) différentes.</fr>
+		<ja>link(CONCEPT_FAMILY,2)が異なるlink(CONCEPT_RELIGION,2)に従うと、すべての氏族を幸せに保つことが難しくなることがあります。</ja>
+		<zh-TW>如果不同的link(CONCEPT_FAMILY,2)信仰不同的link(CONCEPT_RELIGION,2)，要同時讓他們開心可能會有困難。</zh-TW>
+		<ru>Если разные {lowercase:link(CONCEPT_FAMILY,6)} исповедуют разные {lowercase:link(CONCEPT_RELIGION,9)}, порадовать сразу всех может быть непросто.</ru>
+		<zh-CN>如果不同的link(CONCEPT_FAMILY,2)信仰不同的link(CONCEPT_RELIGION,2)，要同时让他们开心可能会有困难。</zh-CN>
+		<pt-BR>Pode ser difícil deixar todas as link(CONCEPT_FAMILY,2) felizes se elas praticarem link(CONCEPT_RELIGION,2) diferentes.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_97</zType>
+		<en-US>You can improve your relations with Leaders of other link(CONCEPT_NATION,2) by conducting Trade Missions with them.</en-US>
+		<es>Puedes mejorar tus relaciones con los líderes de otras link(CONCEPT_NATION,2) completando misiones de comercio con ellas.</es>
+		<de>Ihr könnt die Beziehungen zu Oberhäuptern anderer link(CONCEPT_NATION,2) verbessern, indem Ihr Handelsmissionen mit ihnen durchführt.</de>
+		<fr>Vous pouvez améliorer vos relations avec les dirigeants d'autres link(CONCEPT_NATION,2) en effectuant des missions commerciales avec eux.</fr>
+		<ja>他のlink(CONCEPT_NATION,2)の指導者と交易ミッションを行うことで、その指導者との関係を改善することができます。</ja>
+		<zh-TW>你可以透過貿易任務來增進你和其他link(CONCEPT_NATION,2)領導人的關係。</zh-TW>
+		<ru>Вы можете улучшить свои отношения с лидерами других {lowercase:link(CONCEPT_NATION,7)}, заключая с ними торговые соглашения.</ru>
+		<zh-CN>你可以透过贸易任务来增进你和其他link(CONCEPT_NATION,2)领导人的关系。</zh-CN>
+		<pt-BR>Você pode melhorar suas relações com líderes de outras link(CONCEPT_NATION,2) ao realizar missões de comércio com elas.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_98</zType>
+		<en-US>link(UNIT_SCOUT,2) can establish link(CONCEPT_AGENT_NETWORK,2) in Foreign Cities. Subsequently, you can assign Characters as link(CONCEPT_AGENT,2) to gain visibility of the City and its territory. link(CONCEPT_AGENT,2) can also perform link(MISSION_TREACHERY) or link(MISSION_INSURRECTION) Missions on their Cities.</en-US>
+		<es>Los link(UNIT_SCOUT,2) pueden establecer link(CONCEPT_AGENT_NETWORK,2) en ciudades extranjeras para ganar visibilidad de la ciudad y su territorio de manera inmediata. Posteriormente, podrás asignar personajes como link(CONCEPT_AGENT,2) que pueden llevar a cabo misiones de link(MISSION_TREACHERY) o link(MISSION_INSURRECTION) en sus ciudades.</es>
+		<de>link(UNIT_SCOUT,5) können link(CONCEPT_AGENT_NETWORK,2) in ausländischen Städten aufbauen, damit Ihr Eure Sichtweite auf eine Stadt und ihr Territorium erweitern könnt. In weiterer Folge könnt Ihr Charaktere als link(CONCEPT_AGENT,3) einsetzen, die in ihren jeweiligen Städten die Missionen „link(MISSION_TREACHERY)“ oder „link(MISSION_INSURRECTION)“ durchführen können.</de>
+		<fr>Les link(UNIT_SCOUT,2) peuvent établir des link(CONCEPT_AGENT_NETWORK,2) dans les cités étrangères pour immédiatement gagner une visibilité sur la cité et son territoire. De plus, vous pouvez assigner des personnages en tant qu'link(CONCEPT_AGENT,2), qui effectueront des missions de link(MISSION_TREACHERY) ou d'link(MISSION_INSURRECTION) dans leurs cités.</fr>
+		<ja>link(UNIT_SCOUT,2)は外国の都市にlink(CONCEPT_AGENT_NETWORK,2)を築いて、都市とその領土の視界を即座に得ることができます。その後、キャラクターをlink(CONCEPT_AGENT,2)として任命し、彼らの都市でlink(MISSION_TREACHERY)やlink(MISSION_INSURRECTION)のミッションを遂行させることができます。</ja>
+		<zh-TW>link(UNIT_SCOUT,2)可以在外國城市建立link(CONCEPT_AGENT_NETWORK,2)來立即取得該城市及領土的能見度。在那之後，你可以指定角色為link(CONCEPT_AGENT,2)，他們可以對自己的城市進行link(MISSION_TREACHERY)或link(MISSION_INSURRECTION)任務。</zh-TW>
+		<ru>link(UNIT_SCOUT,7) могут основывать {lowercase:link(CONCEPT_AGENT_NETWORK,9)} в зарубежных городах, чтобы сразу видеть город и его территорию. После этого можно назначать персонажей на роль {lowercase:link(CONCEPT_AGENT,7)}, способных провоцировать {lowercase:link(MISSION_TREACHERY,9)} или {lowercase:link(MISSION_INSURRECTION,9)} в этих городах.</ru>
+		<zh-CN>link(UNIT_SCOUT,2)可以在外国城市建立link(CONCEPT_AGENT_NETWORK,2)来立即取得该城市及领土的能见度。在那之后，你可以指定角色为link(CONCEPT_AGENT,2)，他们可以对自己的城市进行link(MISSION_TREACHERY)或link(MISSION_INSURRECTION)任务。</zh-CN>
+		<pt-BR>Os link(UNIT_SCOUT,2) podem estabelecer link(CONCEPT_AGENT_NETWORK,2) em cidades estrangeiras. Quando uma rede de agentes é estabelecida, você pode designar personagens como link(CONCEPT_AGENT,2) para ganhar visibilidade do território da cidade. Os link(CONCEPT_AGENT,2) também podem realizar missões de link(MISSION_TREACHERY) ou link(MISSION_INSURRECTION) nessas cidades.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_99</zType>
+		<en-US>Don't forget to assign link(CONCEPT_COUNCILOR,2). They perform essential Missions for your link(CONCEPT_NATION), and they raise their link(CONCEPT_FAMILY)'s link(CONCEPT_OPINION_FAMILY,3) of you.</en-US>
+		<es>No te olvides de asignar link(CONCEPT_COUNCILOR,2). Pueden llevar a cabo misiones esenciales para tu nación y mejoran la link(CONCEPT_OPINION_FAMILY,3) que tienen sus link(CONCEPT_FAMILY) de ti.</es>
+		<de>Vergesst nicht, link(CONCEPT_COUNCILOR,2) zu ernennen. Sie erledigen im Dienste Eurer Nation wichtige Missionen und sorgen dafür, dass sich Euer link(CONCEPT_OPINION_FAMILY,3) bei ihrer jeweiligen link(CONCEPT_FAMILY) erhöht.</de>
+		<fr>N'oubliez pas d'assigner des link(CONCEPT_COUNCILOR,2). Ils effectuent des missions essentielles pour votre nation et augmentent l'link(CONCEPT_OPINION_FAMILY,3) de leur link(CONCEPT_FAMILY) envers vous.</fr>
+		<ja>link(CONCEPT_COUNCILOR,2)の任命を忘れないようにしましょう。彼らはあなたの国のために必要な任務を遂行し、link(CONCEPT_FAMILY)のあなたに対するlink(CONCEPT_OPINION_FAMILY,3)を高めてくれます。</ja>
+		<zh-TW>別忘了指派link(CONCEPT_COUNCILOR,2)。他們能為你的國家執行必要的任務，也能提高他們link(CONCEPT_FAMILY)對你的link(CONCEPT_OPINION_FAMILY,3)。</zh-TW>
+		<ru>Не забывайте назначать {lowercase:link(CONCEPT_COUNCILOR,9)}. Они выполняют важные задания для вашей нации и способствуют росту {lowercase:link(CONCEPT_OPINION_FAMILY,1)} своей {lowercase:link(CONCEPT_FAMILY,1)} о вас.</ru>
+		<zh-CN>别忘了指派link(CONCEPT_COUNCILOR,2)。他们能为你的国家执行必要的任务，也能提高他们link(CONCEPT_FAMILY)对你的link(CONCEPT_OPINION_FAMILY,3)。</zh-CN>
+		<pt-BR>Não se esqueça de escolher link(CONCEPT_COUNCILOR,2). Eles realizam missões fundamentais para sua link(CONCEPT_NATION) e melhoram a link(CONCEPT_OPINION_FAMILY,3) da link(CONCEPT_FAMILY) deles sobre você.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_100</zType>
+		<en-US>You need an link(COUNCIL_AMBASSADOR) to conduct diplomacy with other link(CONCEPT_NATION,2) and link(CONCEPT_TRIBE,2). link(COUNCIL_AMBASSADOR,2) can also perform the link(MISSION_TRADE_MISSION) and link(MISSION_HIGH_SYNOD) Missions.</en-US>
+		<es>Necesitas un link(COUNCIL_AMBASSADOR) para mantener relaciones diplomáticas con otras link(CONCEPT_NATION,2) y link(CONCEPT_TRIBE,2). Los link(COUNCIL_AMBASSADOR,2) también pueden llevar a cabo misiones de link(MISSION_TRADE_MISSION) y link(MISSION_HIGH_SYNOD).</es>
+		<de>Ihr benötigt einen link(COUNCIL_AMBASSADOR), um Diplomatie mit anderen link(CONCEPT_NATION,2) und link(CONCEPT_TRIBE,4) zu führen. link(COUNCIL_AMBASSADOR) können außerdem die Missionen „link(MISSION_TRADE_MISSION)“ und „link(MISSION_HIGH_SYNOD)“ durchführen.</de>
+		<fr>Il vous faut un link(COUNCIL_AMBASSADOR) pour faire de la diplomatie avec les autres link(CONCEPT_NATION,2) et link(CONCEPT_TRIBE,2). Les link(COUNCIL_AMBASSADOR,2) peuvent aussi effectuer les missions link(MISSION_TRADE_MISSION) et link(MISSION_HIGH_SYNOD).</fr>
+		<ja>link(COUNCIL_AMBASSADOR)は、他のlink(CONCEPT_NATION,2)やlink(CONCEPT_TRIBE,2)と外交を行うために必要です。link(COUNCIL_AMBASSADOR,2)は、link(MISSION_TRADE_MISSION)とlink(MISSION_HIGH_SYNOD)のミッションを実行することもできます。</ja>
+		<zh-TW>你需要link(COUNCIL_AMBASSADOR)來與其他link(CONCEPT_NATION,2)及link(CONCEPT_TRIBE,2)進行外交。link(COUNCIL_AMBASSADOR,2)也可以執行link(MISSION_TRADE_MISSION)及link(MISSION_HIGH_SYNOD)任務。</zh-TW>
+		<ru>Для установления дипломатических связей с другими {lowercase:link(CONCEPT_NATION,10)} и {lowercase:link(CONCEPT_TRIBE,10)} вам нужен {lowercase:link(COUNCIL_AMBASSADOR)}. link(COUNCIL_AMBASSADOR,6) также могут выполнять {lowercase:link(MISSION_TRADE_MISSION,9)} и {lowercase:link(MISSION_HIGH_SYNOD,9)} задания.</ru>
+		<zh-CN>你需要link(COUNCIL_AMBASSADOR)来与其他link(CONCEPT_NATION,2)及link(CONCEPT_TRIBE,2)进行外交。 link(COUNCIL_AMBASSADOR,2)也可以执行link(MISSION_TRADE_MISSION)及link(MISSION_HIGH_SYNOD)任务。</zh-CN>
+		<pt-BR>Você precisará de um link(COUNCIL_AMBASSADOR) para ter relações diplomáticas com outras link(CONCEPT_NATION,2) e link(CONCEPT_TRIBE,2). Os link(COUNCIL_AMBASSADOR,2) também podem realizar missões de link(MISSION_HIGH_SYNOD) e link(MISSION_TRADE_MISSION).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_101</zType>
+		<en-US>You need a link(COUNCIL_CHANCELLOR) to perform the link(MISSION_FAMILY_GIFT), link(MISSION_IMPRISON), and link(MISSION_PACIFY_CITY) Missions.</en-US>
+		<es>Necesitas un link(COUNCIL_CHANCELLOR) para llevar a cabo misiones de link(MISSION_FAMILY_GIFT), link(MISSION_IMPRISON) y link(MISSION_PACIFY_CITY).</es>
+		<de>Ihr müsst einen link(COUNCIL_CHANCELLOR) ernennen, um die Missionen „link(MISSION_FAMILY_GIFT)“, „link(MISSION_IMPRISON)“ und „link(MISSION_PACIFY_CITY)“ durchführen zu können.</de>
+		<fr>Il vous faut un link(COUNCIL_CHANCELLOR) pour effectuer les missions link(MISSION_FAMILY_GIFT), link(MISSION_IMPRISON), et link(MISSION_PACIFY_CITY).</fr>
+		<ja>link(MISSION_FAMILY_GIFT)、link(MISSION_IMPRISON)、link(MISSION_PACIFY_CITY)のミッションを実行するには、link(COUNCIL_CHANCELLOR)が必要です。</ja>
+		<zh-TW>你需要link(COUNCIL_CHANCELLOR)來執行link(MISSION_FAMILY_GIFT)、link(MISSION_IMPRISON)及link(MISSION_PACIFY_CITY)任務。</zh-TW>
+		<ru>Для выполнения заданий «{lowercase:link(MISSION_FAMILY_GIFT)}», «{lowercase:link(MISSION_IMPRISON)}» и «{lowercase:link(MISSION_PACIFY_CITY)}» вам нужен {lowercase:link(COUNCIL_CHANCELLOR)}.</ru>
+		<zh-CN>你需要link(COUNCIL_CHANCELLOR)来执行link(MISSION_FAMILY_GIFT)、link(MISSION_IMPRISON)及link(MISSION_PACIFY_CITY)任务。</zh-CN>
+		<pt-BR>Você precisará de um link(COUNCIL_CHANCELLOR) para realizar missões de link(MISSION_FAMILY_GIFT), link(MISSION_IMPRISON) e link(MISSION_PACIFY_CITY).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_102</zType>
+		<en-US>You need a link(COUNCIL_SPYMASTER) to perform the link(MISSION_INFILTRATE), link(MISSION_SLANDER), link(MISSION_ASSASSINATE), and link(MISSION_STEAL_RESEARCH) Missions.</en-US>
+		<es>Necesitas un link(COUNCIL_SPYMASTER) para llevar a cabo misiones de link(MISSION_INFILTRATE), link(MISSION_SLANDER), link(MISSION_ASSASSINATE) y link(MISSION_STEAL_RESEARCH).</es>
+		<de>Ihr benötigt einen link(COUNCIL_SPYMASTER), um die Missionen „link(MISSION_INFILTRATE)“, „link(MISSION_SLANDER)“, „link(MISSION_ASSASSINATE)“ und „link(MISSION_STEAL_RESEARCH)“ durchführen zu können.</de>
+		<fr>Il vous faut un link(COUNCIL_SPYMASTER) pour effectuer les missions link(MISSION_INFILTRATE), link(MISSION_SLANDER), link(MISSION_ASSASSINATE), et link(MISSION_STEAL_RESEARCH).</fr>
+		<ja>link(MISSION_INFILTRATE)、link(MISSION_SLANDER)、link(MISSION_ASSASSINATE)、link(MISSION_STEAL_RESEARCH)のミッションを実行するには、link(COUNCIL_SPYMASTER)が必要です。</ja>
+		<zh-TW>你需要link(COUNCIL_SPYMASTER)來執行link(MISSION_INFILTRATE)、link(MISSION_SLANDER)、link(MISSION_ASSASSINATE)及link(MISSION_STEAL_RESEARCH)任務。</zh-TW>
+		<ru>Для выполнения заданий «{lowercase:link(MISSION_INFILTRATE)}», «{lowercase:link(MISSION_SLANDER)}», «{lowercase:link(MISSION_ASSASSINATE)}» и «{lowercase:link(MISSION_STEAL_RESEARCH)}» нужен {lowercase:link(COUNCIL_SPYMASTER)}.</ru>
+		<zh-CN>你需要link(COUNCIL_SPYMASTER)来执行link(MISSION_INFILTRATE)、link(MISSION_SLANDER)、link(MISSION_ASSASSINATE)及link(MISSION_STEAL_RESEARCH)任务。</zh-CN>
+		<pt-BR>Você precisará de um link(COUNCIL_SPYMASTER) para realizar as missões de link(MISSION_INFILTRATE), link(MISSION_SLANDER), link(MISSION_ASSASSINATE) e link(MISSION_STEAL_RESEARCH).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_103</zType>
+		<en-US>Cities need at least as many link(CONCEPT_URBAN) tiles as they have link(CONCEPT_CITIZEN,2). Otherwise, the City's link(YIELD_DISCONTENT,1) will increase.</en-US>
+		<es>Las ciudades necesitan al menos tantas casillas link(CONCEPT_URBAN,4) como puntos de link(CONCEPT_POPULATION) tengan. De lo contrario, aumenta la producción de link(YIELD_DISCONTENT) de la ciudad.</es>
+		<de>Städte benötigen mindestens so viele link(CONCEPT_URBAN) Felder wie link(CONCEPT_CITIZEN), da sich ansonsten die link(YIELD_DISCONTENT,1) in der Stadt erhöht.</de>
+		<fr>Les cités ont besoin d'autant de cases de type link(CONCEPT_URBAN) qu'elles ont de link(CONCEPT_CITIZEN,2). Sinon, le link(YIELD_DISCONTENT,1) de la cité augmentera.</fr>
+		<ja>都市には、少なくともlink(CONCEPT_CITIZEN,2)と同数のlink(CONCEPT_URBAN)タイルが必要です。そうしないと、都市のlink(YIELD_DISCONTENT,1)が増加します。</ja>
+		<zh-TW>城市需要的link(CONCEPT_URBAN)圖塊不能小於擁有的link(CONCEPT_CITIZEN,2)。不然，該城市的link(YIELD_DISCONTENT,1)會增加。</zh-TW>
+		<ru>Количество {lowercase:link(CONCEPT_URBAN,7)} клеток у городов должно быть как минимум не ниже количества {lowercase:link(CONCEPT_CITIZEN,7)}. В противном случае в городе будет расти уровень {lowercase:link(YIELD_DISCONTENT,1)}.</ru>
+		<zh-CN>城市需要的link(CONCEPT_URBAN)图块不能小于拥有的link(CONCEPT_CITIZEN,2)。不然，该城市的link(YIELD_DISCONTENT,1)会增加。</zh-CN>
+		<pt-BR>As cidades precisam de, no mínimo, tantas casas link(CONCEPT_URBAN,4) quanto de link(CONCEPT_CITIZEN,2). Senão, a link(YIELD_DISCONTENT,1) da cidade irá aumentar.</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_104</zType>
+		<en-US>With a link(UNIT_WORKER) selected, hold down [SHIFT] to queue up multiple moves and link(CONCEPT_IMPROVEMENT,2).</en-US>
+		<es>Mantén [MAYÚS] con un link(UNIT_WORKER) seleccionado para poner en cola múltiples movimientos y link(CONCEPT_IMPROVEMENT,2).</es>
+		<de>Haltet [UMSCHALT] gedrückt, während Ihr einen link(UNIT_WORKER) ausgewählt habt, um seine Aktionswarteschlange mit mehreren Aktionen und link(CONCEPT_IMPROVEMENT,2) zu füllen.</de>
+		<fr>Avec un link(UNIT_WORKER) sélectionné, maintenez [SHIFT] pour mettre en attente plusieurs déplacements et link(CONCEPT_IMPROVEMENT,2).</fr>
+		<ja>link(UNIT_WORKER)を選択した状態で、[SHIFTキー]を押し続けると、複数の移動とlink(CONCEPT_IMPROVEMENT,2)がキューに入れられます。</ja>
+		<zh-TW>在選擇一個link(UNIT_WORKER)後，按住 [SHIFT] 以在佇列中建立多個行動及link(CONCEPT_IMPROVEMENT,2)。</zh-TW>
+		<ru>Выбрав {lowercase:link(UNIT_WORKER,3)}, удерживайте [Shift], чтобы задать очередь из нескольких ходов и {lowercase:link(CONCEPT_IMPROVEMENT,7)}.</ru>
+		<zh-CN>在选择一个link(UNIT_WORKER)后，按住 [SHIFT] 以在伫列中建立多个行动及link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
+		<pt-BR>Com um link(UNIT_WORKER) selecionado, segure [SHIFT] para enfileirar vários movimentos e link(CONCEPT_IMPROVEMENT,2).</pt-BR>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_105</zType>
+		<en-US>Units inside their own link(CONCEPT_FAMILY)'s territory receive a favorable modifier to their combat strength.</en-US>
+		<es>Las unidades que están dentro del territorio de la link(CONCEPT_FAMILY) ven su potencia de combate modificada favorablemente.</es>
+		<de>Einheiten im Territorium ihrer eigenen link(CONCEPT_FAMILY) erhalten einen begünstigenden Modifikator auf ihre Kampfstärke.</de>
+		<fr>Les unités sur le territoire de leur link(CONCEPT_FAMILY) reçoivent un modificateur favorable à leur puissance de combat.</fr>
+		<ja>自らのlink(CONCEPT_FAMILY)の領土内にいるユニットは、戦闘力に有利な修正が受けられます。</ja>
+		<zh-TW>若單位在自己所屬link(CONCEPT_FAMILY)的領地上，就能獲得戰鬥實力上的有利加成。</zh-TW>
+		<ru>Юниты, находящиеся на территории своей {lowercase:link(CONCEPT_FAMILY,1)}, получают усиливающий коэффициент к боевой мощи.</ru>
+		<zh-CN>若单位在自己所属link(CONCEPT_FAMILY)的领地上，就能获得战斗实力上的有利加成。</zh-CN>
+		<pt-BR>Unidades dentro do território da sua própria família recebem um modificador favorável à sua força de combate.</pt-BR>
+	</Entry>
+</Root>
