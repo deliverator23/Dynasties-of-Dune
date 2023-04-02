@@ -162,19 +162,26 @@
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_HAMLET</zType>
-		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<iMaxCultureCount>0</iMaxCultureCount>
+		<TechPrereq>TECH_LOCAL_HUBS</TechPrereq>
+		<aiAdjacentImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_ODEON</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiAdjacentImprovementClassModifier>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_BARRACKS</zType>
-		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<TechPrereq>TECH_OUTPOSTS_LOGISTICS</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_RANGE</zType>
-		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<TechPrereq>TECH_OUTPOSTS_LOGISTICS</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_ODEON</zType>
-		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<TechPrereq>TECH_LOCAL_HUBS</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_BATHS</zType>
@@ -182,15 +189,16 @@
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_MARKET</zType>
-		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<TechPrereq>TECH_MODULAR_PARTS</TechPrereq>
+		<aiAdjacentImprovementClassModifier></aiAdjacentImprovementClassModifier>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_COURTHOUSE</zType>
-		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_GARRISON</zType>
-		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<TechPrereq>TECH_BASIC_DEFENSE</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_SHRINE</zType>

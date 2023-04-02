@@ -709,4 +709,9 @@
 		<zType>TEXT_VICTORY_TIME_800_HELP</zType>
 		<en-US>Extended Time (800)~a Extended  Time Victory (800)~Extended Time Victory (800)</en-US>
 	</Entry>
+	<!-- Ambitions --> 
+	<Entry>
+		<zType>TEXT_BLACK_MARKET</zType>
+		<en-US>Enact link(LAW_BLACK_MARKET)</en-US>
+	</Entry>
 </Root>

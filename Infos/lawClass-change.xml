@@ -37,10 +37,10 @@
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_AUTARKY_TRADE_LEAGUE</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_IMPROVED_MANUFACTURING</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_COIN_DEBASEMENT_MONETARY_REFORM</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_MERCENARY</TechPrereq>
 	</Entry>
 </Root>

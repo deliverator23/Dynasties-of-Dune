@@ -3,6 +3,7 @@
 		<zType>COURTIER_ASSASSIN</zType>
 		<Name>TEXT_COURTIER_ASSASSIN</Name>
 		<zIconName>COURTIER_ASSASSIN</zIconName>
+		<Nickname>NICKNAME_THE_ASSASSIN</Nickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -83,17 +84,12 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_ASSASSIN_NICKNAME</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_BENE_GESSERIT_SISTER</zType>
 		<Name>TEXT_COURTIER_BENE_GESSERIT_SISTER</Name>
 		<zIconName>COURTIER_BENE_GESSERIT_SISTER</zIconName>
+		<Nickname>NICKNAME_THE_BENE_GESSERIT_SISTER</Nickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -174,17 +170,12 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_BENE_GESSERIT_SISTER_NICKNAME</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_FACE_DANCER</zType>
 		<Name>TEXT_COURTIER_FACE_DANCER</Name>
 		<zIconName>COURTIER_FACE_DANCER</zIconName>
+		<Nickname>NICKNAME_THE_FACE_DANCER</Nickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -265,17 +256,12 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_FACE_DANCER_NICKNAME</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MENTAT</zType>
 		<Name>TEXT_COURTIER_MENTAT</Name>
 		<zIconName>COURTIER_MENTAT</zIconName>
+		<Nickname>NICKNAME_THE_MENTAT</Nickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
@@ -352,17 +338,12 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_MENTAT_NICKNAME</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SWORDMASTER</zType>
 		<Name>TEXT_COURTIER_SWORDMASTER</Name>
 		<zIconName>COURTIER_SWORDMASTER</zIconName>
+		<Nickname>NICKNAME_THE_SWORDMASTER</Nickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -443,17 +424,12 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_SWORDMASTER_NICKNAME</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SUK_DOCTOR</zType>
 		<Name>TEXT_COURTIER_SUK_DOCTOR</Name>
 		<zIconName>COURTIER_SUK_DOCTOR</zIconName>
+		<Nickname>NICKNAME_THE_SUK_DOCTOR</Nickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -534,17 +510,12 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_SUK_DOCTOR_NICKNAME</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_WEAPON_MASTER</zType>
 		<Name>TEXT_COURTIER_WEAPON_MASTER</Name>
 		<zIconName>COURTIER_WEAPON_MASTER</zIconName>
+		<Nickname>NICKNAME_THE_WEAPON_MASTER</Nickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -625,11 +596,5 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_WEAPON_MASTER_NICKNAME</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 </Root>

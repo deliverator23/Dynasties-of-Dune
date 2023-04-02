@@ -1,0 +1,394 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FARM</zType>
+		<en-US>(Unused) Farm~a Farm~Farms</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MINE</zType>
+		<en-US>(Unused) Mine~a Mine~Mines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_QUARRY</zType>
+		<en-US>(Unused) Quarry~a Quarry~Quarries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LUMBERMILL</zType>
+		<en-US>(Unused) Lumbermill~a Lumbermill~Lumbermills</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PASTURE</zType>
+		<en-US>(Unused) Pasture~a Pasture~Pastures</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GROVE</zType>
+		<en-US>(Unused) Grove~a Grove~Groves</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NETS</zType>
+		<en-US>(Unused) Nets</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HARBOR</zType>
+		<en-US>(Unused) Harbor~a Harbor~Harbors</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GRANARY</zType>
+		<en-US>(Unused) Granary~a Granary~Granaries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WATERMILL</zType>
+		<en-US>(Unused) Watermill~a Watermill~Watermills</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_WINDMILL</zType>
+		<en-US>(Unused) Windmill~a Windmill~Windmills</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAMLET</zType>
+		<en-US>Hamlet~a Hamlet~Hamlets</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_VILLAGE</zType>
+		<en-US>Village~a Village~Villages</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TOWN</zType>
+		<en-US>Town~a Town~Towns</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_1</zType>
+		<en-US>Garrison~a Garrison~Garrisons</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_2</zType>
+		<en-US>(Unused) Stronghold~a Stronghold~Strongholds</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GARRISON_3</zType>
+		<en-US>(Unused) Citadel~a Citadel~Citadels</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BARRACKS</zType>
+		<en-US>Barracks~a Barracks~Barracks</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_RANGE</zType>
+		<en-US>Range~a Range~Ranges</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_1</zType>
+		<en-US>Odeon~an Odeon~Odeons</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_2</zType>
+		<en-US>Theater~a Theater~Theaters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_THEATER_3</zType>
+		<en-US>Amphitheater~an Amphitheater~Amphitheaters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_1</zType>
+		<en-US>(Unused) Cold Baths</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_2</zType>
+		<en-US>(Unused) Warm Baths</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_BATHS_3</zType>
+		<en-US>(Unused) Heated Baths</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_1</zType>
+		<en-US>Market~a Market~Markets</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_2</zType>
+		<en-US>Grocer~a Grocer~Grocers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MARKET_3</zType>
+		<en-US>Fair~a Fair~Fairs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_1</zType>
+		<en-US>Courthouse~a Courthouse~Courthouses</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_2</zType>
+		<en-US>Ministry~a Ministry~Ministries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COURTHOUSE_3</zType>
+		<en-US>Palace~a Palace~Palaces</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NINURTA</zType>
+		<en-US>(Unused) Shrine of Ninurta~a Shrine of Ninurta</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARS</zType>
+		<en-US>(Unused) Shrine of Mars~a Shrine of Mars</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NUSKA</zType>
+		<en-US>(Unused) Shrine of Nuska~a Shrine of Nuska</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATAR</zType>
+		<en-US>(Unused) Shrine of Atar~a Shrine of Atar</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VULCAN</zType>
+		<en-US>(Unused) Shrine of Vulcan~a Shrine of Vulcan</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NABU</zType>
+		<en-US>(Unused) Shrine of Nabu~a Shrine of Nabu</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ATHENA</zType>
+		<en-US>(Unused) Shrine of Athena~a Shrine of Athena</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_SHAMASH</zType>
+		<en-US>(Unused) Shrine of Shamash~a Shrine of Shamash</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_RA</zType>
+		<en-US>(Unused) Shrine of Ra~a Shrine of Ra</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MITHRA</zType>
+		<en-US>(Unused) Shrine of Mithra~a Shrine of Mithra</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MELQART</zType>
+		<en-US>(Unused) Shrine of Melqart~a Shrine of Melqart</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_POSEIDON</zType>
+		<en-US>(Unused) Shrine of Poseidon~a Shrine of Poseidon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ANAHITA</zType>
+		<en-US>(Unused) Shrine of Anahita~a Shrine of Anahita</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISHTAR</zType>
+		<en-US>(Unused) Shrine of Ishtar~a Shrine of Ishtar</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASTARTE</zType>
+		<en-US>(Unused) Shrine of Astarte~a Shrine of Astarte</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VENUS</zType>
+		<en-US>(Unused) Shrine of Venus~a Shrine of Venus</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
+		<en-US>(Unused) Shrine of Ereshkigal~a Shrine of Ereshkigal</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_OSIRIS</zType>
+		<en-US>(Unused) Shrine of Osiris~a Shrine of Osiris</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_HADES</zType>
+		<en-US>(Unused) Shrine of Hades~a Shrine of Hades</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ESHMUN</zType>
+		<en-US>(Unused) Shrine of Eshmun~a Shrine of Eshmun</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ISIS</zType>
+		<en-US>(Unused) Shrine of Isis~a Shrine of Isis</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ASHUR</zType>
+		<en-US>(Unused) Shrine of Ashur~a Shrine of Ashur</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_MARDUK</zType>
+		<en-US>(Unused) Shrine of Marduk~a Shrine of Marduk</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_ZEUS</zType>
+		<en-US>(Unused) Shrine of Zeus~a Shrine of Zeus</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_TANIT</zType>
+		<en-US>(Unused) Shrine of Tanit~a Shrine of Tanit</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_VESTA</zType>
+		<en-US>(Unused) Shrine of Vesta~a Shrine of Vesta</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_NEITH</zType>
+		<en-US>(Unused) Shrine of Neith~a Shrine of Neith</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_HVAR_KHSHAITA</zType>
+		<en-US>(Unused) Shrine of Hvar Khshaita~a Shrine of Hvar Khshaita</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_SERAPIS</zType>
+		<en-US>(Unused) Shrine of Serapis</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
+		<en-US>(Unused) icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monastery~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monastery~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Monasteries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
+		<en-US>(Unused) icon(RELIGION_JUDAISM)Jewish Monastery~a icon(RELIGION_JUDAISM)Jewish Monastery~icon(RELIGION_JUDAISM)Jewish Monasteries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
+		<en-US>(Unused) icon(RELIGION_CHRISTIANITY)Christian Monastery~a icon(RELIGION_CHRISTIANITY)Christian Monastery~icon(RELIGION_CHRISTIANITY)Christian Monasteries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
+		<en-US>(Unused) icon(RELIGION_MANICHAEISM)Manichaean Monastery~a icon(RELIGION_MANICHAEISM)Manichaean Monastery~icon(RELIGION_MANICHAEISM)Manichaean Monasteries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
+		<en-US>(Unused) icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temple~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temple~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Temples</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
+		<en-US>(Unused) icon(RELIGION_JUDAISM)Jewish Temple~a icon(RELIGION_JUDAISM)Jewish Temple~icon(RELIGION_JUDAISM)Jewish Temples</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
+		<en-US>(Unused) icon(RELIGION_CHRISTIANITY)Christian Temple~a icon(RELIGION_CHRISTIANITY)Christian Temple~icon(RELIGION_CHRISTIANITY)Christian Temples</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
+		<en-US>(Unused) con(RELIGION_MANICHAEISM)Manichaean Temple~a icon(RELIGION_MANICHAEISM)Manichaean Temple~icon(RELIGION_MANICHAEISM)Manichaean Temples</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
+		<en-US>(Unused) icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedral~a icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedral~icon(RELIGION_ZOROASTRIANISM)Zoroastrian Cathedrals</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
+		<en-US>(Unused) icon(RELIGION_JUDAISM)Jewish Cathedral~a icon(RELIGION_JUDAISM)Jewish Cathedral~icon(RELIGION_JUDAISM)Jewish Cathedrals</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
+		<en-US>(Unused) icon(RELIGION_CHRISTIANITY)Christian Cathedral~a icon(RELIGION_CHRISTIANITY)Christian Cathedral~icon(RELIGION_CHRISTIANITY)Christian Cathedrals</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
+		<en-US>(Unused) icon(RELIGION_MANICHAEISM)Manichaean Cathedral~a icon(RELIGION_MANICHAEISM)Manichaean Cathedral~icon(RELIGION_MANICHAEISM)Manichaean Cathedrals</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+		<en-US>(Unused) The Adur Burzen-Mihr</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+		<en-US>(Unused) The Temple of Solomon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+		<en-US>(Unused) The Church of the Holy Sepulchre</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+		<en-US>(Unused) The Cao'an</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
+		<en-US>(Unused) The Pyramids</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+		<en-US>(Unused) The Great Ziggurat</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ORACLE</zType>
+		<en-US>(Unused) The Oracle</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
+		<en-US>(Unused) The Hanging Gardens</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
+		<en-US>(Unused) The Necropolis</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
+		<en-US>(Unused) The Ishtar Gate</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
+		<en-US>(Unused) The Lighthouse</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_APADANA</zType>
+		<en-US>(Unused) The Apadana</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
+		<en-US>(Unused) The Mausoleum</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
+		<en-US>(Unused) The Acropolis</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
+		<en-US>(Unused) The Colossus</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
+		<en-US>(Unused) The Musaeum</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<en-US>(Unused) The Circus Maximus</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_PANTHEON</zType>
+		<en-US>(Unused) The Pantheon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
+		<en-US>(Unused) The Hagia Sophia</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
+		<en-US>(Unused) The Via Recta Souk</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
+		<en-US>(Unused) Laurion Mine~a Laurion Mine~Laurion Mines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
+		<en-US>(Unused) Ancient Tomb~an Ancient Tomb~Ancient Tombs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
+		<en-US>(Unused) National Monument~a National Monument~National Monuments</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
+		<en-US>(Unused) God's Consort Shrine~a God's Consort Shrine~God's Consort Shrines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE_F</zType>
+		<en-US>(Unused) God's Consort Shrine~a God's Consort Shrine~God's Consort Shrines</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENT_SHRINE_TRIBE_PAGANISM</zType>
+		<en-US>(Unused) Tribal Shrine~a Tribal Shrine~Tribal Shrines</en-US>
+	</Entry>
+</Root>

@@ -1972,6 +1972,17 @@
 			</Pair>
 		</aiYieldRate>
 	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_TRAPPER</zType>
+		<Name>TEXT_SPECIALIST_TRAPPER</Name>
+		<SourceSpecialist>SPECIALIST_TRAPPER</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 	<!-- Improvements --> 
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_SIETCH</zType>

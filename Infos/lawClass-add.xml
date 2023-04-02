@@ -41,6 +41,6 @@
 	</Entry>
 	<Entry>
 		<zType>LAWCLASS_SIETCH_BLACK_MARKET</zType>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_SHELTERS</TechPrereq>
 	</Entry>
 </Root>

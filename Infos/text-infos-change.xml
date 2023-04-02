@@ -651,4 +651,110 @@
 		<zType>TEXT_FAMILYCLASS_HUNTERS</zType>
 		<en-US>(Unused) Hunters~(Unused) Hunter</en-US>
 	</Entry>
+	<!-- Specialists -->
+	<Entry>
+		<zType>TEXT_SPECIALIST_FARMER</zType>
+		<en-US>(Unused) Farmer~a Farmer~Farmers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_WOODCUTTER</zType>
+		<en-US>(Unused) Woodcutter~a Woodcutter~Woodcutters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_STONECUTTER</zType>
+		<en-US>(Unused) Stonecutter~a Stonecutter~Stonecutters</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_MINER</zType>
+		<en-US>(Unused) Miner~a Miner~Miners</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_RANCHER</zType>
+		<en-US>(Unused) Rancher~a Rancher~Ranchers</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_GARDENER</zType>
+		<en-US>(Unused) Gardener~a Gardener~Gardeners</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_FISHER</zType>
+		<en-US>(Unused) Fisher~a Fisher~Fishers</en-US>
+	</Entry>
+	<!-- Ambitions --> 
+	<Entry>
+		<zType>TEXT_GOAL_FOOD_500</zType>
+		<en-US>Accumulate 500 link(YIELD_MANPOWER,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOOD_1000</zType>
+		<en-US>Accumulate 1000 link(YIELD_MANPOWER,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STONE_500</zType>
+		<en-US>Produce 500 link(YIELD_LOCAL_MATERIAL,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_STONE_1000</zType>
+		<en-US>Produce 1000 link(YIELD_LOCAL_MATERIAL,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_IRON_500</zType>
+		<en-US>Produce 500 link(YIELD_OFFWORLD_SUPPLIES,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_IRON_1000</zType>
+		<en-US>Produce 1000 link(YIELD_OFFWORLD_SUPPLIES,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_WOOD_500</zType>
+		<en-US>Produce 500 link(YIELD_FUEL,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_WOOD_1000</zType>
+		<en-US>Produce 1000 link(YIELD_FUEL,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_20_GOODS_TURN</zType>
+		<en-US>+20 link(YIELD_MANPOWER,1),  link(YIELD_LOCAL_MATERIAL,1), and  link(YIELD_FUEL,1) / Turn</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_50_GOODS_TURN</zType>
+		<en-US>+50 link(YIELD_MANPOWER,1),  link(YIELD_LOCAL_MATERIAL,1), and  link(YIELD_FUEL,1) / Turn</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_100_GOODS_TURN</zType>
+		<en-US>+100 link(YIELD_MANPOWER,1),  link(YIELD_LOCAL_MATERIAL,1), and  link(YIELD_FUEL,1) / Turn</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TRAINING_2000</zType>
+		<en-US>Stockpile 2,000  link(YIELD_MANPOWER,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_FARMS</zType>
+		<en-US>Control Six link(IMPROVEMENT_WINDTRAP,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_MINES</zType>
+		<en-US>Control Six link(IMPROVEMENT_DEW_COLLECTOR,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_QUARRIES</zType>
+		<en-US>Control Six link(IMPROVEMENT_PROCESSING_PLANT,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_LUMBERMILLS</zType>
+		<en-US>Control Six link(IMPROVEMENT_WINDTRAP_MEDIUM,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_NETS</zType>
+		<en-US>Control Six link(IMPROVEMENT_DEW_COLLECTOR_MEDIUM,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_PASTURES</zType>
+		<en-US>Control Six link(IMPROVEMENT_PROCESSING_PLANT_MEDIUM,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SIX_GROVES</zType>
+		<en-US>Control Six link(IMPROVEMENT_SIETCH,2)</en-US>
+	</Entry>
 </Root>

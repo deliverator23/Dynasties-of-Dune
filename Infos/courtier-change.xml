@@ -45,16 +45,6 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_SOLDIER_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SOLDIER_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MINISTER</zType>
@@ -102,16 +92,6 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_MINISTER_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MINISTER_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MERCHANT</zType>
@@ -159,16 +139,6 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_MERCHANT_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MERCHANT_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SCIENTIST</zType>
@@ -216,15 +186,5 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_SCIENTIST_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SCIENTIST_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
 	</Entry>
 </Root>

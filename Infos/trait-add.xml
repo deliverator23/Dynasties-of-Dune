@@ -2,7 +2,7 @@
 	<Entry>
 		<zType>TRAIT_EXPLORER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_EXPLORER_ARCHETYPE</Name>
-		<Nickname>TEXT_TRAIT_EXPLORER_ARCHETYPE_NICKNAME</Nickname>
+		<Nickname>NICKNAME_THE_EXPLORER</Nickname>
 		<zIconName>TRAIT_HERO</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
@@ -45,7 +45,7 @@
 	<Entry>
 		<zType>TRAIT_MENTOR_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_MENTOR_ARCHETYPE</Name>
-		<Nickname>TEXT_TRAIT_MENTOR_ARCHETYPE_NICKNAME</Nickname>
+		<Nickname>NICKNAME_THE_MENTOR</Nickname>
 		<zIconName>TRAIT_ORATOR</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
@@ -82,7 +82,7 @@
 	<Entry>
 		<zType>TRAIT_MYSTIC_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_MYSTIC_ARCHETYPE</Name>
-		<Nickname>TEXT_TRAIT_MYSTIC_ARCHETYPE_NICKNAME</Nickname>
+		<Nickname>NICKNAME_THE_MYSTIC</Nickname>
 		<zIconName>TRAIT_TACTICIAN</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
@@ -123,7 +123,7 @@
 	<Entry>
 		<zType>TRAIT_OUTLAW_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_OUTLAW_ARCHETYPE</Name>
-		<Nickname>TEXT_TRAIT_OUTLAW_ARCHETYPE_NICKNAME</Nickname>
+		<Nickname>NICKNAME_THE_OUTLAW</Nickname>
 		<zIconName>TRAIT_ZEALOT</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
@@ -162,7 +162,7 @@
 	<Entry>
 		<zType>TRAIT_SEDUCER_ARCHETYPE</zType>
 		<Name>TEXT_TRAIT_SEDUCER_ARCHETYPE</Name>
-		<Nickname>TEXT_TRAIT_SEDUCER_ARCHETYPE_NICKNAME</Nickname>
+		<Nickname>NICKNAME_THE_SEDUCER</Nickname>
 		<zIconName>TRAIT_SCHEMER</zIconName>
 		<iMinAge>12</iMinAge>
 		<iNoFamilyDie>1</iNoFamilyDie>
@@ -195,7 +195,7 @@
 	<Entry>
 		<zType>TRAIT_SLY</zType>
 		<Name>TEXT_TRAIT_SLY</Name>
-		<Nickname>TEXT_TRAIT_SLY_NICKNAME</Nickname>
+		<Nickname>NICKNAME_THE_SLY</Nickname>
 		<GainTexts>
 			<zValue>TEXT_TRAIT_SLY_GAIN_1</zValue>
 			<zValue>TEXT_TRAIT_SLY_GAIN_2</zValue>
@@ -221,7 +221,7 @@
 	<Entry>
 		<zType>TRAIT_SPIRITUAL</zType>
 		<Name>TEXT_TRAIT_SPIRITUAL</Name>
-		<Nickname>TEXT_TRAIT_SPIRITUAL_NICKNAME</Nickname>
+		<Nickname>NICKNAME_THE_SPIRITUAL</Nickname>
 		<GainTexts>
 			<zValue>TEXT_TRAIT_SPIRITUAL_GAIN_1</zValue>
 		</GainTexts>

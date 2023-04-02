@@ -314,4 +314,11 @@
 		<SourceTech>TECH_EXPLORATION</SourceTech>
 		<bAutomateScouts>1</bAutomateScouts>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TECH_BASIC_DEFENSE</zType>
+		<Name>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</Name>
+		<zIconName>ADD_ROAD</zIconName>
+		<SourceTech>TECH_BASIC_DEFENSE</SourceTech>
+		<bAddRoad>1</bAddRoad>
+	</Entry>
 </Root>
