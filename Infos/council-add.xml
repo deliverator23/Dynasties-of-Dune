@@ -3,7 +3,7 @@
 		<zType>COUNCIL_AGENT</zType>
 		<Name>TEXT_COUNCIL_AGENT</Name>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_COMBAT_ORNITHOPTER</EffectPlayerPrereq>
 		<iXP>5</iXP>
 		<iOpinion>40</iOpinion>
 		<AssignMission>MISSION_AGENT</AssignMission>
@@ -56,7 +56,7 @@
 		<zType>COUNCIL_COURT_CHAPLAIN</zType>
 		<Name>TEXT_COUNCIL_COURT_CHAPLAIN</Name>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_MEDITATION</EffectPlayerPrereq>
 		<iXP>5</iXP>
 		<iOpinion>40</iOpinion>
 		<AssignMission>MISSION_COURT_CHAPLAIN</AssignMission>
@@ -108,7 +108,7 @@
 		<zType>COUNCIL_ENVOY</zType>
 		<Name>TEXT_COUNCIL_ENVOY</Name>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_EXPLORATION</EffectPlayerPrereq>
 		<iXP>5</iXP>
 		<iOpinion>40</iOpinion>
 		<AssignMission>MISSION_ENVOY</AssignMission>
@@ -158,7 +158,7 @@
 		<zType>COUNCIL_MARSHAL</zType>
 		<Name>TEXT_COUNCIL_MARSHAL</Name>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_BASIC_DEFENSE</EffectPlayerPrereq>
 		<iXP>5</iXP>
 		<iOpinion>40</iOpinion>
 		<AssignMission>MISSION_MARSHAL</AssignMission>
@@ -213,7 +213,7 @@
 		<zType>COUNCIL_PRIEST</zType>
 		<Name>TEXT_COUNCIL_PRIEST</Name>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_MYSTICISM</EffectPlayerPrereq>
 		<iXP>5</iXP>
 		<iOpinion>40</iOpinion>
 		<AssignMission>MISSION_PRIEST</AssignMission>
@@ -265,7 +265,7 @@
 		<zType>COUNCIL_STEWARD</zType>
 		<Name>TEXT_COUNCIL_STEWARD</Name>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LOCAL_HUBS</EffectPlayerPrereq>
 		<iXP>5</iXP>
 		<iOpinion>40</iOpinion>
 		<AssignMission>MISSION_STEWARD</AssignMission>

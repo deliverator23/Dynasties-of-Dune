@@ -16,7 +16,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>100</iValue>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>75</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -41,7 +45,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>100</iValue>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>75</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -66,7 +74,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>100</iValue>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>75</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -91,7 +103,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>100</iValue>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>75</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -116,7 +132,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>100</iValue>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>75</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -141,12 +161,254 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
-				<iValue>100</iValue>
+				<iValue>25</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_INTEL</zIndex>
+				<iValue>75</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
 				<iValue>2</iValue>
 			</Pair>
 		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>MISSION_IMPROVE_RELIGIOUS_RELATIONS</zType>
+		<Name>TEXT_MISSION_IMPROVE_RELIGIOUS_RELATIONS</Name>
+		<NameCharacter>TEXT_MISSION_IMPROVE_RELIGIOUS_RELATIONS_CHARACTER</NameCharacter>
+		<zIcon>MISSION_FAMILY_GIFT</zIcon>
+		<iMissionTurns>3</iMissionTurns>
+		<bVisibleCharacter>1</bVisibleCharacter>
+		<bNoPopup>1</bNoPopup>
+		<bCharacterNoEvents>1</bCharacterNoEvents>
+		<SubjectCharacter>SUBJECT_COURT_CHAPLAIN</SubjectCharacter>
+		<SubjectTarget>SUBJECT_RELIGION_HEAD_US</SubjectTarget>
+		<aiResultDie>
+			<Pair>
+				<zIndex>MISSIONRESULT_IMPROVE_RELIGIOUS_RELATIONS</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiResultDie>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldCostOpinion>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCostOpinion>
+	</Entry>
+	<Entry>
+		<zType>MISSION_IMPROVE_TRIBE_RELATIONS</zType>
+		<Name>TEXT_MISSION_IMPROVE_TRIBE_RELATIONS</Name>
+		<NameCharacter>TEXT_MISSION_IMPROVE_TRIBE_RELATIONS_CHARACTER</NameCharacter>
+		<zIcon>MISSION_FAMILY_GIFT</zIcon>
+		<iMissionTurns>3</iMissionTurns>
+		<bVisibleCharacter>1</bVisibleCharacter>
+		<bVisibleTarget>1</bVisibleTarget>
+		<bVisibleAlways>1</bVisibleAlways>
+		<bNoPopup>1</bNoPopup>
+		<bCharacterNoEvents>1</bCharacterNoEvents>
+		<SubjectCharacter>SUBJECT_ENVOY</SubjectCharacter>
+		<SubjectTarget>SUBJECT_TRIBE_CAN_ALLIANCE</SubjectTarget>
+		<aiResultDie>
+			<Pair>
+				<zIndex>MISSIONRESULT_IMPROVE_TRIBE_RELATIONS</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiResultDie>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldCostOpinion>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>150</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>150</iValue>
+			</Pair>
+		</aiYieldCostOpinion>
+	</Entry>
+	<Entry>
+		<zType>MISSION_IMPROVE_FOREIGN_RELATIONS</zType>
+		<Name>TEXT_MISSION_IMPROVE_FOREIGN_RELATIONS</Name>
+		<NameCharacter>TEXT_MISSION_IMPROVE_FOREIGN_RELATIONS_CHARACTER</NameCharacter>
+		<zIcon>MISSION_FAMILY_GIFT</zIcon>
+		<iMissionTurns>3</iMissionTurns>
+		<bVisibleCharacter>1</bVisibleCharacter>
+		<bVisibleTarget>1</bVisibleTarget>
+		<bVisibleAlways>1</bVisibleAlways>
+		<bNoPopup>1</bNoPopup>
+		<bCharacterNoEvents>1</bCharacterNoEvents>
+		<SubjectCharacter>SUBJECT_ENVOY</SubjectCharacter>
+		<SubjectTarget>SUBJECT_PLAYER_CAN_ALLIANCE</SubjectTarget>
+		<aiResultDie>
+			<Pair>
+				<zIndex>MISSIONRESULT_IMPROVE_FOREIGN_RELATIONS</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiResultDie>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldCostOpinion>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+		</aiYieldCostOpinion>
+	</Entry>
+	<Entry>
+		<zType>MISSION_RELIGIOUS_SERVICE</zType>
+		<Name>TEXT_MISSION_RELIGIOUS_SERVICE</Name>
+		<NameCharacter>TEXT_MISSION_RELIGIOUS_SERVICE_CHARACTER</NameCharacter>
+		<zIcon>MISSION_FAMILY_GIFT</zIcon>
+		<iMissionTurns>5</iMissionTurns>
+		<bVisibleCharacter>1</bVisibleCharacter>
+		<bVisibleTarget>1</bVisibleTarget>
+		<bVisibleAlways>1</bVisibleAlways>
+		<bNoPopup>1</bNoPopup>
+		<bCharacterNoEvents>1</bCharacterNoEvents>
+		<SubjectCharacter>SUBJECT_PRIEST</SubjectCharacter>
+		<SubjectTarget>SUBJECT_CHARACTER_US</SubjectTarget>
+		<aiResultDie>
+			<Pair>
+				<zIndex>MISSIONRESULT_RELIGIOUS_SERVICE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiResultDie>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldCostOpinion>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>200</iValue>
+			</Pair>
+		</aiYieldCostOpinion>
+	</Entry>
+	<Entry>
+		<zType>MISSION_PERFORM_OFFERING</zType>
+		<Name>TEXT_MISSION_PERFORM_OFFERING</Name>
+		<NameCharacter>TEXT_MISSION_PERFORM_OFFERING_CHARACTER</NameCharacter>
+		<zIcon>MISSION_FAMILY_GIFT</zIcon>
+		<iMissionTurns>5</iMissionTurns>
+		<bVisibleCharacter>1</bVisibleCharacter>
+		<bVisibleTarget>1</bVisibleTarget>
+		<bVisibleAlways>1</bVisibleAlways>
+		<bNoPopup>1</bNoPopup>
+		<bCharacterNoEvents>1</bCharacterNoEvents>
+		<SubjectCharacter>SUBJECT_PRIEST</SubjectCharacter>
+		<SubjectTarget>SUBJECT_CHARACTER_US</SubjectTarget>
+		<aiResultDie>
+			<Pair>
+				<zIndex>MISSIONRESULT_PERFORM_OFFERING</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiResultDie>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldCostOpinion>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldCostOpinion>
+	</Entry>
+	<Entry>
+		<zType>MISSION_COLLECT_TAXES</zType>
+		<Name>TEXT_MISSION_COLLECT_TAXES</Name>
+		<NameCharacter>TEXT_MISSION_COLLECT_TAXES_CHARACTER</NameCharacter>
+		<zIcon>MISSION_FAMILY_GIFT</zIcon>
+		<iMissionTurns>3</iMissionTurns>
+		<bVisibleCharacter>1</bVisibleCharacter>
+		<bVisibleTarget>1</bVisibleTarget>
+		<bVisibleAlways>1</bVisibleAlways>
+		<bNoPopup>1</bNoPopup>
+		<bCharacterNoEvents>1</bCharacterNoEvents>
+		<SubjectCharacter>SUBJECT_STEWARD</SubjectCharacter>
+		<SubjectTarget>SUBJECT_CHARACTER_US</SubjectTarget>
+		<aiResultDie>
+			<Pair>
+				<zIndex>MISSIONRESULT_COLLECT_TAXES</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiResultDie>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldCostOpinion>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldCostOpinion>
+	</Entry>
+	<Entry>
+		<zType>MISSION_OVERSEE_CONSTRUCTION</zType>
+		<Name>TEXT_MISSION_OVERSEE_CONSTRUCTION</Name>
+		<NameCharacter>TEXT_MISSION_OVERSEE_CONSTRUCTION_CHARACTER</NameCharacter>
+		<zIcon>MISSION_FAMILY_GIFT</zIcon>
+		<iMissionTurns>3</iMissionTurns>
+		<bVisibleCharacter>1</bVisibleCharacter>
+		<bVisibleTarget>1</bVisibleTarget>
+		<bVisibleAlways>1</bVisibleAlways>
+		<bNoPopup>1</bNoPopup>
+		<bCharacterNoEvents>1</bCharacterNoEvents>
+		<SubjectCharacter>SUBJECT_STEWARD</SubjectCharacter>
+		<SubjectTarget>SUBJECT_CHARACTER_US</SubjectTarget>
+		<aiResultDie>
+			<Pair>
+				<zIndex>MISSIONRESULT_OVERSEE_CONSTRUCTION</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiResultDie>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiYieldCostOpinion>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>150</iValue>
+			</Pair>
+		</aiYieldCostOpinion>
 	</Entry>
 </Root>

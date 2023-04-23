@@ -1014,172 +1014,172 @@
 	<iWeight>0</iWeight> </Entry>
 	<Entry>
 		<zType>EVENTSTORY_ALLIANCE_PROPOSAL</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_PROPOSAL</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_OFFER_TRIBUTE_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_OFFER_TRIBUTE_SIMILAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_NEUTRAL</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_AMBASSADOR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_SECURE_FLANK</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_UNION</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_TRIBE</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_FRIENDLY</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_TRADING</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_REJECTED</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_REJECTED_UPSET</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_NO_TRIBUTE_REJECTED_ANGRY</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_DEMAND_TRIBUTE_WEAKER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_RESPONSE_DEMAND_TRIBUTE_REJECTED</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_PROPOSAL</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_PLAY_TO_WIN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_NO_TRIBUTE_PLAY_TO_WIN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_DEMAND_TRIBUTE_PLAY_TO_WIN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_TRIUMPHANT_COMPETITIVE</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_TRIUMPHANT_MUCH_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_TRIUMPHANT_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_TRIUMPHANT_SIMILAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_TRIUMPHANT_WEAKER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_WINNING_MUCH_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_WINNING_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_WINNING_SIMILAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_WINNING_WEAKER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_NEUTRAL_MUCH_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_NEUTRAL_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_NEUTRAL_SIMILAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_OFFER_TRIBUTE_NEUTRAL_WEAKER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_TRUCE_WAR_AMONG_FRIENDS</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_NO_TRIBUTE</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_NO_TRIBUTE_REJECTED_WINNING</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_NO_TRIBUTE_REJECTED_NEUTRAL_MUCH_STRONGER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_TRUCE_RESPONSE_FESTERING_VENGEANCE</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_TRUCE_RESPONSE_FESTERING_VENGEANCE_OFFER</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_TRUCE_RESPONSE_FESTERING_VENGEANCE_DEMAND</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_FROM_AFAR</zType>
 	<iWeight>0</iWeight> </Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_DEMAND_TRIBUTE_ROUTED</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_DEMAND_TRIBUTE_LOSING</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_RESPONSE_DEMAND_TRIBUTE_REJECTED</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_ALLIANCE_PROPOSAL_HUMAN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PEACE_PROPOSAL_HUMAN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRUCE_PROPOSAL_HUMAN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_TRIBE_PLAYER_WAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_TRIBE_WAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_PLAYER_WAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_DECLARE_WAR</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_DECLARE_WAR_HUMAN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_BREAK_PEACE</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_BREAK_PEACE_HUMAN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_END_ALLIANCE</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_END_ALLIANCE_HUMAN</zType>
-	<iWeight>0</iWeight> </Entry>
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PLAYER_CANCEL_TRADE</zType>
 	<iWeight>0</iWeight> </Entry>
@@ -7602,10 +7602,12 @@
 	<iWeight>0</iWeight> </Entry>
 	<Entry>
 		<zType>EVENTSTORY_A_WARNING_OF_JUDGEMENT</zType>
-	<iWeight>0</iWeight> </Entry>
+		<iWeight>0</iWeight> 
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PREPARING_THE_SACRIFICE_1</zType>
-	<iWeight>0</iWeight> </Entry>
+		<iWeight>0</iWeight> 
+	</Entry>
 	<Entry>
 		<zType>EVENTSTORY_PREPARING_THE_SACRIFICE_2</zType>
 	<iWeight>0</iWeight> </Entry>

@@ -18,6 +18,11 @@
 		</aiYieldCost>
 	</Entry>
 	<Entry>
+		<zType>PROJECT_MOAT</zType>
+		<TechPrereq>TECH_PORTCULLIS</TechPrereq>
+		<ProjectPrereq></ProjectPrereq>
+	</Entry>
+	<Entry>
 		<zType>PROJECT_TOWERS</zType>
 		<Name>TEXT_PROJECT_TOWERS</Name>
 		<zIcon>PROJECT_TOWERS</zIcon>
@@ -27,12 +32,107 @@
 		<bCaptureDestroy>1</bCaptureDestroy>
 		<CityProject>PROJECT_TOWERS</CityProject>
 		<EffectCity>EFFECTCITY_PROJECT_TOWERS</EffectCity>
-		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
+		<TechPrereq>TECH_OUTPOSTS_LOGISTICS</TechPrereq>
 		<ProjectPrereq>PROJECT_WALLS</ProjectPrereq>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
 				<iValue>200</iValue>
+			</Pair>
+		</aiYieldCost>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_TREASURY_1</zType>
+		<Name>TEXT_PROJECT_TREASURY_1</Name>
+		<zIcon>PROJECT_TREASURY_1</zIcon>
+		<iCivics>10</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus></Bonus>
+		<CityProject>PROJECT_TREASURY_1</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_TREASURY_1</EffectCity>
+		<EffectCityExtra>EFFECTCITY_PROJECT_TREASURY</EffectCityExtra>
+		<MinimumCulture>CULTURE_WEAK</MinimumCulture>
+		<TechPrereq>TECH_ADMINISTRATION</TechPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldCost>
+		<abInvalidBy></abInvalidBy>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_TREASURY_2</zType>
+		<Name>TEXT_PROJECT_TREASURY_2</Name>
+		<zIcon>PROJECT_TREASURY_2</zIcon>
+		<iCivics>20</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus></Bonus>
+		<CityProject>PROJECT_TREASURY_2</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_TREASURY_2</EffectCity>
+		<EffectCityExtra>EFFECTCITY_PROJECT_TREASURY</EffectCityExtra>
+		<MinimumCulture>CULTURE_DEVELOPING</MinimumCulture>
+		<ProjectPrereq>PROJECT_TREASURY_1</ProjectPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldCost>
+		<abInvalidBy></abInvalidBy>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_TREASURY_3</zType>
+		<Name>TEXT_PROJECT_TREASURY_3</Name>
+		<zIcon>PROJECT_TREASURY_3</zIcon>
+		<iCivics>25</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus></Bonus>
+		<CityProject>PROJECT_TREASURY_3</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_TREASURY_3</EffectCity>
+		<EffectCityExtra>EFFECTCITY_PROJECT_TREASURY</EffectCityExtra>
+		<MinimumCulture>CULTURE_STRONG</MinimumCulture>
+		<ProjectPrereq>PROJECT_TREASURY_2</ProjectPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldCost>
+		<abInvalidBy></abInvalidBy>
+	</Entry>
+	<Entry>
+		<zType>PROJECT_TREASURY_4</zType>
+		<Name>TEXT_PROJECT_TREASURY_4</Name>
+		<zIcon>PROJECT_TREASURY_4</zIcon>
+		<iCivics>30</iCivics>
+		<iMaxCount>1</iMaxCount>
+		<Bonus></Bonus>
+		<CityProject>PROJECT_TREASURY_4</CityProject>
+		<EffectCity>EFFECTCITY_PROJECT_TREASURY_4</EffectCity>
+		<EffectCityExtra>EFFECTCITY_PROJECT_TREASURY</EffectCityExtra>
+		<MinimumCulture>CULTURE_LEGENDARY</MinimumCulture>
+		<ProjectPrereq>PROJECT_TREASURY_3</ProjectPrereq>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCost>
 	</Entry>

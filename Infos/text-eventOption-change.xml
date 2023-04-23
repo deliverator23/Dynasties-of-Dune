@@ -1,0 +1,210 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_CIVICS</zType>
+		<en-US>Demand payment in their link(YIELD_CIVICS) texts.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_TRAINING</zType>
+		<en-US>We will take their link(YIELD_MANPOWER).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_SCIENCE</zType>
+		<en-US>Their technological findings will help our own findings in link(YIELD_SCIENCE).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_MONEY</zType>
+		<en-US>Demand payment in link(YIELD_MONEY) and the finest gifts.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_ORDERS</zType>
+		<en-US>Ask for maps to help your troops carry out their link(YIELD_ORDERS).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_FOOD</zType>
+		<en-US>We require link(YIELD_SPICE) in payment.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_IRON</zType>
+		<en-US>Demand link(YIELD_LOCAL_MATERIAL) from their mines.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_STONE</zType>
+		<en-US>The finest link(YIELD_OFFWORLD_SUPPLIES) will aid our economy.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_DEMAND_TRIBUTE_WOOD</zType>
+		<en-US>We will be paid in link(YIELD_FUEL) from their lands.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_ORDERS_MONEY</zType>
+		<en-US>We will pay link(YIELD_MONEY,1) for link(YIELD_ORDER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_ORDERS_FOOD</zType>
+		<en-US>We will trade link(YIELD_SPICE,1) for link(YIELD_ORDER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_ORDERS_IRON</zType>
+		<en-US>We will trade link(YIELD_LOCAL_MATERIAL,1) for link(YIELD_ORDER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_ORDERS_WOOD</zType>
+		<en-US>We will trade link(YIELD_FUEL,1) for link(YIELD_ORDER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_ORDERS_STONE</zType>
+		<en-US>We will trade link(YIELD_OFFWORLD_SUPPLIES,1) for link(YIELD_ORDER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_ORDERS</zType>
+		<en-US>We could use the link(YIELD_MONEY,1). You could use the link(YIELD_ORDER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FOOD_ORDERS</zType>
+		<en-US>We will trade link(YIELD_ORDER,1) for link(YIELD_SPICE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_IRON_ORDERS</zType>
+		<en-US>We will provide link(YIELD_ORDER,1) for link(YIELD_LOCAL_MATERIAL,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_WOOD_ORDERS</zType>
+		<en-US>We will give link(YIELD_ORDER,1) for link(YIELD_FUEL,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_STONE_ORDERS</zType>
+		<en-US>We will give link(YIELD_ORDER,1) for link(YIELD_OFFWORLD_SUPPLIES,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_CIVICS_MONEY</zType>
+		<en-US>We will pay link(YIELD_MONEY,1) for link(YIELD_CIVICS,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_CIVICS_FOOD</zType>
+		<en-US>We will trade link(YIELD_SPICE,1) for link(YIELD_CIVICS,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_CIVICS_IRON</zType>
+		<en-US>We will trade link(YIELD_LOCAL_MATERIAL,1) for link(YIELD_CIVICS,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_CIVICS_WOOD</zType>
+		<en-US>We will trade link(YIELD_FUEL,1) for link(YIELD_CIVICS,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_CIVICS_STONE</zType>
+		<en-US>We will trade link(YIELD_OFFWORLD_SUPPLIES,1) for link(YIELD_CIVICS,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_CIVICS</zType>
+		<en-US>Trade link(YIELD_MONEY,1) for link(YIELD_CIVICS,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FOOD_CIVICS</zType>
+		<en-US>We will give link(YIELD_CIVICS,1) for link(YIELD_SPICE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_IRON_CIVICS</zType>
+		<en-US>We will give link(YIELD_CIVICS,1) for link(YIELD_LOCAL_MATERIAL,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_WOOD_CIVICS</zType>
+		<en-US>We will give link(YIELD_CIVICS,1) for link(YIELD_FUEL,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_STONE_CIVICS</zType>
+		<en-US>We will give link(YIELD_CIVICS,1) for link(YIELD_OFFWORLD_SUPPLIES,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_SCIENCE_MONEY</zType>
+		<en-US>We will pay link(YIELD_MONEY,1) for link(YIELD_SCIENCE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_SCIENCE_FOOD</zType>
+		<en-US>We will trade link(YIELD_SPICE,1) for link(YIELD_SCIENCE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_SCIENCE_IRON</zType>
+		<en-US>We will trade link(YIELD_LOCAL_MATERIAL,1) for link(YIELD_SCIENCE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_SCIENCE_WOOD</zType>
+		<en-US>We will trade link(YIELD_FUEL,1) for link(YIELD_SCIENCE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_SCIENCE_STONE</zType>
+		<en-US>We will trade link(YIELD_OFFWORLD_SUPPLIES,1) for link(YIELD_SCIENCE,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_SCIENCE</zType>
+		<en-US>We will share our link(YIELD_SCIENCE,1) with you for the link(YIELD_MONEY).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FOOD_SCIENCE</zType>
+		<en-US>How about link(YIELD_SPICE,1) for link(YIELD_SCIENCE,1)?</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_IRON_SCIENCE</zType>
+		<en-US>We are willing to share link(YIELD_SCIENCE,1) for link(YIELD_LOCAL_MATERIAL,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_WOOD_SCIENCE</zType>
+		<en-US>We will share link(YIELD_SCIENCE,1) for link(YIELD_FUEL,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_STONE_SCIENCE</zType>
+		<en-US>Let us share our link(YIELD_SCIENCE,1) for link(YIELD_OFFWORLD_SUPPLIES,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_TRAINING_MONEY</zType>
+		<en-US>We will pay link(YIELD_MONEY,1) for additional link(YIELD_MANPOWER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_TRAINING_FOOD</zType>
+		<en-US>We will trade link(YIELD_SPICE,1) for additional link(YIELD_MANPOWER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_TRAINING_IRON</zType>
+		<en-US>We will trade link(YIELD_LOCAL_MATERIAL,1) for additional link(YIELD_MANPOWER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_TRAINING_WOOD</zType>
+		<en-US>We will trade link(YIELD_FUEL,1) for additional link(YIELD_MANPOWER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_TRAINING_STONE</zType>
+		<en-US>We will trade link(YIELD_OFFWORLD_SUPPLIES,1) for additional link(YIELD_MANPOWER,1).</en-US>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_TRAINING</zType>
+		<en-US>Fill our treasury with link(YIELD_MONEY,1) for link(YIELD_MANPOWER,1).</en-US>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FOOD_TRAINING</zType>
+		<en-US>Give our troops link(YIELD_SPICE,1), and we will provide link(YIELD_MANPOWER,1).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_IRON_TRAINING</zType>
+		<en-US>Let us trade link(YIELD_LOCAL_MATERIAL,1) for link(YIELD_MANPOWER,1).</en-US>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_WOOD_TRAINING</zType>
+		<en-US>Let us trade link(YIELD_MANPOWER,1) for link(YIELD_FUEL,1).</en-US>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_STONE_TRAINING</zType>
+		<en-US>Let us share our link(YIELD_MANPOWER,1) for link(YIELD_OFFWORLD_SUPPLIES,1).</en-US>
+	</Entry>	
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_NO</zType>
+		<en-US>For now, we prefer not to trade.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FAIL</zType>
+		<en-US>Very well, we hope you will open trade in the future.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRADE_MISSION_NO_FAIL</zType>
+		<en-US>We will not be extorted!</en-US>
+	</Entry>
+</Root>

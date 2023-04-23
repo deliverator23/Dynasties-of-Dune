@@ -41,4 +41,25 @@
 			</Pair>
 		</aiImprovementClassModifier>
 	</Entry>
+	<Entry>
+		<zType>SPECIALIST_LABORER</zType>
+		<Name>TEXT_SPECIALIST_LABORER</Name>
+		<zIconName>SPECIALIST_FARMER</zIconName>
+		<Class>SPECIALISTCLASS_LABORER</Class>
+		<iCivics>30</iCivics>
+		<EffectCity>EFFECTCITY_SPECIALIST_LABORER</EffectCity>
+		<EffectCityExtra>EFFECTCITY_SPECIALIST_RURAL</EffectCityExtra>
+		<aiYieldCost>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiYieldCost>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_PROCESSING_PLANT</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
+	</Entry>
 </Root>

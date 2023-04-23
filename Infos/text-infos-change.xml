@@ -757,4 +757,88 @@
 		<zType>TEXT_GOAL_SIX_GROVES</zType>
 		<en-US>Control Six link(IMPROVEMENT_SIETCH,2)</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_HARBORS</zType>
+		<en-US>Control Four link(IMPROVEMENT_GARRISON_1,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_GRANARY</zType>
+		<en-US>Control Four link(IMPROVEMENT_HAMLET,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_FARMERS</zType>
+		<en-US>Control Four link(SPECIALIST_TRAPPER) Specialists</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_MINERS</zType>
+		<en-US>Control Four link(SPECIALIST_WINDTRAP_OPERATOR) Specialists</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_STONECUTTERS</zType>
+		<en-US>Control Four link(SPECIALIST_DEW_COLLECTOR_PLANTER) Specialists</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FOUR_WOODCUTTERS</zType>
+		<en-US>Control Four link(SPECIALIST_LABORER) Specialists</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_ACOLYTES</zType>
+		<en-US>Control One link(SPECIALIST_ACOLYTE_3,1)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_SCHOLARSHIP_VAULTING</zType>
+		<en-US>Discover link(TECH_OUTPOSTS_LOGISTICS) and link(TECH_LOCAL_HUBS)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_ARCHITECTURE_JURISPRUDENCE</zType>
+		<en-US>Discover link(TECH_COMPOSITE_MATERIALS) and link(TECH_TEMPLE_BUILDING)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_DOCTRINE_FISCAL_POLICY</zType>
+		<en-US>Discover link(TECH_SURVIVAL_TRAINING) and link(TECH_ANIMAL_DEN)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_PORTCULLIS_CHAIN_DRIVE</zType>
+		<en-US>Discover link(TECH_MODULAR_PARTS) and link(TECH_RELIGIOUS_ORDER)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_WINDLASS_LATEEN_SAIL</zType>
+		<en-US>Discover link(TECH_BORDER_DEFENSE) and link(TECH_BASIC_SCHOOLS)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_COHORTS_MARTIAL_CODE</zType>
+		<en-US>Discover link(TECH_IMPROVED_MANUFACTURING) and link(TECH_PIOUS_SOLDIERS)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BODKIN_ARROW_BALLISTICS</zType>
+		<en-US>Discover link(TECH_BASIC_TRAINING) and link(TECH_LABOR_FORCE)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_BARDING_INFANTRY_SQUARE</zType>
+		<en-US>Discover link(TECH_DESERT_TRADE) and link(TECH_CULT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_MOUNTED</zType>
+		<en-US>Control Five link(UNITTRAIT_IRREGULAR) Units</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_NAVAL</zType>
+		<en-US>Control Five link(UNITTRAIT_MERCENARY) Units</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_TWO_RANGED_MOUNTED</zType>
+		<en-US>Control Two link(UNITTRAIT_RANGED) and Two link(UNITTRAIT_IRREGULAR) Units</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_LONGBOWMAN_CROSSBOWMAN</zType>
+		<en-US>Control Five link(UNIT_M_RANGER,2) or link(UNIT_M_TROOPER,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_POLYBOLOS_CATAPHRACT</zType>
+		<en-US>Control Five link(UNIT_B_TROOPER,2) or link(UNIT_SCOUT_ORNITHOPTER,2)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GOAL_FIVE_SWORDSMAN_PIKEMAN</zType>
+		<en-US>Control Five link(UNIT_DEVOTED_WARRIOR,2) or link(UNIT_NEW_FANATIC,2)</en-US>
+	</Entry>
 </Root>

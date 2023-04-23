@@ -1193,50 +1193,50 @@
 		<zType>GOAL_FOUR_HARBORS</zType>
 		<Name>TEXT_GOAL_FOUR_HARBORS</Name>
 		<iAmbitionClass>8</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>8</iMaxTier>
+		<iMinTier>2</iMinTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
-		<TechPrereq>TECH_BASIC_SCHOOLS</TechPrereq>
+		<TechPrereq>TECH_BASIC_DEFENSE</TechPrereq>
 		<aiImprovementCount>
 			<Pair>
-				<zIndex>IMPROVEMENT_LIBRARY_1</zIndex>
+				<zIndex>IMPROVEMENT_GARRISON_1</zIndex>
 				<iValue>4</iValue>
 			</Pair>
 		</aiImprovementCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_SCIENTIST</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
 		</aeFamilyClass>
 	</Entry>
-	<!-- Continue from here!!! --> 
 	<Entry>
 		<zType>GOAL_FOUR_GRANARY</zType>
 		<Name>TEXT_GOAL_FOUR_GRANARY</Name>
 		<iAmbitionClass>8</iAmbitionClass>
-		<iMinTier>2</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
+		<TechPrereq>TECH_BASIC_DEFENSE</TechPrereq>
 		<aiImprovementCount>
 			<Pair>
-				<zIndex>IMPROVEMENT_GRANARY</zIndex>
+				<zIndex>IMPROVEMENT_HAMLET</zIndex>
 				<iValue>4</iValue>
 			</Pair>
 		</aiImprovementCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_BARRACKS_RANGES</zType>
 		<Name>TEXT_GOAL_SIX_BARRACKS_RANGES</Name>
 		<iAmbitionClass>8</iAmbitionClass>
-		<iMinTier>2</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
-		<TechPrereq>TECH_MILITARY_DRILL</TechPrereq>
+		<TechPrereq>TECH_OUTPOSTS_LOGISTICS</TechPrereq>
 		<iImprovementClassThreshold>6</iImprovementClassThreshold>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
 		</aeFamilyClass>
 		<aeThresholdImprovementClasses>
 			<zValue>IMPROVEMENTCLASS_BARRACKS</zValue>
@@ -1258,26 +1258,25 @@
 			</Pair>
 		</aiImprovementCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
-			<zValue>FAMILYCLASS_TRADERS</zValue>
+			<zValue>FAMILYCLASS_BENEFACTOR</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_EIGHT_RESOURCE_IMPROVEMENTS</zType>
 		<Name>TEXT_GOAL_EIGHT_RESOURCE_IMPROVEMENTS</Name>
 		<iAmbitionClass>8</iAmbitionClass>
-		<iMinTier>2</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>3</iMinTier>
+		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<iImprovementClassThreshold>8</iImprovementClassThreshold>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 		<aeThresholdImprovementClasses>
-			<zValue>IMPROVEMENTCLASS_PASTURE</zValue>
+			<zValue>IMPROVEMENTCLASS_DEW_COLLECTOR</zValue>
 			<zValue>IMPROVEMENTCLASS_CAMP</zValue>
-			<zValue>IMPROVEMENTCLASS_GROVE</zValue>
-			<zValue>IMPROVEMENTCLASS_NETS</zValue>
+			<zValue>IMPROVEMENTCLASS_PROCESSING_PLANT</zValue>
 		</aeThresholdImprovementClasses>
 	</Entry>
 	<Entry>
@@ -1294,7 +1293,7 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -1311,299 +1310,79 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_PYRAMIDS</zType>
-		<Name>TEXT_GOAL_PYRAMIDS</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_PYRAMIDS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_STATESMEN</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_GREAT_ZIGGURAT</zType>
-		<Name>TEXT_GOAL_GREAT_ZIGGURAT</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_GREAT_ZIGGURAT</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_ORACLE</zType>
-		<Name>TEXT_GOAL_ORACLE</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_ORACLE</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
-			<zValue>FAMILYCLASS_SAGES</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_HANGING_GARDENS</zType>
-		<Name>TEXT_GOAL_HANGING_GARDENS</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_HANGING_GARDENS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
-			<zValue>FAMILYCLASS_SAGES</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_NECROPOLIS</zType>
-		<Name>TEXT_GOAL_NECROPOLIS</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_NECROPOLIS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_ISHTAR_GATE</zType>
-		<Name>TEXT_GOAL_ISHTAR_GATE</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_ISHTAR_GATE</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_LIGHTHOUSE</zType>
-		<Name>TEXT_GOAL_LIGHTHOUSE</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_LIGHTHOUSE</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_TRADERS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_APADANA</zType>
-		<Name>TEXT_GOAL_APADANA</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_APADANA</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
-			<zValue>FAMILYCLASS_STATESMEN</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_MAUSOLEUM</zType>
-		<Name>TEXT_GOAL_MAUSOLEUM</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_MAUSOLEUM</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_STATESMEN</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_ACROPOLIS</zType>
-		<Name>TEXT_GOAL_ACROPOLIS</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_ACROPOLIS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
-			<zValue>FAMILYCLASS_STATESMEN</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_COLOSSUS</zType>
-		<Name>TEXT_GOAL_COLOSSUS</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_COLOSSUS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_MUSAEUM</zType>
-		<Name>TEXT_GOAL_MUSAEUM</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_MUSAEUM</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_SAGES</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_CIRCUS_MAXIMUS</zType>
-		<Name>TEXT_GOAL_CIRCUS_MAXIMUS</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>7</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_CIRCUS_MAXIMUS</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_PANTHEON</zType>
-		<Name>TEXT_GOAL_PANTHEON</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>7</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_PANTHEON</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_HAGIA_SOPHIA</zType>
-		<Name>TEXT_GOAL_HAGIA_SOPHIA</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>7</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_HAGIA_SOPHIA</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_VIA_RECTA_SOUK</zType>
-		<Name>TEXT_GOAL_VIA_RECTA_SOUK</Name>
-		<iAmbitionClass>9</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>7</iMaxTier>
-		<iSubjectWeight>1200</iSubjectWeight>
-		<aiImprovementCount>
-			<Pair>
-				<zIndex>IMPROVEMENT_VIA_RECTA_SOUK</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiImprovementCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FIVE_DEVELOPING</zType>
 		<Name>TEXT_GOAL_FIVE_DEVELOPING</Name>
 		<iAmbitionClass>10</iAmbitionClass>
-		<iMinTier>2</iMinTier>
-		<iMaxTier>3</iMaxTier>
+		<iMinTier>4</iMinTier>
+		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiCultureCount>
 			<Pair>
@@ -1612,15 +1391,15 @@
 			</Pair>
 		</aiCultureCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FOUR_STRONG</zType>
 		<Name>TEXT_GOAL_FOUR_STRONG</Name>
 		<iAmbitionClass>10</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiCultureCount>
 			<Pair>
@@ -1629,15 +1408,15 @@
 			</Pair>
 		</aiCultureCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_THREE_LEGENDARY</zType>
 		<Name>TEXT_GOAL_THREE_LEGENDARY</Name>
 		<iAmbitionClass>10</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>7</iMaxTier>
+		<iMinTier>7</iMinTier>
+		<iMaxTier>10</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiCultureCount>
 			<Pair>
@@ -1646,15 +1425,15 @@
 			</Pair>
 		</aiCultureCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_LEGENDARY</zType>
 		<Name>TEXT_GOAL_SIX_LEGENDARY</Name>
 		<iAmbitionClass>10</iAmbitionClass>
-		<iMinTier>10</iMinTier>
-		<iMaxTier>10</iMaxTier>
+		<iMinTier>8</iMinTier>
+		<iMaxTier>11</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<bVictoryEligible>1</bVictoryEligible>
 		<aiCultureCount>
@@ -1664,91 +1443,53 @@
 			</Pair>
 		</aiCultureCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_TWO_WONDERS</zType>
-		<Name>TEXT_GOAL_TWO_WONDERS</Name>
-		<iAmbitionClass>10</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>7</iMaxTier>
-		<iSubjectWeight>1100</iSubjectWeight>
-		<iWonders>2</iWonders>
-		<aiCultureWonders>
-			<Pair>
-				<zIndex>CULTURE_STRONG</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiCultureWonders>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FOUR_WONDERS</zType>
-		<Name>TEXT_GOAL_FOUR_WONDERS</Name>
-		<iAmbitionClass>10</iAmbitionClass>
-		<iMinTier>8</iMinTier>
-		<iMaxTier>9</iMaxTier>
-		<iSubjectWeight>1100</iSubjectWeight>
-		<iWonders>4</iWonders>
-		<aiCultureWonders>
-			<Pair>
-				<zIndex>CULTURE_LEGENDARY</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiCultureWonders>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SEVEN_WONDERS</zType>
-		<Name>TEXT_GOAL_SEVEN_WONDERS</Name>
-		<iAmbitionClass>10</iAmbitionClass>
-		<iMinTier>10</iMinTier>
-		<iMaxTier>10</iMaxTier>
-		<iSubjectWeight>1100</iSubjectWeight>
-		<iWonders>7</iWonders>
-		<bVictoryEligible>1</bVictoryEligible>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FOUR_FARMERS</zType>
 		<Name>TEXT_GOAL_FOUR_FARMERS</Name>
 		<iAmbitionClass>11</iAmbitionClass>
-		<iMinTier>1</iMinTier>
-		<iMaxTier>2</iMaxTier>
+		<iMinTier>2</iMinTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
 		<aiSpecialistCount>
 			<Pair>
-				<zIndex>SPECIALIST_FARMER</zIndex>
+				<zIndex>SPECIALIST_TRAPPER</zIndex>
 				<iValue>4</iValue>
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FOUR_MINERS</zType>
 		<Name>TEXT_GOAL_FOUR_MINERS</Name>
 		<iAmbitionClass>11</iAmbitionClass>
-		<iMinTier>1</iMinTier>
-		<iMaxTier>2</iMaxTier>
+		<iMinTier>2</iMinTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiSpecialistCount>
 			<Pair>
-				<zIndex>SPECIALIST_MINER</zIndex>
+				<zIndex>SPECIALIST_WINDTRAP_OPERATOR</zIndex>
 				<iValue>4</iValue>
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -1756,16 +1497,16 @@
 		<Name>TEXT_GOAL_FOUR_STONECUTTERS</Name>
 		<iAmbitionClass>11</iAmbitionClass>
 		<iMinTier>2</iMinTier>
-		<iMaxTier>3</iMaxTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiSpecialistCount>
 			<Pair>
-				<zIndex>SPECIALIST_STONECUTTER</zIndex>
+				<zIndex>SPECIALIST_DEW_COLLECTOR_PLANTER</zIndex>
 				<iValue>4</iValue>
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -1778,12 +1519,12 @@
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
-				<zIndex>SPECIALIST_WOODCUTTER</zIndex>
+				<zIndex>SPECIALIST_LABORER</zIndex>
 				<iValue>4</iValue>
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_SAGES</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -1793,7 +1534,7 @@
 		<iMinTier>2</iMinTier>
 		<iMaxTier>3</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_DIVINATION</TechPrereq>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_ACOLYTE_3</zIndex>
@@ -1808,10 +1549,10 @@
 		<zType>GOAL_TWO_POETS</zType>
 		<Name>TEXT_GOAL_TWO_POETS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_DRAMA</TechPrereq>
+		<TechPrereq>TECH_LOCAL_HUBS</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_POET_3</zIndex>
@@ -1819,17 +1560,17 @@
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_INTRIGUER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_TWO_OFFICERS</zType>
 		<Name>TEXT_GOAL_TWO_OFFICERS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_MILITARY_DRILL</TechPrereq>
+		<TechPrereq>TECH_OUTPOSTS_LOGISTICS</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_OFFICER_3</zIndex>
@@ -1837,19 +1578,19 @@
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_TWO_SCRIBES</zType>
 		<Name>TEXT_GOAL_TWO_SCRIBES</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1500</iSubjectWeight>
-		<TechPrereq>TECH_CITIZENSHIP</TechPrereq>
+		<TechPrereq>TECH_LABOR_FORCE</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_SCRIBE_3</zIndex>
@@ -1867,7 +1608,7 @@
 		<iMinTier>4</iMinTier>
 		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1500</iSubjectWeight>
-		<TechPrereq>TECH_MONASTICISM</TechPrereq>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_MONK_3</zIndex>
@@ -1886,7 +1627,7 @@
 		<iMinTier>5</iMinTier>
 		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>2000</iSubjectWeight>
-		<TechPrereq>TECH_ARCHITECTURE</TechPrereq>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_DOCTOR_3</zIndex>
@@ -1897,34 +1638,34 @@
 			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
 			<zValue>FAMILYCLASS_SAGES</zValue>
 		</aeFamilyClass>
-	</Entry>
+	</Entry> 
 	<Entry>
 		<zType>GOAL_TWO_PRIESTS</zType>
 		<Name>TEXT_GOAL_TWO_PRIESTS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
+		<iMinTier>2</iMinTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_DOCTRINE</TechPrereq>
+		<TechPrereq></TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_PRIEST_3</zIndex>
-				<iValue>2</iValue>
+				<iValue>1</iValue>
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_TWO_SHOPKEEPERS</zType>
 		<Name>TEXT_GOAL_TWO_SHOPKEEPERS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
+		<iMinTier>7</iMinTier>
+		<iMaxTier>9</iMaxTier>
 		<iSubjectWeight>2000</iSubjectWeight>
-		<TechPrereq>TECH_COINAGE</TechPrereq>
+		<TechPrereq>TECH_MODULAR_PARTS</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_SHOPKEEPER_3</zIndex>
@@ -1932,17 +1673,17 @@
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_TRADERS</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_TWO_PHILOSOPHERS</zType>
 		<Name>TEXT_GOAL_TWO_PHILOSOPHERS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
+		<iMinTier>7</iMinTier>
+		<iMaxTier>9</iMaxTier>
 		<iSubjectWeight>1500</iSubjectWeight>
-		<TechPrereq>TECH_SCHOLARSHIP</TechPrereq>
+		<TechPrereq>TECH_BASIC_SCHOOLS</TechPrereq>
 		<aiSpecialistCount>
 			<Pair>
 				<zIndex>SPECIALIST_PHILOSOPHER_3</zIndex>
@@ -1950,54 +1691,54 @@
 			</Pair>
 		</aiSpecialistCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_SAGES</zValue>
+			<zValue>FAMILYCLASS_SCIENTIST</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_THREE_SPECIALISTS</zType>
 		<Name>TEXT_GOAL_THREE_SPECIALISTS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>1</iMinTier>
-		<iMaxTier>2</iMaxTier>
+		<iMinTier>2</iMinTier>
+		<iMaxTier>3</iMaxTier>
 		<iSubjectWeight>1500</iSubjectWeight>
 		<iSpecialists>3</iSpecialists>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_10_SPECIALISTS</zType>
 		<Name>TEXT_GOAL_10_SPECIALISTS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>4</iMinTier>
+		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<iSpecialists>10</iSpecialists>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
+			<zValue>FAMILYCLASS_SCIENTIST</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_20_SPECIALISTS</zType>
 		<Name>TEXT_GOAL_20_SPECIALISTS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<iSpecialists>20</iSpecialists>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_INTRIGUER</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_5_ELDER_SPECIALISTS</zType>
 		<Name>TEXT_GOAL_5_ELDER_SPECIALISTS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
+		<iMinTier>4</iMinTier>
+		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>800</iSubjectWeight>
 		<aiEffectCityCount>
 			<Pair>
@@ -2006,16 +1747,16 @@
 			</Pair>
 		</aiEffectCityCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_INTRIGUER</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_10_ELDER_SPECIALISTS</zType>
 		<Name>TEXT_GOAL_10_ELDER_SPECIALISTS</Name>
 		<iAmbitionClass>12</iAmbitionClass>
-		<iMinTier>7</iMinTier>
-		<iMaxTier>8</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aiEffectCityCount>
 			<Pair>
@@ -2024,18 +1765,18 @@
 			</Pair>
 		</aiEffectCityCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_WALLS</zType>
 		<Name>TEXT_GOAL_SIX_WALLS</Name>
 		<iAmbitionClass>13</iAmbitionClass>
-		<iMinTier>2</iMinTier>
-		<iMaxTier>3</iMaxTier>
+		<iMinTier>3</iMinTier>
+		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
-		<TechPrereq>TECH_POLIS</TechPrereq>
+		<TechPrereq>TECH_BASIC_DEFENSE</TechPrereq>
 		<aiProjectCount>
 			<Pair>
 				<zIndex>PROJECT_WALLS</zIndex>
@@ -2043,28 +1784,13 @@
 			</Pair>
 		</aiProjectCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
+			<zValue>FAMILYCLASS_INTRIGUER</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_MOATS</zType>
-		<Name>TEXT_GOAL_SIX_MOATS</Name>
-		<iAmbitionClass>13</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
-		<iSubjectWeight>1000</iSubjectWeight>
-		<TechPrereq>TECH_PORTCULLIS</TechPrereq>
-		<aiProjectCount>
-			<Pair>
-				<zIndex>PROJECT_MOAT</zIndex>
-				<iValue>6</iValue>
-			</Pair>
-		</aiProjectCount>
-		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-		</aeFamilyClass>
+		<TechPrereq>TECH_FORESTRY</TechPrereq>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_TOWERS</zType>
@@ -2073,7 +1799,7 @@
 		<iMinTier>6</iMinTier>
 		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
-		<TechPrereq>TECH_MARTIAL_CODE</TechPrereq>
+		<TechPrereq>TECH_OUTPOSTS_LOGISTICS</TechPrereq>
 		<aiProjectCount>
 			<Pair>
 				<zIndex>PROJECT_TOWERS</zIndex>
@@ -2081,15 +1807,15 @@
 			</Pair>
 		</aiProjectCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
+			<zValue>FAMILYCLASS_INTRIGUER</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_TREASURIES</zType>
 		<Name>TEXT_GOAL_SIX_TREASURIES</Name>
 		<iAmbitionClass>13</iAmbitionClass>
-		<iMinTier>2</iMinTier>
+		<iMinTier>4</iMinTier>
 		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiEffectCityCount>
@@ -2100,17 +1826,17 @@
 		</aiEffectCityCount>
 		<aeFamilyClass>
 			<zValue>FAMILYCLASS_STATESMEN</zValue>
-			<zValue>FAMILYCLASS_TRADERS</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_FORUMS</zType>
 		<Name>TEXT_GOAL_SIX_FORUMS</Name>
 		<iAmbitionClass>13</iAmbitionClass>
-		<iMinTier>2</iMinTier>
+		<iMinTier>4</iMinTier>
 		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
-		<TechPrereq>TECH_RHETORIC</TechPrereq>
+		<TechPrereq>TECH_ADMINISTRATION</TechPrereq>
 		<aiEffectCityCount>
 			<Pair>
 				<zIndex>EFFECTCITY_PROJECT_FORUM</zIndex>
@@ -2125,7 +1851,7 @@
 		<zType>GOAL_SIX_ARCHIVES</zType>
 		<Name>TEXT_GOAL_SIX_ARCHIVES</Name>
 		<iAmbitionClass>13</iAmbitionClass>
-		<iMinTier>2</iMinTier>
+		<iMinTier>4</iMinTier>
 		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<TechPrereq>TECH_METAPHYSICS</TechPrereq>
@@ -2137,7 +1863,7 @@
 		</aiEffectCityCount>
 		<aeFamilyClass>
 			<zValue>FAMILYCLASS_STATESMEN</zValue>
-			<zValue>FAMILYCLASS_SAGES</zValue>
+			<zValue>FAMILYCLASS_SCIENTIST</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2154,17 +1880,17 @@
 			</Pair>
 		</aiProjectCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_BENEFACTOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_CONVOYS</zType>
 		<Name>TEXT_GOAL_SIX_CONVOYS</Name>
 		<iAmbitionClass>13</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>6</iMaxTier>
+		<iMinTier>7</iMinTier>
+		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_JURISPRUDENCE</TechPrereq>
+		<TechPrereq>TECH_IMPROVED_MANUFACTURING</TechPrereq>
 		<aiProjectCount>
 			<Pair>
 				<zIndex>PROJECT_CONVOY</zIndex>
@@ -2172,15 +1898,15 @@
 			</Pair>
 		</aiProjectCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_TRADERS</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_LEGENDARY_PROJECTS</zType>
 		<Name>TEXT_GOAL_LEGENDARY_PROJECTS</Name>
 		<iAmbitionClass>13</iAmbitionClass>
-		<iMinTier>7</iMinTier>
-		<iMaxTier>8</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiProjectCount>
 			<Pair>
@@ -2197,8 +1923,8 @@
 			</Pair>
 		</aiProjectCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_SCIENTIST</zValue>
+			<zValue>FAMILYCLASS_BENEFACTOR</zValue>
 			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 	</Entry>
@@ -2206,8 +1932,8 @@
 		<zType>GOAL_THREE_TRIBE_CLEARED</zType>
 		<Name>TEXT_GOAL_THREE_TRIBE_CLEARED</Name>
 		<iAmbitionClass>14</iAmbitionClass>
-		<iMinTier>1</iMinTier>
-		<iMaxTier>2</iMaxTier>
+		<iMinTier>4</iMinTier>
+		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2216,17 +1942,17 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_SIX_TRIBE_CLEARED</zType>
 		<Name>TEXT_GOAL_SIX_TRIBE_CLEARED</Name>
 		<iAmbitionClass>14</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2235,17 +1961,17 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_TRIBE_PEACE</zType>
 		<Name>TEXT_GOAL_TRIBE_PEACE</Name>
 		<iAmbitionClass>14</iAmbitionClass>
-		<iMinTier>2</iMinTier>
-		<iMaxTier>3</iMaxTier>
+		<iMinTier>4</iMinTier>
+		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2261,8 +1987,8 @@
 		<zType>GOAL_TRIBE_ALLIANCE</zType>
 		<Name>TEXT_GOAL_TRIBE_ALLIANCE</Name>
 		<iAmbitionClass>14</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2309,11 +2035,11 @@
 		<Name>TEXT_GOAL_STATE_RELIGION</Name>
 		<iAmbitionClass>15</iAmbitionClass>
 		<iMinTier>2</iMinTier>
-		<iMaxTier>3</iMaxTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<bStateReligion>1</bStateReligion>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2330,16 +2056,16 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
+			<zValue>FAMILYCLASS_BENEFACTOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_ESTABLISH_THEOLOGY</zType>
 		<Name>TEXT_GOAL_ESTABLISH_THEOLOGY</Name>
 		<iAmbitionClass>15</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
+		<iMinTier>2</iMinTier>
+		<iMaxTier>3</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2348,7 +2074,7 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2365,15 +2091,15 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_EIGHT_RELIGION_SPREAD</zType>
 		<Name>TEXT_GOAL_EIGHT_RELIGION_SPREAD</Name>
 		<iAmbitionClass>15</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2382,7 +2108,7 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2399,7 +2125,7 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_SAGES</zValue>
+			<zValue>FAMILYCLASS_SCIENTIST</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2416,7 +2142,7 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_SAGES</zValue>
+			<zValue>FAMILYCLASS_SCIENTIST</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2427,12 +2153,12 @@
 		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_SAGES</zValue>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_STATESMEN</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_SCHOLARSHIP</zValue>
-			<zValue>TECH_VAULTING</zValue>
+			<zValue>TECH_OUTPOSTS_LOGISTICS</zValue>
+			<zValue>TECH_LOCAL_HUBS</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
@@ -2443,12 +2169,12 @@
 		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_STATESMEN</zValue>
-			<zValue>FAMILYCLASS_PATRONS</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_ARCHITECTURE</zValue>
-			<zValue>TECH_JURISPRUDENCE</zValue>
+			<zValue>TECH_COMPOSITE_MATERIALS</zValue>
+			<zValue>TECH_TEMPLE_BUILDING</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
@@ -2459,11 +2185,11 @@
 		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_TRADERS</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_DOCTRINE</zValue>
-			<zValue>TECH_FISCAL_POLICY</zValue>
+			<zValue>TECH_SURVIVAL_TRAINING</zValue>
+			<zValue>TECH_ANIMAL_DEN</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
@@ -2474,11 +2200,11 @@
 		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_LANDOWNERS</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_PORTCULLIS</zValue>
-			<zValue>TECH_CHAIN_DRIVE</zValue>
+			<zValue>TECH_MODULAR_PARTS</zValue>
+			<zValue>TECH_RELIGIOUS_ORDER</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
@@ -2489,12 +2215,12 @@
 		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_TRADERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_INTRIGUER</zValue>
+			<zValue>FAMILYCLASS_SCIENTIST</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_WINDLASS</zValue>
-			<zValue>TECH_LATEEN_SAIL</zValue>
+			<zValue>TECH_BORDER_DEFENSE</zValue>
+			<zValue>TECH_BASIC_SCHOOLS</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
@@ -2505,42 +2231,43 @@
 		<iMaxTier>8</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_CLERICS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_COHORTS</zValue>
-			<zValue>TECH_MARTIAL_CODE</zValue>
+			<zValue>TECH_IMPROVED_MANUFACTURING</zValue>
+			<zValue>TECH_PIOUS_SOLDIERS</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
 		<zType>GOAL_BODKIN_ARROW_BALLISTICS</zType>
 		<Name>TEXT_GOAL_BODKIN_ARROW_BALLISTICS</Name>
 		<iAmbitionClass>16</iAmbitionClass>
-		<iMinTier>8</iMinTier>
-		<iMaxTier>9</iMaxTier>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_BODKIN_ARROW</zValue>
-			<zValue>TECH_BALLISTICS</zValue>
+			<zValue>TECH_BASIC_TRAINING</zValue>
+			<zValue>TECH_LABOR_FORCE</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
 		<zType>GOAL_BARDING_INFANTRY_SQUARE</zType>
 		<Name>TEXT_GOAL_BARDING_INFANTRY_SQUARE</Name>
 		<iAmbitionClass>16</iAmbitionClass>
-		<iMinTier>8</iMinTier>
-		<iMaxTier>9</iMaxTier>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>900</iSubjectWeight>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 		<aeTechsAcquired>
-			<zValue>TECH_BARDING</zValue>
-			<zValue>TECH_INFANTRY_SQUARE</zValue>
+			<zValue>TECH_DESERT_TRADE</zValue>
+			<zValue>TECH_CULT</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>
@@ -2557,17 +2284,17 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_10_KILLS</zType>
 		<Name>TEXT_GOAL_10_KILLS</Name>
 		<iAmbitionClass>17</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>2</iMinTier>
+		<iMaxTier>3</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2576,17 +2303,17 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_15_KILLS</zType>
 		<Name>TEXT_GOAL_15_KILLS</Name>
 		<iAmbitionClass>17</iAmbitionClass>
-		<iMinTier>5</iMinTier>
-		<iMaxTier>6</iMaxTier>
+		<iMinTier>3</iMinTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2595,17 +2322,17 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_20_KILLS</zType>
 		<Name>TEXT_GOAL_20_KILLS</Name>
 		<iAmbitionClass>17</iAmbitionClass>
-		<iMinTier>7</iMinTier>
-		<iMaxTier>8</iMaxTier>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiStatCountData>
 			<Pair>
@@ -2614,9 +2341,9 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2633,9 +2360,9 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2652,9 +2379,9 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2671,9 +2398,9 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2690,9 +2417,9 @@
 			</Pair>
 		</aiStatCountData>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2713,9 +2440,9 @@
 			</Pair>
 		</aiUnitTraitMaxLevelCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2723,21 +2450,21 @@
 		<Name>TEXT_GOAL_FIVE_MILITARY</Name>
 		<iAmbitionClass>19</iAmbitionClass>
 		<iMinTier>1</iMinTier>
-		<iMaxTier>1</iMaxTier>
+		<iMaxTier>2</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<iMilitaryUnits>5</iMilitaryUnits>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FIVE_RANGED</zType>
 		<Name>TEXT_GOAL_FIVE_RANGED</Name>
 		<iAmbitionClass>19</iAmbitionClass>
-		<iMinTier>2</iMinTier>
-		<iMaxTier>3</iMaxTier>
+		<iMinTier>3</iMinTier>
+		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiUnitTraitCount>
 			<Pair>
@@ -2746,48 +2473,48 @@
 			</Pair>
 		</aiUnitTraitCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FIVE_MOUNTED</zType>
 		<Name>TEXT_GOAL_FIVE_MOUNTED</Name>
 		<iAmbitionClass>19</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>4</iMaxTier>
+		<iMinTier>1</iMinTier>
+		<iMaxTier>1</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiUnitTraitCount>
 			<Pair>
-				<zIndex>UNITTRAIT_MOUNTED</zIndex>
+				<zIndex>UNITTRAIT_IRREGULAR</zIndex>
 				<iValue>5</iValue>
 			</Pair>
 		</aiUnitTraitCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
+			<zValue>FAMILYCLASS_INTRIGUER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FIVE_NAVAL</zType>
 		<Name>TEXT_GOAL_FIVE_NAVAL</Name>
 		<iAmbitionClass>19</iAmbitionClass>
-		<iMinTier>4</iMinTier>
-		<iMaxTier>5</iMaxTier>
+		<iMinTier>5</iMinTier>
+		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>1000</iSubjectWeight>
 		<aiUnitTraitCount>
 			<Pair>
-				<zIndex>UNITTRAIT_SHIP</zIndex>
+				<zIndex>UNITTRAIT_MERCENARY</zIndex>
 				<iValue>5</iValue>
 			</Pair>
 		</aiUnitTraitCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_TWO_RANGED_MOUNTED</zType>
 		<Name>TEXT_GOAL_TWO_RANGED_MOUNTED</Name>
 		<iAmbitionClass>19</iAmbitionClass>
-		<iMinTier>2</iMinTier>
+		<iMinTier>3</iMinTier>
 		<iMaxTier>4</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
 		<aiUnitTraitCount>
@@ -2796,22 +2523,22 @@
 				<iValue>2</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>UNITTRAIT_MOUNTED</zIndex>
+				<zIndex>UNITTRAIT_IRREGULAR</zIndex>
 				<iValue>2</iValue>
 			</Pair>
 		</aiUnitTraitCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_ADVENTURER</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
 		<zType>GOAL_THREE_SIEGE</zType>
 		<Name>TEXT_GOAL_THREE_SIEGE</Name>
 		<iAmbitionClass>19</iAmbitionClass>
-		<iMinTier>3</iMinTier>
-		<iMaxTier>5</iMaxTier>
+		<iMinTier>6</iMinTier>
+		<iMaxTier>7</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
 		<aiUnitTraitCount>
 			<Pair>
@@ -2820,7 +2547,7 @@
 			</Pair>
 		</aiUnitTraitCount>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_ARTISANS</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 	</Entry>
 	<Entry>
@@ -2830,52 +2557,53 @@
 		<iMinTier>5</iMinTier>
 		<iMaxTier>6</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_MACHINERY</TechPrereq>
+		<TechPrereq>TECH_MERCENARY</TechPrereq>
 		<iUnitThreshold>5</iUnitThreshold>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
 		<aeThresholdUnits>
-			<zValue>UNIT_LONGBOWMAN</zValue>
-			<zValue>UNIT_CROSSBOWMAN</zValue>
+			<zValue>UNIT_M_RANGER</zValue>
+			<zValue>UNIT_M_TROOPER</zValue>
 		</aeThresholdUnits>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FIVE_POLYBOLOS_CATAPHRACT</zType>
 		<Name>TEXT_GOAL_FIVE_POLYBOLOS_CATAPHRACT</Name>
 		<iAmbitionClass>19</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>7</iMaxTier>
+		<iMinTier>4</iMinTier>
+		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_SCHOLARSHIP</TechPrereq>
+		<TechPrereq>TECH_BLADE_MAKING</TechPrereq>
 		<iUnitThreshold>5</iUnitThreshold>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
-			<zValue>FAMILYCLASS_RIDERS</zValue>
-			<zValue>FAMILYCLASS_HUNTERS</zValue>
+			<zValue>FAMILYCLASS_WARMASTER</zValue>
+			<zValue>FAMILYCLASS_RAIDER</zValue>
+			<zValue>FAMILYCLASS_OPPRESSOR</zValue>
 		</aeFamilyClass>
 		<aeThresholdUnits>
-			<zValue>UNIT_POLYBOLOS</zValue>
-			<zValue>UNIT_CATAPHRACT</zValue>
+			<zValue>UNIT_B_TROOPER</zValue>
+			<zValue>UNIT_SCOUT_ORNITHOPTER</zValue>
 		</aeThresholdUnits>
 	</Entry>
 	<Entry>
 		<zType>GOAL_FIVE_SWORDSMAN_PIKEMAN</zType>
 		<Name>TEXT_GOAL_FIVE_SWORDSMAN_PIKEMAN</Name>
 		<iAmbitionClass>19</iAmbitionClass>
-		<iMinTier>6</iMinTier>
-		<iMaxTier>7</iMaxTier>
+		<iMinTier>4</iMinTier>
+		<iMaxTier>5</iMaxTier>
 		<iSubjectWeight>1200</iSubjectWeight>
-		<TechPrereq>TECH_BATTLELINE</TechPrereq>
+		<TechPrereq>TECH_DIVINATION</TechPrereq>
 		<iUnitThreshold>5</iUnitThreshold>
 		<aeFamilyClass>
-			<zValue>FAMILYCLASS_CHAMPIONS</zValue>
+			<zValue>FAMILYCLASS_MYSTIC</zValue>
 		</aeFamilyClass>
 		<aeThresholdUnits>
-			<zValue>UNIT_SWORDSMAN</zValue>
-			<zValue>UNIT_PIKEMAN</zValue>
+			<zValue>UNIT_DEVOTED_WARRIOR</zValue>
+			<zValue>UNIT_NEW_FANATIC</zValue>
 		</aeThresholdUnits>
 	</Entry>
+	<!-- Continue from here!!! -->
 	<Entry>
 		<zType>GOAL_20_UNITS</zType>
 		<Name>TEXT_GOAL_20_UNITS</Name>

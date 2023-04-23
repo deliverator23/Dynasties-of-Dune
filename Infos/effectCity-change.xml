@@ -378,6 +378,58 @@
 			</Pair>
 		</aiYieldRate>
 	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_TREASURY_1</zType>
+		<Name>TEXT_PROJECT_TREASURY_1</Name>
+		<SourceProject>PROJECT_TREASURY_1</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>30</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_TREASURY_2</zType>
+		<Name>TEXT_PROJECT_TREASURY_2</Name>
+		<SourceProject>PROJECT_TREASURY_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_TREASURY_3</zType>
+		<Name>TEXT_PROJECT_TREASURY_3</Name>
+		<SourceProject>PROJECT_TREASURY_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_TREASURY_4</zType>
+		<Name>TEXT_PROJECT_TREASURY_4</Name>
+		<SourceProject>PROJECT_TREASURY_4</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_HAPPINESS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 	<!-- Religion --> 
 	<Entry>
 		<zType>EFFECTCITY_THEOLOGY_GNOSTICISM</zType>
@@ -1714,6 +1766,25 @@
 		<Name>TEXT_IMPROVEMENT_MUSAEUM</Name>
 		<SourceImprovement>IMPROVEMENT_MUSAEUM</SourceImprovement>
 		<bSingle>1</bSingle>
+		<aaiEffectCityYieldRate></aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_NATION_BABYLONIA</zType>
+		<Name>TEXT_NATION_BABYLONIA</Name>
+		<SourceNation>NATION_BABYLONIA</SourceNation>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aiYieldModifier>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldModifier>
 		<aaiEffectCityYieldRate></aaiEffectCityYieldRate>
 	</Entry>
 </Root>

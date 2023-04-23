@@ -23,4 +23,32 @@
 		<zType>TEXT_MISSIONRESULT_MAKE_STEWARD</zType>
 		<en-US>Make link(COUNCIL_STEWARD)</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPROVE_RELIGIOUS_RELATIONS</zType>
+		<en-US>Religious Head accepts your devotion and gift.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPROVE_TRIBE_RELATIONS</zType>
+		<en-US>Tribe Leader accepts your gift.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPROVE_FOREIGN_RELATIONS</zType>
+		<en-US>Foreign Leader accepts your gift.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELIGIOUS_SERVICE</zType>
+		<en-US>Religious service has taken place.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PERFORM_OFFERING</zType>
+		<en-US>Offering was made to the Diety.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_COLLECT_TAXES</zType>
+		<en-US>Taxes was collected.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_OVERSEE_CONSTRUCTION</zType>
+		<en-US>Construction was overseen.</en-US>
+	</Entry>
 </Root>

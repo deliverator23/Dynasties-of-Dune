@@ -23,4 +23,60 @@
 		<zType>TEXT_MISSION_STEWARD</zType>
 		<en-US>Make link(COUNCIL_STEWARD)</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPROVE_RELIGIOUS_RELATIONS</zType>
+		<en-US>Improve Religious Relations</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPROVE_RELIGIOUS_RELATIONS_CHARACTER</zType>
+		<en-US>Improve Religious Relations via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPROVE_TRIBE_RELATIONS</zType>
+		<en-US>Improve Tribe Relations</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPROVE_TRIBE_RELATIONS_CHARACTER</zType>
+		<en-US>Improve Tribe Relations via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPROVE_FOREIGN_RELATIONS</zType>
+		<en-US>Improve Foreign Relations</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPROVE_FOREIGN_RELATIONS_CHARACTER</zType>
+		<en-US>Improve Foreign Relations via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RELIGIOUS_SERVICE</zType>
+		<en-US>Religious Service</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RELIGIOUS_SERVICE_CHARACTER</zType>
+		<en-US>Religious Service via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PERFORM_OFFERING</zType>
+		<en-US>Perform Offering</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PERFORM_OFFERING_CHARACTER</zType>
+		<en-US>Perform Offering via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_COLLECT_TAXES</zType>
+		<en-US>Collect Taxes</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_COLLECT_TAXES_CHARACTER</zType>
+		<en-US>Collect Taxes via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_OVERSEE_CONSTRUCTION</zType>
+		<en-US>Oversee Construction</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_OVERSEE_CONSTRUCTION_CHARACTER</zType>
+		<en-US>Oversee Construction via</en-US>
+	</Entry>
 </Root>

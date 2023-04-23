@@ -1983,6 +1983,17 @@
 			</Pair>
 		</aiYieldRate>
 	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_SPECIALIST_LABORER</zType>
+		<Name>TEXT_SPECIALIST_LABORER</Name>
+		<SourceSpecialist>SPECIALIST_LABORER</SourceSpecialist>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 	<!-- Improvements --> 
 	<Entry>
 		<zType>EFFECTCITY_IMPROVEMENT_SIETCH</zType>

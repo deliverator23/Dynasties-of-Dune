@@ -700,6 +700,10 @@
 		<zType>TEXT_SPECIALIST_WINDTRAP_OPERATOR</zType>
 		<en-US>Windtrap Operator~a Windtrap Operator~Windtrap Operators</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALIST_LABORER</zType>
+		<en-US>Laborer~a Laborer~Laborers</en-US>
+	</Entry>
 	<!-- Victory -->
 	<Entry>
 		<zType>TEXT_VICTORY_TIME_800</zType>

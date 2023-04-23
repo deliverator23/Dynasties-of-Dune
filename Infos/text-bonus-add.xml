@@ -1,0 +1,14 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_BONUS_MISSIONRESULT_IMPROVE_RELIGIOUS_RELATIONS</zType>
+		<en-US>Improve Religious Relations</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_MISSIONRESULT_IMPROVE_TRIBE_RELATIONS</zType>
+		<en-US>Improve Tribe Relations</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BONUS_MISSIONRESULT_IMPROVE_FOREIGN_RELATIONS</zType>
+		<en-US>Improve Foreign Relations</en-US>
+	</Entry>
+</Root>

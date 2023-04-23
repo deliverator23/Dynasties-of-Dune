@@ -7,4 +7,8 @@
 		<zType>TEXT_SPECIALISTCLASS_WINDTRAP_OPERATOR</zType>
 		<en-US>Windtrap Operator~Windtrap Operators</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_SPECIALISTCLASS_LABORER</zType>
+		<en-US>Laborer~Laborers</en-US>
+	</Entry>
 </Root>

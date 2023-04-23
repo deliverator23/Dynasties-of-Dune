@@ -15,6 +15,7 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<DevelopImprovement>IMPROVEMENT_WINDTRAP_MEDIUM</DevelopImprovement>
+		<Specialist>SPECIALIST_WINDTRAP_OPERATOR</Specialist>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -59,6 +60,7 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<DevelopImprovement>IMPROVEMENT_WINDTRAP_LARGE</DevelopImprovement>
+		<Specialist>SPECIALIST_WINDTRAP_OPERATOR</Specialist>
 		<aiYieldOutput>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
@@ -99,7 +101,7 @@
 		<iPillageTurns>10</iPillageTurns>
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
-		<DevelopImprovement>IMPROVEMENT_WINDTRAP_LARGE</DevelopImprovement>
+		<Specialist>SPECIALIST_WINDTRAP_OPERATOR</Specialist>
 		<aiYieldOutput>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
@@ -190,6 +192,7 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<DevelopImprovement>IMPROVEMENT_DEW_COLLECTOR_MEDIUM</DevelopImprovement>
+		<Specialist>SPECIALIST_DEW_COLLECTOR_PLANTER</Specialist>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -228,6 +231,7 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<DevelopImprovement>IMPROVEMENT_DEW_COLLECTOR_LARGE</DevelopImprovement>
+		<Specialist>SPECIALIST_DEW_COLLECTOR_PLANTER</Specialist>
 		<aiYieldOutput>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
@@ -262,6 +266,7 @@
 		<iPillageTurns>10</iPillageTurns>
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
+		<Specialist>SPECIALIST_DEW_COLLECTOR_PLANTER</Specialist>
 		<aiYieldOutput>
 			<Pair>
 				<zIndex>YIELD_GROWTH</zIndex>
@@ -301,6 +306,7 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<DevelopImprovement>IMPROVEMENT_PROCESSING_PLANT_MEDIUM</DevelopImprovement>
+		<Specialist>SPECIALIST_LABORER</Specialist>
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
@@ -339,6 +345,7 @@
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
 		<DevelopImprovement>IMPROVEMENT_PROCESSING_PLANT_LARGE</DevelopImprovement>
+		<Specialist>SPECIALIST_LABORER</Specialist>
 		<aiYieldOutput>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -368,6 +375,7 @@
 		<iPillageTurns>10</iPillageTurns>
 		<bTerritoryOnly>1</bTerritoryOnly>
 		<bNoVegetation>1</bNoVegetation>
+		<Specialist>SPECIALIST_LABORER</Specialist>
 		<aiYieldOutput>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>

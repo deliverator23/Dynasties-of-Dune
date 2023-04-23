@@ -455,4 +455,9 @@
 		<SourceLaw>LAW_MONETARY_REFORM</SourceLaw>
 		<EffectCity>EFFECTCITY_LAW_MONETARY_REFORM</EffectCity>
 	</Entry>
+	<!-- Techs --> 
+	<Entry>
+		<zType>EFFECTPLAYER_TECH_LABOR_FORCE</zType>
+		<bAddRoad>0</bAddRoad>
+	</Entry>
 </Root>

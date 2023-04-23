@@ -1,0 +1,14 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_MEMORYFAMILY_IMPROVE_RELIGIOUS_RELATIONS</zType>
+		<en-US>Organized a successful link(MISSION_IMPROVE_RELIGIOUS_RELATIONS)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MEMORYFAMILY_IMPROVE_TRIBE_RELATIONS</zType>
+		<en-US>Organized a successful link(MISSION_IMPROVE_TRIBE_RELATIONS)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MEMORYFAMILY_IMPROVE_FOREIGN_RELATIONS</zType>
+		<en-US>Organized a successful link(MISSION_IMPROVE_FOREIGN_RELATIONS)</en-US>
+	</Entry>
+</Root>

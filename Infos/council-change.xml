@@ -1,7 +1,7 @@
 <Root>
 	<Entry>
 		<zType>COUNCIL_AMBASSADOR</zType>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LOCAL_DIALECT_TRAINING</EffectPlayerPrereq>
 		<abTraitPrereq>
 			<Pair>
 				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
@@ -19,7 +19,7 @@
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_CHANCELLOR</zType>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_ADMINISTRATION</EffectPlayerPrereq>
 		<abTraitPrereq>
 			<Pair>
 				<zIndex>TRAIT_DIPLOMAT_ARCHETYPE</zIndex>
@@ -37,7 +37,7 @@
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_SPYMASTER</zType>
-		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LABOR_FORCE</EffectPlayerPrereq>
+		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LOCAL_DIALECT_TRAINING</EffectPlayerPrereq>
 		<abTraitPrereq>
 			<Pair>
 				<zIndex>TRAIT_MENTOR_ARCHETYPE</zIndex>

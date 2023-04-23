@@ -1,0 +1,26 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_SUBJECT_AGENT_DD</zType>
+		<en-US>Agent</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_COURT_CHAPLAIN</zType>
+		<en-US>Court Chaplain</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_ENVOY</zType>
+		<en-US>Envoy</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_MARSHAL</zType>
+		<en-US>Marshal</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_PRIEST</zType>
+		<en-US>Priest</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_SUBJECT_STEWARD</zType>
+		<en-US>Steward</en-US>
+	</Entry>
+</Root>

@@ -55,4 +55,32 @@
 		<zType>TEXT_EFFECTPLAYER_TECH_EXPLORATION</zType>
 		<en-US>Automate link(UNIT_SCOUT,2)</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_COMBAT_ORNITHOPTER</zType>
+		<en-US>Unlocks link(COUNCIL_AGENT)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_MEDITATION</zType>
+		<en-US>Unlocks link(COUNCIL_COURT_CHAPLAIN)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_LOCAL_DIALECT_TRAINING</zType>
+		<en-US>Unlocks link(COUNCIL_AMBASSADOR)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_ADMINISTRATION</zType>
+		<en-US>Unlocks link(COUNCIL_CHANCELLOR)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_EXPLORATION</zType>
+		<en-US>Unlocks link(COUNCIL_ENVOY)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_MYSTICISM</zType>
+		<en-US>Unlocks link(COUNCIL_PRIEST)</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_LOCAL_HUBS</zType>
+		<en-US>Unlocks link(COUNCIL_STEWARD)</en-US>
+	</Entry>
 </Root>
