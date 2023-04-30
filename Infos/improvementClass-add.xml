@@ -252,4 +252,9 @@
 		<Name>TEXT_IMPROVEMENTCLASS_SIETCH</Name>
 		<TechPrereq>TECH_SIETCH</TechPrereq>
 	</Entry>
+	<Entry>
+		<zType>IMPROVEMENTCLASS_DUNE_HOLY_SITE</zType>
+		<Name>TEXT_IMPROVEMENTCLASS_HOLY_SITE</Name>
+		<EffectCity>EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</EffectCity>
+	</Entry>
 </Root>

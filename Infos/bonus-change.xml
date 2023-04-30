@@ -273,4 +273,9 @@
 			</Pair>
 		</aiGlobalYields>
 	</Entry>
+	<!-- Tech --> 
+	<Entry>
+		<zType>BONUS_TECH_SPOKED_WHEEL_BONUS_CHARIOT</zType>
+		<aiUnits></aiUnits>
+	</Entry>
 </Root>

@@ -1,0 +1,30 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_EQUESTRIAN</zType>
+		<en-US>Fanatic</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_EQUESTRIAN_F</zType>
+		<en-US>Fanatic</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_EQUESTRIAN_GAIN_1</zType>
+		<en-US>Dedicated to one's belief, {0_character} is known as a {1_trait}.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_EQUESTRIAN_GAIN_2</zType>
+		<en-US>{0_character} is never far from spreading {masculine_0:his:her} beliefs. {masculine_0:He:She} is a {1_trait}!</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HORSEBANE</zType>
+		<en-US>Anti-Mercenary</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HORSEBANE_F</zType>
+		<en-US>Anti-Mercenary</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HORSEBANE_GAIN_1</zType>
+		<en-US>{0_character} is so skilled at fighting against mercenary opponents that {masculine_0:he:she} is known as {1_trait}!</en-US>
+	</Entry>
+</Root>

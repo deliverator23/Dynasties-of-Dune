@@ -504,6 +504,30 @@
 		</abUnitTraitValid>
 	</Entry>
 	<Entry>
+		<zType>EFFECTUNIT_RANGER</zType>
+		<Name>TEXT_EFFECTUNIT_RANGER</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_EFFECTUNIT_RANGER_F</Second>
+			</Pair>
+		</GenderedNames>
+		<zIconName>EFFECTUNIT_RANGER</zIconName>
+		<aiVegetationFromModifier></aiVegetationFromModifier>
+		<aiUnitTraitModifier>
+			<Pair>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiUnitTraitModifier>
+		<abUnitTraitValid>
+			<Pair>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abUnitTraitValid>
+	</Entry>
+	<Entry>
 		<zType>EFFECTUNIT_RANGER_ALL</zType>
 		<Name>TEXT_EFFECTUNIT_RANGER_ALL</Name>
 		<GenderedNames>
@@ -513,15 +537,43 @@
 			</Pair>
 		</GenderedNames>
 		<zIconName>EFFECTUNIT_RANGER_ALL</zIconName>
-		<aiVegetationFromModifier>
+		<aiVegetationFromModifier></aiVegetationFromModifier>
+		<aiUnitTraitModifier>
 			<Pair>
-				<zIndex>VEGETATION_TREES</zIndex>
-				<iValue>10</iValue>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<iValue>5</iValue>
 			</Pair>
-		</aiVegetationFromModifier>
+		</aiUnitTraitModifier>
 		<abUnitTraitValid>
 			<Pair>
-				<zIndex>UNITTRAIT_UNUSED</zIndex>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abUnitTraitValid>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HORSEBANE</zType>
+		<Name>TEXT_EFFECTUNIT_HORSEBANE</Name>
+		<GenderedNames>
+			<Pair>
+				<First>GENDER_FEMALE</First>
+				<Second>TEXT_EFFECTUNIT_HORSEBANE_F</Second>
+			</Pair>
+		</GenderedNames>
+		<zIconName>EFFECTUNIT_HORSEBANE</zIconName>
+		<aiUnitTraitModifier>
+			<Pair>
+				<zIndex>UNITTRAIT_MERCENARY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiUnitTraitModifier>
+		<abUnitTraitValid>
+			<Pair>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abUnitTraitValid>
@@ -538,13 +590,17 @@
 		<zIconName>EFFECTUNIT_HORSEBANE_ALL</zIconName>
 		<aiUnitTraitModifier>
 			<Pair>
-				<zIndex>UNITTRAIT_MOUNTED</zIndex>
-				<iValue>10</iValue>
+				<zIndex>UNITTRAIT_MERCENARY</zIndex>
+				<iValue>5</iValue>
 			</Pair>
 		</aiUnitTraitModifier>
 		<abUnitTraitValid>
 			<Pair>
-				<zIndex>UNITTRAIT_UNUSED</zIndex>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
 				<bValue>1</bValue>
 			</Pair>
 		</abUnitTraitValid>

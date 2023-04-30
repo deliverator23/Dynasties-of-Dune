@@ -123,30 +123,37 @@
 	<Entry>
 		<zType>IMPROVEMENTCLASS_FARM</zType>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<abResourceValid></abResourceValid>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_MINE</zType>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<abResourceValid></abResourceValid>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_QUARRY</zType>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<abResourceValid></abResourceValid>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_LUMBERMILL</zType>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<abResourceValid></abResourceValid>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_PASTURE</zType>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<abResourceValid></abResourceValid>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_GROVE</zType>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<abResourceValid></abResourceValid>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_NETS</zType>
 		<TechPrereq>TECH_FORESTRY</TechPrereq>
+		<abResourceValid></abResourceValid>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENTCLASS_HARBOR</zType>

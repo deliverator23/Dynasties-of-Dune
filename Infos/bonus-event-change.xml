@@ -1131,4 +1131,40 @@
 		<zType>BONUS_EVENTOPTION_CANCEL_TRADE_DEMAND_NO_PLAYER_1</zType>
 		<MemoryCharacter>MEMORYCHARACTER_CANCEL_TRADE_DEMAND_NO</MemoryCharacter>
 	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_OPTION_0_PLAYER_1</zType>
+		<aiUnits>
+		</aiUnits>
+		<aeBonuses></aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_AN_OATH_OF_SUPPORT_WAR_YES_PLAYER_1</zType>
+		<aiUnits></aiUnits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MERCENARY_SPEARMAN</zType>
+		<bMercenaryUnit>1</bMercenaryUnit>
+		<aiUnits></aiUnits>
+		<aeBonuses>
+		</aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_THE_THREAT_OF_TYRE_OPTION_1_CHARACTER_1</zType>
+		<aiUnits></aiUnits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_LOYALTY_REWARDED_OPTION_0_CITY</zType>
+		<aiUnits></aiUnits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_OPTION_2_PLAYER_1</zType>
+		<aiUnits></aiUnits>
+		<aeBonuses></aeBonuses>
+	</Entry>
+	<Entry>
+		<zType>BONUS_EVENTOPTION_MERCENARY_CHARIOT</zType>
+		<bMercenaryUnit>1</bMercenaryUnit>
+		<aiUnits></aiUnits>
+		<aeBonuses></aeBonuses>
+	</Entry>
 </Root>

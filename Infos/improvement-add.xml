@@ -461,7 +461,7 @@
 	<Entry>
 		<zType>IMPROVEMENT_HOLY_SITE_NAVACHRISTIANITY</zType>
 		<Name>TEXT_IMPROVEMENT_HOLY_SITE_NAVACHRISTIANITY</Name>
-		<Class>IMPROVEMENTCLASS_HOLY_SITE</Class>
+		<Class>IMPROVEMENTCLASS_DUNE_HOLY_SITE</Class>
 		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_HOLY_SITE</AssetVariation>
 		<zIconName>IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zIconName>
 		<iBuildTurns>8</iBuildTurns>
@@ -481,11 +481,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>400</iValue>
+				<iValue>250</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>400</iValue>
+				<iValue>200</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiUnitDie>
@@ -504,7 +504,7 @@
 	<Entry>
 		<zType>IMPROVEMENT_HOLY_SITE_BUDDISLAM</zType>
 		<Name>TEXT_IMPROVEMENT_HOLY_SITE_BUDDISLAM</Name>
-		<Class>IMPROVEMENTCLASS_HOLY_SITE</Class>
+		<Class>IMPROVEMENTCLASS_DUNE_HOLY_SITE</Class>
 		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_HOLY_SITE</AssetVariation>
 		<zIconName>IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zIconName>
 		<iBuildTurns>8</iBuildTurns>
@@ -524,11 +524,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>400</iValue>
+				<iValue>250</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>400</iValue>
+				<iValue>200</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiUnitDie>
@@ -547,7 +547,7 @@
 	<Entry>
 		<zType>IMPROVEMENT_HOLY_SITE_MAOMETH_SAARI</zType>
 		<Name>TEXT_IMPROVEMENT_HOLY_SITE_MAOMETH_SAARI</Name>
-		<Class>IMPROVEMENTCLASS_HOLY_SITE</Class>
+		<Class>IMPROVEMENTCLASS_DUNE_HOLY_SITE</Class>
 		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_HOLY_SITE</AssetVariation>
 		<zIconName>IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zIconName>
 		<iBuildTurns>8</iBuildTurns>
@@ -567,11 +567,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>400</iValue>
+				<iValue>250</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>400</iValue>
+				<iValue>200</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiUnitDie>
@@ -590,7 +590,7 @@
 	<Entry>
 		<zType>IMPROVEMENT_HOLY_SITE_ZENSUNNI_CATHOLICISM</zType>
 		<Name>TEXT_IMPROVEMENT_HOLY_SITE_ZENSUNNI_CATHOLICISM</Name>
-		<Class>IMPROVEMENTCLASS_HOLY_SITE</Class>
+		<Class>IMPROVEMENTCLASS_DUNE_HOLY_SITE</Class>
 		<AssetVariation>ASSET_VARIATION_IMPROVEMENT_HOLY_SITE</AssetVariation>
 		<zIconName>IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zIconName>
 		<iBuildTurns>8</iBuildTurns>
@@ -610,11 +610,11 @@
 		<aiYieldCost>
 			<Pair>
 				<zIndex>YIELD_DEVOTION</zIndex>
-				<iValue>400</iValue>
+				<iValue>250</iValue>
 			</Pair>
 			<Pair>
 				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
-				<iValue>400</iValue>
+				<iValue>200</iValue>
 			</Pair>
 		</aiYieldCost>
 		<aiUnitDie>

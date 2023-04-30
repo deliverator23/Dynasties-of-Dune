@@ -24,28 +24,36 @@
 		<en-US>(Unused) Cold</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTUNIT_RANGER</zType>
+		<en-US>Ranger</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RANGER_F</zType>
+		<en-US>Ranger</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER_ALL</zType>
-		<en-US>(Unused) Ranger Leader</en-US>
+		<en-US>Ranger Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RANGER_ALL_F</zType>
-		<en-US>(Unused) Ranger Leader</en-US>
+		<en-US>Ranger Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
-		<en-US>(Unused) Horsebane</en-US>
+		<en-US>Anti-Mercenary</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE_F</zType>
-		<en-US>(Unused) Horsebane</en-US>
+		<en-US>Anti-Mercenary</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE_ALL</zType>
-		<en-US>(Unused) Horsebane Leader</en-US>
+		<en-US>Anti-Mercenary Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_HORSEBANE_ALL_F</zType>
-		<en-US>(Unused) Horsebane Leader</en-US>
+		<en-US>Anti-Mercenary Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_COCKSWAIN</zType>

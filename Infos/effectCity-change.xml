@@ -460,6 +460,54 @@
 			</Pair>
 		</aaiEffectCityYieldRate>
 	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_CARPENTER</zType>
+		<Name>TEXT_TRAIT_CARPENTER</Name>
+		<SourceTrait>TRAIT_CARPENTER</SourceTrait>
+		<bSingle>1</bSingle>
+		<aiUnitTraitXP>
+			<Pair>
+				<zIndex>UNITTRAIT_SIEGE</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiUnitTraitXP>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_CARPENTER_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_CARPENTER</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_CARPENTER</SourceEffectPlayer>
+		<bSingle>1</bSingle>
+		<aiUnitTraitXP>
+			<Pair>
+				<zIndex>UNITTRAIT_SIEGE</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiUnitTraitXP>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_EQUESTRIAN</zType>
+		<Name>TEXT_TRAIT_EQUESTRIAN</Name>
+		<SourceTrait>TRAIT_EQUESTRIAN</SourceTrait>
+		<bSingle>1</bSingle>
+		<aiUnitTraitXP>
+			<Pair>
+				<zIndex>UNITTRAIT_DEVOTED</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiUnitTraitXP>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_EQUESTRIAN_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_EQUESTRIAN</SourceEffectPlayer>
+		<bSingle>1</bSingle>
+		<aiUnitTraitXP>
+			<Pair>
+				<zIndex>UNITTRAIT_DEVOTED</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiUnitTraitXP>
+	</Entry>
 	<!-- Difficulty --> 
 	<Entry>
 		<zType>EFFECTCITY_DIFFICULTY_ABLE</zType>
@@ -664,21 +712,101 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_PATHFINDER</zType>
-		<aiImprovementModifier>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
 			<Pair>
-				<zIndex>IMPROVEMENT_DEW_COLLECTOR</zIndex>
+				<zIndex>IMPROVEMENTCLASS_CAMP</zIndex>
 				<iValue>100</iValue>
 			</Pair>
-		</aiImprovementModifier>
+		</aiImprovementClassModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_PATHFINDER_ALL</zType>
-		<aiImprovementModifier>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
 			<Pair>
-				<zIndex>IMPROVEMENT_DEW_COLLECTOR</zIndex>
+				<zIndex>IMPROVEMENTCLASS_CAMP</zIndex>
 				<iValue>50</iValue>
 			</Pair>
-		</aiImprovementModifier>
+		</aiImprovementClassModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_CULTIVATOR</zType>
+		<Name>TEXT_TRAIT_CULTIVATOR</Name>
+		<SourceTrait>TRAIT_CULTIVATOR</SourceTrait>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_DEW_COLLECTOR</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_CULTIVATOR_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_CULTIVATOR</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_CULTIVATOR</SourceEffectPlayer>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_DEW_COLLECTOR</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_NATURALIST</zType>
+		<Name>TEXT_TRAIT_NATURALIST</Name>
+		<SourceTrait>TRAIT_NATURALIST</SourceTrait>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_WINDTRAP</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_NATURALIST_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_NATURALIST</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_NATURALIST</SourceEffectPlayer>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_WINDTRAP</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_DELVER</zType>
+		<Name>TEXT_TRAIT_DELVER</Name>
+		<SourceTrait>TRAIT_DELVER</SourceTrait>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_PROCESSING_PLANT</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_DELVER_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_DELVER</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_DELVER</SourceEffectPlayer>
+		<bSingle>1</bSingle>
+		<aiImprovementModifier></aiImprovementModifier>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_PROCESSING_PLANT</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_SLOTHFUL</zType>
