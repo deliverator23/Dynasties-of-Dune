@@ -1,26 +1,48 @@
 ﻿//modPlatform=Modio
 using System.Collections.Generic;
-using System.Linq;
-using System;
 using Mohawk.SystemCore;
-using UnityEngine;
 using TenCrowns.GameCore;
-
+using UnityEngine;
 
 public class MapScriptArrakipelago : DefaultMapScript
-{ 
+{
     readonly int HillsPercent = 16;
     readonly int MinIslandSizeForPlayerStart = 30;
-
-    List<List<int>> islands = new List<List<int>>();
-    Dictionary<int, int> tileIslands = new Dictionary<int, int>();
 
     MapOptionType eLandmassOption = MapOptionType.NONE;
 
     readonly MapOptionType LANDMASS_LARGE = MapOptionType.NONE;
     readonly MapOptionType LANDMASS_MEDIUM = MapOptionType.NONE;
     readonly MapOptionType LANDMASS_SMALL = MapOptionType.NONE;
-   
+
+    protected override bool ShapeBoundaryToMap => false;
+    protected override float ElevationNoiseAmplitude => 2;
+    protected override short MinContinentSize => 30;
+    protected override short LakePercent => 0;
+    protected override short CoastPercent => 10;
+    protected override short OceanPercent
+    {
+        get
+        {
+            if (eLandmassOption == LANDMASS_SMALL)
+            {
+                return 70;
+            }
+            else if (eLandmassOption == LANDMASS_MEDIUM)
+            {
+                return 60;
+            }
+            else if (eLandmassOption == LANDMASS_LARGE)
+            {
+                return 50;
+            }
+            return base.OceanPercent;
+        }
+    }
+
+    List<List<int>> islandAreas = new List<List<int>>();
+    List<List<int>> waterAreas = new List<List<int>>();
+
     public static string GetName()
     {
         return "Arrakis Archipelago";
@@ -53,18 +75,20 @@ public class MapScriptArrakipelago : DefaultMapScript
         LANDMASS_LARGE = infos.getType<MapOptionType>("MAP_OPTION_ARCHIPELAGO_LANDMASS_LARGE");
         LANDMASS_MEDIUM = infos.getType<MapOptionType>("MAP_OPTION_ARCHIPELAGO_LANDMASS_MEDIUM");
         LANDMASS_SMALL = infos.getType<MapOptionType>("MAP_OPTION_ARCHIPELAGO_LANDMASS_SMALL");
-
-        ShapeBoundaryToMap = false;
-        ElevationNoiseAmplitude = 2;
     }
 
     protected override void InitMapData()
     {
         base.InitMapData();
 
-		OceanPercent = 66;
-		CoastPercent = 10;
-	
+        MapOptionsMultiType eLandmass = infos.getType<MapOptionsMultiType>("MAP_OPTIONS_ARCHIPELAGO_LANDMASS");
+        if (eLandmass != MapOptionsMultiType.NONE)
+        {
+            if (!mapParameters.gameParams.mapMapMultiOptions.TryGetValue(eLandmass, out eLandmassOption))
+            {
+                eLandmassOption = infos.mapOptionsMulti(eLandmass).meDefault;
+            }
+        }
     }
 
     protected override void SetMapSize()
@@ -96,11 +120,10 @@ public class MapScriptArrakipelago : DefaultMapScript
         }
 
         heightGen.Normalize();
-        heightGen.AddNoise(16, ElevationNoiseAmplitude * 3 / 7);
-        heightGen.AddNoise(8, ElevationNoiseAmplitude * 2 / 7);
-		heightGen.AddNoise(4, ElevationNoiseAmplitude * 2 / 7);
-		heightGen.Normalize();
+        heightGen.AddNoise(16, ElevationNoiseAmplitude);
+        heightGen.Normalize();
 
+        // Set the lowest tiles to be water
         List<NoiseGenerator.TileValue> tiles = heightGen.GetPercentileRange(0, OceanPercent);
         foreach (NoiseGenerator.TileValue tile in tiles)
         {
@@ -109,6 +132,7 @@ public class MapScriptArrakipelago : DefaultMapScript
             loopTile.meHeight = infos.Globals.HILL_HEIGHT;
         }
 
+        // Set the next lowest tiles to be coast
         tiles = heightGen.GetPercentileRange(OceanPercent, OceanPercent + CoastPercent);
         foreach (NoiseGenerator.TileValue tile in tiles)
         {
@@ -117,170 +141,83 @@ public class MapScriptArrakipelago : DefaultMapScript
             loopTile.meHeight = infos.Globals.DEFAULT_HEIGHT;
         }
 
+        // Scattered hills, not part of mountain chains.
+        hillsGen.AddNoise(MapWidth / 25.0f, 1);
+        hillsGen.Normalize();
+
+        tiles = hillsGen.GetPercentileRange(100 - HillsPercent, 100);
+        foreach (NoiseGenerator.TileValue tile in tiles)
+        {
+            TileData loopTile = GetTile(tile.x, tile.y);
+            if (loopTile.meHeight == infos.Globals.DEFAULT_HEIGHT)
+            {
+                loopTile.meHeight = infos.Globals.HILL_HEIGHT;
+            }
+        }
+
         ResetDistances();
     }
-     
-	protected override void GenerateDeserts()
-	{
-		// do nothing
-	}
 
-	protected override void GenerateMountains()
-	{
-        foreach (TileData tile in Tiles.Where(x => !IsDesert(x) && CountAdjacent(x, IsDesert) > 0))
-        {
-			if (random.Next(3) == 1) {
-				tile.meHeight = infos.Globals.HILL_HEIGHT;
-			} else {
-				tile.meHeight = infos.Globals.MOUNTAIN_HEIGHT;
-			}
-        }
-
-        foreach (TileData tile in Tiles.Where(x => !IsDesert(x) && !IsMountainOrHillsAny(x) && CountAdjacent(x, IsMountainOrHillsAny) == 0))
-        {
-            int roll = random.Next(8);
-			if (roll == 1) {
-				tile.meHeight = infos.Globals.MOUNTAIN_HEIGHT;
-			} else if (roll >= 2 && roll <=4) {
-				tile.meHeight = infos.Globals.HILL_HEIGHT;
-			}
-        }
-	}
-
-	protected virtual bool IsNotDesert(TileData tile)
-	{
-		if (tile == null)
-		{
-			return false;
-		}
-		if (tile.meTerrain == DESERT_TERRAIN)
-		{
-			return false;
-		}
-		return true;
-	}
-
-	protected override void EliminateSingletonMountains()
-	{
-		// do nothing
-	}
-
-	protected override void GenerateElevations()
-	{
-		// do nothing
-	}
-
-	protected override void FixCoast()
-	{
-		// do nothing
-	}
-
-	protected override void GenerateRivers()
-	{
-		// do nothing
-	}
-
-	protected override void ConvertOverloadedRiverTilesToLakes()
-	{
-		// do nothing
-	}
-
-	protected override void FillLakes()
-	{
-		// do nothing
-	}
-
- 	protected override void BuildWaterAreas()
-	{
-		// do nothing
-	}
-
- 	protected override void ModifyTerrain()
-	{
-		// do nothing
-	}
-
- 	protected override void SmoothTerrain()
-	{
-		// do nothing
-	}
-    
-	protected override void HandleRainEffects()
-	{
-		using (new UnityProfileScope("DefaultMapScript.HandleRainEffects"))
-		{
-
-			ApplyOceanicRains();
-
-			foreach (TileData tile in Tiles.Where(x => IsDesert(x) && CountAdjacent(x, IsNotDesert) > 0))
-			{
-				tile.meHeight = infos.Globals.DEFAULT_HEIGHT;
-			}
-		}
-	}
-    
-	protected override void MakePlayerStart(PlayerType player, TileData tile, bool freshWaterCheck = true)
-	{
-		tile.meCitySite = CitySiteType.ACTIVE_START;
-        playerStarts.Add(PairStruct.Create(player, (int)tile.ID));
-        mValidCitySite.Clear();
-	}
-	
- 	protected override void BuildVegetation()
-	{
-		// do nothing
-	}
-    
-    protected override bool AddPlayerStarts()
+    protected override void GenerateDeserts()
     {
-        BuildAreas(islands, null, x => IsLand(x) && !x.isImpassable(infos));
-        for (int area = islands.Count - 1; area >= 0; --area)
-        {
-            foreach (int tileID in islands[area])
-            {
-                tileIslands[tileID] = area;
-            }
-            if (islands[area].Count <= MinIslandSizeForPlayerStart)
-            {
-                islands.RemoveAt(area);
-            }
-        }
-
-        return base.AddPlayerStarts();
+        // do nothing
     }
-    
-    protected override bool IsValidPlayerStart(TileData tile, PlayerType player, bool bDoMinDistanceCheck = true)
+
+    protected override void EliminateSingletonMountains()
     {
-        if (!base.IsValidPlayerStart(tile, player, bDoMinDistanceCheck))
-        {
-            return false;
-        }
-        
-        if (bDoMinDistanceCheck)
-        {
-            bool islandTaken = false;
-            foreach (var kvp in playerStarts)
-            {
-                PlayerType loopPlayer = kvp.First;
-                int startTileID = kvp.Second;
-                if (startTileID != -1)
-                {
-                    if (tileIslands[startTileID] == tileIslands[tile.ID])
-                    {
-                        islandTaken = true;
-                    }
-                }
-            }
-            
-            if (islands.Count >= Players.Count && islandTaken)
-            {
-                return false;
-            } 
-        }
-
-        return true;
+        // do nothing
     }
-    
+
+    protected override void GenerateElevations()
+    {
+        // do nothing
+    }
+
+    protected override void FixCoast()
+    {
+        // do nothing
+    }
+
+    protected override void GenerateRivers()
+    {
+        // do nothing
+    }
+
+    protected override void ConvertOverloadedRiverTilesToLakes()
+    {
+        // do nothing
+    }
+
+    protected override void FillLakes()
+    {
+        // do nothing
+    }
+
+    protected override void BuildWaterAreas()
+    {
+        // do nothing
+    }
+
+    protected override void ModifyTerrain()
+    {
+        // do nothing
+    }
+
+    protected override void SmoothTerrain()
+    {
+        // do nothing
+    }
+
+    protected override void BuildVegetation()
+    {
+        // do nothing
+    }
+
+    protected override void AddSmallLakeToStartLocation(TileData tile, int iMaxTargetLakeTiles = 4, int iMinTargetLakeTiles = 1, bool bAddLakeEffectRains = true)
+    {
+        // do nothing
+    }
+
     protected override bool AddPlayerStartsTwoTeamMP()
     {
         if (!MirrorMap)
@@ -291,5 +228,5 @@ public class MapScriptArrakipelago : DefaultMapScript
         {
             return base.AddPlayerStartsTwoTeamMP();
         }
-    } 
+    }
 }
