@@ -1,7 +1,7 @@
 <Root>
 	<Entry>
 		<zType>RELIGION_NAVACHRISTIANITY</zType>
-		<Name>TEXT_RELIGION_NAVACHRISTIANITY</Name>
+		<GenderedName>GENDERED_TEXT_RELIGION_NAVACHRISTIANITY</GenderedName>
 		<zIconName>RELIGION_NAVACHRISTIANITY</zIconName>
 		<iCostBase>100</iCostBase>
 		<iCostPerChange>100</iCostPerChange>
@@ -19,7 +19,7 @@
 	</Entry>
 	<Entry>
 		<zType>RELIGION_BUDDISLAM</zType>
-		<Name>TEXT_RELIGION_BUDDISLAM</Name>
+		<GenderedName>GENDERED_TEXT_RELIGION_BUDDISLAM</GenderedName>
 		<zIconName>RELIGION_BUDDISLAM</zIconName>
 		<iCostBase>100</iCostBase>
 		<iCostPerChange>100</iCostPerChange>
@@ -37,7 +37,7 @@
 	</Entry>
 	<Entry>
 		<zType>RELIGION_MAOMETH_SAARI</zType>
-		<Name>TEXT_RELIGION_MAOMETH_SAARI</Name>
+		<GenderedName>GENDERED_TEXT_RELIGION_MAOMETH_SAARI</GenderedName>
 		<zIconName>RELIGION_MAOMETH_SAARI</zIconName>
 		<iCostBase>100</iCostBase>
 		<iCostPerChange>100</iCostPerChange>
@@ -55,7 +55,7 @@
 	</Entry>
 	<Entry>
 		<zType>RELIGION_ZENSUNNI_CATHOLICISM</zType>
-		<Name>TEXT_RELIGION_ZENSUNNI_CATHOLICISM</Name>
+		<GenderedName>GENDERED_TEXT_RELIGION_ZENSUNNI_CATHOLICISM</GenderedName>
 		<zIconName>RELIGION_ZENSUNNI_CATHOLICISM</zIconName>
 		<iCostBase>100</iCostBase>
 		<iCostPerChange>100</iCostPerChange>

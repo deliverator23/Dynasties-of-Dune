@@ -1,9 +1,9 @@
 <Root>
 	<Entry>
 		<zType>COURTIER_ASSASSIN</zType>
-		<Name>TEXT_COURTIER_ASSASSIN</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_ASSASSIN</GenderedName>
 		<zIconName>COURTIER_ASSASSIN</zIconName>
-		<Nickname>NICKNAME_THE_ASSASSIN</Nickname>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_ASSASSIN</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -87,9 +87,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_BENE_GESSERIT_SISTER</zType>
-		<Name>TEXT_COURTIER_BENE_GESSERIT_SISTER</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_BENE_GESSERIT_SISTER</GenderedName>
 		<zIconName>COURTIER_BENE_GESSERIT_SISTER</zIconName>
-		<Nickname>NICKNAME_THE_BENE_GESSERIT_SISTER</Nickname>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_BENE_GESSERIT_SISTER</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -173,9 +173,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_FACE_DANCER</zType>
-		<Name>TEXT_COURTIER_FACE_DANCER</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_FACE_DANCER</GenderedName>
 		<zIconName>COURTIER_FACE_DANCER</zIconName>
-		<Nickname>NICKNAME_THE_FACE_DANCER</Nickname>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_FACE_DANCER</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -259,9 +259,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MENTAT</zType>
-		<Name>TEXT_COURTIER_MENTAT</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_MENTAT</GenderedName>
 		<zIconName>COURTIER_MENTAT</zIconName>
-		<Nickname>NICKNAME_THE_MENTAT</Nickname>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_MENTAT</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
@@ -341,9 +341,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SWORDMASTER</zType>
-		<Name>TEXT_COURTIER_SWORDMASTER</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_SWORDMASTER</GenderedName>
 		<zIconName>COURTIER_SWORDMASTER</zIconName>
-		<Nickname>NICKNAME_THE_SWORDMASTER</Nickname>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_SWORDMASTER</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -427,9 +427,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SUK_DOCTOR</zType>
-		<Name>TEXT_COURTIER_SUK_DOCTOR</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_SUK_DOCTOR</GenderedName>
 		<zIconName>COURTIER_SUK_DOCTOR</zIconName>
-		<Nickname>NICKNAME_THE_SUK_DOCTOR</Nickname>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_SUK_DOCTOR</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
@@ -513,9 +513,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_WEAPON_MASTER</zType>
-		<Name>TEXT_COURTIER_WEAPON_MASTER</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_WEAPON_MASTER</GenderedName>
 		<zIconName>COURTIER_WEAPON_MASTER</zIconName>
-		<Nickname>NICKNAME_THE_WEAPON_MASTER</Nickname>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_WEAPON_MASTER</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>

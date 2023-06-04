@@ -79,4 +79,92 @@
 		<zType>TEXT_MISSION_OVERSEE_CONSTRUCTION_CHARACTER</zType>
 		<en-US>Oversee Construction via</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SHARING_INTEL</zType>
+		<en-US>Sharing Intel</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SHARING_INTEL_CHARACTER</zType>
+		<en-US>Sharing Intel via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_NEW_RECRUITS</zType>
+		<en-US>New Recruits</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_NEW_RECRUITS_CHARACTER</zType>
+		<en-US>New Recruits via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SMUGGLED_GOODS</zType>
+		<en-US>Smuggled Goods</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SMUGGLED_GOODS_CHARACTER</zType>
+		<en-US>Smuggled Goods via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPORTING_MATERIALS</zType>
+		<en-US>Importing Materials</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPORTING_MATERIALS_CHARACTER</zType>
+		<en-US>Importing Materials via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPICE_TRADE_I</zType>
+		<en-US>Spice Trade I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPICE_TRADE_I_CHARACTER</zType>
+		<en-US>Spice Trade via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPICE_TRADE_II</zType>
+		<en-US>Spice Trade II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPICE_TRADE_II_CHARACTER</zType>
+		<en-US>Trading Spice via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIRE_HELP</zType>
+		<en-US>Hire Help</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIRE_HELP_CHARACTER</zType>
+		<en-US>Hired help via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LOCAL_TRADE</zType>
+		<en-US>Local Trade</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LOCAL_TRADE_CHARACTER</zType>
+		<en-US>Trading locally via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_WORSHIP_FORGOTTEN_GODS</zType>
+		<en-US>Worship Forgotten Gods</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_WORSHIP_FORGOTTEN_GODS_CHARACTER</zType>
+		<en-US>Worship Forgotten Gods via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RECRUIT_FANATICS</zType>
+		<en-US>Recruit Fanatics</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RECRUIT_FANATICS_CHARACTER</zType>
+		<en-US>Recruit Fanatics via</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIRE_MERCENARY</zType>
+		<en-US>Hire Mercenaries</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_HIRE_MERCENARY_CHARACTER</zType>
+		<en-US>Hire Mercenaries via</en-US>
+	</Entry>
 </Root>

@@ -1,5 +1,15 @@
 <Root>
 	<Entry>
+		<zType>FAMILYCLASS_LANDOWNERS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_CHAMPIONS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
 		<zType>FAMILYCLASS_STATESMEN</zType>
 		<Name>TEXT_FAMILYCLASS_STATESMEN</Name>
 		<AdviceFound>TEXT_FAMILYCLASS_STATESMEN_ADVICE_FOUND</AdviceFound>
@@ -68,5 +78,40 @@
 		</aiTraitDie>
 		<aeLuxuryEffectCity>
 		</aeLuxuryEffectCity>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_PATRONS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_CLERICS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_SAGES</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_TRADERS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_ARTISANS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_RIDERS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
+	</Entry>
+	<Entry>
+		<zType>FAMILYCLASS_HUNTERS</zType>
+		<aiLawOpinion>
+		</aiLawOpinion>
 	</Entry>
 </Root>

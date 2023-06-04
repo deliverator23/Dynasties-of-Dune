@@ -121,7 +121,6 @@
 		<bEncyclopedia>1</bEncyclopedia>
 		<SubjectCharacter>SUBJECT_AMBASSADOR</SubjectCharacter>
 		<SubjectTarget>SUBJECT_PLAYER_CAN_ALLIANCE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_PLAYER_PEACE_FRIENDLY</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_TEAM_ALLIANCE_EVENT</zIndex>
@@ -142,6 +141,9 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiYieldCost>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_PLAYER_PEACE_FRIENDLY</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_TRIBE_ALLIANCE</zType>
@@ -158,7 +160,6 @@
 		<bEncyclopedia>1</bEncyclopedia>
 		<SubjectCharacter>SUBJECT_AMBASSADOR</SubjectCharacter>
 		<SubjectTarget>SUBJECT_TRIBE_CAN_ALLIANCE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_TRIBE_PEACE</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_TRIBE_ALLIANCE_EVENT</zIndex>
@@ -179,6 +180,9 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiYieldCost>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_TRIBE_PEACE</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_PEACE</zType>
@@ -198,7 +202,6 @@
 		<Diplomacy>DIPLOMACY_PEACE</Diplomacy>
 		<SubjectCharacter>SUBJECT_AMBASSADOR</SubjectCharacter>
 		<SubjectTarget>SUBJECT_PLAYER_TRUCE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_PLAYER_MIN_PLEASED</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_PEACE_EVENT</zIndex>
@@ -221,6 +224,9 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCostOpinion>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_PLAYER_MIN_PLEASED</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_PEACE_HUMAN</zType>
@@ -228,7 +234,6 @@
 		<zIcon>MISSION_PEACE</zIcon>
 		<bVisibleTarget>1</bVisibleTarget>
 		<SubjectTarget>SUBJECT_PLAYER_TRUCE_HUMAN</SubjectTarget>
-		<SubjectTargetDisabled>SUBJECT_PLAYER_HUMAN_DIPLOMACY_FOUND</SubjectTargetDisabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_PEACE_HUMAN_EVENT</zIndex>
@@ -241,6 +246,9 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiYieldCost>
+		<aeSubjectTargetDisabled>
+			<zValue>SUBJECT_PLAYER_HUMAN_DIPLOMACY_FOUND</zValue>
+		</aeSubjectTargetDisabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_PEACE_NO_CHARACTERS</zType>
@@ -249,8 +257,6 @@
 		<bVisibleTarget>1</bVisibleTarget>
 		<bNoPopup>1</bNoPopup>
 		<GameOptionPrereq>GAMEOPTION_NO_CHARACTERS</GameOptionPrereq>
-		<SubjectTarget>SUBJECT_PLAYER_TRUCE</SubjectTarget>
-		<SubjectTargetDisabled>SUBJECT_PLAYER_NO_CHARACTER_DIPLOMACY_FOUND</SubjectTargetDisabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_PEACE_NO_CHARACTER</zIndex>
@@ -271,6 +277,9 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiYieldCost>
+		<aeSubjectTargetDisabled>
+			<zValue>SUBJECT_PLAYER_NO_CHARACTER_DIPLOMACY_FOUND</zValue>
+		</aeSubjectTargetDisabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_TRUCE</zType>
@@ -288,13 +297,15 @@
 		<bEncyclopedia>1</bEncyclopedia>
 		<SubjectCharacter>SUBJECT_AMBASSADOR</SubjectCharacter>
 		<SubjectTarget>SUBJECT_PLAYER_WAR</SubjectTarget>
-		<SubjectRelationStart>SUBJECTRELATION_CAN_END_WAR</SubjectRelationStart>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_TRUCE_EVENT</zIndex>
 				<iValue>2</iValue>
 			</Pair>
 		</aiResultDie>
+		<aeSubjectRelationOn>
+			<zValue>SUBJECTRELATION_CAN_END_WAR</zValue>
+		</aeSubjectRelationOn>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_DECLARE_WAR</zType>
@@ -303,13 +314,15 @@
 		<bVisibleTarget>1</bVisibleTarget>
 		<bNoPopup>1</bNoPopup>
 		<SubjectTarget>SUBJECT_PLAYER_TRUCE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiResultDie>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_DECLARE_WAR_HUMAN</zType>
@@ -318,13 +331,15 @@
 		<bVisibleTarget>1</bVisibleTarget>
 		<bNoPopup>1</bNoPopup>
 		<SubjectTarget>SUBJECT_PLAYER_PEACE_OR_TRUCE_HUMAN</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS_HUMAN</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_DECLARE_WAR_HUMAN_EVENT</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiResultDie>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS_HUMAN</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_BREAK_PEACE</zType>
@@ -333,13 +348,15 @@
 		<bVisibleTarget>1</bVisibleTarget>
 		<bNoPopup>1</bNoPopup>
 		<SubjectTarget>SUBJECT_PLAYER_PEACE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_PLAYER_NO_ALLIANCE</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_BREAK_PEACE_EVENT</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiResultDie>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_PLAYER_NO_ALLIANCE</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_BREAK_PEACE_HUMAN</zType>
@@ -349,13 +366,15 @@
 		<bNoPopup>1</bNoPopup>
 		<SubjectCharacter>SUBJECT_LEADER_US</SubjectCharacter>
 		<SubjectTarget>SUBJECT_PLAYER_PEACE_HUMAN</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_PLAYER_NO_ALLIANCE_HUMAN</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_PLAYER_BREAK_PEACE_HUMAN_EVENT</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiResultDie>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_PLAYER_NO_ALLIANCE_HUMAN</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_PLAYER_END_ALLIANCE</zType>
@@ -420,7 +439,6 @@
 		<Diplomacy>DIPLOMACY_PEACE</Diplomacy>
 		<SubjectCharacter>SUBJECT_AMBASSADOR</SubjectCharacter>
 		<SubjectTarget>SUBJECT_TRIBE_TRUCE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_TRIBE_MIN_PLEASED</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_TRIBE_PEACE_EVENT</zIndex>
@@ -443,6 +461,9 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCostOpinion>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_TRIBE_MIN_PLEASED</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_TRIBE_TRUCE</zType>
@@ -463,7 +484,6 @@
 		<Diplomacy>DIPLOMACY_TRUCE</Diplomacy>
 		<SubjectCharacter>SUBJECT_AMBASSADOR</SubjectCharacter>
 		<SubjectTarget>SUBJECT_TRIBE_WAR</SubjectTarget>
-		<SubjectRelationDisabled>SUBJECTRELATION_TRIBE_WAR_ALLIANCE</SubjectRelationDisabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_TRIBE_TRUCE_EVENT</zIndex>
@@ -482,6 +502,9 @@
 				<iValue>100</iValue>
 			</Pair>
 		</aiYieldCostOpinion>
+		<aeSubjectRelationDisabled>
+			<zValue>SUBJECTRELATION_TRIBE_WAR_ALLIANCE</zValue>
+		</aeSubjectRelationDisabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_TRIBE_DECLARE_WAR</zType>
@@ -505,13 +528,15 @@
 		<bNoPopup>1</bNoPopup>
 		<SubjectCharacter>SUBJECT_LEADER_US</SubjectCharacter>
 		<SubjectTarget>SUBJECT_TRIBE_PEACE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_TRIBE_NO_ALLIANCE_TEAM</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_TRIBE_BREAK_PEACE_EVENT</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiResultDie>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_TRIBE_NO_ALLIANCE_TEAM</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_INFILTRATE</zType>
@@ -595,9 +620,6 @@
 		<bEncyclopedia>1</bEncyclopedia>
 		<SubjectCharacter>SUBJECT_AGENT_DD</SubjectCharacter>
 		<SubjectTarget>SUBJECT_CHARACTER_US_OR_THEM</SubjectTarget>
-		<SubjectTargetStart>SUBJECT_CHARACTER_NOT_ME</SubjectTargetStart>
-		<SubjectTargetEnabled>SUBJECT_ADULT</SubjectTargetEnabled>
-		<SubjectTargetDisabled>SUBJECT_LEADER</SubjectTargetDisabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_ASSASSINATE_KILL</zIndex>
@@ -632,6 +654,12 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCostOpinion>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_ADULT</zValue>
+		</aeSubjectTargetEnabled>
+		<aeSubjectTargetDisabled>
+			<zValue>SUBJECT_LEADER</zValue>
+		</aeSubjectTargetDisabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_ASSASSINATE_ANY</zType>
@@ -643,8 +671,6 @@
 		<bCharacterNoEvents>1</bCharacterNoEvents>
 		<SubjectCharacter>SUBJECT_CHARACTER_US</SubjectCharacter>
 		<SubjectTarget>SUBJECT_CHARACTER_US_OR_THEM</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_ADULT</SubjectTargetEnabled>
-		<SubjectTargetDisabled>SUBJECT_LEADER</SubjectTargetDisabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_ASSASSINATE_KILL</zIndex>
@@ -663,6 +689,12 @@
 				<iValue>2</iValue>
 			</Pair>
 		</aiResultDie>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_ADULT</zValue>
+		</aeSubjectTargetEnabled>
+		<aeSubjectTargetDisabled>
+			<zValue>SUBJECT_LEADER</zValue>
+		</aeSubjectTargetDisabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_TRADE_MISSION</zType>
@@ -848,7 +880,6 @@
 		<bEncyclopedia>1</bEncyclopedia>
 		<SubjectCharacter>SUBJECT_MARSHAL</SubjectCharacter>
 		<SubjectTarget>SUBJECT_PLAYER_TRUCE</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_DEMAND_TRIBUTE_EVENT</zIndex>
@@ -871,6 +902,12 @@
 				<iValue>100</iValue>
 			</Pair>
 		</aiYieldCostOpinion>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_PLAYER_NOT_MIN_CONFLICT_TURNS</zValue>
+		</aeSubjectTargetEnabled>
+		<aeSubjectTargetDisabled>
+			<zValue>SUBJECT_PLAYER_DEMANDED_TRIBUTE</zValue>
+		</aeSubjectTargetDisabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_IMPRISON</zType>
@@ -886,7 +923,6 @@
 		<bEncyclopedia>1</bEncyclopedia>
 		<SubjectCharacter>SUBJECT_SPYMASTER</SubjectCharacter>
 		<SubjectTarget>SUBJECT_NON_LEADER_US</SubjectTarget>
-		<SubjectTargetEnabled>SUBJECT_TEENAGER_OR_ADULT</SubjectTargetEnabled>
 		<aiResultDie>
 			<Pair>
 				<zIndex>MISSIONRESULT_IMPRISON_JUST</zIndex>
@@ -921,6 +957,9 @@
 				<iValue>50</iValue>
 			</Pair>
 		</aiYieldCostOpinion>
+		<aeSubjectTargetEnabled>
+			<zValue>SUBJECT_TEENAGER_OR_ADULT</zValue>
+		</aeSubjectTargetEnabled>
 	</Entry>
 	<Entry>
 		<zType>MISSION_EXPOSE_AGENT</zType>

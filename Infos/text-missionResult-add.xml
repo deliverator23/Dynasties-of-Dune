@@ -51,4 +51,48 @@
 		<zType>TEXT_MISSIONRESULT_OVERSEE_CONSTRUCTION</zType>
 		<en-US>Construction was overseen.</en-US>
 	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SHARING_INTEL</zType>
+		<en-US>Intel was shared.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_NEW_RECRUITS</zType>
+		<en-US>New recruits have arrived.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SMUGGLED_GOODS</zType>
+		<en-US>Goods are smuggled into our borders.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPORTING_MATERIALS</zType>
+		<en-US>Materials have been imported.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SPICE_TRADE_I</zType>
+		<en-US>Spice has been imported.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SPICE_TRADE_II</zType>
+		<en-US>Spice trade happened.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_HIRE_HELP</zType>
+		<en-US>Hired some local help.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LOCAL_TRADE</zType>
+		<en-US>Local trade happened.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_WORSHIP_FORGOTTEN_GODS</zType>
+		<en-US>Worshipping Forgotten Gods.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RECRUIT_FANATICS</zType>
+		<en-US>Fanatics recruited.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_HIRE_MERCENARY</zType>
+		<en-US>Mercenary Hired.</en-US>
+	</Entry>
 </Root>

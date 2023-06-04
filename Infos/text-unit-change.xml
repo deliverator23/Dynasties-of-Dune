@@ -1,0 +1,54 @@
+﻿<Root>
+	<Entry>
+		<zType>TEXT_UNIT_SWORDSMAN</zType>
+		<en-US>Fedaykin~a Fedaykin~Fedaykin</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SWORDSMAN_F</zType>
+		<en-US>Fedaykin~a Fedaykin~Fedaykin</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CROSSBOWMAN</zType>
+		<en-US>Gunner~a Gunner~Gunners</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CROSSBOWMAN_F</zType>
+		<en-US>Gunner~a Gunner~Gunners</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PIKEMAN</zType>
+		<en-US>House Guard~a House Guard~House Guards</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PIKEMAN_F</zType>
+		<en-US>House Guard~a House Guard~House Guards</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LONGBOWMAN</zType>
+		<en-US>Heavy Weapon Squad~a Heavy Weapon Squad~Heavy Weapon Squads</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LONGBOWMAN_F</zType>
+		<en-US>Heavy Weapon Squad~a Heavy Weapon Squad~Heavy Weapon Squads</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CHARIOT</zType>
+		<en-US>Warden~a Warden~Wardens</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HORSEMAN</zType>
+		<en-US>Incinerator~an Incinerator~Incinerators</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HORSEMAN_F</zType>
+		<en-US>Incinerator~an Incinerator~Incinerators</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CATAPHRACT</zType>
+		<en-US>Sardaukar~a Sardaukar~Sardaukars</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HOPLITE</zType>
+		<en-US>Templar~a Templar~Templars</en-US>
+	</Entry>
+</Root>

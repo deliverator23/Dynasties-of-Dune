@@ -7,7 +7,6 @@
 		<EventLevel>EVENTLEVEL_MODERATE</EventLevel>
 		<Mortality>MORTALITY_STANDARD</Mortality>
 		<Archetype>TRAIT_PRESET_ARCHETYPE</Archetype>
-		<Dynasty>DYNASTY_DEFAULT</Dynasty>
 		<SuccessionGender>SUCCESSIONGENDER_ABSOLUTE_COGNATIC</SuccessionGender>
 		<SuccessionOrder>SUCCESSIONORDER_PRIMOGENITURE</SuccessionOrder>
 		<VictoriesDisabled>

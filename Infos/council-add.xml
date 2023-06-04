@@ -1,7 +1,7 @@
 <Root>
 	<Entry>
 		<zType>COUNCIL_AGENT</zType>
-		<Name>TEXT_COUNCIL_AGENT</Name>
+		<GenderedName>GENDERED_TEXT_COUNCIL_AGENT</GenderedName>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_COMBAT_ORNITHOPTER</EffectPlayerPrereq>
 		<iXP>5</iXP>
@@ -54,7 +54,7 @@
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_COURT_CHAPLAIN</zType>
-		<Name>TEXT_COUNCIL_COURT_CHAPLAIN</Name>
+		<GenderedName>GENDERED_TEXT_COUNCIL_COURT_CHAPLAIN</GenderedName>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_MEDITATION</EffectPlayerPrereq>
 		<iXP>5</iXP>
@@ -106,7 +106,7 @@
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_ENVOY</zType>
-		<Name>TEXT_COUNCIL_ENVOY</Name>
+		<GenderedName>GENDERED_TEXT_COUNCIL_ENVOY</GenderedName>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_EXPLORATION</EffectPlayerPrereq>
 		<iXP>5</iXP>
@@ -156,7 +156,7 @@
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_MARSHAL</zType>
-		<Name>TEXT_COUNCIL_MARSHAL</Name>
+		<GenderedName>GENDERED_TEXT_COUNCIL_MARSHAL</GenderedName>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_BASIC_DEFENSE</EffectPlayerPrereq>
 		<iXP>5</iXP>
@@ -211,7 +211,7 @@
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_PRIEST</zType>
-		<Name>TEXT_COUNCIL_PRIEST</Name>
+		<GenderedName>GENDERED_TEXT_COUNCIL_PRIEST</GenderedName>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_MYSTICISM</EffectPlayerPrereq>
 		<iXP>5</iXP>
@@ -263,7 +263,7 @@
 	</Entry>
 	<Entry>
 		<zType>COUNCIL_STEWARD</zType>
-		<Name>TEXT_COUNCIL_STEWARD</Name>
+		<GenderedName>GENDERED_TEXT_COUNCIL_STEWARD</GenderedName>
 		<zIconName>COUNCIL_AMBASSADOR</zIconName>
 		<EffectPlayerPrereq>EFFECTPLAYER_TECH_LOCAL_HUBS</EffectPlayerPrereq>
 		<iXP>5</iXP>

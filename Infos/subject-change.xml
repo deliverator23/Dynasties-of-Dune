@@ -22,13 +22,7 @@
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_RELIGIOUS</zType>
-		<Name>TEXT_SUBJECT_CHARACTER_RELIGIOUS</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_SUBJECT_CHARACTER_RELIGIOUS_F</Second>
-			</Pair>
-		</GenderedNames>
+		<GenderedName>GENDERED_TEXT_SUBJECT_CHARACTER_RELIGIOUS</GenderedName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>

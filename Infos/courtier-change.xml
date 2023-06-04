@@ -1,14 +1,9 @@
 <Root>
 	<Entry>
 		<zType>COURTIER_SOLDIER</zType>
-		<Name>TEXT_COURTIER_SOLDIER</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_SOLDIER</GenderedName>
 		<zIconName>COURTIER_SOLDIER</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SOLDIER_F</Second>
-			</Pair>
-		</GenderedNames>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_SOLDIER</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
@@ -48,14 +43,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MINISTER</zType>
-		<Name>TEXT_COURTIER_MINISTER</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_MINISTER</GenderedName>
 		<zIconName>COURTIER_MINISTER</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MINISTER_F</Second>
-			</Pair>
-		</GenderedNames>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_MINISTER</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -95,14 +85,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MERCHANT</zType>
-		<Name>TEXT_COURTIER_MERCHANT</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_MERCHANT</GenderedName>
 		<zIconName>COURTIER_MERCHANT</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MERCHANT_F</Second>
-			</Pair>
-		</GenderedNames>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_MERCHANT</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
@@ -142,14 +127,9 @@
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SCIENTIST</zType>
-		<Name>TEXT_COURTIER_SCIENTIST</Name>
+		<GenderedName>GENDERED_TEXT_COURTIER_SCIENTIST</GenderedName>
 		<zIconName>COURTIER_SCIENTIST</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SCIENTIST_F</Second>
-			</Pair>
-		</GenderedNames>
+		<GenderedNickname>GENDERED_TEXT_NICKNAME_THE_SCIENTIST</GenderedNickname>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>

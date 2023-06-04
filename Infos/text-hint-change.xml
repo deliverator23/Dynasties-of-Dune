@@ -1016,18 +1016,6 @@
 		<pt-BR>Você precisará de um link(COUNCIL_SPYMASTER) para realizar as missões de link(MISSION_INFILTRATE), link(MISSION_SLANDER), link(MISSION_ASSASSINATE) e link(MISSION_STEAL_RESEARCH).</pt-BR>
 	</Entry>
 	<Entry>
-		<zType>TEXT_HINT_103</zType>
-		<en-US>Cities need at least as many link(CONCEPT_URBAN) tiles as they have link(CONCEPT_CITIZEN,2). Otherwise, the City's link(YIELD_DISCONTENT,1) will increase.</en-US>
-		<es>Las ciudades necesitan al menos tantas casillas link(CONCEPT_URBAN,4) como puntos de link(CONCEPT_POPULATION) tengan. De lo contrario, aumenta la producción de link(YIELD_DISCONTENT) de la ciudad.</es>
-		<de>Städte benötigen mindestens so viele link(CONCEPT_URBAN) Felder wie link(CONCEPT_CITIZEN), da sich ansonsten die link(YIELD_DISCONTENT,1) in der Stadt erhöht.</de>
-		<fr>Les cités ont besoin d'autant de cases de type link(CONCEPT_URBAN) qu'elles ont de link(CONCEPT_CITIZEN,2). Sinon, le link(YIELD_DISCONTENT,1) de la cité augmentera.</fr>
-		<ja>都市には、少なくともlink(CONCEPT_CITIZEN,2)と同数のlink(CONCEPT_URBAN)タイルが必要です。そうしないと、都市のlink(YIELD_DISCONTENT,1)が増加します。</ja>
-		<zh-TW>城市需要的link(CONCEPT_URBAN)圖塊不能小於擁有的link(CONCEPT_CITIZEN,2)。不然，該城市的link(YIELD_DISCONTENT,1)會增加。</zh-TW>
-		<ru>Количество {lowercase:link(CONCEPT_URBAN,7)} клеток у городов должно быть как минимум не ниже количества {lowercase:link(CONCEPT_CITIZEN,7)}. В противном случае в городе будет расти уровень {lowercase:link(YIELD_DISCONTENT,1)}.</ru>
-		<zh-CN>城市需要的link(CONCEPT_URBAN)图块不能小于拥有的link(CONCEPT_CITIZEN,2)。不然，该城市的link(YIELD_DISCONTENT,1)会增加。</zh-CN>
-		<pt-BR>As cidades precisam de, no mínimo, tantas casas link(CONCEPT_URBAN,4) quanto de link(CONCEPT_CITIZEN,2). Senão, a link(YIELD_DISCONTENT,1) da cidade irá aumentar.</pt-BR>
-	</Entry>
-	<Entry>
 		<zType>TEXT_HINT_104</zType>
 		<en-US>With a link(UNIT_WORKER) selected, hold down [SHIFT] to queue up multiple moves and link(CONCEPT_IMPROVEMENT,2).</en-US>
 		<es>Mantén [MAYÚS] con un link(UNIT_WORKER) seleccionado para poner en cola múltiples movimientos y link(CONCEPT_IMPROVEMENT,2).</es>
@@ -1038,7 +1026,7 @@
 		<ru>Выбрав {lowercase:link(UNIT_WORKER,3)}, удерживайте [Shift], чтобы задать очередь из нескольких ходов и {lowercase:link(CONCEPT_IMPROVEMENT,7)}.</ru>
 		<zh-CN>在选择一个link(UNIT_WORKER)后，按住 [SHIFT] 以在伫列中建立多个行动及link(CONCEPT_IMPROVEMENT,2)。</zh-CN>
 		<pt-BR>Com um link(UNIT_WORKER) selecionado, segure [SHIFT] para enfileirar vários movimentos e link(CONCEPT_IMPROVEMENT,2).</pt-BR>
-	</Entry>
+	</Entry> <!-- 
 	<Entry>
 		<zType>TEXT_HINT_105</zType>
 		<en-US>Units inside their own link(CONCEPT_FAMILY)'s territory receive a favorable modifier to their combat strength.</en-US>
@@ -1050,5 +1038,5 @@
 		<ru>Юниты, находящиеся на территории своей {lowercase:link(CONCEPT_FAMILY,1)}, получают усиливающий коэффициент к боевой мощи.</ru>
 		<zh-CN>若单位在自己所属link(CONCEPT_FAMILY)的领地上，就能获得战斗实力上的有利加成。</zh-CN>
 		<pt-BR>Unidades dentro do território da sua própria família recebem um modificador favorável à sua força de combate.</pt-BR>
-	</Entry>
+	</Entry> --> 
 </Root>

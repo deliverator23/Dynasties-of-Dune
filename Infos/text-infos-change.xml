@@ -490,11 +490,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_MILITARY_PRESTIGE</zType>
-		<en-US>(Unused) Military Prestige</en-US>
+		<en-US>Military Prestige</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_INDUSTRIAL_PROGRESS</zType>
-		<en-US>(Unused) Industrial Progress</en-US>
+		<en-US>Industrial Progress</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BATTERING_RAM_BONUS</zType>

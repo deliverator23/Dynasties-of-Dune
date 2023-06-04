@@ -1599,19 +1599,11 @@
 		<Specialist></Specialist>
 	</Entry>
 	<Entry>
-		<zType>IMPROVEMENT_SHRINE_MARS</zType>
-		<Specialist></Specialist>
-	</Entry>
-	<Entry>
 		<zType>IMPROVEMENT_SHRINE_NUSKA</zType>
 		<Specialist></Specialist>
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENT_SHRINE_ATAR</zType>
-		<Specialist></Specialist>
-	</Entry>
-	<Entry>
-		<zType>IMPROVEMENT_SHRINE_VULCAN</zType>
 		<Specialist></Specialist>
 	</Entry>
 	<Entry>
@@ -1651,14 +1643,6 @@
 		<Specialist></Specialist>
 	</Entry>
 	<Entry>
-		<zType>IMPROVEMENT_SHRINE_ASTARTE</zType>
-		<Specialist></Specialist>
-	</Entry>
-	<Entry>
-		<zType>IMPROVEMENT_SHRINE_VENUS</zType>
-		<Specialist></Specialist>
-	</Entry>
-	<Entry>
 		<zType>IMPROVEMENT_SHRINE_ERESHKIGAL</zType>
 		<Specialist></Specialist>
 	</Entry>
@@ -1692,10 +1676,6 @@
 	</Entry>
 	<Entry>
 		<zType>IMPROVEMENT_SHRINE_TANIT</zType>
-		<Specialist></Specialist>
-	</Entry>
-	<Entry>
-		<zType>IMPROVEMENT_SHRINE_VESTA</zType>
 		<Specialist></Specialist>
 	</Entry>
 	<Entry>

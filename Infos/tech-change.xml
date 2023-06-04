@@ -366,11 +366,53 @@
 	</Entry>
 	<Entry>
 		<zType>TECH_MILITARY_PRESTIGE</zType>
-		<bValidAll>0</bValidAll>
+		<iCost>200</iCost>
+		<iColumn>7</iColumn>
+		<iRow>2</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_BORDER_DEFENSE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_SURVIVAL_TRAINING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_RELIGIOUS_ORDER</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_PIOUS_SOLDIERS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
 	</Entry>
 	<Entry>
 		<zType>TECH_INDUSTRIAL_PROGRESS</zType>
-		<bValidAll>0</bValidAll>
+		<iCost>200</iCost>
+		<iColumn>7</iColumn>
+		<iRow>5</iRow>
+		<bValidAll>1</bValidAll>
+		<abTechPrereq>
+			<Pair>
+				<zIndex>TECH_SPICE_TRADE</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_BASIC_SCHOOLS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_IMPROVED_MANUFACTURING</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+			<Pair>
+				<zIndex>TECH_MODULAR_PARTS</zIndex>
+				<bValue>1</bValue>
+			</Pair>
+		</abTechPrereq>
 	</Entry>
 	<Entry>
 		<zType>TECH_ECONOMIC_REFORM_NO_CHARACTERS</zType>

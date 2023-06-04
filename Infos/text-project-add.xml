@@ -44,6 +44,10 @@
 		<en-US>Superior Workshop~a Superior Workshop~Superior Workshops</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_UPGRADED_WORKSHOP</zType>
+		<en-US>Upgraded Workshop~an Upgraded Workshop~Upgraded Workshops</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_FUEL_FACTORY_1</zType>
 		<en-US>Fuel Factory~a Fuel Factory~Fuel Factories</en-US>
 	</Entry>
@@ -188,6 +192,14 @@
 		<en-US>Slave Mine I~Slave Mine I~Slave Mine I</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_PROJECT_SLAVE_MINE_2</zType>
+		<en-US>Slave Mine II~Slave Mine II~Slave Mine II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SLAVE_MINE_3</zType>
+		<en-US>Slave Mine III~Slave Mine III~Slave Mine III</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_PROJECT_BETTER_MINING_TOOL_1</zType>
 		<en-US>Better Mining Tool I~Better Mining Tool I~Better Mining Tool I</en-US>
 	</Entry>
@@ -210,6 +222,10 @@
 	<Entry>
 		<zType>TEXT_PROJECT_TAX_OFFICE_1</zType>
 		<en-US>Tax Office I~Tax Office I~Tax Office I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TAX_OFFICE_2</zType>
+		<en-US>Tax Office II~Tax Office II~Tax Office II</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_STILLSUIT_1</zType>
@@ -238,6 +254,10 @@
 	<Entry>
 		<zType>TEXT_PROJECT_MATERIAL_FACTORY_1</zType>
 		<en-US>Basic Material Factory~a Basic Material Factory~Basic Material Factories</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MATERIAL_FACTORY_2</zType>
+		<en-US>Improved Material Factory~an Improved Material Factory~Improved Material Factories</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_PROJECT_POWER_GENERATOR_1</zType>
@@ -338,5 +358,57 @@
 	<Entry>
 		<zType>TEXT_PROJECT_FUEL_CELL_1</zType>
 		<en-US>Fuel Cell Prototype~a Fuel Cell Prototype~Fuel Cell Prototypes</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SLAVE_FUEL_FACTORY_1</zType>
+		<en-US>Slave Fuel Factory I~Slave Fuel Factory I~Slave Fuel Factory I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SLAVE_FUEL_FACTORY_2</zType>
+		<en-US>Slave Fuel Factory II~Slave Fuel Factory II~Slave Fuel Factory II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_UPGRADED_POWER_GENERATOR</zType>
+		<en-US>Upgraded Power Generator~an Upgraded Power Generator~Upgraded Power Generators</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WATER_OF_LIFE</zType>
+		<en-US>Water of Life~Water of Life~Water of Life</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FREMEN_RITUAL</zType>
+		<en-US>Fremen Ritual~a Fremen Ritual~Fremen Rituals</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPROVED_SIETCH</zType>
+		<en-US>Improved Sietch~an Improved Sietch~Improved Sietchs</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPERIAL_FORTRESS</zType>
+		<en-US>Imperial Fortress~an Imperial Fortress~Imperial Fortresses</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SPICE_MONOPOLY</zType>
+		<en-US>Spice Monopoly~a Spice Monopoly~Spice Monopolies</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPROVED_ARMOR</zType>
+		<en-US>Improved Armor~an Improved Armor~Improved Armor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SUPERIOR_ARMOR</zType>
+		<en-US>Superior Armor~a Superior Armor~Superior Armor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SUPERIOR_WEAPON</zType>
+		<en-US>Superior Weapon~a Superior Weapon~Superior Weapons</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ZEAL</zType>
+		<en-US>Zeal~Zeal~Zeal</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_JIHAD</zType>
+		<en-US>Jihad~a Jihad~Jihads</en-US>
 	</Entry>
 </Root>

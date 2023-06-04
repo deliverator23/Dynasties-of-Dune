@@ -1,13 +1,7 @@
 <Root>
     <Entry>
         <zType>NATION_HARKONNEN</zType>
-        <Name>TEXT_NATION_HARKONNEN</Name>
-        <GenderedNames>
-            <Pair>
-                <First>GENDER_FEMALE</First>
-                <Second>TEXT_NATION_PERSIA_F</Second>
-            </Pair>
-        </GenderedNames>
+        <GenderedName>GENDERED_TEXT_NATION_HARKONNEN</GenderedName>
         <TeamColor>TEAMCOLOR_NATION_HARKONNEN</TeamColor>
         <Crest>CREST_NATION_HARKONNEN</Crest>
         <zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
@@ -143,13 +137,7 @@
     </Entry>
     <Entry>
         <zType>NATION_ATREIDES</zType>
-        <Name>TEXT_NATION_ATREIDES</Name>
-        <GenderedNames>
-            <Pair>
-                <First>GENDER_FEMALE</First>
-                <Second>TEXT_NATION_GREECE_F</Second>
-            </Pair>
-        </GenderedNames>
+        <GenderedName>GENDERED_TEXT_NATION_ATREIDES</GenderedName>
         <TeamColor>TEAMCOLOR_NATION_ATREIDES</TeamColor>
         <Crest>CREST_NATION_GREECE</Crest>
         <zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
@@ -302,13 +290,7 @@
     </Entry>
     <Entry>
         <zType>NATION_CORRINO</zType>
-        <Name>TEXT_NATION_CORRINO</Name>
-        <GenderedNames>
-            <Pair>
-                <First>GENDER_FEMALE</First>
-                <Second>TEXT_NATION_ROME_F</Second>
-            </Pair>
-        </GenderedNames>
+        <GenderedName>GENDERED_TEXT_NATION_CORRINO</GenderedName>
         <TeamColor>TEAMCOLOR_NATION_CORRINO</TeamColor>
         <Crest>CREST_NATION_ROME</Crest>
         <zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>
@@ -475,13 +457,7 @@
     </Entry>
     <Entry>
         <zType>NATION_FREMEN</zType>
-        <Name>TEXT_NATION_FREMEN</Name>
-        <GenderedNames>
-            <Pair>
-                <First>GENDER_FEMALE</First>
-                <Second>TEXT_NATION_ASSYRIA_F</Second>
-            </Pair>
-        </GenderedNames>
+        <GenderedName>GENDERED_TEXT_NATION_FREMEN</GenderedName>
         <TeamColor>TEAMCOLOR_NATION_FREMEN</TeamColor>
         <Crest>CREST_NATION_ASSYRIA</Crest>
         <zAttackPortraitName>ATTACKPREVIEW_CITY</zAttackPortraitName>

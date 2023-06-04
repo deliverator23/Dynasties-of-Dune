@@ -222,15 +222,15 @@
 	<Entry>
 		<zType>UNIT_B_TROOPER</zType>
 		<Name>TEXT_UNIT_B_TROOPER</Name>
-		<zIconName>UNIT_WARRIOR</zIconName>
-		<zPortraitName>UNIT_WARRIOR</zPortraitName>
+		<zIconName>UNIT_LEVY</zIconName>
+		<zPortraitName>UNIT_LEVY</zPortraitName>
 		<zBackgroundName>GenericUnitAttackBackground</zBackgroundName>
-		<zAudioSelectionType>SWORD</zAudioSelectionType>
+		<zAudioSelectionType>CONSCRIPT</zAudioSelectionType>
 		<zAudioMovementType>ANIMATED</zAudioMovementType>
 		<zAudioAttackType>ANIMATED</zAudioAttackType>
-		<zAudioDamagedByProjectileType>flesh</zAudioDamagedByProjectileType>
+		<zAudioDamagedByProjectileType>combo_flesh_wood</zAudioDamagedByProjectileType>
 		<aeFormations>
-			<zValue>FORMATION_WARRIOR</zValue>
+			<zValue>FORMATION_CONSCRIPT</zValue>
 		</aeFormations>
 		<UnitCycle>UNITCYCLE_MILITARY_INFANTRY</UnitCycle>
 		<TechPrereq>TECH_BLADE_MAKING</TechPrereq>
@@ -409,7 +409,7 @@
 		<aiYieldConsumption>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>5</iValue>
+				<iValue>3</iValue>
 			</Pair>
 		</aiYieldConsumption>
 		<aeObsoleteTech></aeObsoleteTech>
@@ -460,7 +460,7 @@
 		<aiYieldConsumption>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
-				<iValue>5</iValue>
+				<iValue>3</iValue>
 			</Pair>
 		</aiYieldConsumption>
 		<aeObsoleteTech></aeObsoleteTech>

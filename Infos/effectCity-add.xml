@@ -447,6 +447,18 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_UPGRADED_WORKSHOP</zType>
+		<Name>TEXT_PROJECT_UPGRADED_WORKSHOP</Name>
+		<SourceProject>PROJECT_UPGRADED_WORKSHOP</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_FUEL_FACTORY_1</zType>
 		<Name>TEXT_PROJECT_FUEL_FACTORY_1</Name>
 		<SourceProject>PROJECT_FUEL_FACTORY_1</SourceProject>
@@ -930,6 +942,30 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_SLAVE_MINE_2</zType>
+		<Name>TEXT_PROJECT_SLAVE_MINE_2</Name>
+		<SourceProject>PROJECT_SLAVE_MINE_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SLAVE_MINE_3</zType>
+		<Name>TEXT_PROJECT_SLAVE_MINE_3</Name>
+		<SourceProject>PROJECT_SLAVE_MINE_3</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_BETTER_MINING_TOOL_1</zType>
 		<Name>TEXT_PROJECT_BETTER_MINING_TOOL_1</Name>
 		<SourceProject>PROJECT_BETTER_MINING_TOOL_1</SourceProject>
@@ -1059,6 +1095,18 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_TAX_OFFICE_2</zType>
+		<Name>TEXT_PROJECT_TAX_OFFICE_2</Name>
+		<SourceProject>PROJECT_TAX_OFFICE_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>100</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_STILLSUIT_1</zType>
 		<Name>TEXT_PROJECT_STILLSUIT_1</Name>
 		<SourceProject>PROJECT_STILLSUIT_1</SourceProject>
@@ -1174,6 +1222,22 @@
 		</aiYieldRate>
 	</Entry>
 	<Entry>
+		<zType>EFFECTCITY_PROJECT_MATERIAL_FACTORY_2</zType>
+		<Name>TEXT_PROJECT_MATERIAL_FACTORY_2</Name>
+		<SourceProject>PROJECT_MATERIAL_FACTORY_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>-60</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
 		<zType>EFFECTCITY_PROJECT_POWER_GENERATOR_1</zType>
 		<Name>TEXT_PROJECT_POWER_GENERATOR_1</Name>
 		<SourceProject>PROJECT_POWER_GENERATOR_1</SourceProject>
@@ -1207,6 +1271,25 @@
 				<SubPair>
 					<zSubIndex>YIELD_FUEL</zSubIndex>
 					<iValue>-50</iValue>
+				</SubPair>
+			</Pair>
+		</aaiImprovementClassYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_UPGRADED_POWER_GENERATOR</zType>
+		<Name>TEXT_PROJECT_UPGRADED_POWER_GENERATOR</Name>
+		<SourceProject>PROJECT_UPGRADED_POWER_GENERATOR</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiImprovementClassYield>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_WINDTRAP</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CIVICS</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_FUEL</zSubIndex>
+					<iValue>-10</iValue>
 				</SubPair>
 			</Pair>
 		</aaiImprovementClassYield>
@@ -1346,6 +1429,182 @@
 				<iValue>-10</iValue>
 			</Pair>
 		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SLAVE_FUEL_FACTORY_1</zType>
+		<Name>TEXT_PROJECT_SLAVE_FUEL_FACTORY_1</Name>
+		<SourceProject>PROJECT_SLAVE_FUEL_FACTORY_1</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SLAVE_FUEL_FACTORY_2</zType>
+		<Name>TEXT_PROJECT_SLAVE_FUEL_FACTORY_2</Name>
+		<SourceProject>PROJECT_SLAVE_FUEL_FACTORY_2</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_WATER_OF_LIFE</zType>
+		<Name>TEXT_PROJECT_WATER_OF_LIFE</Name>
+		<SourceProject>PROJECT_WATER_OF_LIFE</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_IMPROVEMENT_SIETCH</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_DEVOTION</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_FREMEN_RITUAL</zType>
+		<Name>TEXT_PROJECT_FREMEN_RITUAL</Name>
+		<SourceProject>PROJECT_FREMEN_RITUAL</SourceProject>
+		<bSingle>1</bSingle>
+		<aeTraitEffectUnit>
+			<Pair>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<zValue>EFFECTUNIT_RITUAL</zValue>
+			</Pair>
+		</aeTraitEffectUnit>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_IMPROVED_SIETCH</zType>
+		<Name>TEXT_PROJECT_IMPROVED_SIETCH</Name>
+		<SourceProject>PROJECT_IMPROVED_SIETCH</SourceProject>
+		<bSingle>1</bSingle>
+		<aaiImprovementYield>
+			<Pair>
+				<zIndex>IMPROVEMENT_SIETCH</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_LOCAL_MATERIAL</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_FUEL</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_HAPPINESS</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+		</aaiImprovementYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_IMPERIAL_FORTRESS</zType>
+		<Name>TEXT_PROJECT_IMPERIAL_FORTRESS</Name>
+		<SourceProject>PROJECT_IMPERIAL_FORTRESS</SourceProject>
+		<iCityHP>50</iCityHP>
+		<iStrengthModifier>25</iStrengthModifier>
+		<bSingle>1</bSingle>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_IMPROVED_ARMOR</zType>
+		<Name>TEXT_PROJECT_IMPROVED_ARMOR</Name>
+		<SourceProject>PROJECT_IMPROVED_ARMOR</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aeTraitEffectUnit>
+			<Pair>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<zValue>EFFECTUNIT_IMPROVED_ARMOR</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
+				<zValue>EFFECTUNIT_IMPROVED_ARMOR</zValue>
+			</Pair>
+		</aeTraitEffectUnit>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SUPERIOR_ARMOR</zType>
+		<Name>TEXT_PROJECT_SUPERIOR_ARMOR</Name>
+		<SourceProject>PROJECT_SUPERIOR_ARMOR</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_OFFWORLD_SUPPLIES</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aeTraitEffectUnit>
+			<Pair>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<zValue>EFFECTUNIT_SUPERIOR_ARMOR</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
+				<zValue>EFFECTUNIT_SUPERIOR_ARMOR</zValue>
+			</Pair>
+		</aeTraitEffectUnit>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_SUPERIOR_WEAPON</zType>
+		<Name>TEXT_PROJECT_SUPERIOR_WEAPON</Name>
+		<SourceProject>PROJECT_SUPERIOR_WEAPON</SourceProject>
+		<bSingle>1</bSingle>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_OFFWORLD_SUPPLIES</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+		<aeTraitEffectUnit>
+			<Pair>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<zValue>EFFECTUNIT_SUPERIOR_WEAPON</zValue>
+			</Pair>
+			<Pair>
+				<zIndex>UNITTRAIT_RANGED</zIndex>
+				<zValue>EFFECTUNIT_SUPERIOR_WEAPON</zValue>
+			</Pair>
+		</aeTraitEffectUnit>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_ZEAL</zType>
+		<Name>TEXT_PROJECT_ZEAL</Name>
+		<SourceProject>PROJECT_ZEAL</SourceProject>
+		<bSingle>1</bSingle>
+		<aeTraitEffectUnit>
+			<Pair>
+				<zIndex>UNITTRAIT_DEVOTED</zIndex>
+				<zValue>EFFECTUNIT_ZEAL</zValue>
+			</Pair>
+		</aeTraitEffectUnit>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_PROJECT_JIHAD</zType>
+		<Name>TEXT_PROJECT_JIHAD</Name>
+		<SourceProject>PROJECT_JIHAD</SourceProject>
+		<bSingle>1</bSingle>
+		<aeTraitEffectUnit>
+			<Pair>
+				<zIndex>UNITTRAIT_DEVOTED</zIndex>
+				<zValue>EFFECTUNIT_JIHAD</zValue>
+			</Pair>
+		</aeTraitEffectUnit>
 	</Entry>
 	<!-- Theologies --> 
 	<Entry>

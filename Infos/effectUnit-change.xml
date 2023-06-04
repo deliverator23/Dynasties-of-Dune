@@ -11,26 +11,12 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_ZEALOT_ALL</zType>
-		<Name>TEXT_EFFECTUNIT_ZEALOT_ALL</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_ZEALOT_ALL_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_ZEALOT_ALL</zIconName>
 		<iFatigueExtra>1</iFatigueExtra>
 		<bSkipIcon>1</bSkipIcon>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_TACTICIAN_RANGED</zType>
-		<Name>TEXT_EFFECTUNIT_TACTICIAN_RANGED</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_TACTICIAN_RANGED_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_TACTICIAN_RANGED</zIconName>
 		<iAttackModifier>10</iAttackModifier>
 		<bSkipIcon>1</bSkipIcon>
@@ -38,7 +24,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_INFANTRY</zType>
-		<Name>TEXT_UNITTRAIT_INFANTRY</Name>
 		<zIconName>UNITTRAIT_INFANTRY</zIconName>
 		<SourceUnitTrait>UNITTRAIT_INFANTRY</SourceUnitTrait>
 		<iDefenseModifier>25</iDefenseModifier>
@@ -46,7 +31,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_MELEE</zType>
-		<Name>TEXT_UNITTRAIT_MELEE</Name>
 		<zIconName>UNITTRAIT_MELEE</zIconName>
 		<SourceUnitTrait>UNITTRAIT_MELEE</SourceUnitTrait>
 		<iMeleeCounter>3</iMeleeCounter>
@@ -55,7 +39,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_RANGED</zType>
-		<Name>TEXT_UNITTRAIT_RANGED</Name>
 		<zIconName>UNITTRAIT_RANGED</zIconName>
 		<SourceUnitTrait>UNITTRAIT_RANGED</SourceUnitTrait>
 		<iMeleeCounter>1</iMeleeCounter>
@@ -68,7 +51,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_POLEARM</zType>
-		<Name>TEXT_UNITTRAIT_POLEARM</Name>
 		<zIconName>UNITTRAIT_POLEARM</zIconName>
 		<SourceUnitTrait>UNITTRAIT_POLEARM</SourceUnitTrait>
 		<bNoRout>1</bNoRout>
@@ -78,7 +60,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_MOUNTED</zType>
-		<Name>TEXT_UNITTRAIT_MOUNTED</Name>
 		<zIconName>UNITTRAIT_MOUNTED</zIconName>
 		<SourceUnitTrait>UNITTRAIT_MOUNTED</SourceUnitTrait>
 		<aiUnitTraitModifierMelee></aiUnitTraitModifierMelee>
@@ -86,7 +67,6 @@
 	<!-- Promotions --> 
 	<Entry>
 		<zType>EFFECTUNIT_STRIKE1</zType>
-		<Name>TEXT_EFFECTUNIT_STRIKE1</Name>
 		<zIconName>EFFECTUNIT_STRIKE1</zIconName>
 		<Class>EFFECTUNITCLASS_STRIKE</Class>
 		<iClassNum>1</iClassNum>
@@ -100,7 +80,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_STRIKE2</zType>
-		<Name>TEXT_EFFECTUNIT_STRIKE2</Name>
 		<zIconName>EFFECTUNIT_STRIKE2</zIconName>
 		<Class>EFFECTUNITCLASS_STRIKE</Class>
 		<iClassNum>2</iClassNum>
@@ -114,7 +93,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_STRIKE3</zType>
-		<Name>TEXT_EFFECTUNIT_STRIKE3</Name>
 		<zIconName>EFFECTUNIT_STRIKE3</zIconName>
 		<Class>EFFECTUNITCLASS_STRIKE</Class>
 		<iClassNum>3</iClassNum>
@@ -128,7 +106,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_GUARD1</zType>
-		<Name>TEXT_EFFECTUNIT_GUARD1</Name>
 		<zIconName>EFFECTUNIT_GUARD1</zIconName>
 		<Class>EFFECTUNITCLASS_GUARD</Class>
 		<iClassNum>1</iClassNum>
@@ -142,7 +119,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_GUARD2</zType>
-		<Name>TEXT_EFFECTUNIT_GUARD2</Name>
 		<zIconName>EFFECTUNIT_GUARD2</zIconName>
 		<Class>EFFECTUNITCLASS_GUARD</Class>
 		<iClassNum>2</iClassNum>
@@ -156,7 +132,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_GUARD3</zType>
-		<Name>TEXT_EFFECTUNIT_GUARD3</Name>
 		<zIconName>EFFECTUNIT_GUARD3</zIconName>
 		<Class>EFFECTUNITCLASS_GUARD</Class>
 		<iClassNum>3</iClassNum>
@@ -170,13 +145,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_TRACKER</zType>
-		<Name>TEXT_EFFECTUNIT_TRACKER</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_TRACKER_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_TRACKER</zIconName>
 		<iVisionExtra>3</iVisionExtra>
 		<iRevealExtra>1</iRevealExtra>
@@ -189,13 +157,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_SWIFT</zType>
-		<Name>TEXT_EFFECTUNIT_SWIFT</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_SWIFT_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_SWIFT</zIconName>
 		<iMovementExtra>1</iMovementExtra>
 		<abUnitTraitValid>
@@ -207,13 +168,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_AMPHIBIOUS</zType>
-		<Name>TEXT_EFFECTUNIT_AMPHIBIOUS</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_AMPHIBIOUS_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_AMPHIBIOUS</zIconName>
 		<iRiverAttackModifier>50</iRiverAttackModifier>
 		<iWaterLandAttackModifier>50</iWaterLandAttackModifier>
@@ -226,13 +180,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_MARINES</zType>
-		<Name>TEXT_EFFECTUNIT_MARINES</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_MARINES_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_MARINES</zIconName>
 		<iWaterLandAttackModifier>25</iWaterLandAttackModifier>
 		<iSettlementAttackModifier>25</iSettlementAttackModifier>
@@ -245,13 +192,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_NOMAD</zType>
-		<Name>TEXT_EFFECTUNIT_NOMAD</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_NOMAD_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_NOMAD</zIconName>
 		<aiTerrainFromModifier>
 			<Pair>
@@ -268,13 +208,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_COLD</zType>
-		<Name>TEXT_EFFECTUNIT_COLD</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_COLD_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_COLD</zIconName>
 		<aiTerrainFromModifier>
 			<Pair>
@@ -291,13 +224,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_HORSEBANE</zType>
-		<Name>TEXT_EFFECTUNIT_HORSEBANE</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_HORSEBANE_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_HORSEBANE</zIconName>
 		<aiUnitTraitModifier>
 			<Pair>
@@ -314,13 +240,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_ENGINEER</zType>
-		<Name>TEXT_EFFECTUNIT_ENGINEER</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_ENGINEER_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_ENGINEER</zIconName>
 		<aiUnitTraitModifier>
 			<Pair>
@@ -337,13 +256,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_COCKSWAIN</zType>
-		<Name>TEXT_EFFECTUNIT_COCKSWAIN</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_COCKSWAIN_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_COCKSWAIN</zIconName>
 		<bRout>1</bRout>
 		<abUnitTraitValid>
@@ -355,13 +267,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_GRAPPLER</zType>
-		<Name>TEXT_EFFECTUNIT_GRAPPLER</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_GRAPPLER_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_GRAPPLER</zIconName>
 		<iAttackModifier>-50</iAttackModifier>
 		<bStunWater>1</bStunWater>
@@ -374,13 +279,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_SEABORN</zType>
-		<Name>TEXT_EFFECTUNIT_SEABORN</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_SEABORN_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_SEABORN</zIconName>
 		<aiHeightFromModifier>
 			<Pair>
@@ -397,13 +295,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_OVERWHELM</zType>
-		<Name>TEXT_EFFECTUNIT_OVERWHELM</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_OVERWHELM_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_OVERWHELM</zIconName>
 		<aiAttackValue>
 			<Pair>
@@ -426,13 +317,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_FIRESHIP</zType>
-		<Name>TEXT_EFFECTUNIT_FIRESHIP</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_FIRESHIP_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_FIRESHIP</zIconName>
 		<bPushWater>1</bPushWater>
 		<aiUnitTraitModifierAttack>
@@ -450,13 +334,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_LADING</zType>
-		<Name>TEXT_EFFECTUNIT_LADING</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_LADING_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_LADING</zIconName>
 		<iWaterControlExtra>1</iWaterControlExtra>
 		<abUnitTraitValid>
@@ -468,13 +345,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_MANEUVERS</zType>
-		<Name>TEXT_EFFECTUNIT_MANEUVERS</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_MANEUVERS_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_MANEUVERS</zIconName>
 		<iFatigueExtra>1</iFatigueExtra>
 		<bIgnoreZOC>1</bIgnoreZOC>
@@ -487,13 +357,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_SADDLEBORN</zType>
-		<Name>TEXT_EFFECTUNIT_SADDLEBORN</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_SADDLEBORN_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_SADDLEBORN</zIconName>
 		<iFlankingAttackModifier>25</iFlankingAttackModifier>
 		<abUnitTraitValid>
@@ -505,13 +368,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_RANGER</zType>
-		<Name>TEXT_EFFECTUNIT_RANGER</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_RANGER_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_RANGER</zIconName>
 		<aiVegetationFromModifier></aiVegetationFromModifier>
 		<aiUnitTraitModifier>
@@ -529,13 +385,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_RANGER_ALL</zType>
-		<Name>TEXT_EFFECTUNIT_RANGER_ALL</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_RANGER_ALL_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_RANGER_ALL</zIconName>
 		<aiVegetationFromModifier></aiVegetationFromModifier>
 		<aiUnitTraitModifier>
@@ -553,13 +402,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_HORSEBANE</zType>
-		<Name>TEXT_EFFECTUNIT_HORSEBANE</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_HORSEBANE_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_HORSEBANE</zIconName>
 		<aiUnitTraitModifier>
 			<Pair>
@@ -580,13 +422,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_HORSEBANE_ALL</zType>
-		<Name>TEXT_EFFECTUNIT_HORSEBANE_ALL</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_HORSEBANE_ALL_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_HORSEBANE_ALL</zIconName>
 		<aiUnitTraitModifier>
 			<Pair>
@@ -607,13 +442,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_ENGINEER_ALL</zType>
-		<Name>TEXT_EFFECTUNIT_ENGINEER_ALL</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_ENGINEER_ALL_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_ENGINEER_ALL</zIconName>
 		<aiUnitTraitModifier>
 			<Pair>
@@ -624,13 +452,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_STEALTH</zType>
-		<Name>TEXT_EFFECTUNIT_STEALTH</Name>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_EFFECTUNIT_STEALTH_F</Second>
-			</Pair>
-		</GenderedNames>
 		<zIconName>EFFECTUNIT_STEALTH</zIconName>
 		<abHideVegetation>
 			<Pair>
@@ -647,7 +468,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_ANTIPOLEARM</zType>
-		<Name>TEXT_EFFECTUNIT_ANTIPOLEARM</Name>
 		<zIconName>EFFECTUNIT_ANTIPOLEARM</zIconName>
 		<aiUnitTraitModifier>
 			<Pair>
@@ -664,7 +484,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_ANTIMOUNTED1</zType>
-		<Name>TEXT_EFFECTUNIT_ANTIMOUNTED1</Name>
 		<zIconName>EFFECTUNIT_ANTIMOUNTED1</zIconName>
 		<aiUnitTraitModifierMelee>
 			<Pair>
@@ -681,7 +500,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_ANTIMOUNTED2</zType>
-		<Name>TEXT_EFFECTUNIT_ANTIMOUNTED2</Name>
 		<zIconName>EFFECTUNIT_ANTIMOUNTED2</zIconName>
 		<aiUnitTraitModifierMelee>
 			<Pair>
@@ -698,7 +516,6 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_ANTIMOUNTED3</zType>
-		<Name>TEXT_EFFECTUNIT_ANTIMOUNTED3</Name>
 		<zIconName>EFFECTUNIT_ANTIMOUNTED3</zIconName>
 		<aiUnitTraitModifierMelee>
 			<Pair>

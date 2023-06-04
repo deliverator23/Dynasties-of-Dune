@@ -1,38 +1,55 @@
 <Root>
 	<Entry>
 		<zType>EFFECTUNIT_FREMEN</zType>
-		<Name>TEXT_EFFECTUNIT_FREMEN</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_FREMEN</GenderedName>
 		<zIconName>EFFECTUNIT_FREMEN</zIconName>
 		<iFatigueExtra>1</iFatigueExtra>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_DESERT_SURVIVAL1</zType>
-		<Name>TEXT_EFFECTUNIT_DESERT_SURVIVAL1</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_DESERT_SURVIVAL1</GenderedName>
 		<zIconName>EFFECTUNIT_DESERT_SURVIVAL1</zIconName>
 		<iHealAlways>1</iHealAlways>
 	</Entry>
 	<Entry>
+		<zType>EFFECTUNIT_DESERT_AMBUSH</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_DESERT_AMBUSH</GenderedName>
+		<zIconName>EFFECTUNIT_DESERT_AMBUSH</zIconName>
+		<aiTerrainFromModifier>
+			<Pair>
+				<zIndex>TERRAIN_SAND</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiTerrainFromModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_FEDAYKIN</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_FEDAYKIN</GenderedName>
+		<zIconName>EFFECTUNIT_FEDAYKIN</zIconName>
+		<iCriticalChance>15</iCriticalChance>
+	</Entry>
+	<Entry>
 		<zType>EFFECTUNIT_HOMELAND_GUARDIAN1</zType>
-		<Name>TEXT_EFFECTUNIT_HOMELAND_GUARDIAN1</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_HOMELAND_GUARDIAN1</GenderedName>
 		<zIconName>EFFECTUNIT_HOMELAND_GUARDIAN1</zIconName>
 		<iHomeModifier>20</iHomeModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_RAIDER1</zType>
-		<Name>TEXT_EFFECTUNIT_RAIDER1</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_RAIDER1</GenderedName>
 		<zIconName>EFFECTUNIT_RAIDER1</zIconName>
 		<iFatigueExtra>1</iFatigueExtra>
 		<iPillageYieldModifier>100</iPillageYieldModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_EXPLORATION1</zType>
-		<Name>TEXT_EFFECTUNIT_EXPLORATION1</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_EXPLORATION1</GenderedName>
 		<zIconName>EFFECTUNIT_EXPLORATION1</zIconName>
 		<iMovementExtra>1</iMovementExtra>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_RITUAL_SACRIFICE</zType>
-		<Name>TEXT_EFFECTUNIT_RITUAL_SACRIFICE</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_RITUAL_SACRIFICE</GenderedName>
 		<zIconName>EFFECTUNIT_RITUAL_SACRIFICE</zIconName>
 		<aiMilitaryKillYield>
 			<Pair>
@@ -45,24 +62,100 @@
 			</Pair>
 		</aiMilitaryKillYield>
 	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_GUNNER</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_GUNNER</GenderedName>
+		<zIconName>EFFECTUNIT_GUNNER</zIconName>
+		<iAttackModifier>50</iAttackModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HOUSE_GUARD</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_HOUSE_GUARD</GenderedName>
+		<zIconName>EFFECTUNIT_HOUSE_GUARD</zIconName>
+		<iAttackModifier>25</iAttackModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_HEAVY_WEAPON</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_HEAVY_WEAPON</GenderedName>
+		<zIconName>EFFECTUNIT_HEAVY_WEAPON</zIconName>
+		<aiUnitTraitModifier>
+			<Pair>
+				<zIndex>UNITTRAIT_MELEE</zIndex>
+				<iValue>25</iValue>
+			</Pair>
+		</aiUnitTraitModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_WARDEN</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_WARDEN</GenderedName>
+		<zIconName>EFFECTUNIT_WARDEN</zIconName>
+		<iDefenseModifier>25</iDefenseModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_FLAMETHROWER</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_FLAMETHROWER</GenderedName>
+		<zIconName>EFFECTUNIT_FLAMETHROWER</zIconName>
+		<iAttackModifier>20</iAttackModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_RITUAL</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_RITUAL</GenderedName>
+		<zIconName>EFFECTUNIT_RITUAL</zIconName>
+		<aiMilitaryKillYield>
+			<Pair>
+				<zIndex>YIELD_DEVOTION</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiMilitaryKillYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_IMPROVED_ARMOR</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_IMPROVED_ARMOR</GenderedName>
+		<zIconName>EFFECTUNIT_IMPROVED_ARMOR</zIconName>
+		<iDefenseModifier>25</iDefenseModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_SUPERIOR_ARMOR</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_SUPERIOR_ARMOR</GenderedName>
+		<zIconName>EFFECTUNIT_SUPERIOR_ARMOR</zIconName>
+		<iDefenseModifier>50</iDefenseModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_SUPERIOR_WEAPON</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_SUPERIOR_WEAPON</GenderedName>
+		<zIconName>EFFECTUNIT_SUPERIOR_WEAPON</zIconName>
+		<iAttackModifier>50</iAttackModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_ZEAL</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_ZEAL</GenderedName>
+		<zIconName>EFFECTUNIT_ZEAL</zIconName>
+		<iStrengthModifier>25</iStrengthModifier>
+	</Entry>
+	<Entry>
+		<zType>EFFECTUNIT_JIHAD</zType>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_JIHAD</GenderedName>
+		<zIconName>EFFECTUNIT_JIHAD</zIconName>
+		<iStrengthModifier>50</iStrengthModifier>
+	</Entry>
 	<!-- Traits --> 
 	<Entry>
 		<zType>EFFECTUNIT_EXPLORER</zType>
-		<Name>TEXT_EFFECTUNIT_EXPLORER</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_EXPLORER</GenderedName>
 		<zIconName>EFFECTUNIT_EXPLORER</zIconName>
 		<iFatigueExtra>1</iFatigueExtra>
 		<bSkipIcon>1</bSkipIcon>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_EXPLORER_LEADER</zType>
-		<Name>TEXT_EFFECTUNIT_EXPLORER_LEADER</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_EXPLORER_LEADER</GenderedName>
 		<zIconName>EFFECTUNIT_EXPLORER_LEADER</zIconName>
 		<iMovementExtra>1</iMovementExtra>
 		<bSkipIcon>1</bSkipIcon>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_OUTLAW</zType>
-		<Name>TEXT_EFFECTUNIT_OUTLAW</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_OUTLAW</GenderedName>
 		<zIconName>EFFECTUNIT_OUTLAW</zIconName>
 		<bSkipIcon>1</bSkipIcon>
 		<aiUnitTraitModifier>
@@ -74,7 +167,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_OUTLAW_LEADER</zType>
-		<Name>TEXT_EFFECTUNIT_OUTLAW_LEADER</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_OUTLAW_LEADER</GenderedName>
 		<zIconName>EFFECTUNIT_OUTLAW_LEADER</zIconName>
 		<iHealAlways>5</iHealAlways>
 		<bSkipIcon>1</bSkipIcon>
@@ -82,7 +175,7 @@
 	<!-- Unit Traits --> 
 	<Entry>
 		<zType>EFFECTUNIT_DEVOTED</zType>
-		<Name>TEXT_UNITTRAIT_DEVOTED</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_DEVOTED</GenderedName>
 		<zIconName>EFFECTUNIT_DEVOTED</zIconName>
 		<SourceUnitTrait>UNITTRAIT_DEVOTED</SourceUnitTrait>
 		<iAttackModifier>25</iAttackModifier>
@@ -95,7 +188,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_EXPLORATION</zType>
-		<Name>TEXT_UNITTRAIT_EXPLORATION</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_EXPLORATION</GenderedName>
 		<zIconName>UNITTRAIT_EXPLORATION</zIconName>
 		<SourceUnitTrait>UNITTRAIT_EXPLORATION</SourceUnitTrait>
 		<iVisionExtra>2</iVisionExtra>
@@ -103,14 +196,14 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_HARVESTER</zType>
-		<Name>TEXT_UNITTRAIT_HARVESTER</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_HARVESTER</GenderedName>
 		<zIconName>UNITTRAIT_HARVESTER</zIconName>
 		<SourceUnitTrait>UNITTRAIT_HARVESTER</SourceUnitTrait>
 		<iHealAlways>-1</iHealAlways>
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_IRREGULAR</zType>
-		<Name>TEXT_UNITTRAIT_IRREGULAR</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_IRREGULAR</GenderedName>
 		<zIconName>UNITTRAIT_IRREGULAR</zIconName>
 		<SourceUnitTrait>UNITTRAIT_IRREGULAR</SourceUnitTrait>
 		<iStrengthModifier>-10</iStrengthModifier>
@@ -118,7 +211,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_MERCENARY</zType>
-		<Name>TEXT_UNITTRAIT_MERCENARY</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_MERCENARY</GenderedName>
 		<zIconName>EFFECTUNIT_MERCENARY</zIconName>
 		<SourceUnitTrait>UNITTRAIT_MERCENARY</SourceUnitTrait>
 		<iStrengthModifier>20</iStrengthModifier>
@@ -131,7 +224,7 @@
 	</Entry>
 	<Entry>
 		<zType>EFFECTUNIT_UNUSED</zType>
-		<Name>TEXT_UNITTRAIT_UNUSED</Name>
+		<GenderedName>GENDERED_TEXT_EFFECTUNIT_UNUSED</GenderedName>
 		<zIconName>UNITTRAIT_UNUSED</zIconName>
 		<SourceUnitTrait>UNITTRAIT_UNUSED</SourceUnitTrait>
 	</Entry>

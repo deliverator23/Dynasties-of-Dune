@@ -8,6 +8,14 @@
 		<en-US>Desert Survival I</en-US>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTUNIT_DESERT_AMBUSH</zType>
+		<en-US>Desert Ambush</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FEDAYKIN</zType>
+		<en-US>Fedaykin</en-US>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTUNIT_HOMELAND_GUARDIAN1</zType>
 		<en-US>Homeland Guardian I</en-US>
 	</Entry>
@@ -18,6 +26,50 @@
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_EXPLORATION1</zType>
 		<en-US>Exploration I</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GUNNER</zType>
+		<en-US>Gunner</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HEAVY_WEAPON</zType>
+		<en-US>Heavy Weapon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HOUSE_GUARD</zType>
+		<en-US>House Guard</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_WARDEN</zType>
+		<en-US>Warden</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FLAMETHROWER</zType>
+		<en-US>Flamethrower</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RITUAL</zType>
+		<en-US>Ritual</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_IMPROVED_ARMOR</zType>
+		<en-US>Improved Armor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SUPERIOR_ARMOR</zType>
+		<en-US>Superior Armor</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SUPERIOR_WEAPON</zType>
+		<en-US>Superior Weapon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ZEAL</zType>
+		<en-US>Zeal</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_JIHAD</zType>
+		<en-US>Jihad</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTUNIT_RITUAL_SACRIFICE</zType>

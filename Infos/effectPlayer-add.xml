@@ -356,4 +356,17 @@
 		<Name>TEXT_EFFECTPLAYER_TECH_LOCAL_HUBS</Name>
 		<SourceTech>TECH_LOCAL_HUBS</SourceTech>
 	</Entry>
+	<!-- Projects --> 
+	<Entry>
+		<zType>EFFECTPLAYER_PROJECT_IMPERIAL_FORTRESS</zType>
+		<Name>TEXT_PROJECT_IMPERIAL_FORTRESS</Name>
+		<zIconName>GOAL_STARTED</zIconName>
+		<iVP>2</iVP>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_PROJECT_SPICE_MONOPOLY</zType>
+		<Name>TEXT_PROJECT_SPICE_MONOPOLY</Name>
+		<zIconName>GOAL_STARTED</zIconName>
+		<iVP>5</iVP>
+	</Entry>
 </Root>

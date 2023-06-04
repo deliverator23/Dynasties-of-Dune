@@ -1693,7 +1693,7 @@
 		<aeFamilyClass>
 			<zValue>FAMILYCLASS_SCIENTIST</zValue>
 		</aeFamilyClass>
-	</Entry>
+	</Entry> <!--
 	<Entry>
 		<zType>GOAL_THREE_SPECIALISTS</zType>
 		<Name>TEXT_GOAL_THREE_SPECIALISTS</Name>
@@ -1706,7 +1706,7 @@
 			<zValue>FAMILYCLASS_RAIDER</zValue>
 			<zValue>FAMILYCLASS_MAGNATE</zValue>
 		</aeFamilyClass>
-	</Entry>
+	</Entry> --> 
 	<Entry>
 		<zType>GOAL_10_SPECIALISTS</zType>
 		<Name>TEXT_GOAL_10_SPECIALISTS</Name>
@@ -2189,7 +2189,7 @@
 		</aeFamilyClass>
 		<aeTechsAcquired>
 			<zValue>TECH_SURVIVAL_TRAINING</zValue>
-			<zValue>TECH_ANIMAL_DEN</zValue>
+			<zValue>TECH_SPICE_TRADE</zValue>
 		</aeTechsAcquired>
 	</Entry>
 	<Entry>

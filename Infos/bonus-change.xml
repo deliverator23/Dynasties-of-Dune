@@ -278,4 +278,46 @@
 		<zType>BONUS_TECH_SPOKED_WHEEL_BONUS_CHARIOT</zType>
 		<aiUnits></aiUnits>
 	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_MILITARY_PRESTIGE</zType>
+		<Name>TEXT_BONUS_TECH_MILITARY_PRESTIGE</Name>
+		<zIcon>COURTIER_SOLDIER</zIcon>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_MANPOWER</zIndex>
+				<iValue>400</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_FUEL</zIndex>
+				<iValue>400</iValue>
+			</Pair>
+		</aiGlobalYields>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_SOLDIER</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
+	<Entry>
+		<zType>BONUS_TECH_INDUSTRIAL_PROGRESS</zType>
+		<Name>TEXT_BONUS_TECH_INDUSTRIAL_PROGRESS</Name>
+		<zIcon>COURTIER_MINISTER</zIcon>
+		<aiGlobalYields>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>400</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_LOCAL_MATERIAL</zIndex>
+				<iValue>400</iValue>
+			</Pair>
+		</aiGlobalYields>
+		<AddCourtierOther>
+			<Pair>
+				<zIndex>COURTIER_MINISTER</zIndex>
+				<zValue/>
+			</Pair>
+		</AddCourtierOther>
+	</Entry>
 </Root>

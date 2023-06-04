@@ -73,37 +73,37 @@
 	<!-- Council --> 
 	<Entry>
 		<zType>SUBJECT_AGENT_DD</zType>
-		<Name>TEXT_SUBJECT_AGENT_DD</Name>
+		<GenderedName>GENDERED_TEXT_SUBJECT_AGENT_DD</GenderedName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<CouncilPrereq>COUNCIL_AGENT</CouncilPrereq>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_COURT_CHAPLAIN</zType>
-		<Name>TEXT_SUBJECT_COURT_CHAPLAIN</Name>
+		<GenderedName>GENDERED_TEXT_SUBJECT_COURT_CHAPLAIN</GenderedName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<CouncilPrereq>COUNCIL_COURT_CHAPLAIN</CouncilPrereq>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_ENVOY</zType>
-		<Name>TEXT_SUBJECT_ENVOY</Name>
+		<GenderedName>GENDERED_TEXT_SUBJECT_ENVOY</GenderedName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<CouncilPrereq>COUNCIL_ENVOY</CouncilPrereq>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_MARSHAL</zType>
-		<Name>TEXT_SUBJECT_MARSHAL</Name>
+		<GenderedName>GENDERED_TEXT_SUBJECT_MARSHAL</GenderedName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<CouncilPrereq>COUNCIL_MARSHAL</CouncilPrereq>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_PRIEST</zType>
-		<Name>TEXT_SUBJECT_PRIEST</Name>
+		<GenderedName>GENDERED_TEXT_SUBJECT_PRIEST</GenderedName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<CouncilPrereq>COUNCIL_PRIEST</CouncilPrereq>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_STEWARD</zType>
-		<Name>TEXT_SUBJECT_STEWARD</Name>
+		<GenderedName>GENDERED_TEXT_SUBJECT_STEWARD</GenderedName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<CouncilPrereq>COUNCIL_STEWARD</CouncilPrereq>
 	</Entry>

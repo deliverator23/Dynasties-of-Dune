@@ -493,12 +493,12 @@
 		<en-US>This tech unlocks projects that provide more link(YIELD_GROWTH) to a City.</en-US>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TECH_ANIMAL_DEN</zType>
-		<en-US>Animal Den</en-US>
+		<zType>TEXT_TECH_SPICE_TRADE</zType>
+		<en-US>Spice Trade</en-US>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GUIDE_TECH_ANIMAL_DEN</zType>
-		<en-US>This tech unlocks projects that provide more link(YIELD_GROWTH) to a City.</en-US>
+		<zType>TEXT_GUIDE_TECH_SPICE_TRADE</zType>
+		<en-US>This tech unlocks project that provide Victory Points by selling Spice.</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TECH_BASIC_SCHOOLS</zType>
@@ -555,6 +555,134 @@
 	<Entry>
 		<zType>TEXT_GUIDE_TECH_PIOUS_SOLDIERS</zType>
 		<en-US>This tech unlocks projects that provide promotions for devoted units.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LABOR_FORCE_II</zType>
+		<en-US>Labor Force II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_LABOR_FORCE_II</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_LOCAL_MATERIAL) and link(YIELD_FUEL).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BRUTALITY_II</zType>
+		<en-US>Brutality II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BRUTALITY_II</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_LOCAL_MATERIAL) and link(YIELD_FUEL).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BRUTALITY_III</zType>
+		<en-US>Brutality III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BRUTALITY_III</zType>
+		<en-US>This tech unlocks the Gunner.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BRUTALITY_IV</zType>
+		<en-US>Brutality IV</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BRUTALITY_IV</zType>
+		<en-US>This tech unlocks the House Guard.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_HEAVY_WEAPON</zType>
+		<en-US>Heavy Weapon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_HEAVY_WEAPON</zType>
+		<en-US>This tech unlocks the Heavy Weapon Squad.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LIGHT_MANUFACTURING_II</zType>
+		<en-US>Light Manufacturing II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING_II</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_CIVICS).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_LIGHT_MANUFACTURING_III</zType>
+		<en-US>Light Manufacturing III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_LIGHT_MANUFACTURING_III</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_CIVICS).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_COMPOSITE_MATERIALS_II</zType>
+		<en-US>Composite Materials II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_COMPOSITE_MATERIALS_II</zType>
+		<en-US>This tech unlocks the Warden.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_DEVELOPMENT_II</zType>
+		<en-US>Development II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_DEVELOPMENT_II</zType>
+		<en-US>This tech unlocks projects that improve Sietch.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_FLAME_WEAPON</zType>
+		<en-US>Flame Weapon</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_FLAME_WEAPON</zType>
+		<en-US>This tech unlocks the Incinerator.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_IMPROVED_TAXATION</zType>
+		<en-US>Improved Taxation</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_IMPROVED_TAXATION</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_MONEY).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_IMPERIAL_COMMAND</zType>
+		<en-US>Imperial Command</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_IMPERIAL_COMMAND</zType>
+		<en-US>This tech unlocks the Sardaukar.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SUPERSTITIOUS_II</zType>
+		<en-US>Superstitious II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SUPERSTITIOUS_II</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_DEVOTION).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_SUPERSTITIOUS_III</zType>
+		<en-US>Superstitious III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_SUPERSTITIOUS_III</zType>
+		<en-US>This tech unlocks projects that provide more link(YIELD_DEVOTION).</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BLADE_MAKING_II</zType>
+		<en-US>Blade Making II</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BLADE_MAKING_II</zType>
+		<en-US>This tech unlocks the Warrior.</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TECH_BLADE_MAKING_III</zType>
+		<en-US>Blade Making III</en-US>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GUIDE_TECH_BLADE_MAKING_III</zType>
+		<en-US>This tech unlocks the Fedaykin.</en-US>
 	</Entry>
 	<!-- Theologies --> 
 	<Entry>
